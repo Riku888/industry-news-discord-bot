@@ -1,0 +1,190 @@
+# industry: "サイバーセキュリティ"
+
+# # AI要約を使うか（true/false）
+# use_ai_summary: true
+
+# # Discord投稿の上限件数
+# top_n: 5
+
+# # キーワード分類（AIなしでも動く）
+# keywords:
+#   セキュリティ: ["ransomware", "breach", "vulnerability", "cve", "phishing", "malware"]
+#   クラウド: ["aws", "azure", "gcp", "cloud", "kubernetes"]
+#   ビジネス: ["earnings", "revenue", "acquisition", "ipo", "regulation"]
+
+# # 情報源（無料のRSSのみ）
+# # 大手メディアは「Google News RSS + site:」で拾う（無料で強い）
+# sources:
+#   - name: "Reuters"
+#     rss: "https://news.google.com/rss/search?q=cybersecurity+site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+#   - name: "AP News"
+#     rss: "https://news.google.com/rss/search?q=cybersecurity+site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+#   - name: "The Hacker News"
+#     rss: "https://feeds.feedburner.com/TheHackersNews"
+#   - name: "Microsoft Security Blog"
+#     rss: "https://www.microsoft.com/en-us/security/blog/feed/"
+
+industry: "サイバーセキュリティ"
+
+# AI要約を使うか（true/false）
+use_ai_summary: false
+
+# Discord投稿の上限件数
+top_n: 5
+
+# =========================
+# キーワード分類（Security ONLY）
+# =========================
+keywords:
+
+  # 1. Ransomware / Extortion
+  ランサムウェア:
+    [
+      "ransomware","double extortion","triple extortion","ransom note","leak site",
+      "data extortion","crypto ransom","bitcoin ransom","ransom payment",
+      "lockbit","alphv","blackcat","cl0p","conti","royal","akira",
+      "play ransomware","8base","darkside","revil","maze",
+      "ransom gang","affiliate model","initial access broker",
+      "data leak","exfiltration","ransom demand","decryptor"
+    ]
+
+  # 2. Vulnerability / CVE / Exploitation
+  脆弱性・CVE:
+    [
+      "vulnerability","cve","zero-day","0day","n-day","patch","unpatched",
+      "security flaw","critical flaw","exploit","proof of concept","poc",
+      "remote code execution","rce","privilege escalation","lpe",
+      "buffer overflow","use-after-free","heap overflow",
+      "memory corruption","deserialization","command injection",
+      "sql injection","xss","ssrf","directory traversal","path traversal",
+      "out-of-bounds","integer overflow","sandbox escape"
+    ]
+
+  # 3. Malware / Backdoor / Botnet
+  マルウェア:
+    [
+      "malware","trojan","backdoor","spyware","keylogger","dropper",
+      "loader","payload","botnet","command and control","c2",
+      "beaconing","persistence","lateral movement","credential harvesting",
+      "infostealer","stealer","banking trojan","rootkit",
+      "remote access trojan","rat","dll sideloading","process injection",
+      "living off the land","lolbins","fileless malware","obfuscation",
+      "packer","malicious code"
+    ]
+
+  # 4. Phishing / Social Engineering
+  フィッシング:
+    [
+      "phishing","spear phishing","whaling","business email compromise","bec",
+      "email fraud","spoofing","impersonation","social engineering",
+      "credential phishing","password harvesting","fake login",
+      "malicious attachment","malicious link","qr phishing","smishing",
+      "vishing","typosquatting","homoglyph","lookalike domain",
+      "brand impersonation","oauth abuse","consent phishing",
+      "invoice fraud","payment fraud","scam campaign","fraud scheme"
+    ]
+
+  # 5. Identity / IAM / Authentication
+  ID・認証:
+    [
+      "identity","iam","identity access management","authentication",
+      "authorization","single sign-on","sso","multi-factor authentication","mfa",
+      "passwordless","credentials","credential theft","account takeover",
+      "oauth","openid","saml","token","access token","refresh token",
+      "session hijacking","cookie theft","pass-the-hash","pass-the-ticket",
+      "kerberos","active directory","azure ad","entra id",
+      "identity compromise","directory services"
+    ]
+
+  # 6. Cloud / SaaS / Supply Chain
+  クラウド・サプライチェーン:
+    [
+      "cloud security","aws security","azure security","gcp security",
+      "kubernetes","k8s","container security","docker","helm",
+      "supply chain attack","software supply chain","dependency confusion",
+      "typosquatting package","malicious package","npm","pypi","pip",
+      "ci/cd","github actions","gitlab","devops security","iac",
+      "terraform","cloud misconfiguration","public bucket","exposed bucket",
+      "secrets exposure","api key leak","third-party breach"
+    ]
+
+  # 7. Nation-State / APT / Cyber Espionage
+  APT・国家系:
+    [
+      "apt","advanced persistent threat","nation-state","state-sponsored",
+      "cyber espionage","espionage campaign","intelligence service",
+      "apt28","apt29","apt41","lazarus","sandworm","cozy bear","fancy bear",
+      "chinese hackers","north korean hackers","iranian hackers","russian hackers",
+      "espionage malware","strategic targeting","government-backed",
+      "cyber warfare","information warfare","influence operation",
+      "critical infrastructure attack","infrastructure targeting"
+    ]
+
+  # 8. Defense / Detection / Response
+  防御・検知・対応:
+    [
+      "incident response","ir","forensics","digital forensics",
+      "threat detection","threat hunting","soc","security operations center",
+      "siem","soar","edr","xdr","ndr","ids","ips",
+      "behavioral detection","anomaly detection","telemetry",
+      "log analysis","alert fatigue","incident containment",
+      "remediation","eradication","post-incident review","blue team",
+      "purple team","defensive security","security monitoring"
+    ]
+
+  # 9. Regulation / Policy / Compliance (Security-focused)
+  規制・ガバナンス:
+    [
+      "cyber regulation","security regulation","compliance","gdpr",
+      "nist","nist framework","iso 27001","iso 27002",
+      "cisa","nsa","fbi warning","government advisory",
+      "security mandate","executive order","data protection law",
+      "privacy regulation","incident disclosure","breach notification",
+      "security audit","risk management","cyber risk",
+      "governance","security policy","compliance failure",
+      "regulatory fine","enforcement action"
+    ]
+
+# =========================
+# 情報源（RSS）
+# =========================
+sources:
+  - name: "Reuters"
+    rss: "https://news.google.com/rss/search?q=cybersecurity+site:reuters.com&hl=en-US&gl=US&ceid=US:en"
+
+  - name: "AP News"
+    rss: "https://news.google.com/rss/search?q=cybersecurity+site:apnews.com&hl=en-US&gl=US&ceid=US:en"
+
+  - name: "The Hacker News"
+    rss: "https://feeds.feedburner.com/TheHackersNews"
+
+  - name: "BleepingComputer"
+    rss: "https://www.bleepingcomputer.com/feed/"
+
+  - name: "SecurityWeek"
+    rss: "https://www.securityweek.com/feed/"
+
+  - name: "Dark Reading"
+    rss: "https://www.darkreading.com/rss.xml"
+
+  - name: "The Record"
+    rss: "https://therecord.media/feed/"
+
+  - name: "Microsoft Security Blog"
+    rss: "https://www.microsoft.com/en-us/security/blog/feed/"
+
+  - name: "Google Security Blog"
+    rss: "https://security.googleblog.com/feeds/posts/default"
+
+  - name: "Cisco Talos"
+    rss: "https://blog.talosintelligence.com/feeds/posts/default"
+
+  - name: "Palo Alto Unit 42"
+    rss: "https://unit42.paloaltonetworks.com/feed/"
+
+  - name: "CrowdStrike"
+    rss: "https://www.crowdstrike.com/blog/feed/"
+
+  - name: "CISA"
+    rss: "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+
