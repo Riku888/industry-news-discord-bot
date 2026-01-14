@@ -3,6 +3,7 @@ import re
 import hashlib
 from datetime import datetime, timezone
 from typing import Dict, List, Any
+from src.export_excel import export_excel
 
 import feedparser
 import requests
@@ -328,6 +329,9 @@ def main():
     # 7) post to Discord
     post_to_discord_safe(webhook_url, message)
     print("Posted to Discord successfully.")
+
+    # 8) Export Excel
+    export_excel()
 
 
 if __name__ == "__main__":
