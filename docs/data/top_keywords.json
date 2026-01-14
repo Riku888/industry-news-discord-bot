@@ -1,40 +1,20 @@
 {
-  "date": "2026-01-12",
+  "date": "2026-01-14",
   "top_today": [
     [
       "reuters",
-      12
-    ],
-    [
-      "says",
-      6
+      7
     ],
     [
       "trump",
       3
     ],
     [
-      "attacks",
-      3
-    ],
-    [
-      "police",
+      "says",
       2
     ],
     [
-      "apple",
-      2
-    ],
-    [
-      "korea",
-      2
-    ],
-    [
-      "probe",
-      2
-    ],
-    [
-      "north",
+      "china",
       2
     ],
     [
@@ -42,96 +22,116 @@
       2
     ],
     [
-      "group",
+      "trade",
       2
     ],
     [
-      "iran",
+      "gold",
       2
+    ],
+    [
+      "thinks",
+      1
+    ],
+    [
+      "can",
+      1
     ],
     [
       "open",
-      2
+      1
     ],
     [
-      "into",
-      2
+      "markets",
+      1
     ],
     [
-      "credit",
-      2
+      "goods",
+      1
     ],
     [
-      "card",
-      2
+      "ends",
+      1
     ],
     [
-      "rate",
-      2
+      "2025",
+      1
     ],
     [
-      "cap",
-      2
+      "record",
+      1
     ],
     [
-      "will",
-      2
+      "trillion",
+      1
     ],
     [
-      "more",
-      2
+      "surplus",
+      1
+    ],
+    [
+      "despite",
+      1
+    ],
+    [
+      "tariff",
+      1
+    ],
+    [
+      "jolt",
+      1
     ]
   ],
   "rising": [
     [
       "reuters",
-      12,
-      17.14
-    ],
-    [
-      "says",
-      6,
-      10.59
+      7,
+      4.47
     ],
     [
       "trump",
       3,
-      5.62
+      4.09
     ],
     [
-      "attacks",
-      3,
-      4.5
-    ],
-    [
-      "police",
+      "trade",
       2,
       4.0
     ],
     [
-      "apple",
+      "gold",
       2,
-      4.0
+      3.75
     ],
     [
-      "korea",
+      "china",
       2,
-      4.0
-    ],
-    [
-      "probe",
-      2,
-      4.0
+      3.53
     ],
     [
       "its",
       2,
-      4.0
+      3.53
     ],
     [
-      "group",
+      "says",
       2,
-      4.0
+      2.14
+    ],
+    [
+      "thinks",
+      1,
+      2.0
+    ],
+    [
+      "markets",
+      1,
+      2.0
+    ],
+    [
+      "goods",
+      1,
+      2.0
     ]
   ]
 }

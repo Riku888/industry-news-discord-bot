@@ -145,7 +145,7 @@ function buildDatasets(dates, byKeyMap, topK = 6) {
     .slice(0, topK)
     .map(x => x[0]);
 
-  return keys.map((k) => ({
+  return keys.map((k, i) => ({
     label: k,
     data: dates.map(d => (byKeyMap[d] && byKeyMap[d][k]) ? byKeyMap[d][k] : 0),
     borderWidth: 2,
