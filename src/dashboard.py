@@ -1,3 +1,229 @@
+# from pathlib import Path
+
+# DASHBOARD_HTML = Path("docs/index.html")
+
+# HTML_TEMPLATE = """<!doctype html>
+# <html lang="ja">
+# <head>
+#   <meta charset="utf-8" />
+#   <meta name="viewport" content="width=device-width, initial-scale=1" />
+#   <title>Industry News Dashboard</title>
+#   <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1"></script>
+
+#   <style>
+#     body {
+#       font-family: system-ui, -apple-system, "Segoe UI", Arial, sans-serif;
+#       margin: 24px;
+#       background: #fafafa;
+#       color: #222;
+#     }
+#     h1 {
+#       font-size: 22px;
+#       margin-bottom: 16px;
+#     }
+#     .grid {
+#       display: grid;
+#       gap: 20px;
+#       max-width: 1200px;
+#     }
+#     .card {
+#       background: #fff;
+#       border-radius: 14px;
+#       padding: 18px 20px 16px;
+#       box-shadow: 0 4px 14px rgba(0,0,0,0.06);
+#     }
+#     h2 {
+#       margin: 0 0 10px;
+#       font-size: 16px;
+#     }
+#     canvas {
+#       display: block;
+#       width: 100%;
+#     }
+#     .note {
+#       color: #666;
+#       font-size: 12px;
+#       margin-top: 6px;
+#     }
+#   </style>
+# </head>
+
+# <body>
+#   <h1>📈 Industry News Dashboard（直近30日）</h1>
+
+#   <div class="grid">
+#     <div class="card">
+#       <h2>日別記事数（Total）</h2>
+#       <canvas id="chartTotal"></canvas>
+#       <div class="note">データ: docs/data/daily_counts.json</div>
+#     </div>
+
+#     <div class="card">
+#       <h2>カテゴリー別（日別）</h2>
+#       <canvas id="chartCategory"></canvas>
+#       <div class="note">上位カテゴリのみ表示（最大6）</div>
+#     </div>
+
+#     <div class="card">
+#       <h2>ソース別（日別）</h2>
+#       <canvas id="chartSource"></canvas>
+#       <div class="note">上位ソースのみ表示（最大6）</div>
+#     </div>
+#   </div>
+
+# <script>
+# /* -----------------------------
+#    Hi-DPI Canvas Setup
+# ----------------------------- */
+# function setupHiDPICanvas(canvas, height = 360) {
+#   const dpr = window.devicePixelRatio || 1;
+#   const rect = canvas.getBoundingClientRect();
+
+#   canvas.width = rect.width * dpr;
+#   canvas.height = height * dpr;
+#   canvas.style.width = rect.width + "px";
+#   canvas.style.height = height + "px";
+
+#   const ctx = canvas.getContext("2d");
+#   ctx.scale(dpr, dpr);
+#   return ctx;
+# }
+
+# /* -----------------------------
+#    Common Chart Options
+# ----------------------------- */
+# const commonOptions = {
+#   responsive: false,
+#   animation: false,
+#   interaction: {
+#     mode: "index",
+#     intersect: false
+#   },
+#   plugins: {
+#     legend: {
+#       position: "bottom",
+#       labels: {
+#         boxWidth: 12,
+#         padding: 14,
+#         font: { size: 12 }
+#       }
+#     },
+#     tooltip: {
+#       backgroundColor: "rgba(0,0,0,0.8)",
+#       padding: 10,
+#       bodyFont: { size: 12 }
+#     }
+#   },
+#   scales: {
+#     x: {
+#       grid: { color: "rgba(0,0,0,0.05)" },
+#       ticks: { font: { size: 11 } }
+#     },
+#     y: {
+#       beginAtZero: true,
+#       grid: { color: "rgba(0,0,0,0.05)" },
+#       ticks: { font: { size: 11 } }
+#     }
+#   }
+# };
+
+# /* -----------------------------
+#    Utilities
+# ----------------------------- */
+# async function loadJSON(path) {
+#   const res = await fetch(path);
+#   return await res.json();
+# }
+
+# function buildDatasets(dates, byKeyMap, topK = 6) {
+#   const totals = {};
+#   for (const d of dates) {
+#     const obj = byKeyMap[d] || {};
+#     for (const [k, v] of Object.entries(obj)) {
+#       totals[k] = (totals[k] || 0) + v;
+#     }
+#   }
+
+#   const keys = Object.entries(totals)
+#     .sort((a,b) => b[1] - a[1])
+#     .slice(0, topK)
+#     .map(x => x[0]);
+
+#   return keys.map((k, i) => ({
+#     label: k,
+#     data: dates.map(d => (byKeyMap[d] && byKeyMap[d][k]) ? byKeyMap[d][k] : 0),
+#     borderWidth: 2,
+#     tension: 0.35,              // ★ 曲線
+#     pointRadius: 3,
+#     pointHoverRadius: 6,
+#     fill: false
+#   }));
+# }
+
+# /* -----------------------------
+#    Main
+# ----------------------------- */
+# (async () => {
+#   const data = await loadJSON("./data/daily_counts.json");
+#   const dates = data.dates;
+
+#   // ---- Total ----
+#   const ctxTotal = setupHiDPICanvas(
+#     document.getElementById("chartTotal")
+#   );
+#   new Chart(ctxTotal, {
+#     type: "line",
+#     data: {
+#       labels: dates,
+#       datasets: [{
+#         label: "Total",
+#         data: data.total,
+#         borderWidth: 2.5,
+#         tension: 0.35,
+#         pointRadius: 3,
+#         pointHoverRadius: 6
+#       }]
+#     },
+#     options: commonOptions
+#   });
+
+#   // ---- Category ----
+#   const ctxCat = setupHiDPICanvas(
+#     document.getElementById("chartCategory")
+#   );
+#   new Chart(ctxCat, {
+#     type: "line",
+#     data: {
+#       labels: dates,
+#       datasets: buildDatasets(dates, data.by_category, 6)
+#     },
+#     options: commonOptions
+#   });
+
+#   // ---- Source ----
+#   const ctxSrc = setupHiDPICanvas(
+#     document.getElementById("chartSource")
+#   );
+#   new Chart(ctxSrc, {
+#     type: "line",
+#     data: {
+#       labels: dates,
+#       datasets: buildDatasets(dates, data.by_source, 6)
+#     },
+#     options: commonOptions
+#   });
+# })();
+# </script>
+
+# </body>
+# </html>
+# """
+
+# def write_dashboard_html() -> None:
+#     DASHBOARD_HTML.parent.mkdir(parents=True, exist_ok=True)
+#     DASHBOARD_HTML.write_text(HTML_TEMPLATE, encoding="utf-8")
+
+
 from pathlib import Path
 
 DASHBOARD_HTML = Path("docs/index.html")
@@ -19,7 +245,16 @@ HTML_TEMPLATE = """<!doctype html>
     }
     h1 {
       font-size: 22px;
-      margin-bottom: 16px;
+      margin-bottom: 10px;
+    }
+    .toolbar {
+      margin-bottom: 18px;
+    }
+    select {
+      padding: 6px 10px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      font-size: 13px;
     }
     .grid {
       display: grid;
@@ -49,13 +284,23 @@ HTML_TEMPLATE = """<!doctype html>
 </head>
 
 <body>
-  <h1>📈 Industry News Dashboard（直近30日）</h1>
+  <h1>📈 Industry News Dashboard</h1>
+
+  <div class="toolbar">
+    表示期間：
+    <select id="rangeSelect">
+      <option value="30">直近30日</option>
+      <option value="90">直近90日</option>
+      <option value="365">直近1年</option>
+      <option value="1095">直近3年</option>
+    </select>
+  </div>
 
   <div class="grid">
     <div class="card">
       <h2>日別記事数（Total）</h2>
       <canvas id="chartTotal"></canvas>
-      <div class="note">データ: docs/data/daily_counts.json</div>
+      <div class="note" id="noteTotal"></div>
     </div>
 
     <div class="card">
@@ -95,35 +340,12 @@ function setupHiDPICanvas(canvas, height = 360) {
 const commonOptions = {
   responsive: false,
   animation: false,
-  interaction: {
-    mode: "index",
-    intersect: false
-  },
+  interaction: { mode: "index", intersect: false },
   plugins: {
-    legend: {
-      position: "bottom",
-      labels: {
-        boxWidth: 12,
-        padding: 14,
-        font: { size: 12 }
-      }
-    },
-    tooltip: {
-      backgroundColor: "rgba(0,0,0,0.8)",
-      padding: 10,
-      bodyFont: { size: 12 }
-    }
+    legend: { position: "bottom" }
   },
   scales: {
-    x: {
-      grid: { color: "rgba(0,0,0,0.05)" },
-      ticks: { font: { size: 11 } }
-    },
-    y: {
-      beginAtZero: true,
-      grid: { color: "rgba(0,0,0,0.05)" },
-      ticks: { font: { size: 11 } }
-    }
+    y: { beginAtZero: true }
   }
 };
 
@@ -131,7 +353,7 @@ const commonOptions = {
    Utilities
 ----------------------------- */
 async function loadJSON(path) {
-  const res = await fetch(path);
+  const res = await fetch(path + "?v=" + Date.now());
   return await res.json();
 }
 
@@ -149,70 +371,90 @@ function buildDatasets(dates, byKeyMap, topK = 6) {
     .slice(0, topK)
     .map(x => x[0]);
 
-  return keys.map((k, i) => ({
+  return keys.map(k => ({
     label: k,
     data: dates.map(d => (byKeyMap[d] && byKeyMap[d][k]) ? byKeyMap[d][k] : 0),
     borderWidth: 2,
-    tension: 0.35,              // ★ 曲線
-    pointRadius: 3,
-    pointHoverRadius: 6,
+    tension: 0.35,
+    pointRadius: 2,
     fill: false
   }));
 }
 
 /* -----------------------------
-   Main
+   Charts
 ----------------------------- */
-(async () => {
-  const data = await loadJSON("./data/daily_counts.json");
+let chartTotal, chartCategory, chartSource;
+
+async function render(days) {
+  const data = await loadJSON(`./data/daily_${days}.json`);
   const dates = data.dates;
 
-  // ---- Total ----
-  const ctxTotal = setupHiDPICanvas(
-    document.getElementById("chartTotal")
-  );
-  new Chart(ctxTotal, {
-    type: "line",
-    data: {
-      labels: dates,
-      datasets: [{
-        label: "Total",
-        data: data.total,
-        borderWidth: 2.5,
-        tension: 0.35,
-        pointRadius: 3,
-        pointHoverRadius: 6
-      }]
-    },
-    options: commonOptions
-  });
+  document.getElementById("noteTotal").textContent =
+    `データ: docs/data/daily_${days}.json`;
 
-  // ---- Category ----
-  const ctxCat = setupHiDPICanvas(
-    document.getElementById("chartCategory")
-  );
-  new Chart(ctxCat, {
-    type: "line",
-    data: {
-      labels: dates,
-      datasets: buildDatasets(dates, data.by_category, 6)
-    },
-    options: commonOptions
-  });
+  if (!chartTotal) {
+    chartTotal = new Chart(
+      setupHiDPICanvas(document.getElementById("chartTotal")),
+      {
+        type: "line",
+        data: {
+          labels: dates,
+          datasets: [{
+            label: "Total",
+            data: data.total,
+            borderWidth: 2.5,
+            tension: 0.35,
+            pointRadius: 2
+          }]
+        },
+        options: commonOptions
+      }
+    );
 
-  // ---- Source ----
-  const ctxSrc = setupHiDPICanvas(
-    document.getElementById("chartSource")
-  );
-  new Chart(ctxSrc, {
-    type: "line",
-    data: {
-      labels: dates,
-      datasets: buildDatasets(dates, data.by_source, 6)
-    },
-    options: commonOptions
-  });
-})();
+    chartCategory = new Chart(
+      setupHiDPICanvas(document.getElementById("chartCategory")),
+      {
+        type: "line",
+        data: {
+          labels: dates,
+          datasets: buildDatasets(dates, data.by_category, 6)
+        },
+        options: commonOptions
+      }
+    );
+
+    chartSource = new Chart(
+      setupHiDPICanvas(document.getElementById("chartSource")),
+      {
+        type: "line",
+        data: {
+          labels: dates,
+          datasets: buildDatasets(dates, data.by_source, 6)
+        },
+        options: commonOptions
+      }
+    );
+  } else {
+    chartTotal.data.labels = dates;
+    chartTotal.data.datasets[0].data = data.total;
+    chartTotal.update();
+
+    chartCategory.data.labels = dates;
+    chartCategory.data.datasets = buildDatasets(dates, data.by_category, 6);
+    chartCategory.update();
+
+    chartSource.data.labels = dates;
+    chartSource.data.datasets = buildDatasets(dates, data.by_source, 6);
+    chartSource.update();
+  }
+}
+
+document.getElementById("rangeSelect").addEventListener("change", e => {
+  render(e.target.value);
+});
+
+render(30);
 </script>
 
 </body>

@@ -3,15 +3,11 @@
   "top_today": [
     [
       "reuters",
-      9
+      7
     ],
     [
       "trump",
       3
-    ],
-    [
-      "says",
-      2
     ],
     [
       "china",
@@ -22,7 +18,7 @@
       2
     ],
     [
-      "trade",
+      "record",
       2
     ],
     [
@@ -30,8 +26,12 @@
       2
     ],
     [
-      "rate",
+      "high",
       2
+    ],
+    [
+      "says",
+      1
     ],
     [
       "thinks",
@@ -54,74 +54,69 @@
       1
     ],
     [
-      "ends",
+      "chipmaker",
       1
     ],
     [
-      "2025",
+      "nexperia",
       1
     ],
     [
-      "record",
+      "chinese",
       1
     ],
     [
-      "trillion",
+      "owner",
       1
     ],
     [
-      "surplus",
+      "wingtech",
       1
     ],
     [
-      "despite",
+      "fight",
       1
     ],
     [
-      "tariff",
+      "control",
       1
     ]
   ],
   "rising": [
     [
       "reuters",
-      9,
-      5.62
+      7,
+      6.77
     ],
     [
       "trump",
       3,
-      4.09
+      5.0
     ],
     [
-      "trade",
+      "its",
       2,
       4.0
+    ],
+    [
+      "record",
+      2,
+      4.0
+    ],
+    [
+      "high",
+      2,
+      4.0
+    ],
+    [
+      "china",
+      2,
+      3.75
     ],
     [
       "gold",
       2,
       3.75
-    ],
-    [
-      "china",
-      2,
-      3.53
-    ],
-    [
-      "its",
-      2,
-      3.53
-    ],
-    [
-      "rate",
-      2,
-      3.33
-    ],
-    [
-      "says",
-      2,
-      2.14
     ],
     [
       "thinks",
@@ -130,6 +125,11 @@
     ],
     [
       "markets",
+      1,
+      2.0
+    ],
+    [
+      "goods",
       1,
       2.0
     ]
