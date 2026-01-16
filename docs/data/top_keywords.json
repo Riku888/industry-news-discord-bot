@@ -1,137 +1,137 @@
 {
-  "date": "2026-01-15",
+  "date": "2026-01-16",
   "top_today": [
     [
+      "gold",
+      1
+    ],
+    [
+      "slips",
+      1
+    ],
+    [
+      "upbeat",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "boosts",
+      1
+    ],
+    [
+      "dollar",
+      1
+    ],
+    [
+      "dims",
+      1
+    ],
+    [
+      "rate-cut",
+      1
+    ],
+    [
+      "bets",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "toyota",
       1
     ],
     [
-      "industries",
+      "cisco",
       1
     ],
     [
-      "shares",
+      "patches",
       1
     ],
     [
-      "hit",
+      "zero-day",
       1
     ],
     [
-      "record",
+      "rce",
       1
     ],
     [
-      "market",
+      "exploited",
       1
     ],
     [
-      "hopes",
+      "china-linked",
       1
     ],
     [
-      "higher",
+      "apt",
       1
     ],
     [
-      "buyout",
+      "secure",
       1
     ],
     [
-      "offer",
+      "email",
       1
     ],
     [
-      "dhs",
-      1
-    ],
-    [
-      "reports",
-      1
-    ],
-    [
-      "non-fatal",
-      1
-    ],
-    [
-      "shooting",
-      1
-    ],
-    [
-      "man",
-      1
-    ],
-    [
-      "sought",
-      1
-    ],
-    [
-      "immigration",
-      1
-    ],
-    [
-      "enforcement",
-      1
-    ],
-    [
-      "stop",
+      "gateways",
       1
     ]
   ],
   "rising": [
     [
-      "toyota",
+      "upbeat",
       1,
       2.0
     ],
     [
-      "shares",
+      "boosts",
       1,
       2.0
     ],
     [
-      "hit",
+      "dollar",
       1,
       2.0
     ],
     [
-      "market",
+      "dims",
       1,
       2.0
     ],
     [
-      "hopes",
+      "rate-cut",
       1,
       2.0
     ],
     [
-      "higher",
+      "email",
       1,
       2.0
     ],
     [
-      "buyout",
+      "gateways",
       1,
       2.0
     ],
     [
-      "offer",
+      "slips",
       1,
-      2.0
+      1.88
     ],
     [
-      "dhs",
+      "bets",
       1,
-      2.0
+      1.76
     ],
     [
-      "non-fatal",
+      "cisco",
       1,
-      2.0
+      1.76
     ]
   ]
 }
