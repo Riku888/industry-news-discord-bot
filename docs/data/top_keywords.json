@@ -1,137 +1,137 @@
 {
-  "date": "2026-01-16",
+  "date": "2026-01-17",
   "top_today": [
     [
-      "gold",
-      1
-    ],
-    [
-      "slips",
-      1
-    ],
-    [
-      "upbeat",
-      1
-    ],
-    [
-      "data",
-      1
-    ],
-    [
-      "boosts",
-      1
-    ],
-    [
-      "dollar",
-      1
-    ],
-    [
-      "dims",
-      1
-    ],
-    [
-      "rate-cut",
-      1
-    ],
-    [
-      "bets",
-      1
-    ],
-    [
       "reuters",
+      2
+    ],
+    [
+      "justice",
       1
     ],
     [
-      "cisco",
+      "department",
       1
     ],
     [
-      "patches",
+      "probing",
       1
     ],
     [
-      "zero-day",
+      "minnesota",
       1
     ],
     [
-      "rce",
+      "governor",
       1
     ],
     [
-      "exploited",
+      "walz",
       1
     ],
     [
-      "china-linked",
+      "other",
       1
     ],
     [
-      "apt",
+      "officials",
       1
     ],
     [
-      "secure",
+      "source",
       1
     ],
     [
-      "email",
+      "says",
       1
     ],
     [
-      "gateways",
+      "judge",
+      1
+    ],
+    [
+      "urges",
+      1
+    ],
+    [
+      "grant",
+      1
+    ],
+    [
+      "visa",
+      1
+    ],
+    [
+      "college",
+      1
+    ],
+    [
+      "student",
+      1
+    ],
+    [
+      "deported",
+      1
+    ],
+    [
+      "due",
+      1
+    ],
+    [
+      "mistake",
       1
     ]
   ],
   "rising": [
     [
-      "upbeat",
+      "justice",
       1,
       2.0
     ],
     [
-      "boosts",
+      "probing",
       1,
       2.0
     ],
     [
-      "dollar",
+      "minnesota",
       1,
       2.0
     ],
     [
-      "dims",
+      "governor",
       1,
       2.0
     ],
     [
-      "rate-cut",
+      "walz",
       1,
       2.0
     ],
     [
-      "email",
+      "officials",
       1,
       2.0
     ],
     [
-      "gateways",
+      "grant",
       1,
       2.0
     ],
     [
-      "slips",
+      "visa",
       1,
-      1.88
+      2.0
     ],
     [
-      "bets",
+      "college",
       1,
-      1.76
+      2.0
     ],
     [
-      "cisco",
+      "student",
       1,
-      1.76
+      2.0
     ]
   ]
 }
