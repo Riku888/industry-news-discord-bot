@@ -1,137 +1,97 @@
 {
-  "date": "2026-01-17",
+  "date": "2026-01-18",
   "top_today": [
     [
+      "anti-ice",
+      1
+    ],
+    [
+      "demonstrators",
+      1
+    ],
+    [
+      "chase",
+      1
+    ],
+    [
+      "off",
+      1
+    ],
+    [
+      "outnumbered",
+      1
+    ],
+    [
+      "far-right",
+      1
+    ],
+    [
+      "activists",
+      1
+    ],
+    [
+      "minneapolis",
+      1
+    ],
+    [
+      "rally",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "justice",
-      1
-    ],
-    [
-      "department",
-      1
-    ],
-    [
-      "probing",
-      1
-    ],
-    [
-      "minnesota",
-      1
-    ],
-    [
-      "governor",
-      1
-    ],
-    [
-      "walz",
-      1
-    ],
-    [
-      "other",
-      1
-    ],
-    [
-      "officials",
-      1
-    ],
-    [
-      "source",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "judge",
-      1
-    ],
-    [
-      "urges",
-      1
-    ],
-    [
-      "grant",
-      1
-    ],
-    [
-      "visa",
-      1
-    ],
-    [
-      "college",
-      1
-    ],
-    [
-      "student",
-      1
-    ],
-    [
-      "deported",
-      1
-    ],
-    [
-      "due",
-      1
-    ],
-    [
-      "mistake",
       1
     ]
   ],
   "rising": [
     [
-      "justice",
+      "anti-ice",
       1,
       2.0
     ],
     [
-      "probing",
+      "demonstrators",
       1,
       2.0
     ],
     [
-      "minnesota",
+      "chase",
       1,
       2.0
     ],
     [
-      "governor",
+      "off",
       1,
       2.0
     ],
     [
-      "walz",
+      "outnumbered",
       1,
       2.0
     ],
     [
-      "officials",
+      "far-right",
       1,
       2.0
     ],
     [
-      "grant",
+      "activists",
       1,
       2.0
     ],
     [
-      "visa",
+      "rally",
       1,
       2.0
     ],
     [
-      "college",
+      "minneapolis",
       1,
-      2.0
+      1.88
     ],
     [
-      "student",
+      "reuters",
       1,
-      2.0
+      0.37
     ]
   ]
 }
