@@ -1,97 +1,125 @@
 {
-  "date": "2026-01-18",
+  "date": "2026-01-19",
   "top_today": [
     [
-      "anti-ice",
-      1
-    ],
-    [
-      "demonstrators",
-      1
-    ],
-    [
-      "chase",
-      1
-    ],
-    [
-      "off",
-      1
-    ],
-    [
-      "outnumbered",
-      1
-    ],
-    [
-      "far-right",
-      1
-    ],
-    [
-      "activists",
-      1
-    ],
-    [
-      "minneapolis",
-      1
-    ],
-    [
-      "rally",
-      1
-    ],
-    [
       "reuters",
+      2
+    ],
+    [
+      "clashes",
+      1
+    ],
+    [
+      "colombia",
+      1
+    ],
+    [
+      "between",
+      1
+    ],
+    [
+      "guerrilla",
+      1
+    ],
+    [
+      "groups",
+      1
+    ],
+    [
+      "leave",
+      1
+    ],
+    [
+      "dead",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "top",
+      1
+    ],
+    [
+      "ukrainian",
+      1
+    ],
+    [
+      "negotiator",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "talks",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "davos",
       1
     ]
   ],
   "rising": [
     [
-      "anti-ice",
+      "colombia",
       1,
       2.0
     ],
     [
-      "demonstrators",
+      "guerrilla",
       1,
       2.0
     ],
     [
-      "chase",
+      "groups",
       1,
       2.0
     ],
     [
-      "off",
+      "leave",
       1,
       2.0
     ],
     [
-      "outnumbered",
+      "dead",
       1,
       2.0
     ],
     [
-      "far-right",
+      "top",
       1,
       2.0
     ],
     [
-      "activists",
+      "negotiator",
       1,
       2.0
     ],
     [
-      "rally",
+      "continue",
       1,
       2.0
     ],
     [
-      "minneapolis",
+      "davos",
+      1,
+      2.0
+    ],
+    [
+      "ukrainian",
       1,
       1.88
-    ],
-    [
-      "reuters",
-      1,
-      0.37
     ]
   ]
 }
