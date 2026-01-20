@@ -1,123 +1,135 @@
 {
-  "date": "2026-01-19",
+  "date": "2026-01-20",
   "top_today": [
     [
       "reuters",
       2
     ],
     [
-      "clashes",
+      "exclusive",
       1
     ],
     [
-      "colombia",
+      "chinese",
       1
     ],
     [
-      "between",
+      "importer",
       1
     ],
     [
-      "guerrilla",
+      "buys",
       1
     ],
     [
-      "groups",
+      "canadian",
       1
     ],
     [
-      "leave",
+      "canola",
       1
     ],
     [
-      "dead",
+      "denting",
       1
     ],
     [
-      "sources",
+      "australian",
       1
     ],
     [
-      "say",
+      "export",
       1
     ],
     [
-      "top",
+      "hopes",
       1
     ],
     [
-      "ukrainian",
+      "gold",
       1
     ],
     [
-      "negotiator",
+      "holds",
       1
     ],
     [
-      "says",
+      "near",
       1
     ],
     [
-      "talks",
+      "record",
       1
     ],
     [
-      "continue",
+      "high",
       1
     ],
     [
-      "davos",
+      "trade",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "risks",
+      1
+    ],
+    [
+      "sour",
       1
     ]
   ],
   "rising": [
     [
-      "colombia",
+      "importer",
       1,
       2.0
     ],
     [
-      "guerrilla",
+      "buys",
       1,
       2.0
     ],
     [
-      "groups",
+      "canola",
       1,
       2.0
     ],
     [
-      "leave",
+      "denting",
       1,
       2.0
     ],
     [
-      "dead",
+      "australian",
       1,
       2.0
     ],
     [
-      "top",
+      "export",
       1,
       2.0
     ],
     [
-      "negotiator",
+      "near",
       1,
       2.0
     ],
     [
-      "continue",
+      "risks",
       1,
       2.0
     ],
     [
-      "davos",
+      "sour",
       1,
       2.0
     ],
     [
-      "ukrainian",
+      "hopes",
       1,
       1.88
     ]
