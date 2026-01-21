@@ -1,76 +1,52 @@
 {
-  "date": "2026-01-20",
+  "date": "2026-01-21",
   "top_today": [
     [
       "reuters",
-      2
+      3
     ],
     [
-      "exclusive",
+      "buyers",
       1
     ],
     [
-      "chinese",
+      "flee",
       1
     ],
     [
-      "importer",
+      "japanese",
       1
     ],
     [
-      "buys",
+      "debt",
       1
     ],
     [
-      "canadian",
+      "takaichi",
       1
     ],
     [
-      "canola",
+      "hits",
       1
     ],
     [
-      "denting",
+      "ground",
       1
     ],
     [
-      "australian",
+      "spending",
       1
     ],
     [
-      "export",
+      "oil",
       1
     ],
     [
-      "hopes",
+      "prices",
       1
     ],
     [
-      "gold",
-      1
-    ],
-    [
-      "holds",
-      1
-    ],
-    [
-      "near",
-      1
-    ],
-    [
-      "record",
-      1
-    ],
-    [
-      "high",
-      1
-    ],
-    [
-      "trade",
-      1
-    ],
-    [
-      "war",
+      "fall",
       1
     ],
     [
@@ -78,60 +54,84 @@
       1
     ],
     [
-      "sour",
+      "kazakh",
+      1
+    ],
+    [
+      "production",
+      1
+    ],
+    [
+      "halt",
+      1
+    ],
+    [
+      "subside",
+      1
+    ],
+    [
+      "experts",
+      1
+    ],
+    [
+      "can",
+      1
+    ],
+    [
+      "testify",
       1
     ]
   ],
   "rising": [
     [
-      "importer",
+      "buyers",
       1,
       2.0
     ],
     [
-      "buys",
+      "flee",
       1,
       2.0
     ],
     [
-      "canola",
+      "japanese",
       1,
       2.0
     ],
     [
-      "denting",
+      "debt",
       1,
       2.0
     ],
     [
-      "australian",
+      "ground",
       1,
       2.0
     ],
     [
-      "export",
+      "kazakh",
       1,
       2.0
     ],
     [
-      "near",
+      "production",
       1,
       2.0
     ],
     [
-      "risks",
+      "halt",
       1,
       2.0
     ],
     [
-      "sour",
+      "subside",
       1,
       2.0
     ],
     [
-      "hopes",
+      "experts",
       1,
-      1.88
+      2.0
     ]
   ]
 }
