@@ -1,135 +1,135 @@
 {
-  "date": "2026-01-21",
+  "date": "2026-01-22",
   "top_today": [
     [
+      "law",
+      1
+    ],
+    [
+      "firm",
+      1
+    ],
+    [
+      "chief",
+      1
+    ],
+    [
+      "recounts",
+      1
+    ],
+    [
+      "crazy",
+      1
+    ],
+    [
+      "bet",
+      1
+    ],
+    [
+      "washington",
+      1
+    ],
+    [
+      "lawyer",
+      1
+    ],
+    [
+      "goldstein",
+      1
+    ],
+    [
+      "poker",
+      1
+    ],
+    [
+      "play",
+      1
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "buyers",
       1
     ],
     [
-      "flee",
+      "cisco",
       1
     ],
     [
-      "japanese",
+      "fixes",
       1
     ],
     [
-      "debt",
+      "actively",
       1
     ],
     [
-      "takaichi",
+      "exploited",
       1
     ],
     [
-      "hits",
+      "zero-day",
       1
     ],
     [
-      "ground",
+      "cve-2026-20045",
       1
     ],
     [
-      "spending",
+      "unified",
       1
     ],
     [
-      "oil",
-      1
-    ],
-    [
-      "prices",
-      1
-    ],
-    [
-      "fall",
-      1
-    ],
-    [
-      "risks",
-      1
-    ],
-    [
-      "kazakh",
-      1
-    ],
-    [
-      "production",
-      1
-    ],
-    [
-      "halt",
-      1
-    ],
-    [
-      "subside",
-      1
-    ],
-    [
-      "experts",
-      1
-    ],
-    [
-      "can",
-      1
-    ],
-    [
-      "testify",
+      "webex",
       1
     ]
   ],
   "rising": [
     [
-      "buyers",
+      "recounts",
       1,
       2.0
     ],
     [
-      "flee",
+      "crazy",
       1,
       2.0
     ],
     [
-      "japanese",
+      "bet",
       1,
       2.0
     ],
     [
-      "debt",
+      "washington",
       1,
       2.0
     ],
     [
-      "ground",
+      "lawyer",
       1,
       2.0
     ],
     [
-      "kazakh",
+      "goldstein",
       1,
       2.0
     ],
     [
-      "production",
+      "poker",
       1,
       2.0
     ],
     [
-      "halt",
+      "play",
       1,
       2.0
     ],
     [
-      "subside",
+      "cve-2026-20045",
       1,
       2.0
     ],
     [
-      "experts",
+      "webex",
       1,
       2.0
     ]
