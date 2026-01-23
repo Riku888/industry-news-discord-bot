@@ -1,137 +1,125 @@
 {
-  "date": "2026-01-22",
+  "date": "2026-01-23",
   "top_today": [
     [
-      "law",
-      1
-    ],
-    [
-      "firm",
-      1
-    ],
-    [
-      "chief",
-      1
-    ],
-    [
-      "recounts",
-      1
-    ],
-    [
-      "crazy",
-      1
-    ],
-    [
-      "bet",
-      1
-    ],
-    [
-      "washington",
-      1
-    ],
-    [
-      "lawyer",
-      1
-    ],
-    [
-      "goldstein",
-      1
-    ],
-    [
-      "poker",
-      1
-    ],
-    [
-      "play",
-      1
+      "trump",
+      2
     ],
     [
       "reuters",
+      2
+    ],
+    [
+      "attributes",
       1
     ],
     [
-      "cisco",
+      "new",
       1
     ],
     [
-      "fixes",
+      "bruise",
       1
     ],
     [
-      "actively",
+      "hand",
       1
     ],
     [
-      "exploited",
+      "aspirin",
       1
     ],
     [
-      "zero-day",
+      "consumption",
       1
     ],
     [
-      "cve-2026-20045",
+      "touts",
       1
     ],
     [
-      "unified",
+      "total",
       1
     ],
     [
-      "webex",
+      "access",
+      1
+    ],
+    [
+      "greenland",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "nato",
+      1
+    ],
+    [
+      "asks",
+      1
+    ],
+    [
+      "allies",
+      1
+    ],
+    [
+      "step",
       1
     ]
   ],
   "rising": [
     [
-      "recounts",
+      "attributes",
       1,
       2.0
     ],
     [
-      "crazy",
+      "bruise",
       1,
       2.0
     ],
     [
-      "bet",
+      "hand",
       1,
       2.0
     ],
     [
-      "washington",
+      "aspirin",
       1,
       2.0
     ],
     [
-      "lawyer",
+      "consumption",
       1,
       2.0
     ],
     [
-      "goldstein",
+      "touts",
       1,
       2.0
     ],
     [
-      "poker",
+      "total",
       1,
       2.0
     ],
     [
-      "play",
+      "allies",
       1,
       2.0
     ],
     [
-      "cve-2026-20045",
+      "step",
       1,
       2.0
     ],
     [
-      "webex",
+      "nato",
       1,
-      2.0
+      1.88
     ]
   ]
 }
