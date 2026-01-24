@@ -1,125 +1,137 @@
 {
-  "date": "2026-01-23",
+  "date": "2026-01-24",
   "top_today": [
-    [
-      "trump",
-      2
-    ],
     [
       "reuters",
       2
     ],
     [
-      "attributes",
+      "ukraine",
       1
     ],
     [
-      "new",
+      "two",
       1
     ],
     [
-      "bruise",
+      "largest",
       1
     ],
     [
-      "hand",
+      "cities",
       1
     ],
     [
-      "aspirin",
+      "under",
       1
     ],
     [
-      "consumption",
+      "russian",
       1
     ],
     [
-      "touts",
+      "attack",
       1
     ],
     [
-      "total",
+      "officials",
       1
     ],
     [
-      "access",
+      "say",
       1
     ],
     [
-      "greenland",
+      "one",
       1
     ],
     [
-      "deal",
+      "dead",
       1
     ],
     [
-      "nato",
+      "vance",
       1
     ],
     [
-      "asks",
+      "tells",
       1
     ],
     [
-      "allies",
+      "south",
       1
     ],
     [
-      "step",
+      "korea",
+      1
+    ],
+    [
+      "hopes",
+      1
+    ],
+    [
+      "coupang",
+      1
+    ],
+    [
+      "dispute",
+      1
+    ],
+    [
+      "can",
       1
     ]
   ],
   "rising": [
     [
-      "attributes",
+      "largest",
       1,
       2.0
     ],
     [
-      "bruise",
+      "cities",
       1,
       2.0
     ],
     [
-      "hand",
+      "vance",
       1,
       2.0
     ],
     [
-      "aspirin",
-      1,
-      2.0
-    ],
-    [
-      "consumption",
-      1,
-      2.0
-    ],
-    [
-      "touts",
-      1,
-      2.0
-    ],
-    [
-      "total",
-      1,
-      2.0
-    ],
-    [
-      "allies",
-      1,
-      2.0
-    ],
-    [
-      "step",
-      1,
-      2.0
-    ],
-    [
-      "nato",
+      "officials",
       1,
       1.88
+    ],
+    [
+      "dead",
+      1,
+      1.88
+    ],
+    [
+      "tells",
+      1,
+      1.88
+    ],
+    [
+      "coupang",
+      1,
+      1.88
+    ],
+    [
+      "dispute",
+      1,
+      1.88
+    ],
+    [
+      "korea",
+      1,
+      1.76
+    ],
+    [
+      "hopes",
+      1,
+      1.76
     ]
   ]
 }
