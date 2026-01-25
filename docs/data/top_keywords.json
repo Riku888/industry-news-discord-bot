@@ -1,137 +1,101 @@
 {
-  "date": "2026-01-24",
+  "date": "2026-01-25",
   "top_today": [
     [
+      "japan",
+      1
+    ],
+    [
+      "vows",
+      1
+    ],
+    [
+      "act",
+      1
+    ],
+    [
+      "against",
+      1
+    ],
+    [
+      "speculative",
+      1
+    ],
+    [
+      "market",
+      1
+    ],
+    [
+      "moves",
+      1
+    ],
+    [
+      "after",
+      1
+    ],
+    [
+      "yen",
+      1
+    ],
+    [
+      "spike",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "ukraine",
-      1
-    ],
-    [
-      "two",
-      1
-    ],
-    [
-      "largest",
-      1
-    ],
-    [
-      "cities",
-      1
-    ],
-    [
-      "under",
-      1
-    ],
-    [
-      "russian",
-      1
-    ],
-    [
-      "attack",
-      1
-    ],
-    [
-      "officials",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
-      "one",
-      1
-    ],
-    [
-      "dead",
-      1
-    ],
-    [
-      "vance",
-      1
-    ],
-    [
-      "tells",
-      1
-    ],
-    [
-      "south",
-      1
-    ],
-    [
-      "korea",
-      1
-    ],
-    [
-      "hopes",
-      1
-    ],
-    [
-      "coupang",
-      1
-    ],
-    [
-      "dispute",
-      1
-    ],
-    [
-      "can",
       1
     ]
   ],
   "rising": [
     [
-      "largest",
+      "act",
       1,
       2.0
     ],
     [
-      "cities",
+      "speculative",
       1,
       2.0
     ],
     [
-      "vance",
+      "yen",
       1,
       2.0
     ],
     [
-      "officials",
+      "japan",
       1,
       1.88
     ],
     [
-      "dead",
+      "vows",
       1,
       1.88
     ],
     [
-      "tells",
+      "spike",
       1,
       1.88
     ],
     [
-      "coupang",
-      1,
-      1.88
-    ],
-    [
-      "dispute",
-      1,
-      1.88
-    ],
-    [
-      "korea",
+      "market",
       1,
       1.76
     ],
     [
-      "hopes",
+      "moves",
       1,
       1.76
+    ],
+    [
+      "against",
+      1,
+      1.36
+    ],
+    [
+      "after",
+      1,
+      1.07
     ]
   ]
 }
