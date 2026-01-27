@@ -1,36 +1,28 @@
 {
-  "date": "2026-01-26",
+  "date": "2026-01-27",
   "top_today": [
     [
       "reuters",
-      6
-    ],
-    [
-      "attackers",
       2
     ],
     [
-      "armed",
+      "california",
       1
     ],
     [
-      "kill",
+      "newsom",
       1
     ],
     [
-      "soccer",
+      "accuses",
       1
     ],
     [
-      "field",
+      "tiktok",
       1
     ],
     [
-      "mexico",
-      1
-    ],
-    [
-      "salamanca",
+      "suppressing",
       1
     ],
     [
@@ -38,98 +30,86 @@
       1
     ],
     [
-      "administration",
+      "criticism",
       1
     ],
     [
-      "defends",
+      "starmer",
       1
     ],
     [
-      "killing",
+      "heads",
       1
     ],
     [
-      "american",
+      "china",
       1
     ],
     [
-      "minneapolis",
+      "repair",
       1
     ],
     [
-      "contradicts",
+      "ties",
       1
     ],
     [
-      "videos",
+      "navigates",
       1
     ],
     [
-      "exclusive",
-      1
-    ],
-    [
-      "airbus",
-      1
-    ],
-    [
-      "ceo",
-      1
-    ],
-    [
-      "warns",
+      "tensions",
       1
     ]
   ],
   "rising": [
     [
-      "attackers",
-      2,
-      3.53
-    ],
-    [
-      "armed",
+      "accuses",
       1,
       2.0
     ],
     [
-      "soccer",
+      "suppressing",
       1,
       2.0
     ],
     [
-      "field",
+      "criticism",
       1,
       2.0
     ],
     [
-      "mexico",
+      "heads",
       1,
       2.0
     ],
     [
-      "salamanca",
+      "repair",
       1,
       2.0
     ],
     [
-      "killing",
+      "navigates",
       1,
       2.0
     ],
     [
-      "contradicts",
+      "tensions",
       1,
       2.0
     ],
     [
-      "videos",
+      "newsom",
       1,
-      2.0
+      1.88
     ],
     [
-      "defends",
+      "starmer",
+      1,
+      1.88
+    ],
+    [
+      "ties",
       1,
       1.88
     ]
