@@ -1,117 +1,137 @@
 {
-  "date": "2026-01-27",
+  "date": "2026-01-28",
   "top_today": [
     [
       "reuters",
+      6
+    ],
+    [
+      "rate",
       2
     ],
     [
-      "california",
+      "hike",
+      2
+    ],
+    [
+      "australia",
       1
     ],
     [
-      "newsom",
+      "hotter",
       1
     ],
     [
-      "accuses",
+      "core",
       1
     ],
     [
-      "tiktok",
+      "inflation",
       1
     ],
     [
-      "suppressing",
+      "fuels",
       1
     ],
     [
-      "trump",
+      "bets",
       1
     ],
     [
-      "criticism",
+      "next",
       1
     ],
     [
-      "starmer",
+      "week",
       1
     ],
     [
-      "heads",
+      "amazon",
       1
     ],
     [
-      "china",
+      "bungles",
       1
     ],
     [
-      "repair",
+      "wednesday",
       1
     ],
     [
-      "ties",
+      "layoff",
       1
     ],
     [
-      "navigates",
+      "plan",
       1
     ],
     [
-      "tensions",
+      "misfired",
+      1
+    ],
+    [
+      "internal",
+      1
+    ],
+    [
+      "email",
+      1
+    ],
+    [
+      "500",
       1
     ]
   ],
   "rising": [
     [
-      "accuses",
+      "hike",
+      2,
+      4.0
+    ],
+    [
+      "rate",
+      2,
+      3.33
+    ],
+    [
+      "australia",
       1,
       2.0
     ],
     [
-      "suppressing",
+      "hotter",
       1,
       2.0
     ],
     [
-      "criticism",
+      "core",
       1,
       2.0
     ],
     [
-      "heads",
+      "fuels",
       1,
       2.0
     ],
     [
-      "repair",
+      "amazon",
       1,
       2.0
     ],
     [
-      "navigates",
+      "bungles",
       1,
       2.0
     ],
     [
-      "tensions",
+      "wednesday",
       1,
       2.0
     ],
     [
-      "newsom",
+      "layoff",
       1,
-      1.88
-    ],
-    [
-      "starmer",
-      1,
-      1.88
-    ],
-    [
-      "ties",
-      1,
-      1.88
+      2.0
     ]
   ]
 }
