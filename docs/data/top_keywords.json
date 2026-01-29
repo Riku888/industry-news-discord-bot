@@ -1,137 +1,137 @@
 {
-  "date": "2026-01-28",
+  "date": "2026-01-29",
   "top_today": [
     [
       "reuters",
-      6
+      4
     ],
     [
-      "rate",
+      "china",
       2
     ],
     [
-      "hike",
-      2
-    ],
-    [
-      "australia",
+      "exclusive",
       1
     ],
     [
-      "hotter",
+      "nvidia",
       1
     ],
     [
-      "core",
+      "helped",
       1
     ],
     [
-      "inflation",
+      "deepseek",
       1
     ],
     [
-      "fuels",
+      "hone",
       1
     ],
     [
-      "bets",
+      "models",
       1
     ],
     [
-      "next",
+      "later",
       1
     ],
     [
-      "week",
+      "used",
       1
     ],
     [
-      "amazon",
+      "military",
       1
     ],
     [
-      "bungles",
+      "lawmaker",
       1
     ],
     [
-      "wednesday",
+      "says",
       1
     ],
     [
-      "layoff",
+      "britain",
       1
     ],
     [
-      "plan",
+      "starmer",
       1
     ],
     [
-      "misfired",
+      "seeks",
       1
     ],
     [
-      "internal",
+      "fresh",
       1
     ],
     [
-      "email",
+      "start",
       1
     ],
     [
-      "500",
+      "economic",
+      1
+    ],
+    [
+      "wins",
       1
     ]
   ],
   "rising": [
     [
-      "hike",
+      "china",
       2,
-      4.0
+      2.31
     ],
     [
-      "rate",
-      2,
-      3.33
-    ],
-    [
-      "australia",
+      "helped",
       1,
       2.0
     ],
     [
-      "hotter",
+      "deepseek",
       1,
       2.0
     ],
     [
-      "core",
+      "hone",
       1,
       2.0
     ],
     [
-      "fuels",
+      "models",
       1,
       2.0
     ],
     [
-      "amazon",
+      "later",
       1,
       2.0
     ],
     [
-      "bungles",
+      "lawmaker",
       1,
       2.0
     ],
     [
-      "wednesday",
+      "economic",
       1,
       2.0
     ],
     [
-      "layoff",
+      "wins",
       1,
       2.0
+    ],
+    [
+      "britain",
+      1,
+      1.88
     ]
   ]
 }
