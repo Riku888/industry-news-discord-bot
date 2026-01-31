@@ -88,8 +88,8 @@
     45,
     41,
     48,
-    43,
-    3
+    44,
+    26
   ],
   "by_category": {
     "2025-11-13": {
@@ -351,12 +351,15 @@
       "ランサムウェア": 1,
       "脆弱性・CVE": 12,
       "規制・ガバナンス": 1,
-      "防御・検知・対応": 9
+      "防御・検知・対応": 10
     },
     "2026-01-30": {
-      "その他": 1,
-      "マルウェア": 1,
-      "脆弱性・CVE": 1
+      "その他": 6,
+      "フィッシング": 1,
+      "マルウェア": 4,
+      "脆弱性・CVE": 8,
+      "規制・ガバナンス": 2,
+      "防御・検知・対応": 5
     }
   },
   "by_source": {
@@ -597,15 +600,19 @@
       "BleepingComputer": 7,
       "CISA": 4,
       "Dark Reading": 3,
-      "Reuters": 20,
+      "Reuters": 21,
       "SecurityWeek": 3,
       "The Hacker News": 2,
       "The Record": 4
     },
     "2026-01-30": {
-      "Dark Reading": 1,
-      "Reuters": 1,
-      "The Hacker News": 1
+      "BleepingComputer": 1,
+      "Dark Reading": 4,
+      "Palo Alto Unit 42": 1,
+      "Reuters": 12,
+      "SecurityWeek": 4,
+      "The Hacker News": 3,
+      "The Record": 1
     }
   }
 }
