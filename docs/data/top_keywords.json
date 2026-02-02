@@ -1,135 +1,127 @@
 {
-  "date": "2026-02-01",
+  "date": "2026-02-02",
   "top_today": [
     [
-      "says",
-      3
-    ],
-    [
-      "reuters",
+      "compromised",
       2
     ],
     [
-      "openai",
-      2
-    ],
-    [
-      "india",
+      "escan",
       1
     ],
     [
-      "budget",
+      "antivirus",
       1
     ],
     [
-      "what",
+      "update",
       1
     ],
     [
-      "expected",
+      "servers",
       1
     ],
     [
-      "debt",
+      "deliver",
       1
     ],
     [
-      "military",
+      "multi-stage",
       1
     ],
     [
-      "infrastructure",
+      "malware",
       1
     ],
     [
-      "china",
+      "open",
       1
     ],
     [
-      "new",
+      "vsx",
       1
     ],
     [
-      "home",
+      "supply",
       1
     ],
     [
-      "prices",
+      "chain",
       1
     ],
     [
-      "rise",
+      "attack",
       1
     ],
     [
-      "january",
+      "used",
       1
     ],
     [
-      "government",
+      "dev",
       1
     ],
     [
-      "signals",
+      "account",
       1
     ],
     [
-      "support",
+      "spread",
       1
     ],
     [
-      "private",
+      "glassworm",
       1
     ]
   ],
   "rising": [
     [
-      "openai",
+      "compromised",
       2,
       4.0
     ],
     [
-      "budget",
+      "vsx",
       1,
       2.0
     ],
     [
-      "signals",
+      "dev",
       1,
       2.0
     ],
     [
-      "debt",
+      "account",
+      1,
+      2.0
+    ],
+    [
+      "glassworm",
+      1,
+      2.0
+    ],
+    [
+      "antivirus",
       1,
       1.88
     ],
     [
-      "support",
-      1,
-      1.88
-    ],
-    [
-      "home",
+      "escan",
       1,
       1.76
     ],
     [
-      "rise",
+      "update",
       1,
       1.76
     ],
     [
-      "what",
+      "spread",
       1,
-      1.67
+      1.76
     ],
     [
-      "expected",
-      1,
-      1.67
-    ],
-    [
-      "prices",
+      "deliver",
       1,
       1.67
     ]
