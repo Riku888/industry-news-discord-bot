@@ -1,129 +1,137 @@
 {
-  "date": "2026-02-02",
+  "date": "2026-02-03",
   "top_today": [
     [
-      "compromised",
+      "reuters",
       2
     ],
     [
-      "escan",
+      "china",
       1
     ],
     [
-      "antivirus",
+      "calls",
       1
     ],
     [
-      "update",
+      "equal",
       1
     ],
     [
-      "servers",
+      "multipolar",
       1
     ],
     [
-      "deliver",
+      "world",
       1
     ],
     [
-      "multi-stage",
+      "meets",
       1
     ],
     [
-      "malware",
+      "uruguay",
       1
     ],
     [
-      "open",
+      "leader",
       1
     ],
     [
-      "vsx",
+      "oil",
       1
     ],
     [
-      "supply",
+      "falls",
       1
     ],
     [
-      "chain",
+      "possible",
       1
     ],
     [
-      "attack",
+      "us-iran",
       1
     ],
     [
-      "used",
+      "de-escalation",
       1
     ],
     [
-      "dev",
+      "firm",
       1
     ],
     [
-      "account",
+      "dollar",
       1
     ],
     [
-      "spread",
+      "mozilla",
       1
     ],
     [
-      "glassworm",
+      "adds",
+      1
+    ],
+    [
+      "one-click",
+      1
+    ],
+    [
+      "option",
       1
     ]
   ],
   "rising": [
     [
-      "compromised",
-      2,
-      4.0
-    ],
-    [
-      "vsx",
+      "multipolar",
       1,
       2.0
     ],
     [
-      "dev",
+      "uruguay",
       1,
       2.0
     ],
     [
-      "account",
+      "us-iran",
       1,
       2.0
     ],
     [
-      "glassworm",
+      "de-escalation",
       1,
       2.0
     ],
     [
-      "antivirus",
+      "option",
+      1,
+      2.0
+    ],
+    [
+      "equal",
       1,
       1.88
     ],
     [
-      "escan",
+      "meets",
       1,
-      1.76
+      1.88
     ],
     [
-      "update",
+      "falls",
       1,
-      1.76
+      1.88
     ],
     [
-      "spread",
+      "mozilla",
       1,
-      1.76
+      1.88
     ],
     [
-      "deliver",
+      "one-click",
       1,
-      1.67
+      1.88
     ]
   ]
 }
