@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-03",
+  "date": "2026-02-04",
   "top_today": [
     [
       "reuters",
-      2
+      3
     ],
     [
-      "china",
+      "boeing",
       1
     ],
     [
-      "calls",
+      "expects",
       1
     ],
     [
-      "equal",
+      "start",
       1
     ],
     [
-      "multipolar",
+      "delivering",
       1
     ],
     [
-      "world",
+      "improved",
       1
     ],
     [
-      "meets",
+      "787",
       1
     ],
     [
-      "uruguay",
+      "dreamliners",
       1
     ],
     [
-      "leader",
+      "first",
+      1
+    ],
+    [
+      "half",
+      1
+    ],
+    [
+      "hutchison",
+      1
+    ],
+    [
+      "launches",
+      1
+    ],
+    [
+      "arbitration",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "panama",
+      1
+    ],
+    [
+      "canal",
+      1
+    ],
+    [
+      "ports",
+      1
+    ],
+    [
+      "contract",
+      1
+    ],
+    [
+      "ruling",
       1
     ],
     [
       "oil",
       1
-    ],
-    [
-      "falls",
-      1
-    ],
-    [
-      "possible",
-      1
-    ],
-    [
-      "us-iran",
-      1
-    ],
-    [
-      "de-escalation",
-      1
-    ],
-    [
-      "firm",
-      1
-    ],
-    [
-      "dollar",
-      1
-    ],
-    [
-      "mozilla",
-      1
-    ],
-    [
-      "adds",
-      1
-    ],
-    [
-      "one-click",
-      1
-    ],
-    [
-      "option",
-      1
     ]
   ],
   "rising": [
     [
-      "multipolar",
+      "improved",
       1,
       2.0
     ],
     [
-      "uruguay",
+      "787",
       1,
       2.0
     ],
     [
-      "us-iran",
+      "dreamliners",
       1,
       2.0
     ],
     [
-      "de-escalation",
+      "hutchison",
       1,
       2.0
     ],
     [
-      "option",
+      "arbitration",
       1,
       2.0
     ],
     [
-      "equal",
+      "panama",
       1,
-      1.88
+      2.0
     ],
     [
-      "meets",
+      "canal",
       1,
-      1.88
+      2.0
     ],
     [
-      "falls",
+      "ports",
       1,
-      1.88
+      2.0
     ],
     [
-      "mozilla",
+      "contract",
       1,
-      1.88
+      2.0
     ],
     [
-      "one-click",
+      "ruling",
       1,
-      1.88
+      2.0
     ]
   ]
 }
