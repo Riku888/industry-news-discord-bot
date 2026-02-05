@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-04",
+  "date": "2026-02-05",
   "top_today": [
     [
+      "malicious",
+      2
+    ],
+    [
+      "trump",
+      1
+    ],
+    [
+      "declines",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "sides",
+      1
+    ],
+    [
+      "between",
+      1
+    ],
+    [
+      "vance",
+      1
+    ],
+    [
+      "rubio",
+      1
+    ],
+    [
+      "2028",
+      1
+    ],
+    [
+      "successor",
+      1
+    ],
+    [
+      "debate",
+      1
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "boeing",
       1
     ],
     [
-      "expects",
+      "critical",
       1
     ],
     [
-      "start",
+      "n8n",
       1
     ],
     [
-      "delivering",
+      "flaw",
       1
     ],
     [
-      "improved",
+      "cve-2026-25049",
       1
     ],
     [
-      "787",
+      "enables",
       1
     ],
     [
-      "dreamliners",
+      "system",
       1
     ],
     [
-      "first",
+      "command",
       1
     ],
     [
-      "half",
-      1
-    ],
-    [
-      "hutchison",
-      1
-    ],
-    [
-      "launches",
-      1
-    ],
-    [
-      "arbitration",
-      1
-    ],
-    [
-      "over",
-      1
-    ],
-    [
-      "panama",
-      1
-    ],
-    [
-      "canal",
-      1
-    ],
-    [
-      "ports",
-      1
-    ],
-    [
-      "contract",
-      1
-    ],
-    [
-      "ruling",
-      1
-    ],
-    [
-      "oil",
+      "execution",
       1
     ]
   ],
   "rising": [
     [
-      "improved",
+      "malicious",
+      2,
+      2.5
+    ],
+    [
+      "declines",
       1,
       2.0
     ],
     [
-      "787",
+      "sides",
       1,
       2.0
     ],
     [
-      "dreamliners",
+      "2028",
       1,
       2.0
     ],
     [
-      "hutchison",
+      "successor",
       1,
       2.0
     ],
     [
-      "arbitration",
+      "debate",
       1,
       2.0
     ],
     [
-      "panama",
+      "cve-2026-25049",
       1,
       2.0
     ],
     [
-      "canal",
+      "vance",
       1,
-      2.0
+      1.88
     ],
     [
-      "ports",
+      "rubio",
       1,
-      2.0
+      1.88
     ],
     [
-      "contract",
+      "enables",
       1,
-      2.0
-    ],
-    [
-      "ruling",
-      1,
-      2.0
+      1.76
     ]
   ]
 }
