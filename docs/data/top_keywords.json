@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-05",
+  "date": "2026-02-06",
   "top_today": [
     [
-      "malicious",
-      2
-    ],
-    [
-      "trump",
-      1
-    ],
-    [
-      "declines",
-      1
-    ],
-    [
-      "take",
-      1
-    ],
-    [
-      "sides",
-      1
-    ],
-    [
-      "between",
-      1
-    ],
-    [
-      "vance",
-      1
-    ],
-    [
-      "rubio",
-      1
-    ],
-    [
-      "2028",
-      1
-    ],
-    [
-      "successor",
-      1
-    ],
-    [
-      "debate",
-      1
-    ],
-    [
       "reuters",
+      4
+    ],
+    [
+      "former",
       1
     ],
     [
-      "critical",
+      "bank",
       1
     ],
     [
-      "n8n",
+      "china",
       1
     ],
     [
-      "flaw",
+      "vice",
       1
     ],
     [
-      "cve-2026-25049",
+      "president",
       1
     ],
     [
-      "enables",
+      "lin",
       1
     ],
     [
-      "system",
+      "jingzhen",
       1
     ],
     [
-      "command",
+      "expelled",
       1
     ],
     [
-      "execution",
+      "communist",
+      1
+    ],
+    [
+      "party",
+      1
+    ],
+    [
+      "xinhua",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "bitcoin",
+      1
+    ],
+    [
+      "cusp",
+      1
+    ],
+    [
+      "000",
+      1
+    ],
+    [
+      "investors",
+      1
+    ],
+    [
+      "flee",
+      1
+    ],
+    [
+      "risky",
+      1
+    ],
+    [
+      "bets",
       1
     ]
   ],
   "rising": [
     [
-      "malicious",
-      2,
-      2.5
-    ],
-    [
-      "declines",
+      "vice",
       1,
       2.0
     ],
     [
-      "sides",
+      "lin",
       1,
       2.0
     ],
     [
-      "2028",
+      "jingzhen",
       1,
       2.0
     ],
     [
-      "successor",
+      "expelled",
       1,
       2.0
     ],
     [
-      "debate",
+      "communist",
       1,
       2.0
     ],
     [
-      "cve-2026-25049",
+      "xinhua",
       1,
       2.0
     ],
     [
-      "vance",
+      "bitcoin",
+      1,
+      2.0
+    ],
+    [
+      "cusp",
+      1,
+      2.0
+    ],
+    [
+      "risky",
+      1,
+      2.0
+    ],
+    [
+      "party",
       1,
       1.88
-    ],
-    [
-      "rubio",
-      1,
-      1.88
-    ],
-    [
-      "enables",
-      1,
-      1.76
     ]
   ]
 }
