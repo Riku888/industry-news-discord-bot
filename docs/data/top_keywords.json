@@ -1,137 +1,70 @@
 {
-  "date": "2026-02-06",
+  "date": "2026-02-07",
   "top_today": [
     [
-      "reuters",
-      4
-    ],
-    [
-      "former",
+      "analysis",
       1
     ],
     [
-      "bank",
+      "active",
       1
     ],
     [
-      "china",
+      "exploitation",
       1
     ],
     [
-      "vice",
+      "solarwinds",
       1
     ],
     [
-      "president",
+      "web",
       1
     ],
     [
-      "lin",
+      "help",
       1
     ],
     [
-      "jingzhen",
-      1
-    ],
-    [
-      "expelled",
-      1
-    ],
-    [
-      "communist",
-      1
-    ],
-    [
-      "party",
-      1
-    ],
-    [
-      "xinhua",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "bitcoin",
-      1
-    ],
-    [
-      "cusp",
-      1
-    ],
-    [
-      "000",
-      1
-    ],
-    [
-      "investors",
-      1
-    ],
-    [
-      "flee",
-      1
-    ],
-    [
-      "risky",
-      1
-    ],
-    [
-      "bets",
+      "desk",
       1
     ]
   ],
   "rising": [
     [
-      "vice",
-      1,
-      2.0
-    ],
-    [
-      "lin",
-      1,
-      2.0
-    ],
-    [
-      "jingzhen",
-      1,
-      2.0
-    ],
-    [
-      "expelled",
-      1,
-      2.0
-    ],
-    [
-      "communist",
-      1,
-      2.0
-    ],
-    [
-      "xinhua",
-      1,
-      2.0
-    ],
-    [
-      "bitcoin",
-      1,
-      2.0
-    ],
-    [
-      "cusp",
-      1,
-      2.0
-    ],
-    [
-      "risky",
-      1,
-      2.0
-    ],
-    [
-      "party",
+      "analysis",
       1,
       1.88
+    ],
+    [
+      "desk",
+      1,
+      1.58
+    ],
+    [
+      "help",
+      1,
+      1.43
+    ],
+    [
+      "active",
+      1,
+      1.36
+    ],
+    [
+      "exploitation",
+      1,
+      1.36
+    ],
+    [
+      "solarwinds",
+      1,
+      1.36
+    ],
+    [
+      "web",
+      1,
+      1.25
     ]
   ]
 }
