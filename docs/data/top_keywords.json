@@ -1,70 +1,125 @@
 {
-  "date": "2026-02-07",
+  "date": "2026-02-08",
   "top_today": [
     [
-      "analysis",
+      "reuters",
+      2
+    ],
+    [
+      "will",
       1
     ],
     [
-      "active",
+      "pay",
       1
     ],
     [
-      "exploitation",
+      "host",
       1
     ],
     [
-      "solarwinds",
+      "savannah",
       1
     ],
     [
-      "web",
+      "guthrie",
       1
     ],
     [
-      "help",
+      "says",
       1
     ],
     [
-      "desk",
+      "plea",
+      1
+    ],
+    [
+      "mother",
+      1
+    ],
+    [
+      "return",
+      1
+    ],
+    [
+      "thailand",
+      1
+    ],
+    [
+      "votes",
+      1
+    ],
+    [
+      "three-way",
+      1
+    ],
+    [
+      "race",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "instability",
+      1
+    ],
+    [
+      "looms",
       1
     ]
   ],
   "rising": [
     [
-      "analysis",
+      "thailand",
+      1,
+      2.0
+    ],
+    [
+      "votes",
+      1,
+      2.0
+    ],
+    [
+      "three-way",
+      1,
+      2.0
+    ],
+    [
+      "race",
+      1,
+      2.0
+    ],
+    [
+      "instability",
+      1,
+      2.0
+    ],
+    [
+      "looms",
+      1,
+      2.0
+    ],
+    [
+      "pay",
       1,
       1.88
     ],
     [
-      "desk",
+      "host",
       1,
-      1.58
+      1.88
     ],
     [
-      "help",
+      "savannah",
       1,
-      1.43
+      1.88
     ],
     [
-      "active",
+      "guthrie",
       1,
-      1.36
-    ],
-    [
-      "exploitation",
-      1,
-      1.36
-    ],
-    [
-      "solarwinds",
-      1,
-      1.36
-    ],
-    [
-      "web",
-      1,
-      1.25
+      1.88
     ]
   ]
 }
