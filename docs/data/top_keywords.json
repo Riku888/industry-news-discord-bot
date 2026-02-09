@@ -1,60 +1,16 @@
 {
-  "date": "2026-02-08",
+  "date": "2026-02-09",
   "top_today": [
     [
-      "reuters",
-      2
-    ],
-    [
-      "will",
+      "yen",
       1
     ],
     [
-      "pay",
+      "strengthens",
       1
     ],
     [
-      "host",
-      1
-    ],
-    [
-      "savannah",
-      1
-    ],
-    [
-      "guthrie",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "plea",
-      1
-    ],
-    [
-      "mother",
-      1
-    ],
-    [
-      "return",
-      1
-    ],
-    [
-      "thailand",
-      1
-    ],
-    [
-      "votes",
-      1
-    ],
-    [
-      "three-way",
-      1
-    ],
-    [
-      "race",
+      "intervention",
       1
     ],
     [
@@ -62,64 +18,62 @@
       1
     ],
     [
-      "instability",
+      "trips",
       1
     ],
     [
-      "looms",
+      "takaichi",
+      1
+    ],
+    [
+      "trade",
+      1
+    ],
+    [
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "thailand",
+      "intervention",
       1,
       2.0
     ],
     [
-      "votes",
+      "trips",
       1,
       2.0
     ],
     [
-      "three-way",
-      1,
-      2.0
-    ],
-    [
-      "race",
-      1,
-      2.0
-    ],
-    [
-      "instability",
-      1,
-      2.0
-    ],
-    [
-      "looms",
-      1,
-      2.0
-    ],
-    [
-      "pay",
+      "strengthens",
       1,
       1.88
     ],
     [
-      "host",
+      "yen",
       1,
-      1.88
+      1.76
     ],
     [
-      "savannah",
+      "takaichi",
       1,
-      1.88
+      1.67
     ],
     [
-      "guthrie",
+      "risk",
       1,
-      1.88
+      1.3
+    ],
+    [
+      "trade",
+      1,
+      1.2
+    ],
+    [
+      "reuters",
+      1,
+      0.08
     ]
   ]
 }
