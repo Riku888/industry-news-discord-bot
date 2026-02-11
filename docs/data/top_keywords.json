@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-10",
+  "date": "2026-02-11",
   "top_today": [
     [
       "reuters",
       4
     ],
     [
-      "after",
-      2
-    ],
-    [
-      "salesforce",
+      "prosecutors",
       1
     ],
     [
-      "cuts",
+      "unsuccessful",
       1
     ],
     [
-      "fewer",
+      "attempt",
       1
     ],
     [
-      "than",
+      "indict",
       1
     ],
     [
-      "000",
+      "democratic",
       1
     ],
     [
-      "jobs",
+      "lawmakers",
       1
     ],
     [
-      "business",
+      "chinese",
       1
     ],
     [
-      "insider",
+      "captain",
       1
     ],
     [
-      "reports",
+      "pleads",
       1
     ],
     [
-      "dollar",
+      "not",
       1
     ],
     [
-      "drifts",
+      "guilty",
       1
     ],
     [
-      "lower",
+      "baltic",
       1
     ],
     [
-      "ahead",
+      "sea",
       1
     ],
     [
-      "data",
+      "cable",
       1
     ],
     [
-      "yen",
+      "damage",
       1
     ],
     [
-      "perks",
+      "house",
       1
     ],
     [
-      "election",
+      "rejects",
       1
     ],
     [
-      "china",
+      "ban",
+      1
+    ],
+    [
+      "challenges",
       1
     ]
   ],
   "rising": [
     [
-      "salesforce",
+      "unsuccessful",
       1,
       2.0
     ],
     [
-      "fewer",
+      "attempt",
       1,
       2.0
     ],
     [
-      "drifts",
+      "indict",
       1,
       2.0
     ],
     [
-      "perks",
+      "baltic",
       1,
       2.0
     ],
     [
-      "jobs",
+      "sea",
+      1,
+      2.0
+    ],
+    [
+      "cable",
+      1,
+      2.0
+    ],
+    [
+      "rejects",
+      1,
+      2.0
+    ],
+    [
+      "challenges",
+      1,
+      2.0
+    ],
+    [
+      "prosecutors",
       1,
       1.88
     ],
     [
-      "business",
+      "democratic",
       1,
       1.88
-    ],
-    [
-      "insider",
-      1,
-      1.88
-    ],
-    [
-      "lower",
-      1,
-      1.88
-    ],
-    [
-      "cuts",
-      1,
-      1.67
-    ],
-    [
-      "yen",
-      1,
-      1.67
     ]
   ]
 }
