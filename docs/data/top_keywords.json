@@ -1,135 +1,135 @@
 {
-  "date": "2026-02-11",
+  "date": "2026-02-12",
   "top_today": [
     [
       "reuters",
-      4
+      5
     ],
     [
-      "prosecutors",
+      "apple",
+      3
+    ],
+    [
+      "indian",
+      2
+    ],
+    [
+      "concerns",
+      2
+    ],
+    [
+      "used",
+      2
+    ],
+    [
+      "fixes",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "markets",
       1
     ],
     [
-      "unsuccessful",
+      "sense",
       1
     ],
     [
-      "attempt",
+      "opportunity",
       1
     ],
     [
-      "indict",
+      "erratic",
       1
     ],
     [
-      "democratic",
+      "spurs",
       1
     ],
     [
-      "lawmakers",
+      "middle",
       1
     ],
     [
-      "chinese",
+      "powers",
       1
     ],
     [
-      "captain",
+      "into",
       1
     ],
     [
-      "pleads",
+      "action",
       1
     ],
     [
-      "not",
+      "stocks",
       1
     ],
     [
-      "guilty",
+      "slide",
       1
     ],
     [
-      "baltic",
+      "over",
       1
     ],
     [
-      "sea",
-      1
-    ],
-    [
-      "cable",
-      1
-    ],
-    [
-      "damage",
-      1
-    ],
-    [
-      "house",
-      1
-    ],
-    [
-      "rejects",
-      1
-    ],
-    [
-      "ban",
-      1
-    ],
-    [
-      "challenges",
+      "amid",
       1
     ]
   ],
   "rising": [
     [
-      "unsuccessful",
+      "apple",
+      3,
+      4.74
+    ],
+    [
+      "indian",
+      2,
+      3.0
+    ],
+    [
+      "concerns",
+      2,
+      2.86
+    ],
+    [
+      "used",
+      2,
+      2.31
+    ],
+    [
+      "fixes",
+      2,
+      2.14
+    ],
+    [
+      "sense",
       1,
       2.0
     ],
     [
-      "attempt",
+      "opportunity",
       1,
       2.0
     ],
     [
-      "indict",
+      "erratic",
       1,
       2.0
     ],
     [
-      "baltic",
+      "powers",
       1,
       2.0
     ],
     [
-      "sea",
-      1,
-      2.0
-    ],
-    [
-      "cable",
-      1,
-      2.0
-    ],
-    [
-      "rejects",
-      1,
-      2.0
-    ],
-    [
-      "challenges",
-      1,
-      2.0
-    ],
-    [
-      "prosecutors",
-      1,
-      1.88
-    ],
-    [
-      "democratic",
+      "spurs",
       1,
       1.88
     ]
