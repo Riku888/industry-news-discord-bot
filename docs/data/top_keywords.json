@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-12",
+  "date": "2026-02-13",
   "top_today": [
     [
       "reuters",
-      5
-    ],
-    [
-      "apple",
       3
     ],
     [
-      "indian",
+      "says",
       2
     ],
     [
-      "concerns",
-      2
-    ],
-    [
-      "used",
-      2
-    ],
-    [
-      "fixes",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
-    [
-      "markets",
+      "fed",
       1
     ],
     [
-      "sense",
+      "policy",
       1
     ],
     [
-      "opportunity",
+      "tighter",
       1
     ],
     [
-      "erratic",
+      "than",
       1
     ],
     [
-      "spurs",
+      "thought",
       1
     ],
     [
-      "middle",
+      "inflation",
       1
     ],
     [
-      "powers",
+      "not",
       1
     ],
     [
-      "into",
+      "problem",
       1
     ],
     [
-      "action",
+      "miran",
       1
     ],
     [
-      "stocks",
+      "exclusive",
       1
     ],
     [
-      "slide",
+      "arizona",
       1
     ],
     [
-      "over",
+      "sheriff",
       1
     ],
     [
-      "amid",
+      "blocks",
+      1
+    ],
+    [
+      "fbi",
+      1
+    ],
+    [
+      "access",
+      1
+    ],
+    [
+      "evidence",
+      1
+    ],
+    [
+      "nancy",
+      1
+    ],
+    [
+      "guthrie",
       1
     ]
   ],
   "rising": [
     [
-      "apple",
-      3,
-      4.74
-    ],
-    [
-      "indian",
-      2,
-      3.0
-    ],
-    [
-      "concerns",
-      2,
-      2.86
-    ],
-    [
-      "used",
-      2,
-      2.31
-    ],
-    [
-      "fixes",
-      2,
-      2.14
-    ],
-    [
-      "sense",
+      "tighter",
       1,
       2.0
     ],
     [
-      "opportunity",
+      "thought",
       1,
       2.0
     ],
     [
-      "erratic",
+      "problem",
       1,
       2.0
     ],
     [
-      "powers",
+      "miran",
       1,
       2.0
     ],
     [
-      "spurs",
+      "nancy",
+      1,
+      2.0
+    ],
+    [
+      "sheriff",
       1,
       1.88
+    ],
+    [
+      "blocks",
+      1,
+      1.88
+    ],
+    [
+      "arizona",
+      1,
+      1.76
+    ],
+    [
+      "evidence",
+      1,
+      1.76
+    ],
+    [
+      "inflation",
+      1,
+      1.67
     ]
   ]
 }
