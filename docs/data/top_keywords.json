@@ -1,137 +1,79 @@
 {
-  "date": "2026-02-13",
+  "date": "2026-02-14",
   "top_today": [
     [
+      "anduril",
+      1
+    ],
+    [
+      "aims",
+      1
+    ],
+    [
+      "billion",
+      1
+    ],
+    [
+      "fundraising",
+      1
+    ],
+    [
+      "bloomberg",
+      1
+    ],
+    [
+      "news",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "fed",
-      1
-    ],
-    [
-      "policy",
-      1
-    ],
-    [
-      "tighter",
-      1
-    ],
-    [
-      "than",
-      1
-    ],
-    [
-      "thought",
-      1
-    ],
-    [
-      "inflation",
-      1
-    ],
-    [
-      "not",
-      1
-    ],
-    [
-      "problem",
-      1
-    ],
-    [
-      "miran",
-      1
-    ],
-    [
-      "exclusive",
-      1
-    ],
-    [
-      "arizona",
-      1
-    ],
-    [
-      "sheriff",
-      1
-    ],
-    [
-      "blocks",
-      1
-    ],
-    [
-      "fbi",
-      1
-    ],
-    [
-      "access",
-      1
-    ],
-    [
-      "evidence",
-      1
-    ],
-    [
-      "nancy",
-      1
-    ],
-    [
-      "guthrie",
       1
     ]
   ],
   "rising": [
     [
-      "tighter",
+      "anduril",
       1,
       2.0
     ],
     [
-      "thought",
+      "aims",
       1,
       2.0
     ],
     [
-      "problem",
+      "fundraising",
       1,
       2.0
     ],
     [
-      "miran",
+      "bloomberg",
       1,
-      2.0
+      1.58
     ],
     [
-      "nancy",
+      "billion",
       1,
-      2.0
+      1.15
     ],
     [
-      "sheriff",
+      "reports",
       1,
-      1.88
+      1.15
     ],
     [
-      "blocks",
+      "news",
       1,
-      1.88
+      1.07
     ],
     [
-      "arizona",
+      "reuters",
       1,
-      1.76
-    ],
-    [
-      "evidence",
-      1,
-      1.76
-    ],
-    [
-      "inflation",
-      1,
-      1.67
+      0.07
     ]
   ]
 }
