@@ -1,32 +1,36 @@
 {
-  "date": "2026-02-14",
+  "date": "2026-02-15",
   "top_today": [
     [
-      "anduril",
+      "china",
       1
     ],
     [
-      "aims",
+      "real",
       1
     ],
     [
-      "billion",
+      "threat",
       1
     ],
     [
-      "fundraising",
+      "taiwan",
       1
     ],
     [
-      "bloomberg",
+      "says",
       1
     ],
     [
-      "news",
+      "rebuff",
       1
     ],
     [
-      "reports",
+      "munich",
+      1
+    ],
+    [
+      "speech",
       1
     ],
     [
@@ -36,39 +40,44 @@
   ],
   "rising": [
     [
-      "anduril",
+      "rebuff",
       1,
       2.0
     ],
     [
-      "aims",
+      "real",
       1,
-      2.0
+      1.88
     ],
     [
-      "fundraising",
+      "speech",
       1,
-      2.0
+      1.88
     ],
     [
-      "bloomberg",
+      "munich",
       1,
-      1.58
+      1.76
     ],
     [
-      "billion",
+      "taiwan",
       1,
-      1.15
+      1.67
     ],
     [
-      "reports",
+      "threat",
       1,
-      1.15
+      1.25
     ],
     [
-      "news",
+      "china",
       1,
-      1.07
+      0.71
+    ],
+    [
+      "says",
+      1,
+      0.33
     ],
     [
       "reuters",
