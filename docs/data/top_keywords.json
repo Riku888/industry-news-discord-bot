@@ -1,88 +1,137 @@
 {
-  "date": "2026-02-15",
+  "date": "2026-02-16",
   "top_today": [
     [
-      "china",
-      1
-    ],
-    [
-      "real",
-      1
-    ],
-    [
-      "threat",
-      1
-    ],
-    [
-      "taiwan",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "rebuff",
-      1
-    ],
-    [
-      "munich",
-      1
-    ],
-    [
-      "speech",
-      1
-    ],
-    [
       "reuters",
+      3
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "alleged",
+      1
+    ],
+    [
+      "bondi",
+      1
+    ],
+    [
+      "beach",
+      1
+    ],
+    [
+      "gunman",
+      1
+    ],
+    [
+      "makes",
+      1
+    ],
+    [
+      "first",
+      1
+    ],
+    [
+      "court",
+      1
+    ],
+    [
+      "appearance",
+      1
+    ],
+    [
+      "japan",
+      1
+    ],
+    [
+      "fragile",
+      1
+    ],
+    [
+      "economic",
+      1
+    ],
+    [
+      "recovery",
+      1
+    ],
+    [
+      "poses",
+      1
+    ],
+    [
+      "early",
+      1
+    ],
+    [
+      "test",
+      1
+    ],
+    [
+      "takaichi",
+      1
+    ],
+    [
+      "india",
       1
     ]
   ],
   "rising": [
     [
-      "rebuff",
+      "bondi",
       1,
       2.0
     ],
     [
-      "real",
+      "beach",
+      1,
+      2.0
+    ],
+    [
+      "gunman",
+      1,
+      2.0
+    ],
+    [
+      "appearance",
+      1,
+      2.0
+    ],
+    [
+      "fragile",
+      1,
+      2.0
+    ],
+    [
+      "poses",
+      1,
+      2.0
+    ],
+    [
+      "makes",
       1,
       1.88
     ],
     [
-      "speech",
+      "early",
       1,
       1.88
     ],
     [
-      "munich",
+      "test",
+      1,
+      1.88
+    ],
+    [
+      "economic",
       1,
       1.76
-    ],
-    [
-      "taiwan",
-      1,
-      1.67
-    ],
-    [
-      "threat",
-      1,
-      1.25
-    ],
-    [
-      "china",
-      1,
-      0.71
-    ],
-    [
-      "says",
-      1,
-      0.33
-    ],
-    [
-      "reuters",
-      1,
-      0.07
     ]
   ]
 }
