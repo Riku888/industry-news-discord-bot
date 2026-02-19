@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-18",
+  "date": "2026-02-19",
   "top_today": [
     [
       "reuters",
-      6
+      3
     ],
     [
-      "after",
-      2
+      "south",
+      1
+    ],
+    [
+      "korea",
+      1
+    ],
+    [
+      "braces",
+      1
+    ],
+    [
+      "verdict",
+      1
     ],
     [
       "president",
-      2
-    ],
-    [
-      "chinese",
-      2
-    ],
-    [
-      "prominent",
       1
     ],
     [
-      "angolan",
+      "yoon",
       1
     ],
     [
-      "journalist",
+      "insurrection",
       1
     ],
     [
-      "targeted",
+      "trial",
       1
     ],
     [
-      "predator",
+      "morning",
       1
     ],
     [
-      "spyware",
+      "bid",
       1
     ],
     [
-      "indian",
+      "asia",
       1
     ],
     [
-      "data",
+      "holidays",
       1
     ],
     [
-      "center",
+      "iran",
       1
     ],
     [
-      "firm",
+      "work",
       1
     ],
     [
-      "yotta",
+      "avert",
       1
     ],
     [
-      "build",
+      "conflict",
       1
     ],
     [
-      "billion",
+      "vietnam",
       1
     ],
     [
-      "hub",
+      "sun",
       1
     ],
     [
-      "nvidia",
-      1
-    ],
-    [
-      "blackwell",
+      "phuquoc",
       1
     ]
   ],
   "rising": [
     [
-      "president",
-      2,
-      2.73
-    ],
-    [
-      "chinese",
-      2,
-      2.4
-    ],
-    [
-      "angolan",
+      "verdict",
       1,
       2.0
     ],
     [
-      "journalist",
+      "yoon",
       1,
       2.0
     ],
     [
-      "predator",
+      "insurrection",
       1,
       2.0
     ],
     [
-      "yotta",
+      "morning",
       1,
       2.0
     ],
     [
-      "hub",
+      "bid",
       1,
       2.0
     ],
     [
-      "blackwell",
+      "holidays",
       1,
       2.0
     ],
     [
-      "prominent",
+      "avert",
       1,
-      1.88
+      2.0
     ],
     [
-      "center",
+      "vietnam",
       1,
-      1.76
+      2.0
+    ],
+    [
+      "sun",
+      1,
+      2.0
+    ],
+    [
+      "phuquoc",
+      1,
+      2.0
     ]
   ]
 }
