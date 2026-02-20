@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-19",
+  "date": "2026-02-20",
   "top_today": [
     [
       "reuters",
-      3
+      4
     ],
     [
-      "south",
+      "moment",
+      2
+    ],
+    [
+      "nvidia",
       1
     ],
     [
-      "korea",
+      "close",
       1
     ],
     [
-      "braces",
+      "investing",
       1
     ],
     [
-      "verdict",
+      "billion",
       1
     ],
     [
-      "president",
+      "openai",
       1
     ],
     [
-      "yoon",
+      "mega",
       1
     ],
     [
-      "insurrection",
+      "funding",
       1
     ],
     [
-      "trial",
+      "round",
       1
     ],
     [
-      "morning",
+      "source",
       1
     ],
     [
-      "bid",
+      "says",
       1
     ],
     [
-      "asia",
+      "japan",
       1
     ],
     [
-      "holidays",
+      "core",
       1
     ],
     [
-      "iran",
+      "inflation",
       1
     ],
     [
-      "work",
+      "slows",
       1
     ],
     [
-      "avert",
+      "2-year",
       1
     ],
     [
-      "conflict",
+      "low",
       1
     ],
     [
-      "vietnam",
+      "complicates",
       1
     ],
     [
-      "sun",
-      1
-    ],
-    [
-      "phuquoc",
+      "boj",
       1
     ]
   ],
   "rising": [
     [
-      "verdict",
+      "moment",
+      2,
+      4.0
+    ],
+    [
+      "close",
       1,
       2.0
     ],
     [
-      "yoon",
+      "investing",
       1,
       2.0
     ],
     [
-      "insurrection",
+      "mega",
       1,
       2.0
     ],
     [
-      "morning",
+      "slows",
       1,
       2.0
     ],
     [
-      "bid",
+      "2-year",
       1,
       2.0
     ],
     [
-      "holidays",
+      "complicates",
       1,
       2.0
     ],
     [
-      "avert",
+      "round",
       1,
-      2.0
+      1.88
     ],
     [
-      "vietnam",
+      "core",
       1,
-      2.0
+      1.88
     ],
     [
-      "sun",
+      "boj",
       1,
-      2.0
-    ],
-    [
-      "phuquoc",
-      1,
-      2.0
+      1.88
     ]
   ]
 }
