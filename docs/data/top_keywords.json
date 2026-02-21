@@ -1,137 +1,97 @@
 {
-  "date": "2026-02-20",
+  "date": "2026-02-21",
   "top_today": [
     [
+      "toymaker",
+      1
+    ],
+    [
+      "assesses",
+      1
+    ],
+    [
+      "next",
+      1
+    ],
+    [
+      "steps",
+      1
+    ],
+    [
+      "supreme",
+      1
+    ],
+    [
+      "court",
+      1
+    ],
+    [
+      "tariff",
+      1
+    ],
+    [
+      "refund",
+      1
+    ],
+    [
+      "battle",
+      1
+    ],
+    [
       "reuters",
-      4
-    ],
-    [
-      "moment",
-      2
-    ],
-    [
-      "nvidia",
-      1
-    ],
-    [
-      "close",
-      1
-    ],
-    [
-      "investing",
-      1
-    ],
-    [
-      "billion",
-      1
-    ],
-    [
-      "openai",
-      1
-    ],
-    [
-      "mega",
-      1
-    ],
-    [
-      "funding",
-      1
-    ],
-    [
-      "round",
-      1
-    ],
-    [
-      "source",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "japan",
-      1
-    ],
-    [
-      "core",
-      1
-    ],
-    [
-      "inflation",
-      1
-    ],
-    [
-      "slows",
-      1
-    ],
-    [
-      "2-year",
-      1
-    ],
-    [
-      "low",
-      1
-    ],
-    [
-      "complicates",
-      1
-    ],
-    [
-      "boj",
       1
     ]
   ],
   "rising": [
     [
-      "moment",
-      2,
-      4.0
-    ],
-    [
-      "close",
+      "toymaker",
       1,
       2.0
     ],
     [
-      "investing",
+      "assesses",
       1,
       2.0
     ],
     [
-      "mega",
+      "refund",
       1,
       2.0
     ],
     [
-      "slows",
+      "battle",
       1,
       2.0
     ],
     [
-      "2-year",
-      1,
-      2.0
-    ],
-    [
-      "complicates",
-      1,
-      2.0
-    ],
-    [
-      "round",
+      "steps",
       1,
       1.88
     ],
     [
-      "core",
+      "supreme",
       1,
       1.88
     ],
     [
-      "boj",
+      "tariff",
       1,
       1.88
+    ],
+    [
+      "next",
+      1,
+      1.58
+    ],
+    [
+      "court",
+      1,
+      1.5
+    ],
+    [
+      "reuters",
+      1,
+      0.07
     ]
   ]
 }
