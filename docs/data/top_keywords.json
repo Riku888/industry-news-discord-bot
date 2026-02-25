@@ -1,137 +1,137 @@
 {
-  "date": "2026-02-24",
+  "date": "2026-02-25",
   "top_today": [
     [
       "reuters",
       2
     ],
     [
-      "air",
+      "asia",
       1
     ],
     [
-      "canada",
+      "markets",
       1
     ],
     [
-      "resume",
+      "jump",
       1
     ],
     [
-      "flights",
+      "better",
       1
     ],
     [
-      "mexico",
+      "sentiment",
       1
     ],
     [
-      "puerto",
+      "tech",
       1
     ],
     [
-      "vallarta",
+      "stocks",
       1
     ],
     [
-      "tuesday",
+      "lead",
       1
     ],
     [
-      "meta",
+      "gains",
       1
     ],
     [
-      "executive",
+      "australia",
       1
     ],
     [
-      "warned",
+      "core",
       1
     ],
     [
-      "facebook",
+      "inflation",
       1
     ],
     [
-      "messenger",
+      "hits",
       1
     ],
     [
-      "encryption",
+      "16-month",
       1
     ],
     [
-      "plan",
+      "high",
       1
     ],
     [
-      "irresponsible",
+      "raises",
       1
     ],
     [
-      "shows",
+      "bets",
       1
     ],
     [
-      "court",
+      "may",
       1
     ],
     [
-      "filing",
+      "rate",
       1
     ]
   ],
   "rising": [
     [
-      "executive",
+      "sentiment",
       1,
       2.0
     ],
     [
-      "facebook",
+      "16-month",
       1,
       2.0
     ],
     [
-      "messenger",
-      1,
-      2.0
-    ],
-    [
-      "irresponsible",
-      1,
-      2.0
-    ],
-    [
-      "filing",
-      1,
-      2.0
-    ],
-    [
-      "resume",
+      "jump",
       1,
       1.88
     ],
     [
-      "puerto",
-      1,
-      1.88
-    ],
-    [
-      "vallarta",
-      1,
-      1.88
-    ],
-    [
-      "encryption",
-      1,
-      1.88
-    ],
-    [
-      "flights",
+      "asia",
       1,
       1.76
+    ],
+    [
+      "lead",
+      1,
+      1.76
+    ],
+    [
+      "gains",
+      1,
+      1.76
+    ],
+    [
+      "core",
+      1,
+      1.76
+    ],
+    [
+      "better",
+      1,
+      1.67
+    ],
+    [
+      "australia",
+      1,
+      1.67
+    ],
+    [
+      "bets",
+      1,
+      1.67
     ]
   ]
 }
