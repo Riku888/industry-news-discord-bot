@@ -1,76 +1,24 @@
 {
-  "date": "2026-02-25",
+  "date": "2026-02-26",
   "top_today": [
     [
       "reuters",
       2
     ],
     [
-      "asia",
+      "amazon",
       1
     ],
     [
-      "markets",
+      "billion",
       1
     ],
     [
-      "jump",
+      "openai",
       1
     ],
     [
-      "better",
-      1
-    ],
-    [
-      "sentiment",
-      1
-    ],
-    [
-      "tech",
-      1
-    ],
-    [
-      "stocks",
-      1
-    ],
-    [
-      "lead",
-      1
-    ],
-    [
-      "gains",
-      1
-    ],
-    [
-      "australia",
-      1
-    ],
-    [
-      "core",
-      1
-    ],
-    [
-      "inflation",
-      1
-    ],
-    [
-      "hits",
-      1
-    ],
-    [
-      "16-month",
-      1
-    ],
-    [
-      "high",
-      1
-    ],
-    [
-      "raises",
-      1
-    ],
-    [
-      "bets",
+      "investment",
       1
     ],
     [
@@ -78,58 +26,110 @@
       1
     ],
     [
-      "rate",
+      "depend",
+      1
+    ],
+    [
+      "ipo",
+      1
+    ],
+    [
+      "agi",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
+      "insight",
+      1
+    ],
+    [
+      "how",
+      1
+    ],
+    [
+      "china",
+      1
+    ],
+    [
+      "masking",
+      1
+    ],
+    [
+      "drone",
+      1
+    ],
+    [
+      "flights",
+      1
+    ],
+    [
+      "potential",
+      1
+    ],
+    [
+      "taiwan",
+      1
+    ],
+    [
+      "rehearsal",
       1
     ]
   ],
   "rising": [
     [
-      "sentiment",
+      "investment",
       1,
       2.0
     ],
     [
-      "16-month",
+      "ipo",
       1,
       2.0
     ],
     [
-      "jump",
+      "agi",
+      1,
+      2.0
+    ],
+    [
+      "insight",
+      1,
+      2.0
+    ],
+    [
+      "masking",
+      1,
+      2.0
+    ],
+    [
+      "rehearsal",
+      1,
+      2.0
+    ],
+    [
+      "depend",
       1,
       1.88
     ],
     [
-      "asia",
+      "information",
       1,
       1.76
     ],
     [
-      "lead",
+      "potential",
       1,
       1.76
     ],
     [
-      "gains",
-      1,
-      1.76
-    ],
-    [
-      "core",
-      1,
-      1.76
-    ],
-    [
-      "better",
-      1,
-      1.67
-    ],
-    [
-      "australia",
-      1,
-      1.67
-    ],
-    [
-      "bets",
+      "amazon",
       1,
       1.67
     ]
