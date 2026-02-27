@@ -1,137 +1,121 @@
 {
-  "date": "2026-02-26",
+  "date": "2026-02-27",
   "top_today": [
     [
-      "reuters",
+      "pakistan",
       2
     ],
     [
-      "amazon",
-      1
+      "afghan",
+      2
     ],
     [
-      "billion",
-      1
-    ],
-    [
-      "openai",
-      1
-    ],
-    [
-      "investment",
-      1
-    ],
-    [
-      "may",
-      1
-    ],
-    [
-      "depend",
-      1
-    ],
-    [
-      "ipo",
-      1
-    ],
-    [
-      "agi",
-      1
-    ],
-    [
-      "information",
-      1
-    ],
-    [
-      "reports",
-      1
-    ],
-    [
-      "insight",
-      1
+      "reuters",
+      2
     ],
     [
       "how",
       1
     ],
     [
-      "china",
+      "taliban",
       1
     ],
     [
-      "masking",
+      "militaries",
       1
     ],
     [
-      "drone",
+      "stack",
       1
     ],
     [
-      "flights",
+      "tensions",
       1
     ],
     [
-      "potential",
+      "flare",
       1
     ],
     [
-      "taiwan",
+      "bombs",
       1
     ],
     [
-      "rehearsal",
+      "targets",
+      1
+    ],
+    [
+      "cities",
+      1
+    ],
+    [
+      "minister",
+      1
+    ],
+    [
+      "calls",
+      1
+    ],
+    [
+      "open",
+      1
+    ],
+    [
+      "war",
       1
     ]
   ],
   "rising": [
     [
-      "investment",
+      "afghan",
+      2,
+      4.0
+    ],
+    [
+      "pakistan",
+      2,
+      3.53
+    ],
+    [
+      "taliban",
       1,
       2.0
     ],
     [
-      "ipo",
+      "militaries",
       1,
       2.0
     ],
     [
-      "agi",
+      "stack",
       1,
       2.0
     ],
     [
-      "insight",
+      "flare",
       1,
       2.0
     ],
     [
-      "masking",
+      "bombs",
       1,
       2.0
     ],
     [
-      "rehearsal",
+      "cities",
       1,
       2.0
     ],
     [
-      "depend",
-      1,
-      1.88
-    ],
-    [
-      "information",
-      1,
-      1.76
-    ],
-    [
-      "potential",
-      1,
-      1.76
-    ],
-    [
-      "amazon",
+      "war",
       1,
       1.67
+    ],
+    [
+      "calls",
+      1,
+      1.58
     ]
   ]
 }
