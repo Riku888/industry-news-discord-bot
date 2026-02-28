@@ -1,52 +1,36 @@
 {
-  "date": "2026-02-27",
+  "date": "2026-02-28",
   "top_today": [
     [
-      "pakistan",
-      2
-    ],
-    [
-      "afghan",
-      2
-    ],
-    [
-      "reuters",
-      2
-    ],
-    [
-      "how",
+      "israel",
       1
     ],
     [
-      "taliban",
+      "has",
       1
     ],
     [
-      "militaries",
+      "launched",
       1
     ],
     [
-      "stack",
+      "preventative",
       1
     ],
     [
-      "tensions",
+      "attack",
       1
     ],
     [
-      "flare",
+      "against",
       1
     ],
     [
-      "bombs",
+      "iran",
       1
     ],
     [
-      "targets",
-      1
-    ],
-    [
-      "cities",
+      "defence",
       1
     ],
     [
@@ -54,68 +38,64 @@
       1
     ],
     [
-      "calls",
+      "says",
       1
     ],
     [
-      "open",
-      1
-    ],
-    [
-      "war",
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "afghan",
-      2,
-      4.0
-    ],
-    [
-      "pakistan",
-      2,
-      3.53
-    ],
-    [
-      "taliban",
+      "launched",
       1,
       2.0
     ],
     [
-      "militaries",
+      "preventative",
       1,
       2.0
     ],
     [
-      "stack",
+      "defence",
       1,
-      2.0
+      1.88
     ],
     [
-      "flare",
+      "has",
       1,
-      2.0
+      1.76
     ],
     [
-      "bombs",
+      "israel",
       1,
-      2.0
+      1.5
     ],
     [
-      "cities",
+      "against",
       1,
-      2.0
+      1.43
     ],
     [
-      "war",
+      "minister",
       1,
-      1.67
+      1.07
     ],
     [
-      "calls",
+      "iran",
       1,
-      1.58
+      0.67
+    ],
+    [
+      "attack",
+      1,
+      0.62
+    ],
+    [
+      "says",
+      1,
+      0.32
     ]
   ]
 }
