@@ -1,28 +1,24 @@
 {
-  "date": "2026-02-28",
+  "date": "2026-03-01",
   "top_today": [
     [
-      "israel",
+      "strikes",
+      2
+    ],
+    [
+      "leader",
+      2
+    ],
+    [
+      "reuters",
+      2
+    ],
+    [
+      "more",
       1
     ],
     [
-      "has",
-      1
-    ],
-    [
-      "launched",
-      1
-    ],
-    [
-      "preventative",
-      1
-    ],
-    [
-      "attack",
-      1
-    ],
-    [
-      "against",
+      "aimed",
       1
     ],
     [
@@ -30,72 +26,108 @@
       1
     ],
     [
-      "defence",
+      "after",
       1
     ],
     [
-      "minister",
+      "israeli",
       1
     ],
     [
-      "says",
+      "assault",
       1
     ],
     [
-      "reuters",
+      "kills",
+      1
+    ],
+    [
+      "supreme",
+      1
+    ],
+    [
+      "israel",
+      1
+    ],
+    [
+      "launched",
+      1
+    ],
+    [
+      "iranian",
+      1
+    ],
+    [
+      "met",
+      1
+    ],
+    [
+      "inner",
+      1
+    ],
+    [
+      "circle",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
       1
     ]
   ],
   "rising": [
     [
-      "launched",
+      "leader",
+      2,
+      3.16
+    ],
+    [
+      "strikes",
+      2,
+      2.07
+    ],
+    [
+      "aimed",
       1,
       2.0
     ],
     [
-      "preventative",
+      "inner",
       1,
       2.0
     ],
     [
-      "defence",
+      "circle",
+      1,
+      2.0
+    ],
+    [
+      "assault",
       1,
       1.88
     ],
     [
-      "has",
+      "kills",
       1,
-      1.76
+      1.88
     ],
     [
-      "israel",
+      "launched",
       1,
-      1.5
+      1.88
     ],
     [
-      "against",
+      "met",
+      1,
+      1.88
+    ],
+    [
+      "israeli",
       1,
       1.43
-    ],
-    [
-      "minister",
-      1,
-      1.07
-    ],
-    [
-      "iran",
-      1,
-      0.67
-    ],
-    [
-      "attack",
-      1,
-      0.62
-    ],
-    [
-      "says",
-      1,
-      0.32
     ]
   ]
 }
