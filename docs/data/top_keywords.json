@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-04",
+  "date": "2026-03-05",
   "top_today": [
     [
       "reuters",
-      4
+      2
     ],
     [
-      "defense",
+      "jet",
       1
     ],
     [
-      "contractors",
+      "fuel",
       1
     ],
     [
-      "like",
+      "huge",
       1
     ],
     [
-      "lockheed",
+      "price",
       1
     ],
     [
-      "seen",
+      "surge",
       1
     ],
     [
-      "removing",
+      "points",
       1
     ],
     [
-      "anthropic",
+      "coming",
       1
     ],
     [
-      "after",
+      "pain",
       1
     ],
     [
-      "trump",
+      "iran",
       1
     ],
     [
-      "ban",
+      "war",
       1
     ],
     [
-      "ecuadorean",
+      "china",
       1
     ],
     [
-      "forces",
+      "build",
       1
     ],
     [
-      "take",
+      "birth-friendly",
       1
     ],
     [
-      "action",
+      "society",
       1
     ],
     [
-      "ecuador",
+      "refine",
       1
     ],
     [
-      "combat",
+      "social",
       1
     ],
     [
-      "drug",
+      "security",
       1
     ],
     [
-      "trafficking",
+      "system",
       1
     ],
     [
-      "kuwaiti",
+      "nation-state",
       1
     ]
   ],
   "rising": [
     [
-      "contractors",
+      "coming",
       1,
       2.0
     ],
     [
-      "like",
+      "pain",
       1,
       2.0
     ],
     [
-      "lockheed",
+      "birth-friendly",
       1,
       2.0
     ],
     [
-      "seen",
+      "refine",
       1,
       2.0
     ],
     [
-      "removing",
-      1,
-      2.0
-    ],
-    [
-      "ecuadorean",
-      1,
-      2.0
-    ],
-    [
-      "ecuador",
-      1,
-      2.0
-    ],
-    [
-      "combat",
-      1,
-      2.0
-    ],
-    [
-      "kuwaiti",
-      1,
-      2.0
-    ],
-    [
-      "trafficking",
+      "huge",
       1,
       1.88
+    ],
+    [
+      "price",
+      1,
+      1.88
+    ],
+    [
+      "points",
+      1,
+      1.88
+    ],
+    [
+      "society",
+      1,
+      1.88
+    ],
+    [
+      "fuel",
+      1,
+      1.76
+    ],
+    [
+      "jet",
+      1,
+      1.67
     ]
   ]
 }
