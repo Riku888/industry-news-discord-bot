@@ -1,44 +1,60 @@
 {
-  "date": "2026-03-05",
+  "date": "2026-03-06",
   "top_today": [
     [
+      "uae",
+      1
+    ],
+    [
+      "explores",
+      1
+    ],
+    [
+      "freezing",
+      1
+    ],
+    [
+      "iranian",
+      1
+    ],
+    [
+      "assets",
+      1
+    ],
+    [
+      "punish",
+      1
+    ],
+    [
+      "tehran",
+      1
+    ],
+    [
+      "attacks",
+      1
+    ],
+    [
+      "wsj",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "jet",
       1
     ],
     [
-      "fuel",
+      "iowa",
       1
     ],
     [
-      "huge",
+      "governor",
       1
     ],
     [
-      "price",
-      1
-    ],
-    [
-      "surge",
-      1
-    ],
-    [
-      "points",
-      1
-    ],
-    [
-      "coming",
-      1
-    ],
-    [
-      "pain",
-      1
-    ],
-    [
-      "iran",
+      "believes",
       1
     ],
     [
@@ -46,92 +62,76 @@
       1
     ],
     [
-      "china",
+      "iran",
       1
     ],
     [
-      "build",
+      "despite",
       1
     ],
     [
-      "birth-friendly",
+      "sacrifice",
       1
     ],
     [
-      "society",
+      "state",
       1
     ],
     [
-      "refine",
-      1
-    ],
-    [
-      "social",
-      1
-    ],
-    [
-      "security",
-      1
-    ],
-    [
-      "system",
-      1
-    ],
-    [
-      "nation-state",
+      "soldiers",
       1
     ]
   ],
   "rising": [
     [
-      "coming",
+      "explores",
       1,
       2.0
     ],
     [
-      "pain",
+      "freezing",
       1,
       2.0
     ],
     [
-      "birth-friendly",
+      "assets",
       1,
       2.0
     ],
     [
-      "refine",
+      "punish",
       1,
       2.0
     ],
     [
-      "huge",
+      "iowa",
+      1,
+      2.0
+    ],
+    [
+      "governor",
+      1,
+      2.0
+    ],
+    [
+      "believes",
+      1,
+      2.0
+    ],
+    [
+      "sacrifice",
+      1,
+      2.0
+    ],
+    [
+      "wsj",
       1,
       1.88
     ],
     [
-      "price",
+      "despite",
       1,
       1.88
-    ],
-    [
-      "points",
-      1,
-      1.88
-    ],
-    [
-      "society",
-      1,
-      1.88
-    ],
-    [
-      "fuel",
-      1,
-      1.76
-    ],
-    [
-      "jet",
-      1,
-      1.67
     ]
   ]
 }
