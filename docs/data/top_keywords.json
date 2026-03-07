@@ -1,40 +1,44 @@
 {
-  "date": "2026-03-06",
+  "date": "2026-03-07",
   "top_today": [
     [
-      "uae",
+      "novo",
       1
     ],
     [
-      "explores",
+      "hims",
       1
     ],
     [
-      "freezing",
+      "sell",
       1
     ],
     [
-      "iranian",
+      "obesity",
       1
     ],
     [
-      "assets",
+      "drugs",
       1
     ],
     [
-      "punish",
+      "together",
       1
     ],
     [
-      "tehran",
+      "feud",
       1
     ],
     [
-      "attacks",
+      "ends",
       1
     ],
     [
-      "wsj",
+      "bloomberg",
+      1
+    ],
+    [
+      "news",
       1
     ],
     [
@@ -44,94 +48,58 @@
     [
       "reuters",
       1
-    ],
-    [
-      "iowa",
-      1
-    ],
-    [
-      "governor",
-      1
-    ],
-    [
-      "believes",
-      1
-    ],
-    [
-      "war",
-      1
-    ],
-    [
-      "iran",
-      1
-    ],
-    [
-      "despite",
-      1
-    ],
-    [
-      "sacrifice",
-      1
-    ],
-    [
-      "state",
-      1
-    ],
-    [
-      "soldiers",
-      1
     ]
   ],
   "rising": [
     [
-      "explores",
+      "obesity",
       1,
       2.0
     ],
     [
-      "freezing",
+      "together",
       1,
       2.0
     ],
     [
-      "assets",
-      1,
-      2.0
-    ],
-    [
-      "punish",
-      1,
-      2.0
-    ],
-    [
-      "iowa",
-      1,
-      2.0
-    ],
-    [
-      "governor",
-      1,
-      2.0
-    ],
-    [
-      "believes",
-      1,
-      2.0
-    ],
-    [
-      "sacrifice",
-      1,
-      2.0
-    ],
-    [
-      "wsj",
+      "drugs",
       1,
       1.88
     ],
     [
-      "despite",
+      "feud",
       1,
       1.88
+    ],
+    [
+      "hims",
+      1,
+      1.76
+    ],
+    [
+      "sell",
+      1,
+      1.76
+    ],
+    [
+      "ends",
+      1,
+      1.76
+    ],
+    [
+      "novo",
+      1,
+      1.67
+    ],
+    [
+      "bloomberg",
+      1,
+      1.67
+    ],
+    [
+      "news",
+      1,
+      0.86
     ]
   ]
 }
