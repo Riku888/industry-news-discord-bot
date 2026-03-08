@@ -1,105 +1,137 @@
 {
-  "date": "2026-03-07",
+  "date": "2026-03-08",
   "top_today": [
     [
-      "novo",
-      1
-    ],
-    [
-      "hims",
-      1
-    ],
-    [
-      "sell",
-      1
-    ],
-    [
-      "obesity",
-      1
-    ],
-    [
-      "drugs",
-      1
-    ],
-    [
-      "together",
-      1
-    ],
-    [
-      "feud",
-      1
-    ],
-    [
-      "ends",
-      1
-    ],
-    [
-      "bloomberg",
-      1
-    ],
-    [
-      "news",
-      1
-    ],
-    [
-      "reports",
-      1
-    ],
-    [
       "reuters",
+      2
+    ],
+    [
+      "trump",
+      1
+    ],
+    [
+      "rejects",
+      1
+    ],
+    [
+      "settling",
+      1
+    ],
+    [
+      "iran",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "raises",
+      1
+    ],
+    [
+      "prospect",
+      1
+    ],
+    [
+      "killing",
+      1
+    ],
+    [
+      "all",
+      1
+    ],
+    [
+      "its",
+      1
+    ],
+    [
+      "potential",
+      1
+    ],
+    [
+      "leaders",
+      1
+    ],
+    [
+      "mclaren",
+      1
+    ],
+    [
+      "piastri",
+      1
+    ],
+    [
+      "crashes",
+      1
+    ],
+    [
+      "out",
+      1
+    ],
+    [
+      "before",
+      1
+    ],
+    [
+      "australian",
+      1
+    ],
+    [
+      "grand",
       1
     ]
   ],
   "rising": [
     [
-      "obesity",
+      "settling",
       1,
       2.0
     ],
     [
-      "together",
+      "prospect",
       1,
       2.0
     ],
     [
-      "drugs",
+      "leaders",
+      1,
+      2.0
+    ],
+    [
+      "mclaren",
+      1,
+      2.0
+    ],
+    [
+      "piastri",
+      1,
+      2.0
+    ],
+    [
+      "crashes",
+      1,
+      2.0
+    ],
+    [
+      "grand",
+      1,
+      2.0
+    ],
+    [
+      "australian",
       1,
       1.88
     ],
     [
-      "feud",
-      1,
-      1.88
-    ],
-    [
-      "hims",
+      "rejects",
       1,
       1.76
     ],
     [
-      "sell",
+      "killing",
       1,
       1.76
-    ],
-    [
-      "ends",
-      1,
-      1.76
-    ],
-    [
-      "novo",
-      1,
-      1.67
-    ],
-    [
-      "bloomberg",
-      1,
-      1.67
-    ],
-    [
-      "news",
-      1,
-      0.86
     ]
   ]
 }
