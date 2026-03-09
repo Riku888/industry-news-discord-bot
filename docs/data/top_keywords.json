@@ -1,135 +1,135 @@
 {
-  "date": "2026-03-08",
+  "date": "2026-03-09",
   "top_today": [
     [
       "reuters",
-      2
-    ],
-    [
-      "trump",
-      1
-    ],
-    [
-      "rejects",
-      1
-    ],
-    [
-      "settling",
-      1
+      4
     ],
     [
       "iran",
+      3
+    ],
+    [
+      "oil",
+      2
+    ],
+    [
+      "khamenei",
       1
     ],
     [
-      "war",
+      "hardline",
       1
     ],
     [
-      "raises",
+      "son",
       1
     ],
     [
-      "prospect",
+      "mojtaba",
       1
     ],
     [
-      "killing",
+      "appointed",
       1
     ],
     [
-      "all",
+      "new",
       1
     ],
     [
-      "its",
+      "leader",
       1
     ],
     [
-      "potential",
+      "pope",
       1
     ],
     [
-      "leaders",
+      "leo",
       1
     ],
     [
-      "mclaren",
+      "warns",
       1
     ],
     [
-      "piastri",
+      "middle",
       1
     ],
     [
-      "crashes",
+      "east",
       1
     ],
     [
-      "out",
+      "hatred",
       1
     ],
     [
-      "before",
+      "fear",
       1
     ],
     [
-      "australian",
+      "indian",
       1
     ],
     [
-      "grand",
+      "refiners",
+      1
+    ],
+    [
+      "fall",
       1
     ]
   ],
   "rising": [
     [
-      "settling",
+      "oil",
+      2,
+      2.07
+    ],
+    [
+      "hatred",
       1,
       2.0
     ],
     [
-      "prospect",
+      "refiners",
       1,
       2.0
     ],
     [
-      "leaders",
-      1,
-      2.0
-    ],
-    [
-      "mclaren",
-      1,
-      2.0
-    ],
-    [
-      "piastri",
-      1,
-      2.0
-    ],
-    [
-      "crashes",
-      1,
-      2.0
-    ],
-    [
-      "grand",
-      1,
-      2.0
-    ],
-    [
-      "australian",
+      "hardline",
       1,
       1.88
     ],
     [
-      "rejects",
+      "son",
+      1,
+      1.88
+    ],
+    [
+      "mojtaba",
+      1,
+      1.88
+    ],
+    [
+      "appointed",
+      1,
+      1.88
+    ],
+    [
+      "pope",
       1,
       1.76
     ],
     [
-      "killing",
+      "leo",
+      1,
+      1.76
+    ],
+    [
+      "fear",
       1,
       1.76
     ]
