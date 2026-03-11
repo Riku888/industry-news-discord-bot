@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-10",
+  "date": "2026-03-11",
   "top_today": [
     [
       "reuters",
+      6
+    ],
+    [
+      "oil",
       3
     ],
     [
-      "indonesia",
-      1
+      "fall",
+      2
+    ],
+    [
+      "wsj",
+      2
     ],
     [
       "says",
+      2
+    ],
+    [
+      "iea",
+      2
+    ],
+    [
+      "proposes",
+      2
+    ],
+    [
+      "largest",
+      2
+    ],
+    [
+      "release",
+      2
+    ],
+    [
+      "ever",
+      2
+    ],
+    [
+      "investors",
+      2
+    ],
+    [
+      "edge",
+      2
+    ],
+    [
+      "prices",
       1
     ],
     [
-      "killed",
+      "stock",
       1
     ],
     [
-      "landfill",
+      "strategic",
       1
     ],
     [
-      "collapse",
+      "reserves",
       1
     ],
     [
-      "rescue",
+      "openai",
       1
     ],
     [
-      "operation",
+      "plans",
       1
     ],
     [
-      "ends",
+      "launch",
       1
     ],
     [
-      "lawsuit",
-      1
-    ],
-    [
-      "challenges",
-      1
-    ],
-    [
-      "trump",
-      1
-    ],
-    [
-      "administration",
-      1
-    ],
-    [
-      "ending",
-      1
-    ],
-    [
-      "protections",
-      1
-    ],
-    [
-      "somalis",
-      1
-    ],
-    [
-      "china",
-      1
-    ],
-    [
-      "exports",
-      1
-    ],
-    [
-      "turbocharge",
-      1
-    ],
-    [
-      "into",
+      "its",
       1
     ]
   ],
   "rising": [
     [
-      "landfill",
-      1,
-      2.0
+      "iea",
+      2,
+      4.0
     ],
     [
-      "rescue",
-      1,
-      2.0
+      "largest",
+      2,
+      4.0
     ],
     [
-      "somalis",
-      1,
-      2.0
+      "ever",
+      2,
+      4.0
     ],
     [
-      "turbocharge",
-      1,
-      2.0
+      "investors",
+      2,
+      4.0
     ],
     [
-      "indonesia",
-      1,
-      1.88
+      "proposes",
+      2,
+      3.75
     ],
     [
-      "collapse",
-      1,
-      1.88
+      "wsj",
+      2,
+      3.53
     ],
     [
-      "lawsuit",
-      1,
-      1.88
+      "release",
+      2,
+      3.33
     ],
     [
-      "ending",
-      1,
-      1.88
+      "edge",
+      2,
+      3.33
     ],
     [
-      "protections",
-      1,
-      1.88
+      "fall",
+      2,
+      3.16
     ],
     [
-      "ends",
-      1,
-      1.76
+      "oil",
+      3,
+      2.57
     ]
   ]
 }
