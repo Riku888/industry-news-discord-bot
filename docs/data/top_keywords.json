@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-12",
+  "date": "2026-03-13",
   "top_today": [
-    [
-      "reuters",
-      2
-    ],
-    [
-      "gold",
-      1
-    ],
-    [
-      "falls",
-      1
-    ],
-    [
-      "firmer",
-      1
-    ],
     [
       "dollar",
       1
     ],
     [
-      "inflation",
+      "climbs",
       1
     ],
     [
-      "woes",
+      "end",
       1
     ],
     [
-      "russian",
+      "sight",
       1
     ],
     [
-      "teams",
+      "iran",
       1
     ],
     [
-      "met",
+      "war",
       1
     ],
     [
-      "florida",
+      "yen",
       1
     ],
     [
-      "discussed",
+      "20-month",
       1
     ],
     [
-      "variety",
+      "low",
       1
     ],
     [
-      "topics",
+      "reuters",
       1
     ],
     [
-      "witkoff",
+      "authorities",
       1
     ],
     [
-      "says",
+      "disrupt",
       1
     ],
     [
-      "cisa",
+      "socksescort",
       1
     ],
     [
-      "flags",
+      "proxy",
       1
     ],
     [
-      "actively",
+      "botnet",
       1
     ],
     [
-      "exploited",
+      "exploiting",
+      1
+    ],
+    [
+      "369",
+      1
+    ],
+    [
+      "000",
+      1
+    ],
+    [
+      "ips",
+      1
+    ],
+    [
+      "across",
       1
     ]
   ],
   "rising": [
     [
-      "woes",
+      "sight",
       1,
       2.0
     ],
     [
-      "discussed",
+      "20-month",
       1,
       2.0
     ],
     [
-      "variety",
+      "369",
       1,
       2.0
     ],
     [
-      "topics",
+      "ips",
       1,
       2.0
     ],
     [
-      "witkoff",
-      1,
-      2.0
-    ],
-    [
-      "falls",
+      "yen",
       1,
       1.88
     ],
     [
-      "firmer",
+      "disrupt",
       1,
       1.88
     ],
     [
-      "florida",
-      1,
-      1.88
-    ],
-    [
-      "met",
+      "climbs",
       1,
       1.76
     ],
     [
-      "teams",
+      "end",
       1,
-      1.58
+      1.76
+    ],
+    [
+      "authorities",
+      1,
+      1.76
+    ],
+    [
+      "socksescort",
+      1,
+      1.76
     ]
   ]
 }
