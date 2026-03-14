@@ -1,20 +1,24 @@
 {
-  "date": "2026-03-13",
+  "date": "2026-03-14",
   "top_today": [
     [
-      "dollar",
+      "reuters",
+      3
+    ],
+    [
+      "global",
+      2
+    ],
+    [
+      "trump",
       1
     ],
     [
-      "climbs",
+      "threatens",
       1
     ],
     [
-      "end",
-      1
-    ],
-    [
-      "sight",
+      "hit",
       1
     ],
     [
@@ -22,116 +26,112 @@
       1
     ],
     [
-      "war",
+      "kharg",
       1
     ],
     [
-      "yen",
+      "island",
       1
     ],
     [
-      "20-month",
+      "oil",
       1
     ],
     [
-      "low",
+      "network",
       1
     ],
     [
-      "reuters",
+      "shipping",
       1
     ],
     [
-      "authorities",
+      "lanes",
       1
     ],
     [
-      "disrupt",
+      "remain",
       1
     ],
     [
-      "socksescort",
+      "blocked",
       1
     ],
     [
-      "proxy",
+      "venture",
       1
     ],
     [
-      "botnet",
+      "sees",
       1
     ],
     [
-      "exploiting",
+      "lng",
       1
     ],
     [
-      "369",
+      "prices",
       1
     ],
     [
-      "000",
+      "volatility",
       1
     ],
     [
-      "ips",
-      1
-    ],
-    [
-      "across",
+      "very",
       1
     ]
   ],
   "rising": [
     [
-      "sight",
+      "global",
+      2,
+      2.22
+    ],
+    [
+      "kharg",
       1,
       2.0
     ],
     [
-      "20-month",
+      "island",
       1,
       2.0
     ],
     [
-      "369",
+      "lanes",
       1,
       2.0
     ],
     [
-      "ips",
+      "volatility",
       1,
       2.0
     ],
     [
-      "yen",
+      "very",
+      1,
+      2.0
+    ],
+    [
+      "threatens",
       1,
       1.88
     ],
     [
-      "disrupt",
+      "blocked",
       1,
       1.88
     ],
     [
-      "climbs",
+      "venture",
       1,
-      1.76
+      1.88
     ],
     [
-      "end",
+      "lng",
       1,
-      1.76
-    ],
-    [
-      "authorities",
-      1,
-      1.76
-    ],
-    [
-      "socksescort",
-      1,
-      1.76
+      1.88
     ]
   ]
 }
