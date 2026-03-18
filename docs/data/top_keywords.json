@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-17",
+  "date": "2026-03-18",
   "top_today": [
     [
       "reuters",
+      3
+    ],
+    [
+      "apple",
       2
+    ],
+    [
+      "webkit",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "asian",
+      1
+    ],
+    [
+      "stocks",
+      1
+    ],
+    [
+      "rally",
+      1
+    ],
+    [
+      "oil",
+      1
+    ],
+    [
+      "retreats",
+      1
+    ],
+    [
+      "fed",
+      1
+    ],
+    [
+      "spotlight",
+      1
+    ],
+    [
+      "projectile",
+      1
+    ],
+    [
+      "hits",
+      1
+    ],
+    [
+      "near",
+      1
     ],
     [
       "iran",
       1
     ],
     [
-      "renews",
+      "bushehr",
       1
     ],
     [
-      "attacks",
+      "nuclear",
       1
     ],
     [
-      "gulf",
+      "plant",
       1
     ],
     [
-      "allies",
+      "damage",
       1
     ],
     [
-      "trump",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "that",
-      1
-    ],
-    [
-      "not",
-      1
-    ],
-    [
-      "expected",
-      1
-    ],
-    [
-      "dollar",
-      1
-    ],
-    [
-      "firms",
-      1
-    ],
-    [
-      "war",
-      1
-    ],
-    [
-      "uncertainty",
-      1
-    ],
-    [
-      "aussie",
-      1
-    ],
-    [
-      "wobbles",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "rba",
-      1
-    ],
-    [
-      "cisa",
+      "injuries",
       1
     ]
   ],
   "rising": [
     [
-      "renews",
+      "webkit",
+      2,
+      3.75
+    ],
+    [
+      "apple",
+      2,
+      2.73
+    ],
+    [
+      "retreats",
       1,
       2.0
     ],
     [
-      "uncertainty",
+      "spotlight",
       1,
       2.0
     ],
     [
-      "aussie",
+      "projectile",
       1,
       2.0
     ],
     [
-      "rba",
+      "bushehr",
       1,
       2.0
     ],
     [
-      "wobbles",
+      "damage",
+      1,
+      2.0
+    ],
+    [
+      "injuries",
+      1,
+      2.0
+    ],
+    [
+      "rally",
       1,
       1.88
     ],
     [
-      "expected",
+      "plant",
       1,
-      1.76
-    ],
-    [
-      "allies",
-      1,
-      1.58
-    ],
-    [
-      "dollar",
-      1,
-      1.5
-    ],
-    [
-      "firms",
-      1,
-      1.36
-    ],
-    [
-      "gulf",
-      1,
-      1.2
+      1.88
     ]
   ]
 }
