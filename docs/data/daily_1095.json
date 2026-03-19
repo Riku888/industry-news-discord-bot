@@ -285,9 +285,9 @@
     12,
     8,
     43,
-    48,
-    7,
-    1
+    49,
+    45,
+    8
   ],
   "by_category": {
     "2023-04-04": {
@@ -1116,19 +1116,27 @@
       "防御・検知・対応": 6
     },
     "2026-03-17": {
-      "その他": 10,
+      "その他": 11,
       "マルウェア": 11,
       "ランサムウェア": 6,
       "脆弱性・CVE": 7,
       "防御・検知・対応": 14
     },
     "2026-03-18": {
-      "その他": 2,
-      "脆弱性・CVE": 3,
-      "防御・検知・対応": 2
+      "APT・国家系": 1,
+      "その他": 3,
+      "クラウド・サプライチェーン": 1,
+      "マルウェア": 6,
+      "ランサムウェア": 3,
+      "脆弱性・CVE": 17,
+      "規制・ガバナンス": 2,
+      "防御・検知・対応": 12
     },
     "2026-03-19": {
-      "防御・検知・対応": 1
+      "その他": 1,
+      "マルウェア": 3,
+      "ランサムウェア": 1,
+      "防御・検知・対応": 3
     }
   },
   "by_source": {
@@ -1935,20 +1943,25 @@
     "2026-03-17": {
       "BleepingComputer": 5,
       "CISA": 4,
-      "Dark Reading": 4,
+      "Dark Reading": 5,
       "Reuters": 21,
       "SecurityWeek": 7,
       "The Hacker News": 4,
       "The Record": 3
     },
     "2026-03-18": {
-      "BleepingComputer": 1,
-      "Reuters": 3,
-      "The Hacker News": 2,
-      "The Record": 1
+      "BleepingComputer": 8,
+      "CISA": 3,
+      "Dark Reading": 3,
+      "Reuters": 16,
+      "SecurityWeek": 7,
+      "The Hacker News": 4,
+      "The Record": 4
     },
     "2026-03-19": {
-      "Dark Reading": 1
+      "Dark Reading": 2,
+      "Reuters": 5,
+      "The Hacker News": 1
     }
   }
 }

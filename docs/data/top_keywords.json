@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-18",
+  "date": "2026-03-19",
   "top_today": [
     [
       "reuters",
-      3
-    ],
-    [
-      "apple",
-      2
-    ],
-    [
-      "webkit",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "asian",
-      1
-    ],
-    [
-      "stocks",
-      1
-    ],
-    [
-      "rally",
-      1
-    ],
-    [
-      "oil",
-      1
-    ],
-    [
-      "retreats",
-      1
-    ],
-    [
-      "fed",
-      1
-    ],
-    [
-      "spotlight",
-      1
-    ],
-    [
-      "projectile",
-      1
-    ],
-    [
-      "hits",
-      1
-    ],
-    [
-      "near",
-      1
+      5
     ],
     [
       "iran",
+      3
+    ],
+    [
+      "companies",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "virtual",
       1
     ],
     [
-      "bushehr",
+      "event",
       1
     ],
     [
-      "nuclear",
+      "shields",
       1
     ],
     [
-      "plant",
+      "key",
       1
     ],
     [
-      "damage",
+      "technologies",
       1
     ],
     [
-      "injuries",
+      "reshaping",
+      1
+    ],
+    [
+      "cybersecurity",
+      1
+    ],
+    [
+      "defenses",
+      1
+    ],
+    [
+      "agency",
+      1
+    ],
+    [
+      "asks",
+      1
+    ],
+    [
+      "secure",
+      1
+    ],
+    [
+      "microsoft",
+      1
+    ],
+    [
+      "tool",
+      1
+    ],
+    [
+      "after",
+      1
+    ],
+    [
+      "stryker",
+      1
+    ],
+    [
+      "cyberattack",
       1
     ]
   ],
   "rising": [
     [
-      "webkit",
+      "companies",
       2,
-      3.75
+      3.0
     ],
     [
-      "apple",
-      2,
-      2.73
-    ],
-    [
-      "retreats",
+      "shields",
       1,
       2.0
     ],
     [
-      "spotlight",
+      "reshaping",
       1,
       2.0
     ],
     [
-      "projectile",
+      "secure",
       1,
       2.0
     ],
     [
-      "bushehr",
-      1,
-      2.0
-    ],
-    [
-      "damage",
-      1,
-      2.0
-    ],
-    [
-      "injuries",
-      1,
-      2.0
-    ],
-    [
-      "rally",
+      "virtual",
       1,
       1.88
     ],
     [
-      "plant",
+      "defenses",
       1,
       1.88
+    ],
+    [
+      "event",
+      1,
+      1.76
+    ],
+    [
+      "technologies",
+      1,
+      1.67
+    ],
+    [
+      "asks",
+      1,
+      1.67
+    ],
+    [
+      "key",
+      1,
+      1.5
     ]
   ]
 }
