@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-19",
+  "date": "2026-03-20",
   "top_today": [
     [
       "reuters",
-      5
-    ],
-    [
-      "iran",
       3
     ],
     [
-      "companies",
+      "botnets",
       2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "disrupted",
+      1
+    ],
+    [
+      "that",
+      1
+    ],
+    [
+      "infected",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "million",
+      1
+    ],
+    [
+      "devices",
+      1
+    ],
+    [
+      "worldwide",
+      1
+    ],
+    [
+      "eyes",
+      1
+    ],
+    [
+      "energy",
+      1
+    ],
+    [
+      "tax",
+      1
+    ],
+    [
+      "cuts",
+      1
+    ],
+    [
+      "subsidies",
+      1
+    ],
+    [
+      "ease",
+      1
+    ],
+    [
+      "iran",
+      1
     ],
     [
       "war",
-      2
-    ],
-    [
-      "virtual",
       1
     ],
     [
-      "event",
-      1
-    ],
-    [
-      "shields",
-      1
-    ],
-    [
-      "key",
-      1
-    ],
-    [
-      "technologies",
-      1
-    ],
-    [
-      "reshaping",
-      1
-    ],
-    [
-      "cybersecurity",
-      1
-    ],
-    [
-      "defenses",
-      1
-    ],
-    [
-      "agency",
-      1
-    ],
-    [
-      "asks",
-      1
-    ],
-    [
-      "secure",
-      1
-    ],
-    [
-      "microsoft",
-      1
-    ],
-    [
-      "tool",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "stryker",
-      1
-    ],
-    [
-      "cyberattack",
+      "impact",
       1
     ]
   ],
   "rising": [
     [
-      "companies",
+      "botnets",
       2,
-      3.0
+      3.75
     ],
     [
-      "shields",
+      "infected",
       1,
       2.0
     ],
     [
-      "reshaping",
-      1,
-      2.0
-    ],
-    [
-      "secure",
-      1,
-      2.0
-    ],
-    [
-      "virtual",
+      "worldwide",
       1,
       1.88
     ],
     [
-      "defenses",
+      "eyes",
       1,
       1.88
     ],
     [
-      "event",
+      "subsidies",
+      1,
+      1.88
+    ],
+    [
+      "tax",
       1,
       1.76
     ],
     [
-      "technologies",
+      "disrupted",
       1,
       1.67
     ],
     [
-      "asks",
+      "cuts",
       1,
       1.67
     ],
     [
-      "key",
+      "ease",
       1,
-      1.5
+      1.67
+    ],
+    [
+      "impact",
+      1,
+      1.58
     ]
   ]
 }
