@@ -1,137 +1,125 @@
 {
-  "date": "2026-03-20",
+  "date": "2026-03-21",
   "top_today": [
     [
       "reuters",
-      3
-    ],
-    [
-      "botnets",
       2
-    ],
-    [
-      "attacks",
-      2
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "disrupted",
-      1
-    ],
-    [
-      "that",
-      1
-    ],
-    [
-      "infected",
-      1
-    ],
-    [
-      "over",
-      1
-    ],
-    [
-      "million",
-      1
-    ],
-    [
-      "devices",
-      1
-    ],
-    [
-      "worldwide",
-      1
-    ],
-    [
-      "eyes",
-      1
-    ],
-    [
-      "energy",
-      1
-    ],
-    [
-      "tax",
-      1
-    ],
-    [
-      "cuts",
-      1
-    ],
-    [
-      "subsidies",
-      1
-    ],
-    [
-      "ease",
-      1
     ],
     [
       "iran",
       1
     ],
     [
-      "war",
+      "ready",
       1
     ],
     [
-      "impact",
+      "let",
+      1
+    ],
+    [
+      "japanese",
+      1
+    ],
+    [
+      "vessels",
+      1
+    ],
+    [
+      "transit",
+      1
+    ],
+    [
+      "hormuz",
+      1
+    ],
+    [
+      "kyodo",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
+      "israeli",
+      1
+    ],
+    [
+      "military",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "striking",
+      1
+    ],
+    [
+      "hezbollah",
+      1
+    ],
+    [
+      "targets",
+      1
+    ],
+    [
+      "beirut",
       1
     ]
   ],
   "rising": [
     [
-      "botnets",
-      2,
-      3.75
-    ],
-    [
-      "infected",
+      "kyodo",
       1,
       2.0
     ],
     [
-      "worldwide",
+      "striking",
+      1,
+      2.0
+    ],
+    [
+      "let",
       1,
       1.88
     ],
     [
-      "eyes",
+      "beirut",
       1,
       1.88
     ],
     [
-      "subsidies",
-      1,
-      1.88
-    ],
-    [
-      "tax",
+      "ready",
       1,
       1.76
     ],
     [
-      "disrupted",
+      "japanese",
+      1,
+      1.76
+    ],
+    [
+      "vessels",
+      1,
+      1.76
+    ],
+    [
+      "transit",
+      1,
+      1.76
+    ],
+    [
+      "hezbollah",
       1,
       1.67
     ],
     [
-      "cuts",
+      "israeli",
       1,
-      1.67
-    ],
-    [
-      "ease",
-      1,
-      1.67
-    ],
-    [
-      "impact",
-      1,
-      1.58
+      1.36
     ]
   ]
 }
