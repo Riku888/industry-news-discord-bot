@@ -160,8 +160,8 @@
     49,
     45,
     55,
-    50,
-    2
+    52,
+    20
   ],
   "by_category": {
     "2025-12-22": {
@@ -818,10 +818,14 @@
       "マルウェア": 12,
       "ランサムウェア": 5,
       "脆弱性・CVE": 9,
-      "防御・検知・対応": 11
+      "防御・検知・対応": 13
     },
     "2026-03-21": {
-      "防御・検知・対応": 2
+      "その他": 1,
+      "クラウド・サプライチェーン": 1,
+      "フィッシング": 2,
+      "脆弱性・CVE": 6,
+      "防御・検知・対応": 10
     }
   },
   "by_source": {
@@ -1459,13 +1463,16 @@
       "CrowdStrike": 2,
       "Dark Reading": 3,
       "Microsoft Security Blog": 1,
-      "Reuters": 18,
+      "Reuters": 20,
       "SecurityWeek": 5,
       "The Hacker News": 6,
       "The Record": 5
     },
     "2026-03-21": {
-      "Reuters": 2
+      "BleepingComputer": 3,
+      "Reuters": 12,
+      "SecurityWeek": 1,
+      "The Hacker News": 4
     }
   }
 }
