@@ -1,88 +1,137 @@
 {
-  "date": "2026-03-25",
+  "date": "2026-03-26",
   "top_today": [
     [
       "iran",
+      3
+    ],
+    [
+      "reuters",
+      3
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "used",
       1
     ],
     [
-      "hacktivists",
+      "sales",
       1
     ],
     [
-      "make",
+      "jump",
       1
     ],
     [
-      "noise",
-      1
-    ],
-    [
-      "but",
-      1
-    ],
-    [
-      "have",
-      1
-    ],
-    [
-      "little",
-      1
-    ],
-    [
-      "impact",
+      "europe",
       1
     ],
     [
       "war",
+      1
+    ],
+    [
+      "drives",
+      1
+    ],
+    [
+      "petrol",
+      1
+    ],
+    [
+      "prices",
+      1
+    ],
+    [
+      "adnoc",
+      1
+    ],
+    [
+      "ceo",
+      1
+    ],
+    [
+      "calls",
+      1
+    ],
+    [
+      "any",
+      1
+    ],
+    [
+      "curbs",
+      1
+    ],
+    [
+      "hormuz",
+      1
+    ],
+    [
+      "passage",
+      1
+    ],
+    [
+      "economic",
+      1
+    ],
+    [
+      "terrorism",
       1
     ]
   ],
   "rising": [
     [
-      "hacktivists",
+      "drives",
       1,
       2.0
     ],
     [
-      "noise",
+      "petrol",
       1,
       2.0
     ],
     [
-      "make",
+      "adnoc",
+      1,
+      2.0
+    ],
+    [
+      "curbs",
+      1,
+      2.0
+    ],
+    [
+      "terrorism",
+      1,
+      2.0
+    ],
+    [
+      "any",
+      1,
+      1.88
+    ],
+    [
+      "passage",
+      1,
+      1.88
+    ],
+    [
+      "jump",
       1,
       1.76
     ],
     [
-      "little",
+      "economic",
       1,
       1.76
     ],
     [
-      "have",
+      "sales",
       1,
-      1.5
-    ],
-    [
-      "impact",
-      1,
-      1.43
-    ],
-    [
-      "but",
-      1,
-      1.3
-    ],
-    [
-      "war",
-      1,
-      0.39
-    ],
-    [
-      "iran",
-      1,
-      0.19
+      1.67
     ]
   ]
 }
