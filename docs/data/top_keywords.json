@@ -1,135 +1,135 @@
 {
-  "date": "2026-03-26",
+  "date": "2026-03-27",
   "top_today": [
-    [
-      "iran",
-      3
-    ],
     [
       "reuters",
       3
     ],
     [
-      "says",
+      "talks",
       2
     ],
     [
-      "used",
+      "dollar",
       1
     ],
     [
-      "sales",
+      "rides",
       1
     ],
     [
-      "jump",
+      "haven",
       1
     ],
     [
-      "europe",
+      "demand",
       1
     ],
     [
-      "war",
+      "middle",
       1
     ],
     [
-      "drives",
+      "east",
       1
     ],
     [
-      "petrol",
+      "ring",
       1
     ],
     [
-      "prices",
+      "hollow",
       1
     ],
     [
-      "adnoc",
+      "china",
       1
     ],
     [
-      "ceo",
+      "detaining",
       1
     ],
     [
-      "calls",
+      "panama-flagged",
       1
     ],
     [
-      "any",
+      "ships",
       1
     ],
     [
-      "curbs",
+      "amid",
       1
     ],
     [
-      "hormuz",
+      "battle",
       1
     ],
     [
-      "passage",
+      "over",
       1
     ],
     [
-      "economic",
+      "port",
       1
     ],
     [
-      "terrorism",
+      "control",
+      1
+    ],
+    [
+      "fmc",
       1
     ]
   ],
   "rising": [
     [
-      "drives",
+      "talks",
+      2,
+      3.0
+    ],
+    [
+      "rides",
       1,
       2.0
     ],
     [
-      "petrol",
+      "hollow",
       1,
       2.0
     ],
     [
-      "adnoc",
+      "panama-flagged",
       1,
       2.0
     ],
     [
-      "curbs",
-      1,
-      2.0
-    ],
-    [
-      "terrorism",
-      1,
-      2.0
-    ],
-    [
-      "any",
+      "haven",
       1,
       1.88
     ],
     [
-      "passage",
+      "ring",
       1,
       1.88
     ],
     [
-      "jump",
+      "detaining",
+      1,
+      1.88
+    ],
+    [
+      "fmc",
+      1,
+      1.88
+    ],
+    [
+      "control",
       1,
       1.76
     ],
     [
-      "economic",
-      1,
-      1.76
-    ],
-    [
-      "sales",
+      "battle",
       1,
       1.67
     ]
