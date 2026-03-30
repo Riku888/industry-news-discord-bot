@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-29",
+  "date": "2026-03-30",
   "top_today": [
     [
-      "mexican",
-      1
-    ],
-    [
-      "protesters",
-      1
-    ],
-    [
-      "turn",
-      1
-    ],
-    [
-      "highway",
-      1
-    ],
-    [
-      "into",
-      1
-    ],
-    [
-      "football",
-      1
-    ],
-    [
-      "pitch",
-      1
-    ],
-    [
-      "slam",
-      1
-    ],
-    [
-      "world",
-      1
-    ],
-    [
-      "cup",
-      1
-    ],
-    [
-      "dispossession",
-      1
-    ],
-    [
       "reuters",
-      1
-    ],
-    [
-      "hacked",
-      1
-    ],
-    [
-      "hospitals",
-      1
-    ],
-    [
-      "hidden",
-      1
-    ],
-    [
-      "spyware",
-      1
+      5
     ],
     [
       "iran",
+      2
+    ],
+    [
+      "trump",
+      2
+    ],
+    [
+      "pakistan",
+      2
+    ],
+    [
+      "prepares",
+      2
+    ],
+    [
+      "host",
+      2
+    ],
+    [
+      "talks",
+      2
+    ],
+    [
+      "critical",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "now",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "luxury",
       1
     ],
     [
-      "conflict",
+      "carmakers",
       1
     ],
     [
-      "shows",
+      "gold-leafed",
       1
     ],
     [
-      "how",
+      "gulf",
+      1
+    ],
+    [
+      "profits",
+      1
+    ],
+    [
+      "under",
+      1
+    ],
+    [
+      "threat",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "japan",
       1
     ]
   ],
   "rising": [
     [
-      "turn",
+      "prepares",
+      2,
+      4.0
+    ],
+    [
+      "host",
+      2,
+      3.53
+    ],
+    [
+      "pakistan",
+      2,
+      3.0
+    ],
+    [
+      "now",
+      2,
+      2.5
+    ],
+    [
+      "talks",
+      2,
+      2.4
+    ],
+    [
+      "luxury",
       1,
       2.0
     ],
     [
-      "highway",
+      "gold-leafed",
       1,
       2.0
     ],
     [
-      "football",
-      1,
-      2.0
-    ],
-    [
-      "slam",
-      1,
-      2.0
-    ],
-    [
-      "dispossession",
-      1,
-      2.0
-    ],
-    [
-      "mexican",
+      "carmakers",
       1,
       1.88
     ],
     [
-      "protesters",
+      "profits",
       1,
       1.88
     ],
     [
-      "pitch",
+      "japan",
       1,
-      1.88
-    ],
-    [
-      "hospitals",
-      1,
-      1.88
-    ],
-    [
-      "hidden",
-      1,
-      1.76
+      1.43
     ]
   ]
 }
