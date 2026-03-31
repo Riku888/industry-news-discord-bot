@@ -1,137 +1,137 @@
 {
-  "date": "2026-03-30",
+  "date": "2026-03-31",
   "top_today": [
     [
-      "reuters",
-      5
+      "giant",
+      1
     ],
     [
-      "iran",
-      2
+      "oil",
+      1
+    ],
+    [
+      "tanker",
+      1
+    ],
+    [
+      "off",
+      1
+    ],
+    [
+      "dubai",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "iranian",
+      1
+    ],
+    [
+      "strike",
+      1
+    ],
+    [
+      "after",
+      1
     ],
     [
       "trump",
-      2
-    ],
-    [
-      "pakistan",
-      2
-    ],
-    [
-      "prepares",
-      2
-    ],
-    [
-      "host",
-      2
-    ],
-    [
-      "talks",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "now",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "luxury",
       1
     ],
     [
-      "carmakers",
+      "latest",
       1
     ],
     [
-      "gold-leafed",
+      "threats",
       1
     ],
     [
-      "gulf",
+      "reuters",
       1
     ],
     [
-      "profits",
+      "axios",
       1
     ],
     [
-      "under",
+      "supply",
       1
     ],
     [
-      "threat",
+      "chain",
       1
     ],
     [
-      "war",
+      "attack",
       1
     ],
     [
-      "japan",
+      "pushes",
+      1
+    ],
+    [
+      "cross-platform",
+      1
+    ],
+    [
+      "rat",
       1
     ]
   ],
   "rising": [
     [
-      "prepares",
-      2,
-      4.0
-    ],
-    [
-      "host",
-      2,
-      3.53
-    ],
-    [
-      "pakistan",
-      2,
-      3.0
-    ],
-    [
-      "now",
-      2,
-      2.5
-    ],
-    [
-      "talks",
-      2,
-      2.4
-    ],
-    [
-      "luxury",
+      "latest",
       1,
       2.0
     ],
     [
-      "gold-leafed",
-      1,
-      2.0
-    ],
-    [
-      "carmakers",
+      "axios",
       1,
       1.88
     ],
     [
-      "profits",
+      "cross-platform",
       1,
       1.88
     ],
     [
-      "japan",
+      "dubai",
+      1,
+      1.76
+    ],
+    [
+      "threats",
+      1,
+      1.76
+    ],
+    [
+      "strike",
+      1,
+      1.58
+    ],
+    [
+      "pushes",
+      1,
+      1.58
+    ],
+    [
+      "rat",
+      1,
+      1.5
+    ],
+    [
+      "tanker",
       1,
       1.43
+    ],
+    [
+      "giant",
+      1,
+      1.36
     ]
   ]
 }
