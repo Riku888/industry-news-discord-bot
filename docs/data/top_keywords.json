@@ -1,52 +1,56 @@
 {
-  "date": "2026-03-31",
+  "date": "2026-04-01",
   "top_today": [
     [
-      "giant",
+      "code",
+      3
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "source",
+      2
+    ],
+    [
+      "leaked",
+      2
+    ],
+    [
+      "npm",
+      2
+    ],
+    [
+      "tesla",
       1
     ],
     [
-      "oil",
+      "march",
       1
     ],
     [
-      "tanker",
+      "car",
       1
     ],
     [
-      "off",
+      "registrations",
       1
     ],
     [
-      "dubai",
+      "triple",
       1
     ],
     [
-      "hit",
+      "france",
       1
     ],
     [
-      "iranian",
+      "double",
       1
     ],
     [
-      "strike",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "trump",
-      1
-    ],
-    [
-      "latest",
-      1
-    ],
-    [
-      "threats",
+      "denmark",
       1
     ],
     [
@@ -54,84 +58,80 @@
       1
     ],
     [
-      "axios",
+      "via",
       1
     ],
     [
-      "supply",
+      "packaging",
       1
     ],
     [
-      "chain",
+      "error",
       1
     ],
     [
-      "attack",
+      "anthropic",
       1
     ],
     [
-      "pushes",
+      "confirms",
       1
     ],
     [
-      "cross-platform",
-      1
-    ],
-    [
-      "rat",
+      "google",
       1
     ]
   ],
   "rising": [
     [
-      "latest",
+      "leaked",
+      2,
+      3.75
+    ],
+    [
+      "code",
+      3,
+      3.46
+    ],
+    [
+      "claude",
+      2,
+      3.0
+    ],
+    [
+      "source",
+      2,
+      2.61
+    ],
+    [
+      "npm",
+      2,
+      2.4
+    ],
+    [
+      "registrations",
       1,
       2.0
     ],
     [
-      "axios",
+      "triple",
       1,
-      1.88
+      2.0
     ],
     [
-      "cross-platform",
+      "double",
       1,
-      1.88
+      2.0
     ],
     [
-      "dubai",
+      "denmark",
       1,
-      1.76
+      2.0
     ],
     [
-      "threats",
+      "packaging",
       1,
-      1.76
-    ],
-    [
-      "strike",
-      1,
-      1.58
-    ],
-    [
-      "pushes",
-      1,
-      1.58
-    ],
-    [
-      "rat",
-      1,
-      1.5
-    ],
-    [
-      "tanker",
-      1,
-      1.43
-    ],
-    [
-      "giant",
-      1,
-      1.36
+      2.0
     ]
   ]
 }
