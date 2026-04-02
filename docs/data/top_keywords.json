@@ -1,137 +1,137 @@
 {
-  "date": "2026-04-01",
+  "date": "2026-04-02",
   "top_today": [
     [
-      "code",
+      "reuters",
+      5
+    ],
+    [
+      "trump",
+      4
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "war",
       3
     ],
     [
-      "claude",
+      "oil",
       2
     ],
     [
-      "source",
+      "after",
       2
     ],
     [
-      "leaked",
+      "hopes",
       2
     ],
     [
-      "npm",
+      "says",
       2
     ],
     [
-      "tesla",
+      "security",
+      2
+    ],
+    [
+      "stocks",
       1
     ],
     [
-      "march",
+      "sink",
       1
     ],
     [
-      "car",
+      "leaps",
       1
     ],
     [
-      "registrations",
+      "above",
       1
     ],
     [
-      "triple",
+      "100",
       1
     ],
     [
-      "france",
+      "vows",
       1
     ],
     [
-      "double",
+      "keep",
       1
     ],
     [
-      "denmark",
+      "hitting",
       1
     ],
     [
-      "reuters",
+      "indian",
       1
     ],
     [
-      "via",
+      "shares",
       1
     ],
     [
-      "packaging",
-      1
-    ],
-    [
-      "error",
-      1
-    ],
-    [
-      "anthropic",
-      1
-    ],
-    [
-      "confirms",
-      1
-    ],
-    [
-      "google",
+      "fall",
       1
     ]
   ],
   "rising": [
     [
-      "leaked",
+      "hopes",
       2,
       3.75
     ],
     [
-      "code",
-      3,
-      3.46
-    ],
-    [
-      "claude",
-      2,
-      3.0
-    ],
-    [
-      "source",
-      2,
-      2.61
-    ],
-    [
-      "npm",
-      2,
-      2.4
-    ],
-    [
-      "registrations",
+      "sink",
       1,
       2.0
     ],
     [
-      "triple",
+      "leaps",
       1,
       2.0
     ],
     [
-      "double",
+      "hitting",
       1,
       2.0
     ],
     [
-      "denmark",
+      "above",
       1,
-      2.0
+      1.88
     ],
     [
-      "packaging",
+      "vows",
       1,
-      2.0
+      1.88
+    ],
+    [
+      "trump",
+      4,
+      1.79
+    ],
+    [
+      "stocks",
+      1,
+      1.76
+    ],
+    [
+      "100",
+      1,
+      1.76
+    ],
+    [
+      "fall",
+      1,
+      1.67
     ]
   ]
 }
