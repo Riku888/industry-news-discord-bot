@@ -1,8 +1,28 @@
 {
-  "date": "2026-04-05",
+  "date": "2026-04-06",
   "top_today": [
     [
-      "oil",
+      "reuters",
+      7
+    ],
+    [
+      "iran",
+      4
+    ],
+    [
+      "dollar",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "ceasefire",
+      2
+    ],
+    [
+      "korea",
       2
     ],
     [
@@ -10,126 +30,106 @@
       2
     ],
     [
-      "reuters",
+      "north",
       2
     ],
     [
-      "exploited",
-      2
-    ],
-    [
-      "pipeline",
+      "india",
       1
     ],
     [
-      "russia",
+      "wipro",
       1
     ],
     [
-      "primorsk",
+      "rises",
       1
     ],
     [
-      "damaged",
+      "after",
       1
     ],
     [
-      "drone",
+      "deal",
       1
     ],
     [
-      "attack",
+      "acquire",
       1
     ],
     [
-      "governor",
+      "olam",
       1
     ],
     [
-      "kuwait",
+      "group",
       1
     ],
     [
-      "iranian",
+      "business",
       1
     ],
     [
-      "drones",
+      "markets",
       1
     ],
     [
-      "strike",
+      "edge",
       1
     ],
     [
-      "sector",
-      1
-    ],
-    [
-      "complex",
-      1
-    ],
-    [
-      "power",
-      1
-    ],
-    [
-      "government",
-      1
-    ],
-    [
-      "sites",
+      "trump",
       1
     ]
   ],
   "rising": [
     [
-      "primorsk",
+      "ceasefire",
+      2,
+      3.53
+    ],
+    [
+      "dollar",
+      2,
+      3.0
+    ],
+    [
+      "korea",
+      2,
+      2.86
+    ],
+    [
+      "north",
+      2,
+      2.22
+    ],
+    [
+      "wipro",
       1,
       2.0
     ],
     [
-      "complex",
+      "olam",
       1,
       2.0
     ],
     [
-      "kuwait",
-      1,
-      1.88
-    ],
-    [
-      "power",
-      1,
-      1.88
-    ],
-    [
-      "damaged",
-      1,
-      1.76
-    ],
-    [
-      "governor",
-      1,
-      1.76
-    ],
-    [
-      "drones",
-      1,
-      1.76
-    ],
-    [
-      "sector",
-      1,
-      1.76
-    ],
-    [
-      "pipeline",
+      "rises",
       1,
       1.67
     ],
     [
-      "drone",
+      "acquire",
+      1,
+      1.67
+    ],
+    [
+      "markets",
+      1,
+      1.58
+    ],
+    [
+      "edge",
       1,
       1.58
     ]
