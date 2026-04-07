@@ -1,135 +1,135 @@
 {
-  "date": "2026-04-06",
+  "date": "2026-04-07",
   "top_today": [
     [
       "reuters",
-      7
+      3
     ],
     [
-      "iran",
-      4
-    ],
-    [
-      "dollar",
-      2
-    ],
-    [
-      "war",
-      2
-    ],
-    [
-      "ceasefire",
-      2
-    ],
-    [
-      "korea",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "north",
-      2
-    ],
-    [
-      "india",
+      "brazil",
       1
     ],
     [
-      "wipro",
+      "puts",
       1
     ],
     [
-      "rises",
+      "china",
       1
     ],
     [
-      "after",
+      "byd",
       1
     ],
     [
-      "deal",
+      "list",
       1
     ],
     [
-      "acquire",
+      "shame",
       1
     ],
     [
-      "olam",
+      "workers",
       1
     ],
     [
-      "group",
+      "past",
       1
     ],
     [
-      "business",
+      "slavery-like",
       1
     ],
     [
-      "markets",
+      "conditions",
       1
     ],
     [
-      "edge",
+      "gold",
+      1
+    ],
+    [
+      "muted",
       1
     ],
     [
       "trump",
       1
+    ],
+    [
+      "iran",
+      1
+    ],
+    [
+      "deadline",
+      1
+    ],
+    [
+      "keeps",
+      1
+    ],
+    [
+      "markets",
+      1
+    ],
+    [
+      "cautious",
+      1
+    ],
+    [
+      "south",
+      1
     ]
   ],
   "rising": [
     [
-      "ceasefire",
-      2,
-      3.53
-    ],
-    [
-      "dollar",
-      2,
-      3.0
-    ],
-    [
-      "korea",
-      2,
-      2.86
-    ],
-    [
-      "north",
-      2,
-      2.22
-    ],
-    [
-      "wipro",
+      "shame",
       1,
       2.0
     ],
     [
-      "olam",
+      "slavery-like",
       1,
       2.0
     ],
     [
-      "rises",
+      "conditions",
+      1,
+      2.0
+    ],
+    [
+      "muted",
+      1,
+      2.0
+    ],
+    [
+      "cautious",
+      1,
+      2.0
+    ],
+    [
+      "byd",
+      1,
+      1.88
+    ],
+    [
+      "list",
+      1,
+      1.88
+    ],
+    [
+      "deadline",
+      1,
+      1.76
+    ],
+    [
+      "workers",
       1,
       1.67
     ],
     [
-      "acquire",
-      1,
-      1.67
-    ],
-    [
-      "markets",
-      1,
-      1.58
-    ],
-    [
-      "edge",
+      "past",
       1,
       1.58
     ]
