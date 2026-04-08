@@ -1,137 +1,137 @@
 {
-  "date": "2026-04-07",
+  "date": "2026-04-08",
   "top_today": [
+    [
+      "iran",
+      3
+    ],
     [
       "reuters",
       3
     ],
     [
-      "brazil",
-      1
-    ],
-    [
-      "puts",
-      1
-    ],
-    [
-      "china",
-      1
-    ],
-    [
-      "byd",
-      1
-    ],
-    [
-      "list",
-      1
-    ],
-    [
-      "shame",
-      1
-    ],
-    [
-      "workers",
-      1
-    ],
-    [
-      "past",
-      1
-    ],
-    [
-      "slavery-like",
-      1
-    ],
-    [
-      "conditions",
-      1
-    ],
-    [
-      "gold",
-      1
-    ],
-    [
-      "muted",
-      1
-    ],
-    [
       "trump",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "ceasefire",
+      2
+    ],
+    [
+      "pause",
+      2
+    ],
+    [
+      "iran-linked",
+      2
+    ],
+    [
+      "hackers",
+      2
+    ],
+    [
+      "disrupt",
+      2
+    ],
+    [
+      "critical",
+      2
+    ],
+    [
+      "infrastructure",
+      2
+    ],
+    [
+      "won",
       1
     ],
     [
-      "iran",
+      "total",
       1
     ],
     [
-      "deadline",
+      "complete",
       1
     ],
     [
-      "keeps",
+      "victory",
       1
     ],
     [
-      "markets",
+      "after",
       1
     ],
     [
-      "cautious",
+      "deal",
       1
     ],
     [
-      "south",
+      "afp",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
+      "israel",
       1
     ]
   ],
   "rising": [
     [
-      "shame",
+      "pause",
+      2,
+      3.75
+    ],
+    [
+      "disrupt",
+      2,
+      3.33
+    ],
+    [
+      "ceasefire",
+      2,
+      3.0
+    ],
+    [
+      "infrastructure",
+      2,
+      2.5
+    ],
+    [
+      "iran-linked",
+      2,
+      2.22
+    ],
+    [
+      "won",
       1,
       2.0
     ],
     [
-      "slavery-like",
+      "complete",
       1,
       2.0
     ],
     [
-      "conditions",
+      "victory",
       1,
       2.0
     ],
     [
-      "muted",
+      "afp",
       1,
       2.0
     ],
     [
-      "cautious",
-      1,
-      2.0
-    ],
-    [
-      "byd",
+      "total",
       1,
       1.88
-    ],
-    [
-      "list",
-      1,
-      1.88
-    ],
-    [
-      "deadline",
-      1,
-      1.76
-    ],
-    [
-      "workers",
-      1,
-      1.67
-    ],
-    [
-      "past",
-      1,
-      1.58
     ]
   ]
 }
