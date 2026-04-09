@@ -1,68 +1,52 @@
 {
-  "date": "2026-04-08",
+  "date": "2026-04-09",
   "top_today": [
     [
-      "iran",
-      3
+      "reuters",
+      4
     ],
     [
-      "reuters",
-      3
+      "iran",
+      2
     ],
     [
       "trump",
-      2
+      1
     ],
     [
       "says",
-      2
-    ],
-    [
-      "ceasefire",
-      2
-    ],
-    [
-      "pause",
-      2
-    ],
-    [
-      "iran-linked",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "disrupt",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "infrastructure",
-      2
-    ],
-    [
-      "won",
       1
     ],
     [
-      "total",
+      "military",
       1
     ],
     [
-      "complete",
+      "stay",
       1
     ],
     [
-      "victory",
+      "around",
       1
     ],
     [
-      "after",
+      "threatens",
+      1
+    ],
+    [
+      "action",
+      1
+    ],
+    [
+      "tehran",
+      1
+    ],
+    [
+      "fails",
+      1
+    ],
+    [
+      "comply",
       1
     ],
     [
@@ -70,68 +54,84 @@
       1
     ],
     [
-      "afp",
+      "army",
       1
     ],
     [
-      "reports",
+      "veteran",
       1
     ],
     [
-      "israel",
+      "charged",
+      1
+    ],
+    [
+      "leaking",
+      1
+    ],
+    [
+      "classified",
+      1
+    ],
+    [
+      "information",
+      1
+    ],
+    [
+      "journalist",
       1
     ]
   ],
   "rising": [
     [
-      "pause",
-      2,
-      3.75
-    ],
-    [
-      "disrupt",
-      2,
-      3.33
-    ],
-    [
-      "ceasefire",
-      2,
-      3.0
-    ],
-    [
-      "infrastructure",
-      2,
-      2.5
-    ],
-    [
-      "iran-linked",
-      2,
-      2.22
-    ],
-    [
-      "won",
+      "stay",
       1,
       2.0
     ],
     [
-      "complete",
+      "comply",
       1,
       2.0
     ],
     [
-      "victory",
+      "classified",
       1,
       2.0
     ],
     [
-      "afp",
+      "journalist",
       1,
       2.0
     ],
     [
-      "total",
+      "army",
       1,
       1.88
+    ],
+    [
+      "veteran",
+      1,
+      1.88
+    ],
+    [
+      "leaking",
+      1,
+      1.88
+    ],
+    [
+      "information",
+      1,
+      1.88
+    ],
+    [
+      "around",
+      1,
+      1.76
+    ],
+    [
+      "fails",
+      1,
+      1.76
     ]
   ]
 }
