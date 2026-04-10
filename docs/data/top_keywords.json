@@ -1,137 +1,137 @@
 {
-  "date": "2026-04-09",
+  "date": "2026-04-10",
   "top_today": [
     [
       "reuters",
-      4
+      5
     ],
     [
-      "iran",
+      "sources",
       2
     ],
     [
-      "trump",
+      "say",
+      2
+    ],
+    [
+      "oil",
+      2
+    ],
+    [
+      "bessent",
       1
     ],
     [
-      "says",
+      "powell",
       1
     ],
     [
-      "military",
+      "warned",
       1
     ],
     [
-      "stay",
+      "bank",
       1
     ],
     [
-      "around",
+      "ceos",
       1
     ],
     [
-      "threatens",
+      "about",
       1
     ],
     [
-      "action",
+      "anthropic",
       1
     ],
     [
-      "tehran",
+      "model",
       1
     ],
     [
-      "fails",
+      "risks",
       1
     ],
     [
-      "comply",
+      "us-iran",
       1
     ],
     [
-      "deal",
+      "ceasefire",
       1
     ],
     [
-      "army",
+      "under",
       1
     ],
     [
-      "veteran",
+      "strain",
       1
     ],
     [
-      "charged",
+      "ahead",
       1
     ],
     [
-      "leaking",
+      "talks",
       1
     ],
     [
-      "classified",
-      1
-    ],
-    [
-      "information",
-      1
-    ],
-    [
-      "journalist",
+      "china",
       1
     ]
   ],
   "rising": [
     [
-      "stay",
+      "bessent",
       1,
       2.0
     ],
     [
-      "comply",
+      "powell",
       1,
       2.0
     ],
     [
-      "classified",
+      "ceos",
       1,
       2.0
     ],
     [
-      "journalist",
-      1,
-      2.0
-    ],
-    [
-      "army",
+      "warned",
       1,
       1.88
     ],
     [
-      "veteran",
+      "model",
       1,
       1.88
     ],
     [
-      "leaking",
+      "strain",
       1,
       1.88
     ],
     [
-      "information",
-      1,
-      1.88
+      "sources",
+      2,
+      1.76
     ],
     [
-      "around",
+      "us-iran",
       1,
       1.76
     ],
     [
-      "fails",
+      "anthropic",
       1,
-      1.76
+      1.5
+    ],
+    [
+      "say",
+      2,
+      1.46
     ]
   ]
 }
