@@ -1,137 +1,109 @@
 {
-  "date": "2026-04-10",
+  "date": "2026-04-11",
   "top_today": [
     [
+      "openai",
+      1
+    ],
+    [
+      "identifies",
+      1
+    ],
+    [
+      "security",
+      1
+    ],
+    [
+      "issue",
+      1
+    ],
+    [
+      "involving",
+      1
+    ],
+    [
+      "third-party",
+      1
+    ],
+    [
+      "tool",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "user",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "not",
+      1
+    ],
+    [
+      "accessed",
+      1
+    ],
+    [
       "reuters",
-      5
-    ],
-    [
-      "sources",
-      2
-    ],
-    [
-      "say",
-      2
-    ],
-    [
-      "oil",
-      2
-    ],
-    [
-      "bessent",
-      1
-    ],
-    [
-      "powell",
-      1
-    ],
-    [
-      "warned",
-      1
-    ],
-    [
-      "bank",
-      1
-    ],
-    [
-      "ceos",
-      1
-    ],
-    [
-      "about",
-      1
-    ],
-    [
-      "anthropic",
-      1
-    ],
-    [
-      "model",
-      1
-    ],
-    [
-      "risks",
-      1
-    ],
-    [
-      "us-iran",
-      1
-    ],
-    [
-      "ceasefire",
-      1
-    ],
-    [
-      "under",
-      1
-    ],
-    [
-      "strain",
-      1
-    ],
-    [
-      "ahead",
-      1
-    ],
-    [
-      "talks",
-      1
-    ],
-    [
-      "china",
       1
     ]
   ],
   "rising": [
     [
-      "bessent",
-      1,
-      2.0
-    ],
-    [
-      "powell",
-      1,
-      2.0
-    ],
-    [
-      "ceos",
-      1,
-      2.0
-    ],
-    [
-      "warned",
+      "identifies",
       1,
       1.88
     ],
     [
-      "model",
+      "accessed",
       1,
       1.88
     ],
     [
-      "strain",
-      1,
-      1.88
-    ],
-    [
-      "sources",
-      2,
-      1.76
-    ],
-    [
-      "us-iran",
+      "issue",
       1,
       1.76
     ],
     [
-      "anthropic",
+      "involving",
+      1,
+      1.76
+    ],
+    [
+      "user",
+      1,
+      1.76
+    ],
+    [
+      "tool",
+      1,
+      1.58
+    ],
+    [
+      "third-party",
       1,
       1.5
     ],
     [
-      "say",
-      2,
-      1.46
+      "openai",
+      1,
+      1.36
+    ],
+    [
+      "not",
+      1,
+      1.07
+    ],
+    [
+      "data",
+      1,
+      0.55
     ]
   ]
 }
