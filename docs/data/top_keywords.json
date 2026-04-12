@@ -1,109 +1,137 @@
 {
-  "date": "2026-04-11",
+  "date": "2026-04-12",
   "top_today": [
     [
-      "openai",
+      "cyclone",
       1
     ],
     [
-      "identifies",
+      "vaianu",
       1
     ],
     [
-      "security",
+      "lashes",
       1
     ],
     [
-      "issue",
+      "new",
       1
     ],
     [
-      "involving",
+      "zealand",
       1
     ],
     [
-      "third-party",
+      "north",
       1
     ],
     [
-      "tool",
+      "island",
       1
     ],
     [
-      "says",
+      "hundreds",
       1
     ],
     [
-      "user",
-      1
-    ],
-    [
-      "data",
-      1
-    ],
-    [
-      "not",
-      1
-    ],
-    [
-      "accessed",
+      "evacuated",
       1
     ],
     [
       "reuters",
       1
+    ],
+    [
+      "cpuid",
+      1
+    ],
+    [
+      "breach",
+      1
+    ],
+    [
+      "distributes",
+      1
+    ],
+    [
+      "stx",
+      1
+    ],
+    [
+      "rat",
+      1
+    ],
+    [
+      "via",
+      1
+    ],
+    [
+      "trojanized",
+      1
+    ],
+    [
+      "cpu-z",
+      1
+    ],
+    [
+      "hwmonitor",
+      1
+    ],
+    [
+      "downloads",
+      1
     ]
   ],
   "rising": [
     [
-      "identifies",
+      "cyclone",
+      1,
+      2.0
+    ],
+    [
+      "vaianu",
+      1,
+      2.0
+    ],
+    [
+      "lashes",
+      1,
+      2.0
+    ],
+    [
+      "zealand",
+      1,
+      2.0
+    ],
+    [
+      "evacuated",
+      1,
+      2.0
+    ],
+    [
+      "distributes",
+      1,
+      2.0
+    ],
+    [
+      "stx",
+      1,
+      2.0
+    ],
+    [
+      "trojanized",
+      1,
+      2.0
+    ],
+    [
+      "hundreds",
       1,
       1.88
     ],
     [
-      "accessed",
+      "cpuid",
       1,
       1.88
-    ],
-    [
-      "issue",
-      1,
-      1.76
-    ],
-    [
-      "involving",
-      1,
-      1.76
-    ],
-    [
-      "user",
-      1,
-      1.76
-    ],
-    [
-      "tool",
-      1,
-      1.58
-    ],
-    [
-      "third-party",
-      1,
-      1.5
-    ],
-    [
-      "openai",
-      1,
-      1.36
-    ],
-    [
-      "not",
-      1,
-      1.07
-    ],
-    [
-      "data",
-      1,
-      0.55
     ]
   ]
 }
