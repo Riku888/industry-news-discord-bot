@@ -1,137 +1,137 @@
 {
-  "date": "2026-04-13",
+  "date": "2026-04-14",
   "top_today": [
     [
       "reuters",
-      4
+      2
     ],
     [
-      "tsmc",
+      "exploited",
+      2
+    ],
+    [
+      "exclusive",
       1
     ],
     [
-      "likely",
+      "officials",
       1
     ],
     [
-      "book",
+      "underwhelmed",
       1
     ],
     [
-      "fourth",
+      "french",
       1
     ],
     [
-      "straight",
+      "far-right",
       1
     ],
     [
-      "quarter",
+      "plans",
       1
     ],
     [
-      "record",
+      "economy",
       1
     ],
     [
-      "profit",
+      "hsbc",
       1
     ],
     [
-      "insatiable",
+      "chair",
       1
     ],
     [
-      "demand",
+      "says",
       1
     ],
     [
-      "trump",
+      "middle",
       1
     ],
     [
-      "returns",
+      "east",
       1
     ],
     [
-      "weary",
+      "peace",
       1
     ],
     [
-      "failing",
+      "deal",
       1
     ],
     [
-      "playbook",
+      "needed",
       1
     ],
     [
-      "hormuz",
+      "restore",
       1
     ],
     [
-      "blockade",
+      "global",
       1
     ],
     [
-      "threat",
-      1
-    ],
-    [
-      "slovakia",
+      "energy",
       1
     ]
   ],
   "rising": [
     [
-      "profit",
+      "underwhelmed",
       1,
       2.0
     ],
     [
-      "insatiable",
+      "far-right",
       1,
       2.0
     ],
     [
-      "weary",
+      "hsbc",
       1,
       2.0
     ],
     [
-      "failing",
-      1,
-      2.0
-    ],
-    [
-      "playbook",
-      1,
-      2.0
-    ],
-    [
-      "slovakia",
-      1,
-      2.0
-    ],
-    [
-      "tsmc",
+      "chair",
       1,
       1.88
     ],
     [
-      "book",
+      "officials",
       1,
-      1.88
+      1.76
     ],
     [
-      "fourth",
+      "needed",
       1,
-      1.88
+      1.76
     ],
     [
-      "straight",
+      "restore",
       1,
-      1.88
+      1.76
+    ],
+    [
+      "french",
+      1,
+      1.67
+    ],
+    [
+      "peace",
+      1,
+      1.67
+    ],
+    [
+      "economy",
+      1,
+      1.58
     ]
   ]
 }
