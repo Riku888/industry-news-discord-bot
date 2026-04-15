@@ -1,137 +1,129 @@
 {
-  "date": "2026-04-14",
+  "date": "2026-04-15",
   "top_today": [
     [
+      "iran",
+      1
+    ],
+    [
+      "used",
+      1
+    ],
+    [
+      "chinese",
+      1
+    ],
+    [
+      "spy",
+      1
+    ],
+    [
+      "satellite",
+      1
+    ],
+    [
+      "target",
+      1
+    ],
+    [
+      "bases",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "exclusive",
       1
     ],
     [
-      "officials",
+      "ics",
       1
     ],
     [
-      "underwhelmed",
+      "patch",
       1
     ],
     [
-      "french",
+      "tuesday",
       1
     ],
     [
-      "far-right",
+      "industrial",
       1
     ],
     [
-      "plans",
+      "giants",
       1
     ],
     [
-      "economy",
+      "publish",
       1
     ],
     [
-      "hsbc",
+      "new",
       1
     ],
     [
-      "chair",
+      "security",
       1
     ],
     [
-      "says",
-      1
-    ],
-    [
-      "middle",
-      1
-    ],
-    [
-      "east",
-      1
-    ],
-    [
-      "peace",
-      1
-    ],
-    [
-      "deal",
-      1
-    ],
-    [
-      "needed",
-      1
-    ],
-    [
-      "restore",
-      1
-    ],
-    [
-      "global",
-      1
-    ],
-    [
-      "energy",
+      "advisories",
       1
     ]
   ],
   "rising": [
     [
-      "underwhelmed",
+      "bases",
       1,
       2.0
     ],
     [
-      "far-right",
+      "advisories",
       1,
       2.0
     ],
     [
-      "hsbc",
-      1,
-      2.0
-    ],
-    [
-      "chair",
+      "satellite",
       1,
       1.88
     ],
     [
-      "officials",
+      "ics",
+      1,
+      1.88
+    ],
+    [
+      "publish",
+      1,
+      1.88
+    ],
+    [
+      "spy",
       1,
       1.76
     ],
     [
-      "needed",
+      "industrial",
       1,
       1.76
     ],
     [
-      "restore",
-      1,
-      1.76
-    ],
-    [
-      "french",
+      "tuesday",
       1,
       1.67
     ],
     [
-      "peace",
-      1,
-      1.67
-    ],
-    [
-      "economy",
+      "giants",
       1,
       1.58
+    ],
+    [
+      "target",
+      1,
+      1.15
     ]
   ]
 }
