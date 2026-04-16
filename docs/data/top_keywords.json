@@ -1,129 +1,137 @@
 {
-  "date": "2026-04-15",
+  "date": "2026-04-16",
   "top_today": [
     [
-      "iran",
+      "reuters",
+      5
+    ],
+    [
+      "oil",
+      2
+    ],
+    [
+      "targets",
+      2
+    ],
+    [
+      "campaign",
+      2
+    ],
+    [
+      "us-sanctioned",
       1
     ],
     [
-      "used",
+      "supertankers",
       1
     ],
     [
-      "chinese",
+      "enter",
       1
     ],
     [
-      "spy",
+      "gulf",
       1
     ],
     [
-      "satellite",
+      "despite",
       1
     ],
     [
-      "target",
+      "blockade",
       1
     ],
     [
-      "bases",
+      "musk",
+      1
+    ],
+    [
+      "staff",
+      1
+    ],
+    [
+      "reaches",
+      1
+    ],
+    [
+      "out",
+      1
+    ],
+    [
+      "suppliers",
+      1
+    ],
+    [
+      "terafab",
+      1
+    ],
+    [
+      "project",
+      1
+    ],
+    [
+      "bloomberg",
+      1
+    ],
+    [
+      "news",
       1
     ],
     [
       "reports",
       1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "ics",
-      1
-    ],
-    [
-      "patch",
-      1
-    ],
-    [
-      "tuesday",
-      1
-    ],
-    [
-      "industrial",
-      1
-    ],
-    [
-      "giants",
-      1
-    ],
-    [
-      "publish",
-      1
-    ],
-    [
-      "new",
-      1
-    ],
-    [
-      "security",
-      1
-    ],
-    [
-      "advisories",
-      1
     ]
   ],
   "rising": [
     [
-      "bases",
+      "us-sanctioned",
       1,
       2.0
     ],
     [
-      "advisories",
+      "supertankers",
       1,
       2.0
     ],
     [
-      "satellite",
+      "reaches",
       1,
+      2.0
+    ],
+    [
+      "suppliers",
+      1,
+      2.0
+    ],
+    [
+      "terafab",
+      1,
+      2.0
+    ],
+    [
+      "targets",
+      2,
       1.88
     ],
     [
-      "ics",
-      1,
-      1.88
-    ],
-    [
-      "publish",
-      1,
-      1.88
-    ],
-    [
-      "spy",
+      "enter",
       1,
       1.76
     ],
     [
-      "industrial",
+      "blockade",
       1,
       1.76
     ],
     [
-      "tuesday",
+      "musk",
       1,
-      1.67
+      1.76
     ],
     [
-      "giants",
+      "staff",
       1,
-      1.58
-    ],
-    [
-      "target",
-      1,
-      1.15
+      1.76
     ]
   ]
 }
