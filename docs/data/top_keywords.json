@@ -1,135 +1,135 @@
 {
-  "date": "2026-04-16",
+  "date": "2026-04-17",
   "top_today": [
     [
       "reuters",
-      5
+      3
     ],
     [
-      "oil",
+      "amid",
       2
     ],
     [
-      "targets",
+      "after",
       2
     ],
     [
-      "campaign",
+      "vulnerability",
       2
     ],
     [
-      "us-sanctioned",
+      "ddos",
+      2
+    ],
+    [
+      "domains",
+      2
+    ],
+    [
+      "windows",
+      2
+    ],
+    [
+      "exclusive",
       1
     ],
     [
-      "supertankers",
+      "indian",
       1
     ],
     [
-      "enter",
+      "banks",
       1
     ],
     [
-      "gulf",
+      "halt",
       1
     ],
     [
-      "despite",
+      "gold",
       1
     ],
     [
-      "blockade",
+      "silver",
       1
     ],
     [
-      "musk",
+      "imports",
       1
     ],
     [
-      "staff",
+      "delay",
       1
     ],
     [
-      "reaches",
+      "government",
       1
     ],
     [
-      "out",
+      "clearance",
       1
     ],
     [
-      "suppliers",
+      "sources",
       1
     ],
     [
-      "terafab",
+      "say",
       1
     ],
     [
-      "project",
-      1
-    ],
-    [
-      "bloomberg",
-      1
-    ],
-    [
-      "news",
-      1
-    ],
-    [
-      "reports",
+      "tesla",
       1
     ]
   ],
   "rising": [
     [
-      "us-sanctioned",
+      "domains",
+      2,
+      3.16
+    ],
+    [
+      "ddos",
+      2,
+      3.0
+    ],
+    [
+      "windows",
+      2,
+      2.4
+    ],
+    [
+      "clearance",
       1,
       2.0
     ],
     [
-      "supertankers",
-      1,
-      2.0
-    ],
-    [
-      "reaches",
-      1,
-      2.0
-    ],
-    [
-      "suppliers",
-      1,
-      2.0
-    ],
-    [
-      "terafab",
-      1,
-      2.0
-    ],
-    [
-      "targets",
+      "amid",
       2,
       1.88
     ],
     [
-      "enter",
+      "halt",
       1,
-      1.76
+      1.88
     ],
     [
-      "blockade",
+      "silver",
       1,
-      1.76
+      1.88
     ],
     [
-      "musk",
+      "imports",
       1,
-      1.76
+      1.88
     ],
     [
-      "staff",
+      "tesla",
+      1,
+      1.88
+    ],
+    [
+      "delay",
       1,
       1.76
     ]
