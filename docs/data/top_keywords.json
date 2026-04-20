@@ -1,101 +1,121 @@
 {
-  "date": "2026-04-19",
+  "date": "2026-04-20",
   "top_today": [
     [
-      "humanoid",
+      "vercel",
       1
     ],
     [
-      "robots",
+      "breach",
       1
     ],
     [
-      "race",
+      "tied",
       1
     ],
     [
-      "past",
+      "context",
       1
     ],
     [
-      "humans",
+      "hack",
       1
     ],
     [
-      "beijing",
+      "exposes",
       1
     ],
     [
-      "half-marathon",
+      "limited",
       1
     ],
     [
-      "showing",
+      "customer",
       1
     ],
     [
-      "rapid",
+      "credentials",
       1
     ],
     [
-      "advances",
+      "hackers",
       1
     ],
     [
-      "reuters",
+      "fail",
+      1
+    ],
+    [
+      "exploit",
+      1
+    ],
+    [
+      "flaw",
+      1
+    ],
+    [
+      "discontinued",
+      1
+    ],
+    [
+      "tp-link",
+      1
+    ],
+    [
+      "routers",
       1
     ]
   ],
   "rising": [
     [
-      "humanoid",
+      "context",
       1,
       2.0
     ],
     [
-      "robots",
+      "limited",
       1,
       2.0
     ],
     [
-      "humans",
+      "fail",
       1,
       2.0
     ],
     [
-      "half-marathon",
+      "discontinued",
       1,
       2.0
     ],
     [
-      "showing",
-      1,
-      2.0
-    ],
-    [
-      "rapid",
-      1,
-      2.0
-    ],
-    [
-      "race",
+      "vercel",
       1,
       1.88
     ],
     [
-      "beijing",
-      1,
-      1.88
-    ],
-    [
-      "advances",
-      1,
-      1.88
-    ],
-    [
-      "past",
+      "tied",
       1,
       1.76
+    ],
+    [
+      "customer",
+      1,
+      1.76
+    ],
+    [
+      "tp-link",
+      1,
+      1.76
+    ],
+    [
+      "routers",
+      1,
+      1.58
+    ],
+    [
+      "exposes",
+      1,
+      1.36
     ]
   ]
 }
