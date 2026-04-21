@@ -1,121 +1,97 @@
 {
-  "date": "2026-04-20",
+  "date": "2026-04-21",
   "top_today": [
     [
-      "vercel",
+      "cisa",
       1
     ],
     [
-      "breach",
+      "adds",
       1
     ],
     [
-      "tied",
+      "exploited",
       1
     ],
     [
-      "context",
+      "flaws",
       1
     ],
     [
-      "hack",
+      "kev",
       1
     ],
     [
-      "exposes",
+      "sets",
       1
     ],
     [
-      "limited",
+      "april-may",
       1
     ],
     [
-      "customer",
+      "2026",
       1
     ],
     [
-      "credentials",
+      "federal",
       1
     ],
     [
-      "hackers",
-      1
-    ],
-    [
-      "fail",
-      1
-    ],
-    [
-      "exploit",
-      1
-    ],
-    [
-      "flaw",
-      1
-    ],
-    [
-      "discontinued",
-      1
-    ],
-    [
-      "tp-link",
-      1
-    ],
-    [
-      "routers",
+      "deadlines",
       1
     ]
   ],
   "rising": [
     [
-      "context",
+      "april-may",
       1,
       2.0
     ],
     [
-      "limited",
+      "deadlines",
       1,
       2.0
     ],
     [
-      "fail",
-      1,
-      2.0
-    ],
-    [
-      "discontinued",
-      1,
-      2.0
-    ],
-    [
-      "vercel",
+      "sets",
       1,
       1.88
     ],
     [
-      "tied",
+      "federal",
       1,
-      1.76
+      1.67
     ],
     [
-      "customer",
-      1,
-      1.76
-    ],
-    [
-      "tp-link",
-      1,
-      1.76
-    ],
-    [
-      "routers",
+      "kev",
       1,
       1.58
     ],
     [
-      "exposes",
+      "2026",
       1,
-      1.36
+      1.07
+    ],
+    [
+      "flaws",
+      1,
+      1.0
+    ],
+    [
+      "adds",
+      1,
+      0.94
+    ],
+    [
+      "cisa",
+      1,
+      0.7
+    ],
+    [
+      "exploited",
+      1,
+      0.45
     ]
   ]
 }
