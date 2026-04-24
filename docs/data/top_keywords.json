@@ -1,52 +1,24 @@
 {
-  "date": "2026-04-23",
+  "date": "2026-04-24",
   "top_today": [
     [
-      "australia",
+      "cloud",
+      2
+    ],
+    [
+      "apt",
+      2
+    ],
+    [
+      "lmdeploy",
       1
     ],
     [
-      "government",
+      "cve-2026-33626",
       1
     ],
     [
-      "working",
-      1
-    ],
-    [
-      "anthropic",
-      1
-    ],
-    [
-      "over",
-      1
-    ],
-    [
-      "cybersecurity",
-      1
-    ],
-    [
-      "vulnerabilities",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "recent",
-      1
-    ],
-    [
-      "microsoft",
-      1
-    ],
-    [
-      "defender",
-      1
-    ],
-    [
-      "vulnerability",
+      "flaw",
       1
     ],
     [
@@ -54,60 +26,112 @@
       1
     ],
     [
-      "zero-day",
+      "within",
+      1
+    ],
+    [
+      "hours",
+      1
+    ],
+    [
+      "disclosure",
+      1
+    ],
+    [
+      "bitwarden",
+      1
+    ],
+    [
+      "npm",
+      1
+    ],
+    [
+      "package",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "supply",
+      1
+    ],
+    [
+      "chain",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "copperhelm",
+      1
+    ],
+    [
+      "raises",
+      1
+    ],
+    [
+      "million",
+      1
+    ],
+    [
+      "agentic",
       1
     ]
   ],
   "rising": [
     [
-      "australia",
-      1,
-      1.76
+      "apt",
+      2,
+      3.16
     ],
     [
-      "working",
+      "cloud",
+      2,
+      2.07
+    ],
+    [
+      "lmdeploy",
+      1,
+      2.0
+    ],
+    [
+      "cve-2026-33626",
+      1,
+      2.0
+    ],
+    [
+      "copperhelm",
+      1,
+      2.0
+    ],
+    [
+      "bitwarden",
+      1,
+      1.88
+    ],
+    [
+      "hours",
       1,
       1.67
     ],
     [
-      "recent",
+      "disclosure",
       1,
       1.67
     ],
     [
-      "defender",
+      "agentic",
       1,
-      1.5
+      1.67
     ],
     [
-      "government",
+      "within",
       1,
-      1.15
-    ],
-    [
-      "cybersecurity",
-      1,
-      1.15
-    ],
-    [
-      "anthropic",
-      1,
-      0.88
-    ],
-    [
-      "over",
-      1,
-      0.81
-    ],
-    [
-      "zero-day",
-      1,
-      0.81
-    ],
-    [
-      "vulnerabilities",
-      1,
-      0.73
+      1.58
     ]
   ]
 }
