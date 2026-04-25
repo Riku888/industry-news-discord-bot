@@ -1,24 +1,12 @@
 {
-  "date": "2026-04-24",
+  "date": "2026-04-25",
   "top_today": [
     [
-      "cloud",
-      2
-    ],
-    [
-      "apt",
-      2
-    ],
-    [
-      "lmdeploy",
+      "cisa",
       1
     ],
     [
-      "cve-2026-33626",
-      1
-    ],
-    [
-      "flaw",
+      "adds",
       1
     ],
     [
@@ -26,112 +14,84 @@
       1
     ],
     [
-      "within",
+      "flaws",
       1
     ],
     [
-      "hours",
+      "kev",
       1
     ],
     [
-      "disclosure",
+      "sets",
       1
     ],
     [
-      "bitwarden",
+      "may",
       1
     ],
     [
-      "npm",
+      "2026",
       1
     ],
     [
-      "package",
+      "federal",
       1
     ],
     [
-      "hit",
-      1
-    ],
-    [
-      "supply",
-      1
-    ],
-    [
-      "chain",
-      1
-    ],
-    [
-      "attack",
-      1
-    ],
-    [
-      "copperhelm",
-      1
-    ],
-    [
-      "raises",
-      1
-    ],
-    [
-      "million",
-      1
-    ],
-    [
-      "agentic",
+      "deadline",
       1
     ]
   ],
   "rising": [
     [
-      "apt",
-      2,
-      3.16
-    ],
-    [
-      "cloud",
-      2,
-      2.07
-    ],
-    [
-      "lmdeploy",
+      "sets",
       1,
-      2.0
+      1.76
     ],
     [
-      "cve-2026-33626",
-      1,
-      2.0
-    ],
-    [
-      "copperhelm",
-      1,
-      2.0
-    ],
-    [
-      "bitwarden",
-      1,
-      1.88
-    ],
-    [
-      "hours",
+      "deadline",
       1,
       1.67
     ],
     [
-      "disclosure",
+      "kev",
       1,
-      1.67
+      1.5
     ],
     [
-      "agentic",
+      "federal",
       1,
-      1.67
+      1.5
     ],
     [
-      "within",
+      "may",
       1,
-      1.58
+      1.2
+    ],
+    [
+      "flaws",
+      1,
+      1.03
+    ],
+    [
+      "2026",
+      1,
+      0.97
+    ],
+    [
+      "adds",
+      1,
+      0.86
+    ],
+    [
+      "cisa",
+      1,
+      0.61
+    ],
+    [
+      "exploited",
+      1,
+      0.41
     ]
   ]
 }
