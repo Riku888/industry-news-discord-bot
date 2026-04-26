@@ -1,97 +1,88 @@
 {
-  "date": "2026-04-25",
+  "date": "2026-04-26",
   "top_today": [
     [
-      "cisa",
+      "iran",
       1
     ],
     [
-      "adds",
+      "executes",
       1
     ],
     [
-      "exploited",
+      "man",
       1
     ],
     [
-      "flaws",
+      "linked",
       1
     ],
     [
-      "kev",
+      "militant",
       1
     ],
     [
-      "sets",
+      "group",
       1
     ],
     [
-      "may",
+      "tasnim",
       1
     ],
     [
-      "2026",
+      "reports",
       1
     ],
     [
-      "federal",
-      1
-    ],
-    [
-      "deadline",
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "sets",
+      "executes",
+      1,
+      2.0
+    ],
+    [
+      "militant",
+      1,
+      2.0
+    ],
+    [
+      "tasnim",
+      1,
+      2.0
+    ],
+    [
+      "man",
       1,
       1.76
     ],
     [
-      "deadline",
+      "linked",
       1,
-      1.67
+      1.36
     ],
     [
-      "kev",
-      1,
-      1.5
-    ],
-    [
-      "federal",
-      1,
-      1.5
-    ],
-    [
-      "may",
-      1,
-      1.2
-    ],
-    [
-      "flaws",
-      1,
-      1.03
-    ],
-    [
-      "2026",
+      "group",
       1,
       0.97
     ],
     [
-      "adds",
+      "reports",
       1,
-      0.86
+      0.91
     ],
     [
-      "cisa",
+      "iran",
       1,
-      0.61
+      0.32
     ],
     [
-      "exploited",
+      "reuters",
       1,
-      0.41
+      0.08
     ]
   ]
 }
