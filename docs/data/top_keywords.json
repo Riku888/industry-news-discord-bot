@@ -1,32 +1,48 @@
 {
-  "date": "2026-04-26",
+  "date": "2026-04-27",
   "top_today": [
     [
-      "iran",
+      "reuters",
+      2
+    ],
+    [
+      "budget",
       1
     ],
     [
-      "executes",
+      "airlines",
       1
     ],
     [
-      "man",
+      "pitch",
       1
     ],
     [
-      "linked",
+      "government",
       1
     ],
     [
-      "militant",
+      "aid",
       1
     ],
     [
-      "group",
+      "under",
       1
     ],
     [
-      "tasnim",
+      "billion",
+      1
+    ],
+    [
+      "relief",
+      1
+    ],
+    [
+      "plan",
+      1
+    ],
+    [
+      "wsj",
       1
     ],
     [
@@ -34,55 +50,88 @@
       1
     ],
     [
-      "reuters",
+      "bank",
+      1
+    ],
+    [
+      "england",
+      1
+    ],
+    [
+      "keep",
+      1
+    ],
+    [
+      "rates",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "while",
+      1
+    ],
+    [
+      "gauges",
+      1
+    ],
+    [
+      "impact",
       1
     ]
   ],
   "rising": [
     [
-      "executes",
+      "budget",
       1,
       2.0
     ],
     [
-      "militant",
+      "relief",
       1,
       2.0
     ],
     [
-      "tasnim",
+      "wsj",
       1,
       2.0
     ],
     [
-      "man",
+      "gauges",
+      1,
+      2.0
+    ],
+    [
+      "airlines",
+      1,
+      1.88
+    ],
+    [
+      "pitch",
+      1,
+      1.88
+    ],
+    [
+      "aid",
+      1,
+      1.88
+    ],
+    [
+      "england",
+      1,
+      1.88
+    ],
+    [
+      "plan",
       1,
       1.76
     ],
     [
-      "linked",
+      "while",
       1,
-      1.36
-    ],
-    [
-      "group",
-      1,
-      0.97
-    ],
-    [
-      "reports",
-      1,
-      0.91
-    ],
-    [
-      "iran",
-      1,
-      0.32
-    ],
-    [
-      "reuters",
-      1,
-      0.08
+      1.76
     ]
   ]
 }
