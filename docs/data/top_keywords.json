@@ -1,72 +1,28 @@
 {
-  "date": "2026-04-28",
+  "date": "2026-04-29",
   "top_today": [
     [
       "reuters",
+      5
+    ],
+    [
+      "anthropic",
       2
     ],
     [
-      "microsoft",
-      2
-    ],
-    [
-      "trump",
+      "countries",
       1
     ],
     [
-      "administration",
+      "lawmakers",
       1
     ],
     [
-      "fires",
+      "fail",
       1
     ],
     [
-      "entire",
-      1
-    ],
-    [
-      "national",
-      1
-    ],
-    [
-      "science",
-      1
-    ],
-    [
-      "board",
-      1
-    ],
-    [
-      "foreign",
-      1
-    ],
-    [
-      "automakers",
-      1
-    ],
-    [
-      "threaten",
-      1
-    ],
-    [
-      "pull",
-      1
-    ],
-    [
-      "cheapest",
-      1
-    ],
-    [
-      "models",
-      1
-    ],
-    [
-      "without",
-      1
-    ],
-    [
-      "trade",
+      "reach",
       1
     ],
     [
@@ -74,62 +30,106 @@
       1
     ],
     [
-      "wsj",
+      "watered-down",
       1
     ],
     [
-      "reports",
+      "rules",
+      1
+    ],
+    [
+      "goldman",
+      1
+    ],
+    [
+      "sachs",
+      1
+    ],
+    [
+      "bars",
+      1
+    ],
+    [
+      "hong",
+      1
+    ],
+    [
+      "kong",
+      1
+    ],
+    [
+      "bankers",
+      1
+    ],
+    [
+      "using",
+      1
+    ],
+    [
+      "source",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "white",
+      1
+    ],
+    [
+      "house",
       1
     ]
   ],
   "rising": [
     [
-      "entire",
+      "countries",
       1,
       2.0
     ],
     [
-      "science",
+      "lawmakers",
       1,
       2.0
     ],
     [
-      "board",
+      "reach",
       1,
       2.0
     ],
     [
-      "foreign",
+      "sachs",
       1,
       2.0
     ],
     [
-      "threaten",
+      "bars",
       1,
       2.0
     ],
     [
-      "cheapest",
+      "hong",
       1,
       2.0
     ],
     [
-      "fires",
+      "kong",
+      1,
+      2.0
+    ],
+    [
+      "fail",
       1,
       1.88
     ],
     [
-      "automakers",
+      "watered-down",
       1,
       1.88
     ],
     [
-      "pull",
-      1,
-      1.88
-    ],
-    [
-      "wsj",
+      "goldman",
       1,
       1.88
     ]
