@@ -1,135 +1,135 @@
 {
-  "date": "2026-04-29",
+  "date": "2026-04-30",
   "top_today": [
     [
       "reuters",
-      5
+      4
     ],
     [
-      "anthropic",
-      2
-    ],
-    [
-      "countries",
+      "samsung",
       1
     ],
     [
-      "lawmakers",
+      "electronics",
       1
     ],
     [
-      "fail",
+      "expects",
       1
     ],
     [
-      "reach",
+      "win",
       1
     ],
     [
-      "deal",
+      "more",
       1
     ],
     [
-      "watered-down",
+      "customers",
       1
     ],
     [
-      "rules",
+      "advanced",
       1
     ],
     [
-      "goldman",
+      "logic",
       1
     ],
     [
-      "sachs",
+      "chips",
       1
     ],
     [
-      "bars",
+      "europe",
       1
     ],
     [
-      "hong",
+      "oil",
       1
     ],
     [
-      "kong",
+      "shortages",
       1
     ],
     [
-      "bankers",
+      "create",
       1
     ],
     [
-      "using",
+      "wile",
       1
     ],
     [
-      "source",
+      "coyote",
       1
     ],
     [
-      "says",
+      "moment",
       1
     ],
     [
-      "white",
+      "podcast",
       1
     ],
     [
-      "house",
+      "prosecutors",
+      1
+    ],
+    [
+      "detail",
       1
     ]
   ],
   "rising": [
     [
-      "countries",
+      "samsung",
       1,
       2.0
     ],
     [
-      "lawmakers",
+      "win",
       1,
       2.0
     ],
     [
-      "reach",
+      "shortages",
       1,
       2.0
     ],
     [
-      "sachs",
+      "wile",
       1,
       2.0
     ],
     [
-      "bars",
+      "coyote",
       1,
       2.0
     ],
     [
-      "hong",
+      "podcast",
       1,
       2.0
     ],
     [
-      "kong",
-      1,
-      2.0
-    ],
-    [
-      "fail",
+      "electronics",
       1,
       1.88
     ],
     [
-      "watered-down",
+      "expects",
       1,
       1.88
     ],
     [
-      "goldman",
+      "customers",
+      1,
+      1.88
+    ],
+    [
+      "advanced",
       1,
       1.88
     ]
