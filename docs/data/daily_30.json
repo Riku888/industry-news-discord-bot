@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-04-02",
     "2026-04-03",
     "2026-04-04",
     "2026-04-05",
@@ -30,10 +29,10 @@
     "2026-04-29",
     "2026-04-30",
     "2026-05-01",
-    "2026-05-02"
+    "2026-05-02",
+    "2026-05-03"
   ],
   "total": [
-    56,
     40,
     10,
     16,
@@ -61,22 +60,12 @@
     38,
     35,
     37,
-    38,
-    32,
+    39,
+    36,
+    7,
     2
   ],
   "by_category": {
-    "2026-04-02": {
-      "APT・国家系": 1,
-      "ID・認証": 2,
-      "その他": 11,
-      "クラウド・サプライチェーン": 1,
-      "マルウェア": 12,
-      "ランサムウェア": 1,
-      "脆弱性・CVE": 11,
-      "規制・ガバナンス": 1,
-      "防御・検知・対応": 16
-    },
     "2026-04-03": {
       "APT・国家系": 2,
       "ID・認証": 2,
@@ -328,10 +317,10 @@
       "フィッシング": 1,
       "マルウェア": 4,
       "脆弱性・CVE": 8,
-      "防御・検知・対応": 7
+      "防御・検知・対応": 8
     },
     "2026-05-01": {
-      "その他": 6,
+      "その他": 10,
       "フィッシング": 2,
       "マルウェア": 4,
       "ランサムウェア": 4,
@@ -340,22 +329,17 @@
       "防御・検知・対応": 5
     },
     "2026-05-02": {
-      "脆弱性・CVE": 2
+      "フィッシング": 2,
+      "ランサムウェア": 1,
+      "脆弱性・CVE": 2,
+      "防御・検知・対応": 2
+    },
+    "2026-05-03": {
+      "マルウェア": 1,
+      "脆弱性・CVE": 1
     }
   },
   "by_source": {
-    "2026-04-02": {
-      "AP News": 1,
-      "BleepingComputer": 7,
-      "CISA": 4,
-      "Dark Reading": 5,
-      "Google Security Blog": 1,
-      "Microsoft Security Blog": 2,
-      "Reuters": 20,
-      "SecurityWeek": 7,
-      "The Hacker News": 7,
-      "The Record": 2
-    },
     "2026-04-03": {
       "BleepingComputer": 3,
       "Dark Reading": 5,
@@ -598,7 +582,7 @@
       "CISA": 7,
       "Dark Reading": 2,
       "Palo Alto Unit 42": 1,
-      "Reuters": 14,
+      "Reuters": 15,
       "SecurityWeek": 6,
       "The Hacker News": 5
     },
@@ -609,13 +593,20 @@
       "Dark Reading": 2,
       "Microsoft Security Blog": 1,
       "Palo Alto Unit 42": 1,
-      "Reuters": 8,
+      "Reuters": 12,
       "SecurityWeek": 6,
       "The Hacker News": 4,
       "The Record": 4
     },
     "2026-05-02": {
+      "BleepingComputer": 2,
       "Microsoft Security Blog": 1,
+      "Reuters": 2,
+      "SecurityWeek": 1,
+      "The Hacker News": 1
+    },
+    "2026-05-03": {
+      "Reuters": 1,
       "The Hacker News": 1
     }
   }

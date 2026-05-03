@@ -1,56 +1,64 @@
 {
-  "date": "2026-05-02",
+  "date": "2026-05-03",
   "top_today": [
     [
-      "trellix",
+      "taiwan",
       1
     ],
     [
-      "confirms",
+      "president",
       1
     ],
     [
-      "source",
+      "defiant",
       1
     ],
     [
-      "code",
+      "begins",
       1
     ],
     [
-      "breach",
+      "eswatini",
       1
     ],
     [
-      "unauthorized",
+      "trip",
       1
     ],
     [
-      "repository",
+      "china",
       1
     ],
     [
-      "access",
+      "calls",
       1
     ],
     [
-      "cve-2026-31431",
+      "him",
       1
     ],
     [
-      "copy",
+      "rat",
       1
     ],
     [
-      "fail",
+      "reuters",
       1
     ],
     [
-      "vulnerability",
+      "cisa",
       1
     ],
     [
-      "enables",
+      "adds",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "exploited",
       1
     ],
     [
@@ -62,74 +70,66 @@
       1
     ],
     [
-      "privilege",
+      "access",
       1
     ],
     [
-      "escalation",
+      "bug",
       1
     ],
     [
-      "across",
-      1
-    ],
-    [
-      "cloud",
-      1
-    ],
-    [
-      "environments",
+      "cve-2026-31431",
       1
     ]
   ],
   "rising": [
     [
-      "trellix",
+      "defiant",
       1,
       2.0
+    ],
+    [
+      "begins",
+      1,
+      2.0
+    ],
+    [
+      "him",
+      1,
+      2.0
+    ],
+    [
+      "eswatini",
+      1,
+      1.88
     ],
     [
       "cve-2026-31431",
       1,
-      2.0
-    ],
-    [
-      "repository",
-      1,
       1.88
     ],
     [
-      "copy",
-      1,
-      1.88
-    ],
-    [
-      "unauthorized",
+      "calls",
       1,
       1.76
+    ],
+    [
+      "president",
+      1,
+      1.67
+    ],
+    [
+      "trip",
+      1,
+      1.67
     ],
     [
       "root",
       1,
-      1.76
-    ],
-    [
-      "environments",
-      1,
-      1.76
-    ],
-    [
-      "fail",
-      1,
       1.67
     ],
     [
-      "escalation",
-      1,
-      1.67
-    ],
-    [
-      "privilege",
+      "taiwan",
       1,
       1.58
     ]
