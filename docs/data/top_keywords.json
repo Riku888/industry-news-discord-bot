@@ -1,137 +1,125 @@
 {
-  "date": "2026-05-03",
+  "date": "2026-05-04",
   "top_today": [
     [
-      "taiwan",
+      "over",
       1
     ],
     [
-      "president",
+      "000",
       1
     ],
     [
-      "defiant",
+      "servers",
       1
     ],
     [
-      "begins",
+      "compromised",
       1
     ],
     [
-      "eswatini",
+      "ongoing",
       1
     ],
     [
-      "trip",
+      "cpanel",
       1
     ],
     [
-      "china",
+      "exploitation",
       1
     ],
     [
-      "calls",
+      "edtech",
       1
     ],
     [
-      "him",
+      "firm",
       1
     ],
     [
-      "rat",
+      "instructure",
       1
     ],
     [
-      "reuters",
+      "discloses",
       1
     ],
     [
-      "cisa",
+      "data",
       1
     ],
     [
-      "adds",
+      "breach",
       1
     ],
     [
-      "actively",
+      "amid",
       1
     ],
     [
-      "exploited",
+      "hacker",
       1
     ],
     [
-      "linux",
+      "leak",
       1
     ],
     [
-      "root",
-      1
-    ],
-    [
-      "access",
-      1
-    ],
-    [
-      "bug",
-      1
-    ],
-    [
-      "cve-2026-31431",
+      "threats",
       1
     ]
   ],
   "rising": [
     [
-      "defiant",
+      "edtech",
       1,
       2.0
     ],
     [
-      "begins",
-      1,
-      2.0
-    ],
-    [
-      "him",
-      1,
-      2.0
-    ],
-    [
-      "eswatini",
+      "ongoing",
       1,
       1.88
     ],
     [
-      "cve-2026-31431",
-      1,
-      1.88
-    ],
-    [
-      "calls",
+      "instructure",
       1,
       1.76
     ],
     [
-      "president",
+      "discloses",
       1,
-      1.67
+      1.76
     ],
     [
-      "trip",
-      1,
-      1.67
-    ],
-    [
-      "root",
-      1,
-      1.67
-    ],
-    [
-      "taiwan",
+      "hacker",
       1,
       1.58
+    ],
+    [
+      "threats",
+      1,
+      1.58
+    ],
+    [
+      "cpanel",
+      1,
+      1.5
+    ],
+    [
+      "leak",
+      1,
+      1.5
+    ],
+    [
+      "compromised",
+      1,
+      1.36
+    ],
+    [
+      "exploitation",
+      1,
+      1.3
     ]
   ]
 }
