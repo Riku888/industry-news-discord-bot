@@ -1,125 +1,137 @@
 {
-  "date": "2026-05-04",
+  "date": "2026-05-05",
   "top_today": [
     [
-      "over",
+      "reuters",
+      2
+    ],
+    [
+      "shares",
       1
     ],
     [
-      "000",
+      "falter",
       1
     ],
     [
-      "servers",
+      "oil",
       1
     ],
     [
-      "compromised",
+      "prices",
       1
     ],
     [
-      "ongoing",
+      "stay",
       1
     ],
     [
-      "cpanel",
+      "elevated",
       1
     ],
     [
-      "exploitation",
+      "us-iran",
       1
     ],
     [
-      "edtech",
+      "hostilities",
       1
     ],
     [
-      "firm",
+      "ramp",
       1
     ],
     [
-      "instructure",
+      "berkshire",
       1
     ],
     [
-      "discloses",
+      "taps",
       1
     ],
     [
-      "data",
+      "charlie",
       1
     ],
     [
-      "breach",
+      "shamieh",
       1
     ],
     [
-      "amid",
+      "succeed",
       1
     ],
     [
-      "hacker",
+      "ajit",
       1
     ],
     [
-      "leak",
+      "jain",
       1
     ],
     [
-      "threats",
+      "insurance",
+      1
+    ],
+    [
+      "chief",
+      1
+    ],
+    [
+      "wsj",
       1
     ]
   ],
   "rising": [
     [
-      "edtech",
+      "falter",
       1,
       2.0
     ],
     [
-      "ongoing",
+      "hostilities",
+      1,
+      2.0
+    ],
+    [
+      "ramp",
+      1,
+      2.0
+    ],
+    [
+      "charlie",
+      1,
+      2.0
+    ],
+    [
+      "shamieh",
+      1,
+      2.0
+    ],
+    [
+      "succeed",
+      1,
+      2.0
+    ],
+    [
+      "ajit",
+      1,
+      2.0
+    ],
+    [
+      "jain",
+      1,
+      2.0
+    ],
+    [
+      "insurance",
+      1,
+      2.0
+    ],
+    [
+      "stay",
       1,
       1.88
-    ],
-    [
-      "instructure",
-      1,
-      1.76
-    ],
-    [
-      "discloses",
-      1,
-      1.76
-    ],
-    [
-      "hacker",
-      1,
-      1.58
-    ],
-    [
-      "threats",
-      1,
-      1.58
-    ],
-    [
-      "cpanel",
-      1,
-      1.5
-    ],
-    [
-      "leak",
-      1,
-      1.5
-    ],
-    [
-      "compromised",
-      1,
-      1.36
-    ],
-    [
-      "exploitation",
-      1,
-      1.3
     ]
   ]
 }
