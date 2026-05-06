@@ -1,16 +1,48 @@
 {
-  "date": "2026-05-05",
+  "date": "2026-05-06",
   "top_today": [
     [
-      "reuters",
+      "middle",
       2
     ],
     [
-      "shares",
+      "east",
+      2
+    ],
+    [
+      "palo",
+      2
+    ],
+    [
+      "alto",
+      2
+    ],
+    [
+      "patch",
+      2
+    ],
+    [
+      "gold",
       1
     ],
     [
-      "falter",
+      "jumps",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "peace",
+      1
+    ],
+    [
+      "hopes",
+      1
+    ],
+    [
+      "send",
       1
     ],
     [
@@ -18,120 +50,88 @@
       1
     ],
     [
-      "prices",
+      "dollar",
       1
     ],
     [
-      "stay",
+      "lower",
       1
     ],
     [
-      "elevated",
+      "reuters",
       1
     ],
     [
-      "us-iran",
+      "pan-os",
       1
     ],
     [
-      "hostilities",
+      "flaw",
       1
     ],
     [
-      "ramp",
+      "under",
       1
     ],
     [
-      "berkshire",
+      "active",
       1
     ],
     [
-      "taps",
-      1
-    ],
-    [
-      "charlie",
-      1
-    ],
-    [
-      "shamieh",
-      1
-    ],
-    [
-      "succeed",
-      1
-    ],
-    [
-      "ajit",
-      1
-    ],
-    [
-      "jain",
-      1
-    ],
-    [
-      "insurance",
-      1
-    ],
-    [
-      "chief",
-      1
-    ],
-    [
-      "wsj",
+      "exploitation",
       1
     ]
   ],
   "rising": [
     [
-      "falter",
+      "palo",
+      2,
+      3.75
+    ],
+    [
+      "alto",
+      2,
+      3.75
+    ],
+    [
+      "middle",
+      2,
+      2.5
+    ],
+    [
+      "east",
+      2,
+      2.5
+    ],
+    [
+      "patch",
+      2,
+      2.0
+    ],
+    [
+      "pan-os",
       1,
       2.0
     ],
     [
-      "hostilities",
-      1,
-      2.0
-    ],
-    [
-      "ramp",
-      1,
-      2.0
-    ],
-    [
-      "charlie",
-      1,
-      2.0
-    ],
-    [
-      "shamieh",
-      1,
-      2.0
-    ],
-    [
-      "succeed",
-      1,
-      2.0
-    ],
-    [
-      "ajit",
-      1,
-      2.0
-    ],
-    [
-      "jain",
-      1,
-      2.0
-    ],
-    [
-      "insurance",
-      1,
-      2.0
-    ],
-    [
-      "stay",
+      "jumps",
       1,
       1.88
+    ],
+    [
+      "lower",
+      1,
+      1.88
+    ],
+    [
+      "send",
+      1,
+      1.76
+    ],
+    [
+      "gold",
+      1,
+      1.58
     ]
   ]
 }
