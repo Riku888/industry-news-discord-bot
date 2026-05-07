@@ -383,9 +383,9 @@
     9,
     12,
     40,
-    42,
-    6,
-    1
+    45,
+    36,
+    7
   ],
   "by_category": {
     "2023-06-22": {
@@ -1655,21 +1655,30 @@
       "防御・検知・対応": 8
     },
     "2026-05-05": {
-      "その他": 11,
+      "その他": 13,
       "フィッシング": 2,
       "マルウェア": 10,
       "ランサムウェア": 2,
-      "脆弱性・CVE": 9,
+      "脆弱性・CVE": 10,
       "規制・ガバナンス": 1,
       "防御・検知・対応": 7
     },
     "2026-05-06": {
-      "その他": 2,
-      "クラウド・サプライチェーン": 1,
-      "脆弱性・CVE": 3
+      "ID・認証": 1,
+      "その他": 8,
+      "クラウド・サプライチェーン": 2,
+      "フィッシング": 1,
+      "マルウェア": 5,
+      "ランサムウェア": 4,
+      "脆弱性・CVE": 8,
+      "規制・ガバナンス": 1,
+      "防御・検知・対応": 6
     },
     "2026-05-07": {
-      "マルウェア": 1
+      "その他": 1,
+      "マルウェア": 1,
+      "脆弱性・CVE": 2,
+      "防御・検知・対応": 3
     }
   },
   "by_source": {
@@ -2921,20 +2930,28 @@
     "2026-05-05": {
       "BleepingComputer": 6,
       "CISA": 5,
-      "Dark Reading": 2,
+      "Dark Reading": 4,
       "Palo Alto Unit 42": 1,
-      "Reuters": 14,
+      "Reuters": 15,
       "SecurityWeek": 5,
       "The Hacker News": 7,
       "The Record": 2
     },
     "2026-05-06": {
-      "Dark Reading": 1,
-      "Reuters": 1,
-      "SecurityWeek": 3,
-      "The Hacker News": 1
+      "BleepingComputer": 6,
+      "CISA": 1,
+      "CrowdStrike": 1,
+      "Dark Reading": 3,
+      "Microsoft Security Blog": 2,
+      "Reuters": 9,
+      "SecurityWeek": 7,
+      "The Hacker News": 5,
+      "The Record": 2
     },
     "2026-05-07": {
+      "Palo Alto Unit 42": 1,
+      "Reuters": 4,
+      "The Hacker News": 1,
       "The Record": 1
     }
   }

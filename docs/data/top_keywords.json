@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-06",
+  "date": "2026-05-07",
   "top_today": [
     [
-      "middle",
+      "reuters",
+      4
+    ],
+    [
+      "deal",
       2
-    ],
-    [
-      "east",
-      2
-    ],
-    [
-      "palo",
-      2
-    ],
-    [
-      "alto",
-      2
-    ],
-    [
-      "patch",
-      2
-    ],
-    [
-      "gold",
-      1
-    ],
-    [
-      "jumps",
-      1
-    ],
-    [
-      "over",
-      1
     ],
     [
       "peace",
+      2
+    ],
+    [
+      "optimism",
+      2
+    ],
+    [
+      "code",
+      2
+    ],
+    [
+      "execution",
+      2
+    ],
+    [
+      "north",
       1
     ],
     [
-      "hopes",
+      "korean",
       1
     ],
     [
-      "send",
+      "hackers",
       1
     ],
     [
-      "oil",
+      "targeted",
       1
     ],
     [
-      "dollar",
+      "ethnic",
       1
     ],
     [
-      "lower",
+      "koreans",
       1
     ],
     [
-      "reuters",
+      "china",
       1
     ],
     [
-      "pan-os",
+      "android",
       1
     ],
     [
-      "flaw",
+      "birdcall",
       1
     ],
     [
-      "under",
+      "malware",
       1
     ],
     [
-      "active",
+      "countries",
       1
     ],
     [
-      "exploitation",
+      "lawmakers",
+      1
+    ],
+    [
+      "clinch",
+      1
+    ],
+    [
+      "provisional",
       1
     ]
   ],
   "rising": [
     [
-      "palo",
+      "optimism",
       2,
       3.75
     ],
     [
-      "alto",
+      "peace",
       2,
-      3.75
+      2.86
     ],
     [
-      "middle",
+      "execution",
       2,
-      2.5
+      2.4
     ],
     [
-      "east",
+      "deal",
       2,
-      2.5
+      2.14
     ],
     [
-      "patch",
-      2,
-      2.0
-    ],
-    [
-      "pan-os",
+      "ethnic",
       1,
       2.0
     ],
     [
-      "jumps",
+      "koreans",
+      1,
+      2.0
+    ],
+    [
+      "clinch",
+      1,
+      2.0
+    ],
+    [
+      "provisional",
+      1,
+      2.0
+    ],
+    [
+      "lawmakers",
       1,
       1.88
     ],
     [
-      "lower",
-      1,
-      1.88
-    ],
-    [
-      "send",
-      1,
+      "code",
+      2,
       1.76
-    ],
-    [
-      "gold",
-      1,
-      1.58
     ]
   ]
 }
