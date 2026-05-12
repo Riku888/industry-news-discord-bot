@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-11",
+  "date": "2026-05-12",
   "top_today": [
     [
       "reuters",
       2
     ],
     [
-      "attacks",
-      2
-    ],
-    [
-      "australia",
+      "asia-pacific",
       1
     ],
     [
-      "fly",
+      "heirs",
       1
     ],
     [
-      "citizens",
+      "turn",
       1
     ],
     [
-      "home",
+      "wealth",
       1
     ],
     [
-      "virus-hit",
+      "professionals",
       1
     ],
     [
-      "cruise",
+      "succession",
       1
     ],
     [
-      "ship",
+      "advice",
       1
     ],
     [
-      "plans",
+      "ubs",
       1
     ],
     [
-      "quarantine",
+      "says",
       1
     ],
     [
-      "ukraine",
+      "dollar",
       1
     ],
     [
-      "reports",
+      "rises",
       1
     ],
     [
-      "russian",
+      "fading",
       1
     ],
     [
-      "battlefield",
+      "hopes",
       1
     ],
     [
-      "clashes",
+      "middle",
       1
     ],
     [
-      "despite",
+      "east",
       1
     ],
     [
-      "ceasefire",
+      "peace",
       1
     ],
     [
-      "trickmo",
+      "deal",
       1
     ],
     [
-      "android",
+      "openai",
+      1
+    ],
+    [
+      "launches",
       1
     ]
   ],
   "rising": [
     [
-      "fly",
+      "asia-pacific",
       1,
       2.0
     ],
     [
-      "virus-hit",
+      "heirs",
       1,
       2.0
     ],
     [
-      "quarantine",
+      "wealth",
       1,
       2.0
     ],
     [
-      "battlefield",
+      "succession",
       1,
       2.0
     ],
     [
-      "clashes",
+      "advice",
       1,
       2.0
     ],
     [
-      "trickmo",
+      "ubs",
       1,
       2.0
     ],
     [
-      "citizens",
+      "fading",
+      1,
+      2.0
+    ],
+    [
+      "professionals",
       1,
       1.88
     ],
     [
-      "home",
+      "turn",
       1,
-      1.88
+      1.67
     ],
     [
-      "cruise",
+      "dollar",
       1,
-      1.76
-    ],
-    [
-      "ceasefire",
-      1,
-      1.76
+      1.67
     ]
   ]
 }
