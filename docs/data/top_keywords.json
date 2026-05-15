@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-14",
+  "date": "2026-05-15",
   "top_today": [
     [
       "reuters",
+      4
+    ],
+    [
+      "after",
       2
     ],
     [
-      "boom",
+      "exploited",
+      2
+    ],
+    [
+      "cisco",
+      2
+    ],
+    [
+      "sd-wan",
+      2
+    ],
+    [
+      "patches",
+      2
+    ],
+    [
+      "hantavirus",
       1
     ],
     [
-      "puts",
+      "outbreak",
       1
     ],
     [
-      "hynix",
+      "tests",
       1
     ],
     [
-      "cusp",
+      "post-covid",
       1
     ],
     [
-      "trillion",
+      "health",
       1
     ],
     [
-      "market",
+      "communications",
       1
     ],
     [
-      "value",
+      "playbook",
       1
     ],
     [
-      "china",
+      "global",
       1
     ],
     [
-      "renews",
+      "bonds",
       1
     ],
     [
-      "then",
+      "tumble",
       1
     ],
     [
-      "halts",
+      "flaring",
       1
     ],
     [
-      "licenses",
+      "inflation",
       1
     ],
     [
-      "hundreds",
+      "spooks",
       1
     ],
     [
-      "beef",
-      1
-    ],
-    [
-      "exporters",
-      1
-    ],
-    [
-      "amid",
-      1
-    ],
-    [
-      "trump-xi",
-      1
-    ],
-    [
-      "summit",
-      1
-    ],
-    [
-      "new",
+      "investors",
       1
     ]
   ],
   "rising": [
     [
-      "hynix",
+      "sd-wan",
+      2,
+      3.16
+    ],
+    [
+      "cisco",
+      2,
+      2.07
+    ],
+    [
+      "post-covid",
       1,
       2.0
     ],
     [
-      "cusp",
+      "communications",
       1,
       2.0
     ],
     [
-      "trillion",
+      "bonds",
       1,
       2.0
     ],
     [
-      "renews",
+      "tumble",
       1,
       2.0
     ],
     [
-      "then",
+      "flaring",
       1,
       2.0
     ],
     [
-      "halts",
+      "spooks",
       1,
       2.0
     ],
     [
-      "licenses",
+      "outbreak",
       1,
-      2.0
+      1.88
     ],
     [
-      "beef",
+      "tests",
       1,
-      2.0
-    ],
-    [
-      "trump-xi",
-      1,
-      2.0
-    ],
-    [
-      "summit",
-      1,
-      2.0
+      1.88
     ]
   ]
 }
