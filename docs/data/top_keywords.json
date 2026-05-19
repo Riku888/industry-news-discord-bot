@@ -1,64 +1,40 @@
 {
-  "date": "2026-05-18",
+  "date": "2026-05-19",
   "top_today": [
     [
       "reuters",
-      5
+      4
     ],
     [
-      "iran",
+      "compromised",
       2
     ],
     [
-      "war",
+      "vulnerability",
       2
     ],
     [
-      "windows",
-      2
-    ],
-    [
-      "escalation",
-      2
-    ],
-    [
-      "malware",
-      2
-    ],
-    [
-      "confirms",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "boring",
+      "analog",
       1
     ],
     [
-      "stuff",
+      "devices",
       1
     ],
     [
-      "dangerous",
+      "talks",
       1
     ],
     [
-      "now",
+      "buy",
       1
     ],
     [
-      "saddles",
+      "empower",
       1
     ],
     [
-      "global",
-      1
-    ],
-    [
-      "companies",
+      "semiconductor",
       1
     ],
     [
@@ -66,71 +42,95 @@
       1
     ],
     [
-      "bill",
+      "bloomberg",
       1
     ],
     [
-      "counting",
+      "news",
       1
     ],
     [
-      "revised",
+      "reports",
       1
     ],
     [
-      "iranian",
+      "japan",
+      1
+    ],
+    [
+      "solid",
+      1
+    ],
+    [
+      "gdp",
+      1
+    ],
+    [
+      "faces",
+      1
+    ],
+    [
+      "reality",
+      1
+    ],
+    [
+      "check",
+      1
+    ],
+    [
+      "iran",
       1
     ]
   ],
   "rising": [
     [
-      "escalation",
+      "compromised",
       2,
-      2.73
+      2.4
     ],
     [
-      "war",
-      2,
-      2.0
-    ],
-    [
-      "boring",
+      "analog",
       1,
       2.0
     ],
     [
-      "stuff",
+      "empower",
       1,
       2.0
     ],
     [
-      "dangerous",
+      "semiconductor",
       1,
       2.0
     ],
     [
-      "saddles",
+      "faces",
       1,
       2.0
     ],
     [
-      "counting",
+      "bloomberg",
       1,
-      2.0
+      1.88
     ],
     [
-      "revised",
+      "solid",
       1,
-      2.0
+      1.88
     ],
     [
-      "bill",
+      "gdp",
       1,
-      1.67
+      1.76
     ],
     [
-      "confirms",
-      2,
+      "reality",
+      1,
+      1.76
+    ],
+    [
+      "buy",
+      1,
       1.58
     ]
   ]
