@@ -1,36 +1,12 @@
 {
-  "date": "2026-05-20",
+  "date": "2026-05-21",
   "top_today": [
     [
       "reuters",
-      9
-    ],
-    [
-      "github",
-      4
-    ],
-    [
-      "breach",
       3
     ],
     [
-      "800",
-      3
-    ],
-    [
-      "europe",
-      2
-    ],
-    [
-      "iran",
-      2
-    ],
-    [
-      "war",
-      2
-    ],
-    [
-      "prices",
+      "attacks",
       2
     ],
     [
@@ -38,100 +14,124 @@
       2
     ],
     [
-      "mitigation",
+      "defender",
       2
     ],
     [
-      "yellowkey",
+      "zero-days",
       2
     ],
     [
-      "via",
+      "exploited",
       2
     ],
     [
-      "hack",
-      2
-    ],
-    [
-      "internal",
-      2
-    ],
-    [
-      "repos",
-      2
-    ],
-    [
-      "confirms",
-      2
-    ],
-    [
-      "sales",
+      "syria",
       1
     ],
     [
-      "leap",
+      "sharaa",
       1
     ],
     [
-      "pushes",
+      "attend",
       1
     ],
     [
-      "petrol",
+      "summit",
+      1
+    ],
+    [
+      "france",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "energy",
+      1
+    ],
+    [
+      "storage",
+      1
+    ],
+    [
+      "additions",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "first-quarter",
+      1
+    ],
+    [
+      "record",
+      1
+    ],
+    [
+      "report",
       1
     ]
   ],
   "rising": [
     [
-      "800",
-      3,
-      6.0
-    ],
-    [
-      "github",
-      4,
-      4.62
-    ],
-    [
-      "mitigation",
-      2,
-      4.0
-    ],
-    [
-      "yellowkey",
-      2,
-      3.75
-    ],
-    [
-      "internal",
-      2,
-      3.75
-    ],
-    [
-      "repos",
-      2,
-      3.75
-    ],
-    [
-      "prices",
+      "defender",
       2,
       3.33
     ],
     [
-      "europe",
+      "zero-days",
       2,
-      2.86
+      3.16
     ],
     [
-      "hack",
-      2,
-      2.86
-    ],
-    [
-      "sales",
+      "syria",
       1,
       2.0
+    ],
+    [
+      "sharaa",
+      1,
+      2.0
+    ],
+    [
+      "additions",
+      1,
+      2.0
+    ],
+    [
+      "attend",
+      1,
+      1.88
+    ],
+    [
+      "storage",
+      1,
+      1.88
+    ],
+    [
+      "first-quarter",
+      1,
+      1.88
+    ],
+    [
+      "summit",
+      1,
+      1.58
+    ],
+    [
+      "france",
+      1,
+      1.58
     ]
   ]
 }
