@@ -1,24 +1,28 @@
 {
-  "date": "2026-05-21",
+  "date": "2026-05-22",
   "top_today": [
     [
       "reuters",
       3
     ],
     [
-      "attacks",
+      "says",
       2
     ],
     [
-      "microsoft",
+      "kimwolf",
       2
     ],
     [
-      "defender",
+      "botnet",
       2
     ],
     [
-      "zero-days",
+      "arrested",
+      2
+    ],
+    [
+      "canada",
       2
     ],
     [
@@ -26,112 +30,108 @@
       2
     ],
     [
-      "syria",
+      "apex",
+      2
+    ],
+    [
+      "one",
+      2
+    ],
+    [
+      "patches",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "taiwan",
       1
     ],
     [
-      "sharaa",
+      "has",
       1
     ],
     [
-      "attend",
+      "not",
       1
     ],
     [
-      "summit",
+      "been",
       1
     ],
     [
-      "france",
+      "told",
       1
     ],
     [
-      "sources",
+      "changes",
       1
     ],
     [
-      "say",
+      "military",
       1
     ],
     [
-      "energy",
+      "sales",
       1
     ],
     [
-      "storage",
-      1
-    ],
-    [
-      "additions",
-      1
-    ],
-    [
-      "hit",
-      1
-    ],
-    [
-      "first-quarter",
-      1
-    ],
-    [
-      "record",
-      1
-    ],
-    [
-      "report",
+      "polish",
       1
     ]
   ],
   "rising": [
     [
-      "defender",
+      "kimwolf",
       2,
-      3.33
+      4.0
     ],
     [
-      "zero-days",
+      "apex",
+      2,
+      4.0
+    ],
+    [
+      "arrested",
       2,
       3.16
     ],
     [
-      "syria",
+      "canada",
+      2,
+      3.16
+    ],
+    [
+      "botnet",
+      2,
+      3.0
+    ],
+    [
+      "one",
+      2,
+      2.22
+    ],
+    [
+      "been",
       1,
       2.0
     ],
     [
-      "sharaa",
+      "told",
       1,
       2.0
     ],
     [
-      "additions",
-      1,
-      2.0
-    ],
-    [
-      "attend",
+      "changes",
       1,
       1.88
     ],
     [
-      "storage",
+      "sales",
       1,
       1.88
-    ],
-    [
-      "first-quarter",
-      1,
-      1.88
-    ],
-    [
-      "summit",
-      1,
-      1.58
-    ],
-    [
-      "france",
-      1,
-      1.58
     ]
   ]
 }
