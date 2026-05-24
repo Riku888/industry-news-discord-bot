@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-23",
+  "date": "2026-05-24",
   "top_today": [
     [
-      "exploited",
+      "reuters",
       3
     ],
     [
-      "cisa",
+      "says",
       2
     ],
     [
-      "allow",
+      "axios",
       1
     ],
     [
-      "researchers",
+      "proposed",
       1
     ],
     [
-      "report",
+      "us-iran",
       1
     ],
     [
-      "vulnerabilities",
+      "deal",
       1
     ],
     [
-      "bugs",
+      "involves",
       1
     ],
     [
-      "catalog",
+      "opening",
       1
     ],
     [
-      "one",
+      "strait",
       1
     ],
     [
-      "dead",
+      "during",
       1
     ],
     [
-      "injured",
+      "60-day",
       1
     ],
     [
-      "explosion",
+      "ceasefire",
       1
     ],
     [
-      "new",
+      "extension",
       1
     ],
     [
-      "york",
+      "nissan",
       1
     ],
     [
-      "dry",
+      "unit",
       1
     ],
     [
-      "dock",
+      "scraps",
       1
     ],
     [
-      "reuters",
+      "plan",
       1
     ],
     [
-      "litespeed",
+      "make",
       1
     ],
     [
-      "cpanel",
+      "powertrains",
       1
     ],
     [
-      "plugin",
+      "nikkei",
       1
     ]
   ],
   "rising": [
     [
-      "bugs",
+      "proposed",
       1,
       2.0
     ],
     [
-      "explosion",
+      "involves",
       1,
       2.0
     ],
     [
-      "dry",
+      "opening",
       1,
       2.0
     ],
     [
-      "dock",
+      "60-day",
       1,
       2.0
     ],
     [
-      "litespeed",
+      "nissan",
       1,
       2.0
     ],
     [
-      "injured",
+      "unit",
+      1,
+      2.0
+    ],
+    [
+      "scraps",
+      1,
+      2.0
+    ],
+    [
+      "powertrains",
+      1,
+      2.0
+    ],
+    [
+      "make",
       1,
       1.88
     ],
     [
-      "dead",
+      "nikkei",
       1,
-      1.76
-    ],
-    [
-      "york",
-      1,
-      1.76
-    ],
-    [
-      "allow",
-      1,
-      1.67
-    ],
-    [
-      "researchers",
-      1,
-      1.43
+      1.88
     ]
   ]
 }
