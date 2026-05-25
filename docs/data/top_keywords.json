@@ -1,24 +1,44 @@
 {
-  "date": "2026-05-24",
+  "date": "2026-05-25",
   "top_today": [
     [
-      "reuters",
-      3
-    ],
-    [
-      "says",
+      "oil",
       2
     ],
     [
-      "axios",
+      "reuters",
+      2
+    ],
+    [
+      "supply",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "attack",
+      2
+    ],
+    [
+      "dollar",
       1
     ],
     [
-      "proposed",
+      "drifts",
       1
     ],
     [
-      "us-iran",
+      "lower",
+      1
+    ],
+    [
+      "falls",
+      1
+    ],
+    [
+      "hormuz",
       1
     ],
     [
@@ -26,112 +46,92 @@
       1
     ],
     [
-      "involves",
+      "optimism",
       1
     ],
     [
-      "opening",
+      "rupee",
       1
     ],
     [
-      "strait",
+      "gains",
       1
     ],
     [
-      "during",
+      "two-week",
       1
     ],
     [
-      "60-day",
+      "high",
       1
     ],
     [
-      "ceasefire",
+      "forward",
       1
     ],
     [
-      "extension",
+      "premiums",
       1
     ],
     [
-      "nissan",
+      "dip",
       1
     ],
     [
-      "unit",
-      1
-    ],
-    [
-      "scraps",
-      1
-    ],
-    [
-      "plan",
-      1
-    ],
-    [
-      "make",
-      1
-    ],
-    [
-      "powertrains",
-      1
-    ],
-    [
-      "nikkei",
+      "prices",
       1
     ]
   ],
   "rising": [
     [
-      "proposed",
+      "oil",
+      2,
+      2.0
+    ],
+    [
+      "drifts",
       1,
       2.0
     ],
     [
-      "involves",
+      "falls",
       1,
       2.0
     ],
     [
-      "opening",
+      "premiums",
       1,
       2.0
     ],
     [
-      "60-day",
-      1,
-      2.0
-    ],
-    [
-      "nissan",
-      1,
-      2.0
-    ],
-    [
-      "unit",
-      1,
-      2.0
-    ],
-    [
-      "scraps",
-      1,
-      2.0
-    ],
-    [
-      "powertrains",
-      1,
-      2.0
-    ],
-    [
-      "make",
+      "lower",
       1,
       1.88
     ],
     [
-      "nikkei",
+      "rupee",
       1,
       1.88
+    ],
+    [
+      "forward",
+      1,
+      1.88
+    ],
+    [
+      "dip",
+      1,
+      1.88
+    ],
+    [
+      "two-week",
+      1,
+      1.76
+    ],
+    [
+      "dollar",
+      1,
+      1.67
     ]
   ]
 }
