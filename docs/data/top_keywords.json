@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-25",
+  "date": "2026-05-26",
   "top_today": [
-    [
-      "oil",
-      2
-    ],
     [
       "reuters",
       2
     ],
     [
-      "supply",
+      "hackers",
       2
     ],
     [
-      "chain",
+      "deploy",
       2
     ],
     [
-      "attack",
+      "exploited",
       2
     ],
     [
-      "dollar",
+      "malaysian",
       1
     ],
     [
-      "drifts",
+      "police",
       1
     ],
     [
-      "lower",
+      "arrest",
       1
     ],
     [
-      "falls",
+      "men",
       1
     ],
     [
-      "hormuz",
+      "seize",
       1
     ],
     [
-      "deal",
+      "drugs",
       1
     ],
     [
-      "optimism",
+      "raids",
       1
     ],
     [
-      "rupee",
+      "linked",
       1
     ],
     [
-      "gains",
+      "gay",
       1
     ],
     [
-      "two-week",
+      "party",
       1
     ],
     [
-      "high",
+      "china",
       1
     ],
     [
-      "forward",
+      "pakistan",
       1
     ],
     [
-      "premiums",
+      "aim",
       1
     ],
     [
-      "dip",
+      "revamp",
       1
     ],
     [
-      "prices",
+      "economic",
+      1
+    ],
+    [
+      "corridor",
       1
     ]
   ],
   "rising": [
     [
-      "oil",
+      "deploy",
       2,
-      2.0
+      3.0
     ],
     [
-      "drifts",
+      "malaysian",
       1,
       2.0
     ],
     [
-      "falls",
+      "men",
       1,
       2.0
     ],
     [
-      "premiums",
+      "drugs",
       1,
       2.0
     ],
     [
-      "lower",
+      "gay",
+      1,
+      2.0
+    ],
+    [
+      "party",
+      1,
+      2.0
+    ],
+    [
+      "revamp",
+      1,
+      2.0
+    ],
+    [
+      "corridor",
+      1,
+      2.0
+    ],
+    [
+      "seize",
       1,
       1.88
     ],
     [
-      "rupee",
+      "raids",
       1,
       1.88
-    ],
-    [
-      "forward",
-      1,
-      1.88
-    ],
-    [
-      "dip",
-      1,
-      1.88
-    ],
-    [
-      "two-week",
-      1,
-      1.76
-    ],
-    [
-      "dollar",
-      1,
-      1.67
     ]
   ]
 }
