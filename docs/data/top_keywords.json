@@ -1,16 +1,12 @@
 {
-  "date": "2026-05-26",
+  "date": "2026-05-27",
   "top_today": [
     [
       "reuters",
-      2
+      3
     ],
     [
-      "hackers",
-      2
-    ],
-    [
-      "deploy",
+      "cisa",
       2
     ],
     [
@@ -18,118 +14,122 @@
       2
     ],
     [
-      "malaysian",
+      "cpanel",
+      2
+    ],
+    [
+      "plugin",
+      2
+    ],
+    [
+      "hackers",
+      2
+    ],
+    [
+      "ugandan",
       1
     ],
     [
-      "police",
+      "woman",
       1
     ],
     [
-      "arrest",
+      "quarantined",
       1
     ],
     [
-      "men",
+      "india",
       1
     ],
     [
-      "seize",
+      "tests",
       1
     ],
     [
-      "drugs",
+      "negative",
       1
     ],
     [
-      "raids",
+      "ebola",
       1
     ],
     [
-      "linked",
+      "hong",
       1
     ],
     [
-      "gay",
+      "kong",
       1
     ],
     [
-      "party",
+      "overtakes",
       1
     ],
     [
-      "china",
+      "switzerland",
       1
     ],
     [
-      "pakistan",
+      "world",
       1
     ],
     [
-      "aim",
+      "top",
       1
     ],
     [
-      "revamp",
-      1
-    ],
-    [
-      "economic",
-      1
-    ],
-    [
-      "corridor",
+      "cross-border",
       1
     ]
   ],
   "rising": [
     [
-      "deploy",
+      "plugin",
       2,
-      3.0
+      2.73
     ],
     [
-      "malaysian",
+      "cpanel",
+      2,
+      2.31
+    ],
+    [
+      "ugandan",
       1,
       2.0
     ],
     [
-      "men",
+      "quarantined",
       1,
       2.0
     ],
     [
-      "drugs",
+      "negative",
       1,
       2.0
     ],
     [
-      "gay",
+      "switzerland",
       1,
       2.0
     ],
     [
-      "party",
+      "cross-border",
       1,
       2.0
     ],
     [
-      "revamp",
-      1,
-      2.0
-    ],
-    [
-      "corridor",
-      1,
-      2.0
-    ],
-    [
-      "seize",
+      "woman",
       1,
       1.88
     ],
     [
-      "raids",
+      "hong",
+      1,
+      1.88
+    ],
+    [
+      "kong",
       1,
       1.88
     ]
