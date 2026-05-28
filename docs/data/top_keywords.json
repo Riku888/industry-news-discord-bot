@@ -1,137 +1,137 @@
 {
-  "date": "2026-05-27",
+  "date": "2026-05-28",
   "top_today": [
     [
       "reuters",
+      6
+    ],
+    [
+      "says",
       3
     ],
     [
-      "cisa",
+      "china",
       2
     ],
     [
-      "exploited",
-      2
-    ],
-    [
-      "cpanel",
-      2
-    ],
-    [
-      "plugin",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "ugandan",
+      "fed",
       1
     ],
     [
-      "woman",
+      "goolsbee",
       1
     ],
     [
-      "quarantined",
+      "oil",
       1
     ],
     [
-      "india",
+      "shock",
       1
     ],
     [
-      "tests",
+      "could",
       1
     ],
     [
-      "negative",
+      "exacerbate",
       1
     ],
     [
-      "ebola",
+      "inflationary",
       1
     ],
     [
-      "hong",
+      "impulse",
       1
     ],
     [
-      "kong",
+      "hype",
       1
     ],
     [
-      "overtakes",
+      "toyota",
       1
     ],
     [
-      "switzerland",
+      "sales",
       1
     ],
     [
-      "world",
+      "drop",
       1
     ],
     [
-      "top",
+      "third",
       1
     ],
     [
-      "cross-border",
+      "month",
+      1
+    ],
+    [
+      "declines",
+      1
+    ],
+    [
+      "middle",
+      1
+    ],
+    [
+      "east",
       1
     ]
   ],
   "rising": [
     [
-      "plugin",
-      2,
-      2.73
-    ],
-    [
-      "cpanel",
-      2,
-      2.31
-    ],
-    [
-      "ugandan",
+      "goolsbee",
       1,
       2.0
     ],
     [
-      "quarantined",
+      "exacerbate",
       1,
       2.0
     ],
     [
-      "negative",
+      "inflationary",
       1,
       2.0
     ],
     [
-      "switzerland",
+      "impulse",
       1,
       2.0
     ],
     [
-      "cross-border",
+      "hype",
       1,
       2.0
     ],
     [
-      "woman",
+      "toyota",
+      1,
+      2.0
+    ],
+    [
+      "shock",
       1,
       1.88
     ],
     [
-      "hong",
+      "declines",
       1,
       1.88
     ],
     [
-      "kong",
+      "sales",
       1,
-      1.88
+      1.76
+    ],
+    [
+      "drop",
+      1,
+      1.76
     ]
   ]
 }
