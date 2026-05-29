@@ -1,64 +1,32 @@
 {
-  "date": "2026-05-28",
+  "date": "2026-05-29",
   "top_today": [
     [
       "reuters",
-      6
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "china",
       2
     ],
     [
-      "fed",
+      "npm",
+      2
+    ],
+    [
+      "packages",
+      2
+    ],
+    [
+      "cloud",
+      2
+    ],
+    [
+      "secrets",
+      2
+    ],
+    [
+      "gold",
       1
     ],
     [
-      "goolsbee",
-      1
-    ],
-    [
-      "oil",
-      1
-    ],
-    [
-      "shock",
-      1
-    ],
-    [
-      "could",
-      1
-    ],
-    [
-      "exacerbate",
-      1
-    ],
-    [
-      "inflationary",
-      1
-    ],
-    [
-      "impulse",
-      1
-    ],
-    [
-      "hype",
-      1
-    ],
-    [
-      "toyota",
-      1
-    ],
-    [
-      "sales",
-      1
-    ],
-    [
-      "drop",
+      "track",
       1
     ],
     [
@@ -66,72 +34,104 @@
       1
     ],
     [
-      "month",
+      "monthly",
       1
     ],
     [
-      "declines",
+      "loss",
       1
     ],
     [
-      "middle",
+      "traders",
       1
     ],
     [
-      "east",
+      "focus",
+      1
+    ],
+    [
+      "us-iran",
+      1
+    ],
+    [
+      "ceasefire",
+      1
+    ],
+    [
+      "probes",
+      1
+    ],
+    [
+      "reid",
+      1
+    ],
+    [
+      "hoffman",
+      1
+    ],
+    [
+      "group",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "funding",
       1
     ]
   ],
   "rising": [
     [
-      "goolsbee",
+      "secrets",
+      2,
+      3.33
+    ],
+    [
+      "cloud",
+      2,
+      2.5
+    ],
+    [
+      "track",
       1,
       2.0
     ],
     [
-      "exacerbate",
+      "traders",
       1,
       2.0
     ],
     [
-      "inflationary",
+      "reid",
       1,
       2.0
     ],
     [
-      "impulse",
+      "hoffman",
       1,
       2.0
     ],
     [
-      "hype",
-      1,
-      2.0
+      "packages",
+      2,
+      1.94
     ],
     [
-      "toyota",
-      1,
-      2.0
-    ],
-    [
-      "shock",
+      "monthly",
       1,
       1.88
     ],
     [
-      "declines",
+      "loss",
       1,
       1.88
     ],
     [
-      "sales",
+      "focus",
       1,
-      1.76
-    ],
-    [
-      "drop",
-      1,
-      1.76
+      1.88
     ]
   ]
 }
