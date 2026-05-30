@@ -1,137 +1,125 @@
 {
-  "date": "2026-05-29",
+  "date": "2026-05-30",
   "top_today": [
     [
-      "reuters",
-      2
+      "pan-os",
+      1
+    ],
+    [
+      "globalprotect",
+      1
+    ],
+    [
+      "authentication",
+      1
+    ],
+    [
+      "bypass",
+      1
+    ],
+    [
+      "cve-2026-0257",
+      1
+    ],
+    [
+      "under",
+      1
+    ],
+    [
+      "active",
+      1
+    ],
+    [
+      "exploitation",
+      1
+    ],
+    [
+      "malicious",
+      1
     ],
     [
       "npm",
-      2
+      1
     ],
     [
       "packages",
-      2
-    ],
-    [
-      "cloud",
-      2
-    ],
-    [
-      "secrets",
-      2
-    ],
-    [
-      "gold",
       1
     ],
     [
-      "track",
+      "abuse",
       1
     ],
     [
-      "third",
+      "dependency",
       1
     ],
     [
-      "monthly",
+      "confusion",
       1
     ],
     [
-      "loss",
+      "profile",
       1
     ],
     [
-      "traders",
+      "developer",
       1
     ],
     [
-      "focus",
-      1
-    ],
-    [
-      "us-iran",
-      1
-    ],
-    [
-      "ceasefire",
-      1
-    ],
-    [
-      "probes",
-      1
-    ],
-    [
-      "reid",
-      1
-    ],
-    [
-      "hoffman",
-      1
-    ],
-    [
-      "group",
-      1
-    ],
-    [
-      "over",
-      1
-    ],
-    [
-      "funding",
+      "environments",
       1
     ]
   ],
   "rising": [
     [
-      "secrets",
-      2,
-      3.33
-    ],
-    [
-      "cloud",
-      2,
-      2.5
-    ],
-    [
-      "track",
+      "globalprotect",
       1,
       2.0
     ],
     [
-      "traders",
+      "cve-2026-0257",
       1,
       2.0
     ],
     [
-      "reid",
+      "dependency",
       1,
       2.0
     ],
     [
-      "hoffman",
+      "confusion",
       1,
       2.0
     ],
     [
-      "packages",
-      2,
-      1.94
+      "profile",
+      1,
+      2.0
     ],
     [
-      "monthly",
+      "environments",
       1,
       1.88
     ],
     [
-      "loss",
+      "authentication",
       1,
-      1.88
+      1.67
     ],
     [
-      "focus",
+      "pan-os",
       1,
-      1.88
+      1.58
+    ],
+    [
+      "developer",
+      1,
+      1.58
+    ],
+    [
+      "abuse",
+      1,
+      1.5
     ]
   ]
 }
