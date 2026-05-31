@@ -1,125 +1,101 @@
 {
-  "date": "2026-05-30",
+  "date": "2026-05-31",
   "top_today": [
     [
-      "pan-os",
+      "great",
       1
     ],
     [
-      "globalprotect",
+      "indo-pacific",
       1
     ],
     [
-      "authentication",
+      "hedge",
       1
     ],
     [
-      "bypass",
+      "deeper",
       1
     ],
     [
-      "cve-2026-0257",
+      "defence",
       1
     ],
     [
-      "under",
+      "ties",
       1
     ],
     [
-      "active",
+      "doubts",
       1
     ],
     [
-      "exploitation",
+      "grow",
       1
     ],
     [
-      "malicious",
+      "china",
       1
     ],
     [
-      "npm",
+      "ascends",
       1
     ],
     [
-      "packages",
-      1
-    ],
-    [
-      "abuse",
-      1
-    ],
-    [
-      "dependency",
-      1
-    ],
-    [
-      "confusion",
-      1
-    ],
-    [
-      "profile",
-      1
-    ],
-    [
-      "developer",
-      1
-    ],
-    [
-      "environments",
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "globalprotect",
+      "great",
       1,
       2.0
     ],
     [
-      "cve-2026-0257",
+      "indo-pacific",
       1,
       2.0
     ],
     [
-      "dependency",
+      "deeper",
       1,
       2.0
     ],
     [
-      "confusion",
+      "doubts",
       1,
       2.0
     ],
     [
-      "profile",
+      "grow",
       1,
       2.0
     ],
     [
-      "environments",
+      "ascends",
+      1,
+      2.0
+    ],
+    [
+      "hedge",
       1,
       1.88
     ],
     [
-      "authentication",
-      1,
-      1.67
-    ],
-    [
-      "pan-os",
+      "defence",
       1,
       1.58
     ],
     [
-      "developer",
-      1,
-      1.58
-    ],
-    [
-      "abuse",
+      "ties",
       1,
       1.5
+    ],
+    [
+      "china",
+      1,
+      0.73
     ]
   ]
 }
