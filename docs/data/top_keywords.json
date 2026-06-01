@@ -1,36 +1,48 @@
 {
-  "date": "2026-05-31",
+  "date": "2026-06-01",
   "top_today": [
     [
-      "great",
+      "nvidia",
+      3
+    ],
+    [
+      "reuters",
+      3
+    ],
+    [
+      "microsoft",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "vulnerability",
+      2
+    ],
+    [
+      "work",
       1
     ],
     [
-      "indo-pacific",
+      "european",
       1
     ],
     [
-      "hedge",
+      "humanoid",
       1
     ],
     [
-      "deeper",
+      "robot",
       1
     ],
     [
-      "defence",
+      "makers",
       1
     ],
     [
-      "ties",
-      1
-    ],
-    [
-      "doubts",
-      1
-    ],
-    [
-      "grow",
+      "addition",
       1
     ],
     [
@@ -38,64 +50,88 @@
       1
     ],
     [
-      "ascends",
+      "unitree",
       1
     ],
     [
-      "reuters",
+      "france",
+      1
+    ],
+    [
+      "intercepts",
+      1
+    ],
+    [
+      "another",
+      1
+    ],
+    [
+      "shadow",
+      1
+    ],
+    [
+      "fleet",
+      1
+    ],
+    [
+      "tanker",
+      1
+    ],
+    [
+      "linked",
       1
     ]
   ],
   "rising": [
     [
-      "great",
+      "nvidia",
+      3,
+      4.74
+    ],
+    [
+      "work",
       1,
       2.0
     ],
     [
-      "indo-pacific",
+      "makers",
       1,
       2.0
     ],
     [
-      "deeper",
+      "addition",
       1,
       2.0
     ],
     [
-      "doubts",
+      "unitree",
       1,
       2.0
     ],
     [
-      "grow",
-      1,
-      2.0
-    ],
-    [
-      "ascends",
-      1,
-      2.0
-    ],
-    [
-      "hedge",
+      "humanoid",
       1,
       1.88
     ],
     [
-      "defence",
+      "intercepts",
       1,
-      1.58
+      1.88
     ],
     [
-      "ties",
+      "another",
       1,
-      1.5
+      1.88
     ],
     [
-      "china",
+      "shadow",
       1,
-      0.73
+      1.88
+    ],
+    [
+      "fleet",
+      1,
+      1.88
     ]
   ]
 }
