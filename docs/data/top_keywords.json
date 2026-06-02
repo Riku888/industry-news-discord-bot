@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-01",
+  "date": "2026-06-02",
   "top_today": [
     [
-      "nvidia",
-      3
-    ],
-    [
       "reuters",
+      5
+    ],
+    [
+      "attack",
       3
     ],
     [
-      "microsoft",
+      "dashlane",
       2
     ],
     [
-      "exploited",
+      "brute-force",
       2
     ],
     [
-      "vulnerability",
+      "encrypted",
       2
     ],
     [
-      "work",
+      "euro",
       1
     ],
     [
-      "european",
+      "zone",
       1
     ],
     [
-      "humanoid",
+      "firms",
       1
     ],
     [
-      "robot",
+      "struggle",
       1
     ],
     [
-      "makers",
+      "raise",
       1
     ],
     [
-      "addition",
+      "prices",
       1
     ],
     [
-      "china",
+      "despite",
       1
     ],
     [
-      "unitree",
+      "iran",
       1
     ],
     [
-      "france",
+      "war",
       1
     ],
     [
-      "intercepts",
+      "shock",
       1
     ],
     [
-      "another",
+      "hynix",
       1
     ],
     [
-      "shadow",
+      "plans",
       1
     ],
     [
-      "fleet",
+      "double",
       1
     ],
     [
-      "tanker",
+      "wafer",
       1
     ],
     [
-      "linked",
+      "capacity",
       1
     ]
   ],
   "rising": [
     [
-      "nvidia",
-      3,
-      4.74
+      "brute-force",
+      2,
+      4.0
     ],
     [
-      "work",
+      "dashlane",
+      2,
+      3.75
+    ],
+    [
+      "encrypted",
+      2,
+      3.75
+    ],
+    [
+      "euro",
       1,
       2.0
     ],
     [
-      "makers",
+      "zone",
       1,
       2.0
     ],
     [
-      "addition",
+      "struggle",
       1,
       2.0
     ],
     [
-      "unitree",
+      "wafer",
       1,
       2.0
     ],
     [
-      "humanoid",
+      "hynix",
       1,
       1.88
     ],
     [
-      "intercepts",
+      "capacity",
       1,
       1.88
     ],
     [
-      "another",
+      "raise",
       1,
-      1.88
-    ],
-    [
-      "shadow",
-      1,
-      1.88
-    ],
-    [
-      "fleet",
-      1,
-      1.88
+      1.76
     ]
   ]
 }
