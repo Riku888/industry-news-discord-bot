@@ -1,135 +1,135 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-03",
   "top_today": [
     [
       "reuters",
-      5
+      4
     ],
     [
-      "attack",
-      3
-    ],
-    [
-      "dashlane",
+      "says",
       2
     ],
     [
-      "brute-force",
+      "billion",
       2
     ],
     [
-      "encrypted",
+      "vulnerability",
       2
     ],
     [
-      "euro",
+      "lets",
+      2
+    ],
+    [
+      "steal",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "http",
+      2
+    ],
+    [
+      "bomb",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "campaign",
+      2
+    ],
+    [
+      "south",
       1
     ],
     [
-      "zone",
+      "korea",
       1
     ],
     [
-      "firms",
+      "secures",
       1
     ],
     [
-      "struggle",
+      "access",
       1
     ],
     [
-      "raise",
+      "anthropic",
       1
     ],
     [
-      "prices",
+      "mythos",
       1
     ],
     [
-      "despite",
+      "model",
       1
     ],
     [
-      "iran",
+      "science",
       1
     ],
     [
-      "war",
-      1
-    ],
-    [
-      "shock",
-      1
-    ],
-    [
-      "hynix",
-      1
-    ],
-    [
-      "plans",
-      1
-    ],
-    [
-      "double",
-      1
-    ],
-    [
-      "wafer",
-      1
-    ],
-    [
-      "capacity",
+      "ministry",
       1
     ]
   ],
   "rising": [
     [
-      "brute-force",
+      "bomb",
       2,
       4.0
     ],
     [
-      "dashlane",
+      "http",
       2,
-      3.75
+      3.53
     ],
     [
-      "encrypted",
+      "lets",
       2,
-      3.75
+      3.16
     ],
     [
-      "euro",
+      "campaign",
+      2,
+      2.0
+    ],
+    [
+      "secures",
       1,
       2.0
     ],
     [
-      "zone",
+      "science",
       1,
       2.0
     ],
     [
-      "struggle",
-      1,
-      2.0
+      "steal",
+      2,
+      1.94
     ],
     [
-      "wafer",
-      1,
-      2.0
-    ],
-    [
-      "hynix",
+      "korea",
       1,
       1.88
     ],
     [
-      "capacity",
+      "south",
       1,
-      1.88
+      1.76
     ],
     [
-      "raise",
+      "ministry",
       1,
       1.76
     ]
