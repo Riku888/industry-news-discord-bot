@@ -1,16 +1,8 @@
 {
-  "date": "2026-06-03",
+  "date": "2026-06-04",
   "top_today": [
     [
-      "reuters",
-      4
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "billion",
+      "cisa",
       2
     ],
     [
@@ -18,118 +10,126 @@
       2
     ],
     [
-      "lets",
-      2
-    ],
-    [
-      "steal",
-      2
-    ],
-    [
-      "new",
-      2
-    ],
-    [
-      "http",
-      2
-    ],
-    [
-      "bomb",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
-    [
-      "campaign",
-      2
-    ],
-    [
-      "south",
+      "delhi",
       1
     ],
     [
-      "korea",
+      "crack",
       1
     ],
     [
-      "secures",
+      "down",
       1
     ],
     [
-      "access",
+      "fire",
       1
     ],
     [
-      "anthropic",
+      "safety",
       1
     ],
     [
-      "mythos",
+      "violations",
       1
     ],
     [
-      "model",
+      "after",
       1
     ],
     [
-      "science",
+      "blaze",
       1
     ],
     [
-      "ministry",
+      "that",
+      1
+    ],
+    [
+      "killed",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "fake",
+      1
+    ],
+    [
+      "sites",
+      1
+    ],
+    [
+      "mimicking",
+      1
+    ],
+    [
+      "open-source",
+      1
+    ],
+    [
+      "tools",
+      1
+    ],
+    [
+      "rank",
+      1
+    ],
+    [
+      "high",
       1
     ]
   ],
   "rising": [
     [
-      "bomb",
-      2,
-      4.0
-    ],
-    [
-      "http",
-      2,
-      3.53
-    ],
-    [
-      "lets",
-      2,
-      3.16
-    ],
-    [
-      "campaign",
-      2,
-      2.0
-    ],
-    [
-      "secures",
+      "delhi",
       1,
       2.0
     ],
     [
-      "science",
+      "crack",
       1,
       2.0
     ],
     [
-      "steal",
-      2,
-      1.94
+      "violations",
+      1,
+      2.0
     ],
     [
-      "korea",
+      "blaze",
+      1,
+      2.0
+    ],
+    [
+      "killed",
+      1,
+      2.0
+    ],
+    [
+      "mimicking",
+      1,
+      2.0
+    ],
+    [
+      "rank",
+      1,
+      2.0
+    ],
+    [
+      "fire",
       1,
       1.88
     ],
     [
-      "south",
+      "open-source",
       1,
-      1.76
+      1.88
     ],
     [
-      "ministry",
+      "safety",
       1,
       1.76
     ]
