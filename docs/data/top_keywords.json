@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-04",
+  "date": "2026-06-05",
   "top_today": [
     [
-      "cisa",
+      "reuters",
+      3
+    ],
+    [
+      "warns",
+      3
+    ],
+    [
+      "south",
       2
     ],
     [
-      "vulnerability",
+      "korea",
       2
     ],
     [
-      "delhi",
-      1
-    ],
-    [
-      "crack",
-      1
+      "over",
+      2
     ],
     [
       "down",
-      1
-    ],
-    [
-      "fire",
-      1
-    ],
-    [
-      "safety",
-      1
-    ],
-    [
-      "violations",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "blaze",
-      1
-    ],
-    [
-      "that",
-      1
-    ],
-    [
-      "killed",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "fake",
-      1
+      2
     ],
     [
       "sites",
+      2
+    ],
+    [
+      "2026",
+      2
+    ],
+    [
+      "cisco",
+      2
+    ],
+    [
+      "sd-wan",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "election",
       1
     ],
     [
-      "mimicking",
+      "chief",
       1
     ],
     [
-      "open-source",
+      "quits",
       1
     ],
     [
-      "tools",
+      "ballot",
       1
     ],
     [
-      "rank",
+      "paper",
       1
     ],
     [
-      "high",
+      "shortages",
+      1
+    ],
+    [
+      "japan",
+      1
+    ],
+    [
+      "could",
       1
     ]
   ],
   "rising": [
     [
-      "delhi",
+      "korea",
+      2,
+      3.53
+    ],
+    [
+      "south",
+      2,
+      3.16
+    ],
+    [
+      "sd-wan",
+      2,
+      2.86
+    ],
+    [
+      "down",
+      2,
+      2.73
+    ],
+    [
+      "sites",
+      2,
+      2.61
+    ],
+    [
+      "2026",
+      2,
+      2.31
+    ],
+    [
+      "cisco",
+      2,
+      2.14
+    ],
+    [
+      "warns",
+      3,
+      2.09
+    ],
+    [
+      "quits",
       1,
       2.0
     ],
     [
-      "crack",
+      "ballot",
       1,
       2.0
-    ],
-    [
-      "violations",
-      1,
-      2.0
-    ],
-    [
-      "blaze",
-      1,
-      2.0
-    ],
-    [
-      "killed",
-      1,
-      2.0
-    ],
-    [
-      "mimicking",
-      1,
-      2.0
-    ],
-    [
-      "rank",
-      1,
-      2.0
-    ],
-    [
-      "fire",
-      1,
-      1.88
-    ],
-    [
-      "open-source",
-      1,
-      1.88
-    ],
-    [
-      "safety",
-      1,
-      1.76
     ]
   ]
 }
