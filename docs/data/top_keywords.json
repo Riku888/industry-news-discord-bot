@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-05",
+  "date": "2026-06-06",
   "top_today": [
     [
-      "reuters",
-      3
+      "agent",
+      1
     ],
     [
-      "warns",
-      3
+      "uncovers",
+      1
     ],
     [
-      "south",
-      2
+      "zero-days",
+      1
     ],
     [
-      "korea",
-      2
+      "ffmpeg",
+      1
     ],
     [
-      "over",
-      2
+      "chrome",
+      1
     ],
     [
-      "down",
-      2
+      "patches",
+      1
     ],
     [
-      "sites",
-      2
+      "record",
+      1
     ],
     [
-      "2026",
-      2
+      "429",
+      1
+    ],
+    [
+      "bugs",
+      1
+    ],
+    [
+      "miasma",
+      1
+    ],
+    [
+      "worm",
+      1
+    ],
+    [
+      "hits",
+      1
+    ],
+    [
+      "microsoft",
+      1
+    ],
+    [
+      "github",
+      1
+    ],
+    [
+      "repositories",
+      1
+    ],
+    [
+      "major",
+      1
+    ],
+    [
+      "supply",
+      1
+    ],
+    [
+      "chain",
+      1
+    ],
+    [
+      "attack",
+      1
     ],
     [
       "cisco",
-      2
-    ],
-    [
-      "sd-wan",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "election",
-      1
-    ],
-    [
-      "chief",
-      1
-    ],
-    [
-      "quits",
-      1
-    ],
-    [
-      "ballot",
-      1
-    ],
-    [
-      "paper",
-      1
-    ],
-    [
-      "shortages",
-      1
-    ],
-    [
-      "japan",
-      1
-    ],
-    [
-      "could",
       1
     ]
   ],
   "rising": [
     [
-      "korea",
-      2,
-      3.53
-    ],
-    [
-      "south",
-      2,
-      3.16
-    ],
-    [
-      "sd-wan",
-      2,
-      2.86
-    ],
-    [
-      "down",
-      2,
-      2.73
-    ],
-    [
-      "sites",
-      2,
-      2.61
-    ],
-    [
-      "2026",
-      2,
-      2.31
-    ],
-    [
-      "cisco",
-      2,
-      2.14
-    ],
-    [
-      "warns",
-      3,
-      2.09
-    ],
-    [
-      "quits",
+      "uncovers",
       1,
       2.0
     ],
     [
-      "ballot",
+      "ffmpeg",
       1,
       2.0
+    ],
+    [
+      "429",
+      1,
+      1.88
+    ],
+    [
+      "bugs",
+      1,
+      1.76
+    ],
+    [
+      "miasma",
+      1,
+      1.67
+    ],
+    [
+      "repositories",
+      1,
+      1.67
+    ],
+    [
+      "agent",
+      1,
+      1.58
+    ],
+    [
+      "chrome",
+      1,
+      1.43
+    ],
+    [
+      "zero-days",
+      1,
+      1.36
+    ],
+    [
+      "record",
+      1,
+      1.36
     ]
   ]
 }
