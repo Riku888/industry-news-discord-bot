@@ -1,60 +1,32 @@
 {
-  "date": "2026-06-09",
+  "date": "2026-06-10",
   "top_today": [
     [
       "reuters",
-      8
-    ],
-    [
-      "exploited",
       5
     ],
     [
-      "zero-day",
-      4
+      "exploited",
+      3
     ],
     [
-      "chinese",
+      "vulnerabilities",
+      3
+    ],
+    [
+      "trump",
       2
     ],
     [
-      "spacex",
+      "servicenow",
       2
     ],
     [
-      "ipo",
+      "access",
       2
     ],
     [
-      "lawmakers",
-      2
-    ],
-    [
-      "rules",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "wild",
-      2
-    ],
-    [
-      "check",
-      2
-    ],
-    [
-      "point",
-      2
-    ],
-    [
-      "vpn",
-      2
-    ],
-    [
-      "google",
+      "microsoft",
       2
     ],
     [
@@ -62,76 +34,104 @@
       2
     ],
     [
-      "chrome",
+      "vulnerability",
       2
     ],
     [
-      "taiwan",
+      "patch",
+      2
+    ],
+    [
+      "rbnz",
       1
     ],
     [
-      "simulates",
+      "inflation",
       1
     ],
     [
-      "destroying",
+      "focus",
       1
     ],
     [
-      "invading",
+      "tested",
+      1
+    ],
+    [
+      "rate",
+      1
+    ],
+    [
+      "hikes",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "stoking",
+      1
+    ],
+    [
+      "jobs",
+      1
+    ],
+    [
+      "crisis",
       1
     ]
   ],
   "rising": [
     [
-      "lawmakers",
+      "servicenow",
       2,
-      3.75
+      4.0
     ],
     [
-      "rules",
-      2,
-      3.53
+      "vulnerabilities",
+      3,
+      2.0
     ],
     [
-      "check",
-      2,
-      3.16
+      "rbnz",
+      1,
+      2.0
     ],
     [
-      "point",
-      2,
-      3.16
+      "stoking",
+      1,
+      2.0
     ],
     [
-      "ipo",
-      2,
-      2.86
+      "tested",
+      1,
+      1.88
     ],
     [
-      "chrome",
-      2,
-      2.86
+      "hikes",
+      1,
+      1.88
     ],
     [
-      "spacex",
-      2,
-      2.73
+      "inflation",
+      1,
+      1.76
     ],
     [
-      "wild",
-      2,
-      2.73
+      "focus",
+      1,
+      1.76
     ],
     [
-      "vpn",
-      2,
-      2.5
+      "crisis",
+      1,
+      1.76
     ],
     [
-      "zero-day",
-      4,
-      2.4
+      "rate",
+      1,
+      1.67
     ]
   ]
 }
