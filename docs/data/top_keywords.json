@@ -1,36 +1,20 @@
 {
-  "date": "2026-06-10",
+  "date": "2026-06-11",
   "top_today": [
     [
       "reuters",
       5
     ],
     [
-      "exploited",
+      "attacks",
       3
     ],
     [
-      "vulnerabilities",
-      3
-    ],
-    [
-      "trump",
+      "oil",
       2
     ],
     [
-      "servicenow",
-      2
-    ],
-    [
-      "access",
-      2
-    ],
-    [
-      "microsoft",
-      2
-    ],
-    [
-      "patches",
+      "iranian",
       2
     ],
     [
@@ -38,100 +22,116 @@
       2
     ],
     [
-      "patch",
+      "exploited",
       2
     ],
     [
-      "rbnz",
+      "minister",
       1
     ],
     [
-      "inflation",
+      "says",
       1
     ],
     [
-      "focus",
+      "violence",
       1
     ],
     [
-      "tested",
+      "northern",
       1
     ],
     [
-      "rate",
+      "ireland",
       1
     ],
     [
-      "hikes",
+      "racist",
       1
     ],
     [
-      "risk",
+      "thuggery",
       1
     ],
     [
-      "stoking",
+      "three",
       1
     ],
     [
-      "jobs",
+      "indian",
       1
     ],
     [
-      "crisis",
+      "sailors",
+      1
+    ],
+    [
+      "confirmed",
+      1
+    ],
+    [
+      "dead",
+      1
+    ],
+    [
+      "strike",
+      1
+    ],
+    [
+      "off",
       1
     ]
   ],
   "rising": [
     [
-      "servicenow",
+      "iranian",
       2,
-      4.0
+      2.07
     ],
     [
-      "vulnerabilities",
-      3,
-      2.0
-    ],
-    [
-      "rbnz",
+      "racist",
       1,
       2.0
     ],
     [
-      "stoking",
+      "thuggery",
       1,
       2.0
     ],
     [
-      "tested",
+      "sailors",
+      1,
+      2.0
+    ],
+    [
+      "violence",
       1,
       1.88
     ],
     [
-      "hikes",
+      "ireland",
       1,
       1.88
     ],
     [
-      "inflation",
+      "confirmed",
+      1,
+      1.88
+    ],
+    [
+      "oil",
+      2,
+      1.76
+    ],
+    [
+      "northern",
       1,
       1.76
     ],
     [
-      "focus",
+      "dead",
       1,
       1.76
-    ],
-    [
-      "crisis",
-      1,
-      1.76
-    ],
-    [
-      "rate",
-      1,
-      1.67
     ]
   ]
 }
