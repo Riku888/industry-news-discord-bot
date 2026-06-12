@@ -1,135 +1,135 @@
 {
-  "date": "2026-06-11",
+  "date": "2026-06-12",
   "top_today": [
     [
       "reuters",
-      5
-    ],
-    [
-      "attacks",
-      3
-    ],
-    [
-      "oil",
       2
     ],
     [
-      "iranian",
+      "flaw",
       2
     ],
     [
-      "vulnerability",
+      "down",
       2
     ],
     [
-      "exploited",
+      "phishing",
       2
     ],
     [
-      "minister",
+      "ivanti",
+      2
+    ],
+    [
+      "exploitation",
+      2
+    ],
+    [
+      "families",
       1
     ],
     [
-      "says",
+      "mexico",
       1
     ],
     [
-      "violence",
+      "disappeared",
       1
     ],
     [
-      "northern",
+      "march",
       1
     ],
     [
-      "ireland",
+      "capital",
       1
     ],
     [
-      "racist",
+      "world",
       1
     ],
     [
-      "thuggery",
+      "cup",
       1
     ],
     [
-      "three",
-      1
-    ],
-    [
-      "indian",
-      1
-    ],
-    [
-      "sailors",
-      1
-    ],
-    [
-      "confirmed",
-      1
-    ],
-    [
-      "dead",
-      1
-    ],
-    [
-      "strike",
+      "kicks",
       1
     ],
     [
       "off",
       1
+    ],
+    [
+      "how",
+      1
+    ],
+    [
+      "south",
+      1
+    ],
+    [
+      "korea",
+      1
+    ],
+    [
+      "ballot",
+      1
+    ],
+    [
+      "shortage",
+      1
     ]
   ],
   "rising": [
     [
-      "iranian",
+      "ivanti",
       2,
-      2.07
+      2.86
     ],
     [
-      "racist",
-      1,
-      2.0
-    ],
-    [
-      "thuggery",
-      1,
-      2.0
-    ],
-    [
-      "sailors",
-      1,
-      2.0
-    ],
-    [
-      "violence",
-      1,
-      1.88
-    ],
-    [
-      "ireland",
-      1,
-      1.88
-    ],
-    [
-      "confirmed",
-      1,
-      1.88
-    ],
-    [
-      "oil",
+      "down",
       2,
-      1.76
+      2.4
     ],
     [
-      "northern",
+      "exploitation",
+      2,
+      2.22
+    ],
+    [
+      "families",
       1,
-      1.76
+      2.0
     ],
     [
-      "dead",
+      "disappeared",
+      1,
+      2.0
+    ],
+    [
+      "kicks",
+      1,
+      2.0
+    ],
+    [
+      "shortage",
+      1,
+      2.0
+    ],
+    [
+      "ballot",
+      1,
+      1.88
+    ],
+    [
+      "phishing",
+      2,
+      1.82
+    ],
+    [
+      "march",
       1,
       1.76
     ]
