@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-16",
   "top_today": [
+    [
+      "exploited",
+      5
+    ],
     [
       "reuters",
       3
     ],
     [
-      "phishing",
+      "flaw",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "says",
       2
     ],
     [
-      "breakingviews",
-      1
+      "last",
+      2
     ],
     [
-      "anthropic",
-      1
+      "fortinet",
+      2
     ],
     [
-      "becomes",
-      1
+      "fortisandbox",
+      2
     ],
     [
-      "cautionary",
-      1
+      "flaws",
+      2
     ],
     [
-      "sovereign-ai",
-      1
+      "sprysocks",
+      2
     ],
     [
-      "fable",
-      1
+      "windows",
+      2
     ],
     [
-      "chinese",
-      1
+      "microsoft",
+      2
     ],
     [
-      "regulator",
-      1
+      "used",
+      2
     ],
     [
-      "tells",
-      1
+      "malware",
+      2
     ],
     [
-      "walmart",
-      1
+      "cisco",
+      2
     ],
     [
-      "stamp",
-      1
+      "sd-wan",
+      2
     ],
     [
-      "out",
-      1
+      "cisa",
+      2
     ],
     [
-      "food",
-      1
+      "cpanel",
+      2
     ],
     [
-      "safety",
-      1
+      "plugin",
+      2
     ],
     [
-      "risks",
-      1
-    ],
-    [
-      "late",
-      1
-    ],
-    [
-      "amad",
-      1
-    ],
-    [
-      "strike",
-      1
+      "another",
+      2
     ]
   ],
   "rising": [
     [
-      "cautionary",
-      1,
-      2.0
+      "fortisandbox",
+      2,
+      4.0
     ],
     [
-      "sovereign-ai",
-      1,
-      2.0
+      "sprysocks",
+      2,
+      4.0
     ],
     [
-      "fable",
-      1,
-      2.0
+      "last",
+      2,
+      3.75
     ],
     [
-      "walmart",
-      1,
-      2.0
+      "fortinet",
+      2,
+      3.33
     ],
     [
-      "stamp",
-      1,
-      2.0
+      "cpanel",
+      2,
+      3.33
     ],
     [
-      "food",
-      1,
-      2.0
+      "sd-wan",
+      2,
+      3.16
     ],
     [
-      "amad",
-      1,
-      2.0
+      "another",
+      2,
+      3.16
     ],
     [
-      "breakingviews",
-      1,
-      1.88
+      "used",
+      2,
+      2.73
     ],
     [
-      "late",
-      1,
-      1.88
+      "plugin",
+      2,
+      2.73
     ],
     [
-      "becomes",
-      1,
-      1.76
+      "cisco",
+      2,
+      2.31
     ]
   ]
 }
