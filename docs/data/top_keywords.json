@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-16",
+  "date": "2026-06-17",
   "top_today": [
     [
-      "exploited",
-      5
+      "patch",
+      4
+    ],
+    [
+      "deal",
+      3
     ],
     [
       "reuters",
       3
     ],
     [
-      "flaw",
+      "cisa",
       3
     ],
     [
-      "attacks",
+      "joomla",
       3
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "last",
-      2
-    ],
-    [
-      "fortinet",
-      2
-    ],
-    [
-      "fortisandbox",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "sprysocks",
-      2
-    ],
-    [
-      "windows",
-      2
     ],
     [
       "microsoft",
+      3
+    ],
+    [
+      "vulnerabilities",
+      3
+    ],
+    [
+      "chrome",
       2
     ],
     [
-      "used",
+      "warns",
       2
     ],
     [
-      "malware",
+      "exploited",
       2
     ],
     [
-      "cisco",
+      "flaw",
       2
     ],
     [
-      "sd-wan",
+      "working",
       2
     ],
     [
-      "cisa",
+      "rogueplanet",
       2
     ],
     [
-      "cpanel",
+      "zero-day",
       2
     ],
     [
-      "plugin",
-      2
+      "middle",
+      1
     ],
     [
-      "another",
-      2
+      "east",
+      1
+    ],
+    [
+      "crude",
+      1
+    ],
+    [
+      "slips",
+      1
+    ],
+    [
+      "into",
+      1
+    ],
+    [
+      "discounts",
+      1
     ]
   ],
   "rising": [
     [
-      "fortisandbox",
-      2,
-      4.0
+      "joomla",
+      3,
+      6.0
     ],
     [
-      "sprysocks",
-      2,
-      4.0
-    ],
-    [
-      "last",
+      "working",
       2,
       3.75
     ],
     [
-      "fortinet",
-      2,
-      3.33
-    ],
-    [
-      "cpanel",
-      2,
-      3.33
-    ],
-    [
-      "sd-wan",
+      "rogueplanet",
       2,
       3.16
     ],
     [
-      "another",
-      2,
-      3.16
+      "patch",
+      4,
+      3.08
     ],
     [
-      "used",
-      2,
-      2.73
+      "deal",
+      3,
+      2.9
     ],
     [
-      "plugin",
-      2,
-      2.73
-    ],
-    [
-      "cisco",
+      "chrome",
       2,
       2.31
+    ],
+    [
+      "vulnerabilities",
+      3,
+      2.14
+    ],
+    [
+      "crude",
+      1,
+      2.0
+    ],
+    [
+      "discounts",
+      1,
+      2.0
+    ],
+    [
+      "slips",
+      1,
+      1.88
     ]
   ]
 }
