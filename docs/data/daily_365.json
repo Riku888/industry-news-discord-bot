@@ -391,10 +391,10 @@
     30,
     10,
     6,
-    35,
-    40,
-    17,
-    1,
+    37,
+    42,
+    37,
+    7,
     1
   ],
   "by_category": {
@@ -1920,32 +1920,38 @@
     "2026-06-15": {
       "APT・国家系": 3,
       "ID・認証": 1,
-      "その他": 6,
+      "その他": 7,
       "フィッシング": 4,
       "マルウェア": 5,
       "ランサムウェア": 3,
-      "脆弱性・CVE": 8,
+      "脆弱性・CVE": 9,
       "防御・検知・対応": 5
     },
     "2026-06-16": {
       "APT・国家系": 1,
       "その他": 7,
       "クラウド・サプライチェーン": 1,
-      "マルウェア": 12,
+      "マルウェア": 13,
       "ランサムウェア": 1,
-      "脆弱性・CVE": 9,
+      "脆弱性・CVE": 10,
       "防御・検知・対応": 9
     },
     "2026-06-17": {
       "APT・国家系": 1,
+      "ID・認証": 3,
+      "その他": 5,
       "クラウド・サプライチェーン": 1,
-      "ランサムウェア": 1,
-      "脆弱性・CVE": 8,
-      "規制・ガバナンス": 1,
-      "防御・検知・対応": 5
+      "マルウェア": 5,
+      "ランサムウェア": 2,
+      "脆弱性・CVE": 10,
+      "規制・ガバナンス": 2,
+      "防御・検知・対応": 8
     },
     "2026-06-18": {
-      "防御・検知・対応": 1
+      "その他": 1,
+      "マルウェア": 1,
+      "脆弱性・CVE": 2,
+      "防御・検知・対応": 3
     },
     "2026-06-26": {
       "その他": 1
@@ -3457,7 +3463,7 @@
       "CrowdStrike": 1,
       "Dark Reading": 1,
       "Palo Alto Unit 42": 1,
-      "Reuters": 13,
+      "Reuters": 15,
       "SecurityWeek": 4,
       "The Hacker News": 7,
       "The Record": 1
@@ -3468,21 +3474,26 @@
       "CrowdStrike": 1,
       "Dark Reading": 4,
       "Palo Alto Unit 42": 1,
-      "Reuters": 5,
+      "Reuters": 7,
       "SecurityWeek": 5,
       "The Hacker News": 7,
       "The Record": 2
     },
     "2026-06-17": {
-      "BleepingComputer": 3,
-      "Dark Reading": 1,
-      "Reuters": 3,
-      "SecurityWeek": 6,
-      "The Hacker News": 3,
-      "The Record": 1
+      "BleepingComputer": 6,
+      "CrowdStrike": 1,
+      "Dark Reading": 3,
+      "Microsoft Security Blog": 2,
+      "Reuters": 8,
+      "SecurityWeek": 9,
+      "The Hacker News": 6,
+      "The Record": 2
     },
     "2026-06-18": {
-      "Dark Reading": 1
+      "BleepingComputer": 1,
+      "Dark Reading": 2,
+      "Microsoft Security Blog": 1,
+      "SecurityWeek": 3
     },
     "2026-06-26": {
       "Dark Reading": 1
