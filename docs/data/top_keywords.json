@@ -1,135 +1,135 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "top_today": [
     [
-      "critical",
+      "after",
+      6
+    ],
+    [
+      "reuters",
+      3
+    ],
+    [
+      "splunk",
+      3
+    ],
+    [
+      "users",
       2
     ],
     [
-      "virtual",
+      "klue",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "cisa",
+      2
+    ],
+    [
+      "enterprise",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "fortinet",
+      2
+    ],
+    [
+      "fortibleed",
+      2
+    ],
+    [
+      "000",
+      2
+    ],
+    [
+      "early",
       1
     ],
     [
-      "event",
+      "anthropic",
       1
     ],
     [
-      "anatomy",
+      "mythos",
       1
     ],
     [
-      "data",
+      "still",
       1
     ],
     [
-      "breach",
+      "have",
       1
     ],
     [
-      "what",
+      "access",
       1
     ],
     [
-      "happens",
+      "order",
       1
     ],
     [
-      "you",
-      1
-    ],
-    [
-      "leak",
-      1
-    ],
-    [
-      "confirms",
-      1
-    ],
-    [
-      "openai",
-      1
-    ],
-    [
-      "testing",
-      1
-    ],
-    [
-      "chatgpt",
-      1
-    ],
-    [
-      "science",
-      1
-    ],
-    [
-      "subscription",
-      1
-    ],
-    [
-      "command",
-      1
-    ],
-    [
-      "execution",
-      1
-    ],
-    [
-      "vulnerability",
-      1
-    ],
-    [
-      "patched",
+      "bloomberg",
       1
     ]
   ],
   "rising": [
     [
-      "virtual",
+      "splunk",
+      3,
+      5.0
+    ],
+    [
+      "after",
+      6,
+      3.83
+    ],
+    [
+      "fortibleed",
+      2,
+      3.75
+    ],
+    [
+      "klue",
+      2,
+      3.53
+    ],
+    [
+      "fortinet",
+      2,
+      2.73
+    ],
+    [
+      "enterprise",
+      2,
+      2.61
+    ],
+    [
+      "000",
+      2,
+      2.31
+    ],
+    [
+      "users",
+      2,
+      2.22
+    ],
+    [
+      "bloomberg",
       1,
       2.0
     ],
     [
-      "anatomy",
-      1,
-      2.0
-    ],
-    [
-      "happens",
-      1,
-      2.0
-    ],
-    [
-      "subscription",
-      1,
-      2.0
-    ],
-    [
-      "command",
-      1,
-      2.0
-    ],
-    [
-      "event",
-      1,
-      1.88
-    ],
-    [
-      "science",
-      1,
-      1.88
-    ],
-    [
-      "what",
-      1,
-      1.76
-    ],
-    [
-      "you",
-      1,
-      1.67
-    ],
-    [
-      "leak",
+      "early",
       1,
       1.67
     ]
