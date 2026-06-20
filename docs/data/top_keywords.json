@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "top_today": [
     [
-      "after",
-      6
-    ],
-    [
       "reuters",
-      3
-    ],
-    [
-      "splunk",
-      3
-    ],
-    [
-      "users",
       2
     ],
     [
-      "klue",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "cisa",
-      2
-    ],
-    [
-      "enterprise",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "fortinet",
-      2
-    ],
-    [
-      "fortibleed",
-      2
-    ],
-    [
-      "000",
-      2
-    ],
-    [
-      "early",
+      "iran",
       1
     ],
     [
-      "anthropic",
+      "envoys",
       1
     ],
     [
-      "mythos",
+      "head",
       1
     ],
     [
-      "still",
+      "talks",
       1
     ],
     [
-      "have",
+      "israeli",
       1
     ],
     [
-      "access",
+      "strikes",
       1
     ],
     [
-      "order",
+      "continue",
       1
     ],
     [
-      "bloomberg",
+      "after",
+      1
+    ],
+    [
+      "ceasefire",
+      1
+    ],
+    [
+      "bolivia",
+      1
+    ],
+    [
+      "paz",
+      1
+    ],
+    [
+      "declares",
+      1
+    ],
+    [
+      "state",
+      1
+    ],
+    [
+      "emergency",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "blockade",
+      1
+    ],
+    [
+      "crisis",
+      1
+    ],
+    [
+      "paving",
+      1
+    ],
+    [
+      "way",
       1
     ]
   ],
   "rising": [
     [
-      "splunk",
-      3,
-      5.0
-    ],
-    [
-      "after",
-      6,
-      3.83
-    ],
-    [
-      "fortibleed",
-      2,
-      3.75
-    ],
-    [
-      "klue",
-      2,
-      3.53
-    ],
-    [
-      "fortinet",
-      2,
-      2.73
-    ],
-    [
-      "enterprise",
-      2,
-      2.61
-    ],
-    [
-      "000",
-      2,
-      2.31
-    ],
-    [
-      "users",
-      2,
-      2.22
-    ],
-    [
-      "bloomberg",
+      "bolivia",
       1,
       2.0
     ],
     [
-      "early",
+      "paz",
       1,
-      1.67
+      2.0
+    ],
+    [
+      "paving",
+      1,
+      2.0
+    ],
+    [
+      "continue",
+      1,
+      1.88
+    ],
+    [
+      "declares",
+      1,
+      1.88
+    ],
+    [
+      "state",
+      1,
+      1.88
+    ],
+    [
+      "emergency",
+      1,
+      1.88
+    ],
+    [
+      "way",
+      1,
+      1.88
+    ],
+    [
+      "envoys",
+      1,
+      1.76
+    ],
+    [
+      "head",
+      1,
+      1.76
     ]
   ]
 }
