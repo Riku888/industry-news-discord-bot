@@ -1,137 +1,101 @@
 {
-  "date": "2026-06-20",
+  "date": "2026-06-21",
   "top_today": [
     [
+      "saudi",
+      1
+    ],
+    [
+      "hopes",
+      1
+    ],
+    [
+      "shock",
+      1
+    ],
+    [
+      "against",
+      1
+    ],
+    [
+      "spain",
+      1
+    ],
+    [
+      "will",
+      1
+    ],
+    [
+      "boosted",
+      1
+    ],
+    [
+      "without",
+      1
+    ],
+    [
+      "yamal",
+      1
+    ],
+    [
+      "williams",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "iran",
-      1
-    ],
-    [
-      "envoys",
-      1
-    ],
-    [
-      "head",
-      1
-    ],
-    [
-      "talks",
-      1
-    ],
-    [
-      "israeli",
-      1
-    ],
-    [
-      "strikes",
-      1
-    ],
-    [
-      "continue",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "ceasefire",
-      1
-    ],
-    [
-      "bolivia",
-      1
-    ],
-    [
-      "paz",
-      1
-    ],
-    [
-      "declares",
-      1
-    ],
-    [
-      "state",
-      1
-    ],
-    [
-      "emergency",
-      1
-    ],
-    [
-      "over",
-      1
-    ],
-    [
-      "blockade",
-      1
-    ],
-    [
-      "crisis",
-      1
-    ],
-    [
-      "paving",
-      1
-    ],
-    [
-      "way",
       1
     ]
   ],
   "rising": [
     [
-      "bolivia",
+      "saudi",
       1,
       2.0
     ],
     [
-      "paz",
+      "hopes",
       1,
       2.0
     ],
     [
-      "paving",
+      "boosted",
       1,
       2.0
     ],
     [
-      "continue",
+      "yamal",
       1,
-      1.88
+      2.0
     ],
     [
-      "declares",
+      "williams",
       1,
-      1.88
+      2.0
     ],
     [
-      "state",
-      1,
-      1.88
-    ],
-    [
-      "emergency",
-      1,
-      1.88
-    ],
-    [
-      "way",
-      1,
-      1.88
-    ],
-    [
-      "envoys",
+      "spain",
       1,
       1.76
     ],
     [
-      "head",
+      "shock",
       1,
-      1.76
+      1.67
+    ],
+    [
+      "without",
+      1,
+      1.5
+    ],
+    [
+      "against",
+      1,
+      1.2
+    ],
+    [
+      "will",
+      1,
+      1.07
     ]
   ]
 }
