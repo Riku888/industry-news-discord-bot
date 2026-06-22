@@ -1,101 +1,137 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "top_today": [
     [
-      "saudi",
-      1
-    ],
-    [
-      "hopes",
-      1
-    ],
-    [
-      "shock",
-      1
-    ],
-    [
-      "against",
-      1
-    ],
-    [
-      "spain",
-      1
-    ],
-    [
-      "will",
-      1
-    ],
-    [
-      "boosted",
-      1
-    ],
-    [
-      "without",
-      1
-    ],
-    [
-      "yamal",
-      1
-    ],
-    [
-      "williams",
-      1
-    ],
-    [
       "reuters",
+      3
+    ],
+    [
+      "firms",
+      2
+    ],
+    [
+      "exploit",
+      2
+    ],
+    [
+      "dollar",
+      1
+    ],
+    [
+      "gains",
+      1
+    ],
+    [
+      "investors",
+      1
+    ],
+    [
+      "watch",
+      1
+    ],
+    [
+      "us-iran",
+      1
+    ],
+    [
+      "talks",
+      1
+    ],
+    [
+      "yen",
+      1
+    ],
+    [
+      "nears",
+      1
+    ],
+    [
+      "40-year",
+      1
+    ],
+    [
+      "low",
+      1
+    ],
+    [
+      "china",
+      1
+    ],
+    [
+      "targets",
+      1
+    ],
+    [
+      "rare",
+      1
+    ],
+    [
+      "earth",
+      1
+    ],
+    [
+      "other",
+      1
+    ],
+    [
+      "export",
+      1
+    ],
+    [
+      "controls",
       1
     ]
   ],
   "rising": [
     [
-      "saudi",
+      "firms",
+      2,
+      2.0
+    ],
+    [
+      "yen",
       1,
       2.0
     ],
     [
-      "hopes",
+      "nears",
       1,
       2.0
     ],
     [
-      "boosted",
+      "40-year",
       1,
       2.0
     ],
     [
-      "yamal",
+      "rare",
       1,
       2.0
     ],
     [
-      "williams",
+      "earth",
       1,
       2.0
     ],
     [
-      "spain",
+      "dollar",
       1,
-      1.76
+      1.88
     ],
     [
-      "shock",
+      "watch",
+      1,
+      1.88
+    ],
+    [
+      "gains",
       1,
       1.67
     ],
     [
-      "without",
+      "investors",
       1,
-      1.5
-    ],
-    [
-      "against",
-      1,
-      1.2
-    ],
-    [
-      "will",
-      1,
-      1.07
+      1.67
     ]
   ]
 }
