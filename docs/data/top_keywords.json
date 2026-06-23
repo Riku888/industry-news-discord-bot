@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "top_today": [
     [
       "reuters",
-      3
+      4
     ],
     [
-      "firms",
+      "trump",
       2
     ],
     [
-      "exploit",
+      "over",
       2
     ],
     [
-      "dollar",
+      "fed",
+      2
+    ],
+    [
+      "waives",
       1
     ],
     [
-      "gains",
+      "iran",
       1
     ],
     [
-      "investors",
+      "sanctions",
       1
     ],
     [
-      "watch",
+      "warns",
       1
     ],
     [
-      "us-iran",
+      "tehran",
       1
     ],
     [
-      "talks",
+      "must",
       1
     ],
     [
-      "yen",
+      "abide",
       1
     ],
     [
-      "nears",
+      "agreement",
       1
     ],
     [
-      "40-year",
+      "nasdaq",
       1
     ],
     [
-      "low",
+      "futures",
       1
     ],
     [
-      "china",
+      "drop",
       1
     ],
     [
-      "targets",
+      "buildout",
       1
     ],
     [
-      "rare",
+      "costs",
       1
     ],
     [
-      "earth",
+      "rate",
       1
     ],
     [
-      "other",
+      "outlook",
       1
     ],
     [
-      "export",
-      1
-    ],
-    [
-      "controls",
+      "weigh",
       1
     ]
   ],
   "rising": [
     [
-      "firms",
+      "fed",
       2,
-      2.0
+      3.33
     ],
     [
-      "yen",
+      "tehran",
       1,
       2.0
     ],
     [
-      "nears",
+      "must",
       1,
       2.0
     ],
     [
-      "40-year",
+      "abide",
       1,
       2.0
     ],
     [
-      "rare",
+      "buildout",
       1,
       2.0
     ],
     [
-      "earth",
-      1,
-      2.0
-    ],
-    [
-      "dollar",
+      "waives",
       1,
       1.88
     ],
     [
-      "watch",
+      "futures",
       1,
       1.88
     ],
     [
-      "gains",
+      "costs",
       1,
-      1.67
+      1.88
     ],
     [
-      "investors",
+      "sanctions",
       1,
-      1.67
+      1.76
+    ],
+    [
+      "agreement",
+      1,
+      1.76
     ]
   ]
 }
