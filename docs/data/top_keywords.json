@@ -1,52 +1,72 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "top_today": [
-    [
-      "reuters",
-      4
-    ],
     [
       "cisco",
       2
     ],
     [
-      "unified",
+      "sd-wan",
       2
     ],
     [
-      "conley",
+      "zero-day",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "exclusive",
       1
     ],
     [
-      "wins",
+      "defence",
       1
     ],
     [
-      "democratic",
+      "firm",
       1
     ],
     [
-      "primary",
+      "anduril",
       1
     ],
     [
-      "take",
+      "talks",
       1
     ],
     [
-      "republican",
+      "nissan",
       1
     ],
     [
-      "congressman",
+      "plant",
       1
     ],
     [
-      "mike",
+      "build",
       1
     ],
     [
-      "lawler",
+      "drones",
+      1
+    ],
+    [
+      "japan",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "reuters",
       1
     ],
     [
@@ -54,84 +74,64 @@
       1
     ],
     [
-      "york",
+      "mistic",
       1
     ],
     [
-      "munoz",
-      1
-    ],
-    [
-      "strike",
-      1
-    ],
-    [
-      "sends",
-      1
-    ],
-    [
-      "colombia",
-      1
-    ],
-    [
-      "into",
-      1
-    ],
-    [
-      "world",
+      "backdoor",
       1
     ]
   ],
   "rising": [
     [
-      "unified",
+      "sd-wan",
       2,
-      3.16
+      2.61
+    ],
+    [
+      "anduril",
+      1,
+      2.0
+    ],
+    [
+      "nissan",
+      1,
+      2.0
     ],
     [
       "cisco",
       2,
-      2.14
+      1.88
     ],
     [
-      "conley",
-      1,
-      2.0
-    ],
-    [
-      "democratic",
-      1,
-      2.0
-    ],
-    [
-      "primary",
-      1,
-      2.0
-    ],
-    [
-      "republican",
-      1,
-      2.0
-    ],
-    [
-      "congressman",
-      1,
-      2.0
-    ],
-    [
-      "lawler",
-      1,
-      2.0
-    ],
-    [
-      "munoz",
-      1,
-      2.0
-    ],
-    [
-      "mike",
+      "plant",
       1,
       1.88
+    ],
+    [
+      "mistic",
+      1,
+      1.88
+    ],
+    [
+      "build",
+      1,
+      1.67
+    ],
+    [
+      "drones",
+      1,
+      1.67
+    ],
+    [
+      "defence",
+      1,
+      1.58
+    ],
+    [
+      "japan",
+      1,
+      1.58
     ]
   ]
 }
