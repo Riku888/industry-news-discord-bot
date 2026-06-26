@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-25",
+  "date": "2026-06-26",
   "top_today": [
     [
-      "cisco",
-      2
-    ],
-    [
-      "sd-wan",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "exclusive",
-      1
-    ],
-    [
-      "defence",
-      1
-    ],
-    [
-      "firm",
-      1
-    ],
-    [
-      "anduril",
-      1
-    ],
-    [
-      "talks",
-      1
-    ],
-    [
-      "nissan",
-      1
-    ],
-    [
-      "plant",
-      1
-    ],
-    [
-      "build",
-      1
-    ],
-    [
-      "drones",
-      1
-    ],
-    [
-      "japan",
-      1
-    ],
-    [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
       "reuters",
-      1
+      2
     ],
     [
-      "new",
-      1
-    ],
-    [
-      "mistic",
-      1
+      "stockstay",
+      2
     ],
     [
       "backdoor",
+      2
+    ],
+    [
+      "name",
+      1
+    ],
+    [
+      "that",
+      1
+    ],
+    [
+      "toon",
+      1
+    ],
+    [
+      "contest",
+      1
+    ],
+    [
+      "australia",
+      1
+    ],
+    [
+      "pledges",
+      1
+    ],
+    [
+      "tougher",
+      1
+    ],
+    [
+      "enforcement",
+      1
+    ],
+    [
+      "social",
+      1
+    ],
+    [
+      "media",
+      1
+    ],
+    [
+      "ban",
+      1
+    ],
+    [
+      "teens",
+      1
+    ],
+    [
+      "europe",
+      1
+    ],
+    [
+      "heatwave",
+      1
+    ],
+    [
+      "virtually",
+      1
+    ],
+    [
+      "impossible",
+      1
+    ],
+    [
+      "without",
       1
     ]
   ],
   "rising": [
     [
-      "sd-wan",
+      "stockstay",
       2,
-      2.61
+      4.0
     ],
     [
-      "anduril",
+      "backdoor",
+      2,
+      2.73
+    ],
+    [
+      "toon",
       1,
       2.0
     ],
     [
-      "nissan",
+      "contest",
       1,
       2.0
     ],
     [
-      "cisco",
-      2,
-      1.88
+      "pledges",
+      1,
+      2.0
     ],
     [
-      "plant",
+      "tougher",
+      1,
+      2.0
+    ],
+    [
+      "teens",
+      1,
+      2.0
+    ],
+    [
+      "virtually",
+      1,
+      2.0
+    ],
+    [
+      "impossible",
+      1,
+      2.0
+    ],
+    [
+      "enforcement",
       1,
       1.88
-    ],
-    [
-      "mistic",
-      1,
-      1.88
-    ],
-    [
-      "build",
-      1,
-      1.67
-    ],
-    [
-      "drones",
-      1,
-      1.67
-    ],
-    [
-      "defence",
-      1,
-      1.58
-    ],
-    [
-      "japan",
-      1,
-      1.58
     ]
   ]
 }
