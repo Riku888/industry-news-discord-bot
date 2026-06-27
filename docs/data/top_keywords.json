@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "top_today": [
     [
+      "apple",
+      1
+    ],
+    [
+      "seeks",
+      1
+    ],
+    [
+      "approval",
+      1
+    ],
+    [
+      "buy",
+      1
+    ],
+    [
+      "chips",
+      1
+    ],
+    [
+      "blacklisted",
+      1
+    ],
+    [
+      "chinese",
+      1
+    ],
+    [
+      "company",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "stockstay",
-      2
-    ],
-    [
-      "backdoor",
-      2
-    ],
-    [
-      "name",
       1
     ],
     [
-      "that",
+      "rainbow",
       1
     ],
     [
-      "toon",
+      "flags",
       1
     ],
     [
-      "contest",
+      "dot",
       1
     ],
     [
-      "australia",
+      "iran",
       1
     ],
     [
-      "pledges",
+      "egypt",
       1
     ],
     [
-      "tougher",
+      "match",
       1
     ],
     [
-      "enforcement",
+      "seattle",
       1
     ],
     [
-      "social",
+      "celebrates",
       1
     ],
     [
-      "media",
+      "pride",
       1
     ],
     [
-      "ban",
-      1
-    ],
-    [
-      "teens",
-      1
-    ],
-    [
-      "europe",
-      1
-    ],
-    [
-      "heatwave",
-      1
-    ],
-    [
-      "virtually",
-      1
-    ],
-    [
-      "impossible",
-      1
-    ],
-    [
-      "without",
+      "during",
       1
     ]
   ],
   "rising": [
     [
-      "stockstay",
-      2,
-      4.0
-    ],
-    [
-      "backdoor",
-      2,
-      2.73
-    ],
-    [
-      "toon",
+      "chips",
       1,
       2.0
     ],
     [
-      "contest",
+      "rainbow",
       1,
       2.0
     ],
     [
-      "pledges",
+      "egypt",
       1,
       2.0
     ],
     [
-      "tougher",
+      "seattle",
       1,
       2.0
     ],
     [
-      "teens",
+      "celebrates",
       1,
       2.0
     ],
     [
-      "virtually",
+      "pride",
       1,
       2.0
     ],
     [
-      "impossible",
-      1,
-      2.0
-    ],
-    [
-      "enforcement",
+      "blacklisted",
       1,
       1.88
+    ],
+    [
+      "dot",
+      1,
+      1.88
+    ],
+    [
+      "during",
+      1,
+      1.88
+    ],
+    [
+      "seeks",
+      1,
+      1.76
     ]
   ]
 }
