@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "top_today": [
     [
-      "apple",
-      1
-    ],
-    [
-      "seeks",
-      1
-    ],
-    [
-      "approval",
-      1
-    ],
-    [
-      "buy",
-      1
-    ],
-    [
-      "chips",
-      1
-    ],
-    [
-      "blacklisted",
-      1
-    ],
-    [
-      "chinese",
-      1
-    ],
-    [
-      "company",
-      1
-    ],
-    [
-      "reports",
-      1
-    ],
-    [
       "reuters",
-      1
+      4
     ],
     [
-      "rainbow",
-      1
+      "austria",
+      2
     ],
     [
-      "flags",
-      1
+      "algeria",
+      2
     ],
     [
-      "dot",
-      1
+      "world",
+      2
+    ],
+    [
+      "cup",
+      2
     ],
     [
       "iran",
+      2
+    ],
+    [
+      "advance",
       1
     ],
     [
-      "egypt",
+      "round",
       1
     ],
     [
-      "match",
+      "eliminated",
       1
     ],
     [
-      "seattle",
+      "draw",
       1
     ],
     [
-      "celebrates",
+      "thriller",
       1
     ],
     [
-      "pride",
+      "progress",
       1
     ],
     [
-      "during",
+      "send",
+      1
+    ],
+    [
+      "home",
+      1
+    ],
+    [
+      "south",
+      1
+    ],
+    [
+      "korea",
+      1
+    ],
+    [
+      "japan",
+      1
+    ],
+    [
+      "reaffirm",
+      1
+    ],
+    [
+      "denuclearisation",
+      1
+    ],
+    [
+      "goal",
       1
     ]
   ],
   "rising": [
     [
-      "chips",
+      "austria",
+      2,
+      4.0
+    ],
+    [
+      "algeria",
+      2,
+      4.0
+    ],
+    [
+      "cup",
+      2,
+      2.07
+    ],
+    [
+      "advance",
       1,
       2.0
     ],
     [
-      "rainbow",
+      "eliminated",
       1,
       2.0
     ],
     [
-      "egypt",
+      "thriller",
       1,
       2.0
     ],
     [
-      "seattle",
+      "reaffirm",
       1,
       2.0
     ],
     [
-      "celebrates",
+      "denuclearisation",
       1,
       2.0
     ],
     [
-      "pride",
-      1,
-      2.0
-    ],
-    [
-      "blacklisted",
-      1,
+      "world",
+      2,
       1.88
     ],
     [
-      "dot",
+      "draw",
       1,
       1.88
-    ],
-    [
-      "during",
-      1,
-      1.88
-    ],
-    [
-      "seeks",
-      1,
-      1.76
     ]
   ]
 }
