@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "top_today": [
     [
       "reuters",
-      4
-    ],
-    [
-      "austria",
-      2
-    ],
-    [
-      "algeria",
-      2
-    ],
-    [
-      "world",
-      2
-    ],
-    [
-      "cup",
-      2
+      7
     ],
     [
       "iran",
+      3
+    ],
+    [
+      "oil",
       2
     ],
     [
-      "advance",
+      "cyberattacks",
       1
     ],
     [
-      "round",
+      "israel",
       1
     ],
     [
-      "eliminated",
+      "surged",
       1
     ],
     [
-      "draw",
+      "2026",
       1
     ],
     [
-      "thriller",
+      "israeli",
       1
     ],
     [
-      "progress",
+      "cyber",
       1
     ],
     [
-      "send",
+      "chief",
       1
     ],
     [
-      "home",
+      "says",
       1
     ],
     [
-      "south",
+      "war",
       1
     ],
     [
-      "korea",
+      "developments",
       1
     ],
     [
-      "japan",
+      "fed",
       1
     ],
     [
-      "reaffirm",
+      "rate",
       1
     ],
     [
-      "denuclearisation",
+      "path",
       1
     ],
     [
-      "goal",
+      "cues",
+      1
+    ],
+    [
+      "focus",
+      1
+    ],
+    [
+      "indian",
+      1
+    ],
+    [
+      "rupee",
       1
     ]
   ],
   "rising": [
     [
-      "austria",
+      "oil",
       2,
-      4.0
+      2.5
     ],
     [
-      "algeria",
-      2,
-      4.0
-    ],
-    [
-      "cup",
-      2,
-      2.07
-    ],
-    [
-      "advance",
+      "developments",
       1,
       2.0
     ],
     [
-      "eliminated",
+      "cues",
       1,
       2.0
     ],
     [
-      "thriller",
+      "rupee",
       1,
       2.0
     ],
     [
-      "reaffirm",
-      1,
-      2.0
-    ],
-    [
-      "denuclearisation",
-      1,
-      2.0
-    ],
-    [
-      "world",
-      2,
+      "iran",
+      3,
       1.88
     ],
     [
-      "draw",
+      "surged",
       1,
       1.88
+    ],
+    [
+      "rate",
+      1,
+      1.76
+    ],
+    [
+      "path",
+      1,
+      1.76
+    ],
+    [
+      "focus",
+      1,
+      1.76
+    ],
+    [
+      "israel",
+      1,
+      1.58
     ]
   ]
 }
