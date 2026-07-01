@@ -1,137 +1,137 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "top_today": [
     [
-      "exploited",
-      3
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "ransomware",
-      2
-    ],
-    [
-      "japan",
-      1
-    ],
-    [
-      "keeps",
-      1
-    ],
-    [
-      "intervention",
-      1
-    ],
-    [
-      "rhetoric",
-      1
-    ],
-    [
-      "unchanged",
-      1
-    ],
-    [
-      "despite",
-      1
-    ],
-    [
-      "yen",
-      1
-    ],
-    [
-      "slide",
-      1
-    ],
-    [
-      "40-year",
-      1
-    ],
-    [
-      "low",
-      1
+      "patches",
+      4
     ],
     [
       "reuters",
+      2
+    ],
+    [
+      "phantom",
+      2
+    ],
+    [
+      "squatting",
+      2
+    ],
+    [
+      "ai-hallucinated",
+      2
+    ],
+    [
+      "domains",
+      2
+    ],
+    [
+      "malware",
+      2
+    ],
+    [
+      "flaws",
+      2
+    ],
+    [
+      "vulnerabilities",
+      2
+    ],
+    [
+      "uber-backed",
       1
     ],
     [
-      "new",
+      "lime",
       1
     ],
     [
-      "bioshocking",
+      "raises",
       1
     ],
     [
-      "attack",
+      "167",
       1
     ],
     [
-      "tricks",
+      "million",
       1
     ],
     [
-      "browsers",
+      "ipo",
       1
     ],
     [
-      "into",
+      "vance",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "vatican",
+      1
+    ],
+    [
+      "views",
+      1
+    ],
+    [
+      "immigration",
       1
     ]
   ],
   "rising": [
     [
-      "intervention",
-      1,
-      2.0
-    ],
-    [
-      "rhetoric",
-      1,
-      2.0
-    ],
-    [
-      "unchanged",
-      1,
-      2.0
-    ],
-    [
-      "bioshocking",
-      1,
-      2.0
-    ],
-    [
-      "browsers",
-      1,
-      2.0
-    ],
-    [
-      "keeps",
-      1,
-      1.88
-    ],
-    [
-      "yen",
-      1,
-      1.88
-    ],
-    [
-      "slide",
-      1,
-      1.88
-    ],
-    [
-      "40-year",
-      1,
-      1.88
-    ],
-    [
-      "ransomware",
+      "squatting",
       2,
-      1.67
+      4.0
+    ],
+    [
+      "ai-hallucinated",
+      2,
+      4.0
+    ],
+    [
+      "phantom",
+      2,
+      3.75
+    ],
+    [
+      "domains",
+      2,
+      3.33
+    ],
+    [
+      "patches",
+      4,
+      2.61
+    ],
+    [
+      "uber-backed",
+      1,
+      2.0
+    ],
+    [
+      "lime",
+      1,
+      2.0
+    ],
+    [
+      "167",
+      1,
+      2.0
+    ],
+    [
+      "vance",
+      1,
+      2.0
+    ],
+    [
+      "vatican",
+      1,
+      2.0
     ]
   ]
 }
