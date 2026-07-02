@@ -1,135 +1,135 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "top_today": [
     [
-      "patches",
-      4
-    ],
-    [
       "reuters",
+      5
+    ],
+    [
+      "new",
       2
     ],
     [
-      "phantom",
+      "openai",
       2
     ],
     [
-      "squatting",
+      "reports",
       2
     ],
     [
-      "ai-hallucinated",
+      "rce",
       2
     ],
     [
-      "domains",
+      "ransomware",
       2
     ],
     [
-      "malware",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "vulnerabilities",
-      2
-    ],
-    [
-      "uber-backed",
+      "inexpensive",
       1
     ],
     [
-      "lime",
+      "chinese",
       1
     ],
     [
-      "raises",
+      "model",
       1
     ],
     [
-      "167",
+      "catching",
       1
     ],
     [
-      "million",
+      "anthropic",
       1
     ],
     [
-      "ipo",
+      "their",
       1
     ],
     [
-      "vance",
+      "home",
       1
     ],
     [
-      "says",
+      "turf",
       1
     ],
     [
-      "vatican",
+      "firefighters",
       1
     ],
     [
-      "views",
+      "battle",
       1
     ],
     [
-      "immigration",
+      "wildfire",
+      1
+    ],
+    [
+      "southern",
+      1
+    ],
+    [
+      "france",
+      1
+    ],
+    [
+      "resumes",
       1
     ]
   ],
   "rising": [
     [
-      "squatting",
+      "openai",
       2,
-      4.0
+      2.73
     ],
     [
-      "ai-hallucinated",
+      "reports",
       2,
-      4.0
+      2.14
     ],
     [
-      "phantom",
+      "rce",
       2,
-      3.75
+      2.07
     ],
     [
-      "domains",
-      2,
-      3.33
-    ],
-    [
-      "patches",
-      4,
-      2.61
-    ],
-    [
-      "uber-backed",
+      "inexpensive",
       1,
       2.0
     ],
     [
-      "lime",
+      "catching",
       1,
       2.0
     ],
     [
-      "167",
+      "turf",
       1,
       2.0
     ],
     [
-      "vance",
+      "firefighters",
       1,
       2.0
     ],
     [
-      "vatican",
+      "battle",
+      1,
+      2.0
+    ],
+    [
+      "wildfire",
+      1,
+      2.0
+    ],
+    [
+      "resumes",
       1,
       2.0
     ]
