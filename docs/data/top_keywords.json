@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "top_today": [
     [
+      "code",
+      2
+    ],
+    [
+      "air",
+      1
+    ],
+    [
+      "force",
+      1
+    ],
+    [
+      "investigate",
+      1
+    ],
+    [
+      "officer",
+      1
+    ],
+    [
+      "who",
+      1
+    ],
+    [
+      "called",
+      1
+    ],
+    [
+      "trump",
+      1
+    ],
+    [
+      "impeachment",
+      1
+    ],
+    [
       "reuters",
-      5
-    ],
-    [
-      "new",
-      2
-    ],
-    [
-      "openai",
-      2
-    ],
-    [
-      "reports",
-      2
-    ],
-    [
-      "rce",
-      2
-    ],
-    [
-      "ransomware",
-      2
-    ],
-    [
-      "inexpensive",
       1
     ],
     [
-      "chinese",
+      "pamstealer",
       1
     ],
     [
-      "model",
+      "uses",
       1
     ],
     [
-      "catching",
+      "fake",
       1
     ],
     [
-      "anthropic",
+      "maccy",
       1
     ],
     [
-      "their",
+      "sites",
       1
     ],
     [
-      "home",
+      "pam",
       1
     ],
     [
-      "turf",
+      "checks",
       1
     ],
     [
-      "firefighters",
+      "steal",
       1
     ],
     [
-      "battle",
+      "mac",
       1
     ],
     [
-      "wildfire",
-      1
-    ],
-    [
-      "southern",
-      1
-    ],
-    [
-      "france",
-      1
-    ],
-    [
-      "resumes",
+      "login",
       1
     ]
   ],
   "rising": [
     [
-      "openai",
-      2,
-      2.73
-    ],
-    [
-      "reports",
-      2,
-      2.14
-    ],
-    [
-      "rce",
-      2,
-      2.07
-    ],
-    [
-      "inexpensive",
+      "air",
       1,
       2.0
     ],
     [
-      "catching",
+      "investigate",
       1,
       2.0
     ],
     [
-      "turf",
+      "impeachment",
       1,
       2.0
     ],
     [
-      "firefighters",
+      "pamstealer",
       1,
       2.0
     ],
     [
-      "battle",
+      "maccy",
       1,
       2.0
     ],
     [
-      "wildfire",
+      "pam",
       1,
       2.0
     ],
     [
-      "resumes",
+      "mac",
       1,
       2.0
+    ],
+    [
+      "called",
+      1,
+      1.88
+    ],
+    [
+      "checks",
+      1,
+      1.88
+    ],
+    [
+      "officer",
+      1,
+      1.76
     ]
   ]
 }
