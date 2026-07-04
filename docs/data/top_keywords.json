@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "top_today": [
     [
-      "code",
+      "cape",
       2
     ],
     [
-      "air",
-      1
-    ],
-    [
-      "force",
-      1
-    ],
-    [
-      "investigate",
-      1
-    ],
-    [
-      "officer",
-      1
-    ],
-    [
-      "who",
-      1
-    ],
-    [
-      "called",
-      1
-    ],
-    [
-      "trump",
-      1
-    ],
-    [
-      "impeachment",
-      1
+      "verde",
+      2
     ],
     [
       "reuters",
+      2
+    ],
+    [
+      "champions",
       1
     ],
     [
-      "pamstealer",
+      "argentina",
       1
     ],
     [
-      "uses",
+      "need",
       1
     ],
     [
-      "fake",
+      "extra-time",
       1
     ],
     [
-      "maccy",
+      "own",
       1
     ],
     [
-      "sites",
+      "goal",
       1
     ],
     [
-      "pam",
+      "get",
       1
     ],
     [
-      "checks",
+      "past",
       1
     ],
     [
-      "steal",
+      "into",
       1
     ],
     [
-      "mac",
+      "last",
       1
     ],
     [
-      "login",
+      "proud",
+      1
+    ],
+    [
+      "coach",
+      1
+    ],
+    [
+      "bubista",
+      1
+    ],
+    [
+      "bids",
+      1
+    ],
+    [
+      "bittersweet",
+      1
+    ],
+    [
+      "farewell",
+      1
+    ],
+    [
+      "world",
       1
     ]
   ],
   "rising": [
     [
-      "air",
+      "cape",
+      2,
+      4.0
+    ],
+    [
+      "verde",
+      2,
+      4.0
+    ],
+    [
+      "champions",
       1,
       2.0
     ],
     [
-      "investigate",
+      "argentina",
       1,
       2.0
     ],
     [
-      "impeachment",
+      "extra-time",
       1,
       2.0
     ],
     [
-      "pamstealer",
+      "proud",
       1,
       2.0
     ],
     [
-      "maccy",
+      "bubista",
       1,
       2.0
     ],
     [
-      "pam",
+      "bittersweet",
       1,
       2.0
     ],
     [
-      "mac",
+      "farewell",
       1,
       2.0
     ],
     [
-      "called",
+      "bids",
       1,
       1.88
-    ],
-    [
-      "checks",
-      1,
-      1.88
-    ],
-    [
-      "officer",
-      1,
-      1.76
     ]
   ]
 }
