@@ -1,32 +1,60 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "top_today": [
     [
-      "cape",
-      2
-    ],
-    [
-      "verde",
-      2
-    ],
-    [
       "reuters",
-      2
+      5
     ],
     [
-      "champions",
+      "taiwan",
       1
     ],
     [
-      "argentina",
+      "military",
       1
     ],
     [
-      "need",
+      "resumes",
       1
     ],
     [
-      "extra-time",
+      "anti-communist",
+      1
+    ],
+    [
+      "classes",
+      1
+    ],
+    [
+      "graduates",
+      1
+    ],
+    [
+      "citing",
+      1
+    ],
+    [
+      "chinese",
+      1
+    ],
+    [
+      "threat",
+      1
+    ],
+    [
+      "england",
+      1
+    ],
+    [
+      "ready",
+      1
+    ],
+    [
+      "write",
+      1
+    ],
+    [
+      "their",
       1
     ],
     [
@@ -34,102 +62,74 @@
       1
     ],
     [
-      "goal",
+      "chapter",
       1
     ],
     [
-      "get",
+      "iconic",
       1
     ],
     [
-      "past",
+      "match",
       1
     ],
     [
-      "into",
+      "says",
       1
     ],
     [
-      "last",
-      1
-    ],
-    [
-      "proud",
-      1
-    ],
-    [
-      "coach",
-      1
-    ],
-    [
-      "bubista",
-      1
-    ],
-    [
-      "bids",
-      1
-    ],
-    [
-      "bittersweet",
-      1
-    ],
-    [
-      "farewell",
-      1
-    ],
-    [
-      "world",
+      "tuchel",
       1
     ]
   ],
   "rising": [
     [
-      "cape",
-      2,
-      4.0
-    ],
-    [
-      "verde",
-      2,
-      4.0
-    ],
-    [
-      "champions",
+      "anti-communist",
       1,
       2.0
     ],
     [
-      "argentina",
+      "classes",
       1,
       2.0
     ],
     [
-      "extra-time",
+      "graduates",
       1,
       2.0
     ],
     [
-      "proud",
+      "citing",
       1,
       2.0
     ],
     [
-      "bubista",
+      "england",
       1,
       2.0
     ],
     [
-      "bittersweet",
+      "write",
       1,
       2.0
     ],
     [
-      "farewell",
+      "chapter",
       1,
       2.0
     ],
     [
-      "bids",
+      "iconic",
+      1,
+      2.0
+    ],
+    [
+      "tuchel",
+      1,
+      2.0
+    ],
+    [
+      "resumes",
       1,
       1.88
     ]
