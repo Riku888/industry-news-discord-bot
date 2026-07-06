@@ -1,76 +1,12 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "top_today": [
     [
-      "reuters",
-      5
+      "new",
+      2
     ],
     [
       "taiwan",
-      1
-    ],
-    [
-      "military",
-      1
-    ],
-    [
-      "resumes",
-      1
-    ],
-    [
-      "anti-communist",
-      1
-    ],
-    [
-      "classes",
-      1
-    ],
-    [
-      "graduates",
-      1
-    ],
-    [
-      "citing",
-      1
-    ],
-    [
-      "chinese",
-      1
-    ],
-    [
-      "threat",
-      1
-    ],
-    [
-      "england",
-      1
-    ],
-    [
-      "ready",
-      1
-    ],
-    [
-      "write",
-      1
-    ],
-    [
-      "their",
-      1
-    ],
-    [
-      "own",
-      1
-    ],
-    [
-      "chapter",
-      1
-    ],
-    [
-      "iconic",
-      1
-    ],
-    [
-      "match",
       1
     ],
     [
@@ -78,58 +14,122 @@
       1
     ],
     [
-      "tuchel",
+      "tracking",
+      1
+    ],
+    [
+      "upward",
+      1
+    ],
+    [
+      "trend",
+      1
+    ],
+    [
+      "chinese",
+      1
+    ],
+    [
+      "naval",
+      1
+    ],
+    [
+      "movements",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "trojpix",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "leaks",
+      1
+    ],
+    [
+      "data",
+      1
+    ],
+    [
+      "air-gapped",
+      1
+    ],
+    [
+      "systems",
+      1
+    ],
+    [
+      "via",
+      1
+    ],
+    [
+      "video",
+      1
+    ],
+    [
+      "cable",
+      1
+    ],
+    [
+      "emissions",
       1
     ]
   ],
   "rising": [
     [
-      "anti-communist",
+      "tracking",
       1,
       2.0
     ],
     [
-      "classes",
+      "upward",
       1,
       2.0
     ],
     [
-      "graduates",
+      "trend",
       1,
       2.0
     ],
     [
-      "citing",
+      "naval",
       1,
       2.0
     ],
     [
-      "england",
+      "movements",
       1,
       2.0
     ],
     [
-      "write",
+      "trojpix",
       1,
       2.0
     ],
     [
-      "chapter",
+      "air-gapped",
       1,
       2.0
     ],
     [
-      "iconic",
+      "leaks",
       1,
-      2.0
+      1.88
     ],
     [
-      "tuchel",
+      "cable",
       1,
-      2.0
+      1.88
     ],
     [
-      "resumes",
+      "emissions",
       1,
       1.88
     ]
