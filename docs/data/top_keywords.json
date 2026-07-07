@@ -1,12 +1,64 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "top_today": [
     [
-      "new",
+      "reuters",
+      3
+    ],
+    [
+      "flaws",
+      3
+    ],
+    [
+      "warns",
       2
     ],
     [
-      "taiwan",
+      "beyondtrust",
+      2
+    ],
+    [
+      "critical",
+      2
+    ],
+    [
+      "remote",
+      2
+    ],
+    [
+      "blasts",
+      1
+    ],
+    [
+      "rock",
+      1
+    ],
+    [
+      "damascus",
+      1
+    ],
+    [
+      "during",
+      1
+    ],
+    [
+      "macron",
+      1
+    ],
+    [
+      "visit",
+      1
+    ],
+    [
+      "there",
+      1
+    ],
+    [
+      "justice",
+      1
+    ],
+    [
+      "life",
       1
     ],
     [
@@ -14,124 +66,72 @@
       1
     ],
     [
-      "tracking",
+      "raskin",
       1
     ],
     [
-      "upward",
+      "after",
       1
     ],
     [
-      "trend",
+      "belgium",
       1
     ],
     [
-      "chinese",
-      1
-    ],
-    [
-      "naval",
-      1
-    ],
-    [
-      "movements",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "trojpix",
-      1
-    ],
-    [
-      "attack",
-      1
-    ],
-    [
-      "leaks",
-      1
-    ],
-    [
-      "data",
-      1
-    ],
-    [
-      "air-gapped",
-      1
-    ],
-    [
-      "systems",
-      1
-    ],
-    [
-      "via",
-      1
-    ],
-    [
-      "video",
-      1
-    ],
-    [
-      "cable",
-      1
-    ],
-    [
-      "emissions",
+      "eliminate",
       1
     ]
   ],
   "rising": [
     [
-      "tracking",
+      "beyondtrust",
+      2,
+      4.0
+    ],
+    [
+      "remote",
+      2,
+      2.86
+    ],
+    [
+      "flaws",
+      3,
+      2.57
+    ],
+    [
+      "rock",
       1,
       2.0
     ],
     [
-      "upward",
+      "damascus",
       1,
       2.0
     ],
     [
-      "trend",
+      "visit",
       1,
       2.0
     ],
     [
-      "naval",
+      "there",
       1,
       2.0
     ],
     [
-      "movements",
+      "life",
       1,
       2.0
     ],
     [
-      "trojpix",
+      "raskin",
       1,
       2.0
     ],
     [
-      "air-gapped",
+      "belgium",
       1,
       2.0
-    ],
-    [
-      "leaks",
-      1,
-      1.88
-    ],
-    [
-      "cable",
-      1,
-      1.88
-    ],
-    [
-      "emissions",
-      1,
-      1.88
     ]
   ]
 }
