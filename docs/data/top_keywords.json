@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "top_today": [
     [
-      "reuters",
-      3
+      "cisa",
+      2
+    ],
+    [
+      "max",
+      2
+    ],
+    [
+      "severity",
+      2
+    ],
+    [
+      "adds",
+      1
+    ],
+    [
+      "actively",
+      1
+    ],
+    [
+      "exploited",
+      1
+    ],
+    [
+      "adobe",
+      1
+    ],
+    [
+      "joomla",
+      1
+    ],
+    [
+      "langflow",
+      1
     ],
     [
       "flaws",
-      3
+      1
+    ],
+    [
+      "kev",
+      1
+    ],
+    [
+      "ubiquiti",
+      1
     ],
     [
       "warns",
-      2
-    ],
-    [
-      "beyondtrust",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "remote",
-      2
-    ],
-    [
-      "blasts",
       1
     ],
     [
-      "rock",
+      "new",
       1
     ],
     [
-      "damascus",
+      "unifi",
       1
     ],
     [
-      "during",
+      "vulnerability",
       1
     ],
     [
-      "macron",
+      "orders",
       1
     ],
     [
-      "visit",
+      "feds",
       1
     ],
     [
-      "there",
+      "patch",
       1
     ],
     [
-      "justice",
-      1
-    ],
-    [
-      "life",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "raskin",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "belgium",
-      1
-    ],
-    [
-      "eliminate",
+      "coldfusion",
       1
     ]
   ],
   "rising": [
     [
-      "beyondtrust",
+      "max",
       2,
-      4.0
+      3.0
     ],
     [
-      "remote",
+      "severity",
       2,
-      2.86
+      3.0
     ],
     [
-      "flaws",
-      3,
-      2.57
-    ],
-    [
-      "rock",
+      "ubiquiti",
       1,
-      2.0
+      1.76
     ],
     [
-      "damascus",
+      "unifi",
       1,
-      2.0
+      1.76
     ],
     [
-      "visit",
+      "joomla",
       1,
-      2.0
+      1.67
     ],
     [
-      "there",
+      "kev",
       1,
-      2.0
+      1.67
     ],
     [
-      "life",
+      "feds",
       1,
-      2.0
+      1.67
     ],
     [
-      "raskin",
+      "orders",
       1,
-      2.0
+      1.5
     ],
     [
-      "belgium",
+      "coldfusion",
       1,
-      2.0
+      1.5
+    ],
+    [
+      "langflow",
+      1,
+      1.43
     ]
   ]
 }
