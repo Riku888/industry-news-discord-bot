@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "top_today": [
     [
-      "cisa",
+      "reuters",
       2
     ],
     [
-      "max",
+      "patches",
       2
     ],
     [
-      "severity",
+      "security",
       2
     ],
     [
-      "adds",
+      "bank",
       1
     ],
     [
-      "actively",
+      "japan",
       1
     ],
     [
-      "exploited",
+      "sees",
       1
     ],
     [
-      "adobe",
+      "growing",
       1
     ],
     [
-      "joomla",
+      "inflation",
       1
     ],
     [
-      "langflow",
+      "pressures",
       1
     ],
     [
-      "flaws",
+      "iran",
       1
     ],
     [
-      "kev",
+      "war",
       1
     ],
     [
-      "ubiquiti",
+      "totalenergies",
       1
     ],
     [
-      "warns",
+      "divests",
       1
     ],
     [
-      "new",
+      "its",
       1
     ],
     [
-      "unifi",
+      "distributed",
       1
     ],
     [
-      "vulnerability",
+      "solar",
       1
     ],
     [
-      "orders",
+      "generation",
       1
     ],
     [
-      "feds",
+      "activities",
       1
     ],
     [
-      "patch",
+      "europe",
       1
     ],
     [
-      "coldfusion",
+      "top",
       1
     ]
   ],
   "rising": [
     [
-      "max",
-      2,
-      3.0
+      "sees",
+      1,
+      2.0
     ],
     [
-      "severity",
-      2,
-      3.0
+      "growing",
+      1,
+      2.0
     ],
     [
-      "ubiquiti",
+      "pressures",
+      1,
+      2.0
+    ],
+    [
+      "totalenergies",
+      1,
+      2.0
+    ],
+    [
+      "divests",
+      1,
+      2.0
+    ],
+    [
+      "distributed",
+      1,
+      2.0
+    ],
+    [
+      "generation",
+      1,
+      2.0
+    ],
+    [
+      "activities",
+      1,
+      2.0
+    ],
+    [
+      "solar",
+      1,
+      1.88
+    ],
+    [
+      "inflation",
       1,
       1.76
-    ],
-    [
-      "unifi",
-      1,
-      1.76
-    ],
-    [
-      "joomla",
-      1,
-      1.67
-    ],
-    [
-      "kev",
-      1,
-      1.67
-    ],
-    [
-      "feds",
-      1,
-      1.67
-    ],
-    [
-      "orders",
-      1,
-      1.5
-    ],
-    [
-      "coldfusion",
-      1,
-      1.5
-    ],
-    [
-      "langflow",
-      1,
-      1.43
     ]
   ]
 }

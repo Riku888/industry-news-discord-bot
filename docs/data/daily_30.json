@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-06-08",
     "2026-06-09",
     "2026-06-10",
     "2026-06-11",
@@ -30,10 +29,10 @@
     "2026-07-05",
     "2026-07-06",
     "2026-07-07",
-    "2026-07-08"
+    "2026-07-08",
+    "2026-07-09"
   ],
   "total": [
-    37,
     46,
     46,
     49,
@@ -61,21 +60,12 @@
     31,
     12,
     8,
-    40,
-    26,
-    3
+    42,
+    28,
+    34,
+    8
   ],
   "by_category": {
-    "2026-06-08": {
-      "ID・認証": 1,
-      "その他": 8,
-      "クラウド・サプライチェーン": 2,
-      "フィッシング": 4,
-      "マルウェア": 5,
-      "ランサムウェア": 2,
-      "脆弱性・CVE": 8,
-      "防御・検知・対応": 7
-    },
     "2026-06-09": {
       "APT・国家系": 2,
       "その他": 8,
@@ -321,7 +311,7 @@
     "2026-07-06": {
       "APT・国家系": 2,
       "ID・認証": 1,
-      "その他": 9,
+      "その他": 11,
       "クラウド・サプライチェーン": 1,
       "フィッシング": 1,
       "マルウェア": 9,
@@ -334,28 +324,30 @@
       "ID・認証": 1,
       "その他": 4,
       "クラウド・サプライチェーン": 2,
-      "マルウェア": 6,
-      "脆弱性・CVE": 7,
+      "マルウェア": 7,
+      "脆弱性・CVE": 8,
       "規制・ガバナンス": 1,
       "防御・検知・対応": 5
     },
     "2026-07-08": {
-      "脆弱性・CVE": 3
+      "APT・国家系": 1,
+      "ID・認証": 1,
+      "その他": 5,
+      "フィッシング": 2,
+      "マルウェア": 7,
+      "ランサムウェア": 1,
+      "脆弱性・CVE": 9,
+      "規制・ガバナンス": 1,
+      "防御・検知・対応": 7
+    },
+    "2026-07-09": {
+      "ID・認証": 1,
+      "マルウェア": 3,
+      "脆弱性・CVE": 3,
+      "防御・検知・対応": 1
     }
   },
   "by_source": {
-    "2026-06-08": {
-      "BleepingComputer": 8,
-      "CISA": 1,
-      "CrowdStrike": 1,
-      "Dark Reading": 4,
-      "Microsoft Security Blog": 1,
-      "Palo Alto Unit 42": 1,
-      "Reuters": 10,
-      "SecurityWeek": 3,
-      "The Hacker News": 7,
-      "The Record": 1
-    },
     "2026-06-09": {
       "BleepingComputer": 8,
       "CISA": 4,
@@ -585,7 +577,7 @@
       "CrowdStrike": 1,
       "Dark Reading": 3,
       "Microsoft Security Blog": 1,
-      "Reuters": 16,
+      "Reuters": 18,
       "SecurityWeek": 5,
       "The Hacker News": 7,
       "The Record": 3
@@ -594,13 +586,24 @@
       "BleepingComputer": 6,
       "Dark Reading": 1,
       "Palo Alto Unit 42": 1,
-      "Reuters": 3,
+      "Reuters": 5,
       "SecurityWeek": 5,
       "The Hacker News": 7,
       "The Record": 3
     },
     "2026-07-08": {
-      "BleepingComputer": 2,
+      "BleepingComputer": 7,
+      "Dark Reading": 4,
+      "Reuters": 10,
+      "SecurityWeek": 4,
+      "The Hacker News": 6,
+      "The Record": 3
+    },
+    "2026-07-09": {
+      "BleepingComputer": 1,
+      "Dark Reading": 1,
+      "Reuters": 2,
+      "SecurityWeek": 3,
       "The Hacker News": 1
     }
   }
