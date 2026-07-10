@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-09",
+  "date": "2026-07-10",
   "top_today": [
     [
       "reuters",
+      4
+    ],
+    [
+      "delivery",
       2
     ],
     [
-      "patches",
+      "ransomware",
       2
     ],
     [
-      "security",
+      "negotiator",
       2
     ],
     [
-      "bank",
+      "gets",
+      2
+    ],
+    [
+      "blackcat",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "malware",
+      2
+    ],
+    [
+      "special",
       1
     ],
     [
-      "japan",
+      "italy",
       1
     ],
     [
-      "sees",
+      "postman",
       1
     ],
     [
-      "growing",
+      "joins",
       1
     ],
     [
-      "inflation",
+      "infrastructure",
       1
     ],
     [
-      "pressures",
+      "race",
       1
     ],
     [
-      "iran",
+      "tencent",
       1
     ],
     [
-      "war",
+      "talks",
       1
     ],
     [
-      "totalenergies",
+      "become",
       1
     ],
     [
-      "divests",
+      "startup",
       1
     ],
     [
-      "its",
+      "manus",
       1
     ],
     [
-      "distributed",
-      1
-    ],
-    [
-      "solar",
-      1
-    ],
-    [
-      "generation",
-      1
-    ],
-    [
-      "activities",
-      1
-    ],
-    [
-      "europe",
-      1
-    ],
-    [
-      "top",
+      "largest",
       1
     ]
   ],
   "rising": [
     [
-      "sees",
+      "negotiator",
+      2,
+      4.0
+    ],
+    [
+      "blackcat",
+      2,
+      4.0
+    ],
+    [
+      "gets",
+      2,
+      3.53
+    ],
+    [
+      "delivery",
+      2,
+      2.86
+    ],
+    [
+      "special",
       1,
       2.0
     ],
     [
-      "growing",
+      "italy",
       1,
       2.0
     ],
     [
-      "pressures",
+      "postman",
       1,
       2.0
     ],
     [
-      "totalenergies",
+      "become",
       1,
       2.0
     ],
     [
-      "divests",
+      "manus",
       1,
       2.0
     ],
     [
-      "distributed",
-      1,
-      2.0
-    ],
-    [
-      "generation",
-      1,
-      2.0
-    ],
-    [
-      "activities",
-      1,
-      2.0
-    ],
-    [
-      "solar",
+      "joins",
       1,
       1.88
-    ],
-    [
-      "inflation",
-      1,
-      1.76
     ]
   ]
 }
