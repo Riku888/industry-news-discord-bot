@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "top_today": [
     [
       "reuters",
       4
     ],
     [
-      "delivery",
-      2
-    ],
-    [
-      "ransomware",
-      2
-    ],
-    [
-      "negotiator",
-      2
-    ],
-    [
-      "gets",
-      2
-    ],
-    [
-      "blackcat",
-      2
-    ],
-    [
-      "attacks",
-      2
-    ],
-    [
-      "malware",
-      2
-    ],
-    [
-      "special",
+      "trump",
       1
     ],
     [
-      "italy",
+      "officials",
       1
     ],
     [
-      "postman",
+      "sought",
       1
     ],
     [
-      "joins",
+      "ways",
       1
     ],
     [
-      "infrastructure",
+      "sidestep",
       1
     ],
     [
-      "race",
+      "election",
       1
     ],
     [
-      "tencent",
+      "agency",
       1
     ],
     [
-      "talks",
+      "before",
       1
     ],
     [
-      "become",
+      "firings",
       1
     ],
     [
-      "startup",
+      "sources",
       1
     ],
     [
-      "manus",
+      "say",
       1
     ],
     [
-      "largest",
+      "england",
+      1
+    ],
+    [
+      "get",
+      1
+    ],
+    [
+      "fitness",
+      1
+    ],
+    [
+      "boost",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "cup",
+      1
+    ],
+    [
+      "quarter-final",
       1
     ]
   ],
   "rising": [
     [
-      "negotiator",
-      2,
-      4.0
-    ],
-    [
-      "blackcat",
-      2,
-      4.0
-    ],
-    [
-      "gets",
-      2,
-      3.53
-    ],
-    [
-      "delivery",
-      2,
-      2.86
-    ],
-    [
-      "special",
+      "officials",
       1,
       2.0
     ],
     [
-      "italy",
+      "ways",
       1,
       2.0
     ],
     [
-      "postman",
+      "sidestep",
       1,
       2.0
     ],
     [
-      "become",
+      "firings",
       1,
       2.0
     ],
     [
-      "manus",
+      "fitness",
       1,
       2.0
     ],
     [
-      "joins",
+      "quarter-final",
+      1,
+      2.0
+    ],
+    [
+      "sought",
       1,
       1.88
+    ],
+    [
+      "england",
+      1,
+      1.88
+    ],
+    [
+      "get",
+      1,
+      1.76
+    ],
+    [
+      "election",
+      1,
+      1.67
     ]
   ]
 }
