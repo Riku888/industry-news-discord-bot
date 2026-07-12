@@ -1,12 +1,8 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "top_today": [
     [
-      "reuters",
-      4
-    ],
-    [
-      "trump",
+      "israeli",
       1
     ],
     [
@@ -14,124 +10,92 @@
       1
     ],
     [
-      "sought",
+      "offer",
       1
     ],
     [
-      "ways",
+      "their",
       1
     ],
     [
-      "sidestep",
+      "condolences",
       1
     ],
     [
-      "election",
+      "after",
       1
     ],
     [
-      "agency",
+      "death",
       1
     ],
     [
-      "before",
+      "senator",
       1
     ],
     [
-      "firings",
+      "lindsey",
       1
     ],
     [
-      "sources",
+      "graham",
       1
     ],
     [
-      "say",
-      1
-    ],
-    [
-      "england",
-      1
-    ],
-    [
-      "get",
-      1
-    ],
-    [
-      "fitness",
-      1
-    ],
-    [
-      "boost",
-      1
-    ],
-    [
-      "ahead",
-      1
-    ],
-    [
-      "world",
-      1
-    ],
-    [
-      "cup",
-      1
-    ],
-    [
-      "quarter-final",
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "officials",
+      "offer",
       1,
       2.0
     ],
     [
-      "ways",
+      "condolences",
       1,
       2.0
     ],
     [
-      "sidestep",
+      "lindsey",
       1,
       2.0
     ],
     [
-      "firings",
+      "graham",
       1,
       2.0
     ],
     [
-      "fitness",
-      1,
-      2.0
-    ],
-    [
-      "quarter-final",
-      1,
-      2.0
-    ],
-    [
-      "sought",
+      "senator",
       1,
       1.88
     ],
     [
-      "england",
-      1,
-      1.88
-    ],
-    [
-      "get",
+      "death",
       1,
       1.76
     ],
     [
-      "election",
+      "officials",
       1,
       1.67
+    ],
+    [
+      "israeli",
+      1,
+      1.43
+    ],
+    [
+      "their",
+      1,
+      1.3
+    ],
+    [
+      "after",
+      1,
+      0.52
     ]
   ]
 }
