@@ -1,101 +1,137 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "top_today": [
     [
-      "israeli",
-      1
-    ],
-    [
-      "officials",
-      1
-    ],
-    [
-      "offer",
-      1
-    ],
-    [
-      "their",
-      1
-    ],
-    [
-      "condolences",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "death",
-      1
-    ],
-    [
-      "senator",
-      1
-    ],
-    [
-      "lindsey",
-      1
-    ],
-    [
-      "graham",
-      1
-    ],
-    [
       "reuters",
+      7
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "set",
+      2
+    ],
+    [
+      "russian",
+      2
+    ],
+    [
+      "billion",
+      2
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "joomla",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "france",
+      1
+    ],
+    [
+      "summon",
+      1
+    ],
+    [
+      "ambassador",
+      1
+    ],
+    [
+      "paris",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "alleged",
+      1
+    ],
+    [
+      "cyberattack",
+      1
+    ],
+    [
+      "campaign",
+      1
+    ],
+    [
+      "south",
+      1
+    ],
+    [
+      "korean",
+      1
+    ],
+    [
+      "singles",
+      1
+    ],
+    [
+      "look",
       1
     ]
   ],
   "rising": [
     [
-      "offer",
+      "joomla",
+      2,
+      3.0
+    ],
+    [
+      "set",
+      2,
+      2.86
+    ],
+    [
+      "russian",
+      2,
+      2.5
+    ],
+    [
+      "summon",
       1,
       2.0
     ],
     [
-      "condolences",
+      "ambassador",
       1,
       2.0
     ],
     [
-      "lindsey",
+      "paris",
       1,
       2.0
     ],
     [
-      "graham",
+      "look",
       1,
       2.0
     ],
     [
-      "senator",
+      "billion",
+      2,
+      1.94
+    ],
+    [
+      "singles",
       1,
       1.88
     ],
     [
-      "death",
+      "alleged",
       1,
       1.76
-    ],
-    [
-      "officials",
-      1,
-      1.67
-    ],
-    [
-      "israeli",
-      1,
-      1.43
-    ],
-    [
-      "their",
-      1,
-      1.3
-    ],
-    [
-      "after",
-      1,
-      0.52
     ]
   ]
 }
