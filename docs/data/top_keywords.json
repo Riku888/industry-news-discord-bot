@@ -1,48 +1,36 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "top_today": [
     [
-      "reuters",
-      3
-    ],
-    [
-      "slow",
+      "after",
       2
     ],
     [
-      "bmw",
+      "reuters",
+      2
+    ],
+    [
+      "two",
+      2
+    ],
+    [
+      "sonicwall",
+      2
+    ],
+    [
+      "sma",
+      2
+    ],
+    [
+      "dollar",
       1
     ],
     [
-      "races",
+      "struggles",
       1
     ],
     [
-      "catch",
-      1
-    ],
-    [
-      "chinese",
-      1
-    ],
-    [
-      "market",
-      1
-    ],
-    [
-      "that",
-      1
-    ],
-    [
-      "won",
-      1
-    ],
-    [
-      "down",
-      1
-    ],
-    [
-      "consumer",
+      "softer",
       1
     ],
     [
@@ -50,86 +38,98 @@
       1
     ],
     [
-      "likely",
+      "blunts",
       1
     ],
     [
-      "increased",
+      "fed",
       1
     ],
     [
-      "pace",
+      "hike",
       1
     ],
     [
-      "june",
+      "bets",
       1
     ],
     [
-      "gasoline",
+      "air",
       1
     ],
     [
-      "prices",
+      "india",
       1
     ],
     [
-      "retreated",
+      "crash",
       1
     ],
     [
-      "china",
+      "probe",
+      1
+    ],
+    [
+      "enters",
+      1
+    ],
+    [
+      "final",
+      1
+    ],
+    [
+      "stages",
       1
     ]
   ],
   "rising": [
     [
-      "slow",
+      "sma",
+      2,
+      4.0
+    ],
+    [
+      "sonicwall",
       2,
       3.75
     ],
     [
-      "bmw",
+      "two",
+      2,
+      2.22
+    ],
+    [
+      "softer",
       1,
       2.0
     ],
     [
-      "races",
+      "blunts",
       1,
       2.0
     ],
     [
-      "likely",
+      "enters",
       1,
       2.0
     ],
     [
-      "increased",
+      "final",
       1,
       2.0
     ],
     [
-      "pace",
+      "stages",
       1,
       2.0
     ],
     [
-      "gasoline",
-      1,
-      2.0
-    ],
-    [
-      "retreated",
-      1,
-      2.0
-    ],
-    [
-      "catch",
+      "struggles",
       1,
       1.88
     ],
     [
-      "market",
+      "bets",
       1,
       1.88
     ]
