@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-15",
+  "date": "2026-07-16",
   "top_today": [
     [
-      "after",
+      "windows",
       2
     ],
     [
-      "reuters",
-      2
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "sonicwall",
-      2
-    ],
-    [
-      "sma",
-      2
-    ],
-    [
-      "dollar",
+      "zoom",
       1
     ],
     [
-      "struggles",
+      "patches",
       1
     ],
     [
-      "softer",
+      "critical",
       1
     ],
     [
-      "inflation",
+      "flaw",
       1
     ],
     [
-      "blunts",
+      "that",
       1
     ],
     [
-      "fed",
+      "could",
       1
     ],
     [
-      "hike",
+      "enable",
       1
     ],
     [
-      "bets",
+      "account",
       1
     ],
     [
-      "air",
+      "takeover",
       1
     ],
     [
-      "india",
+      "nightmare",
       1
     ],
     [
-      "crash",
+      "eclipse",
       1
     ],
     [
-      "probe",
+      "drops",
       1
     ],
     [
-      "enters",
+      "legacyhive",
       1
     ],
     [
-      "final",
+      "zero-day",
       1
     ],
     [
-      "stages",
+      "trend",
+      1
+    ],
+    [
+      "micro",
+      1
+    ],
+    [
+      "tanium",
+      1
+    ],
+    [
+      "eset",
+      1
+    ],
+    [
+      "tenable",
       1
     ]
   ],
   "rising": [
     [
-      "sma",
-      2,
-      4.0
-    ],
-    [
-      "sonicwall",
-      2,
-      3.75
-    ],
-    [
-      "two",
-      2,
-      2.22
-    ],
-    [
-      "softer",
+      "nightmare",
       1,
       2.0
     ],
     [
-      "blunts",
+      "legacyhive",
       1,
       2.0
     ],
     [
-      "enters",
+      "micro",
       1,
       2.0
     ],
     [
-      "final",
+      "tanium",
       1,
       2.0
     ],
     [
-      "stages",
+      "eset",
       1,
       2.0
     ],
     [
-      "struggles",
+      "tenable",
+      1,
+      2.0
+    ],
+    [
+      "zoom",
       1,
       1.88
     ],
     [
-      "bets",
+      "eclipse",
       1,
       1.88
+    ],
+    [
+      "trend",
+      1,
+      1.88
+    ],
+    [
+      "windows",
+      2,
+      1.82
     ]
   ]
 }
