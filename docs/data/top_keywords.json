@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "top_today": [
     [
-      "windows",
+      "reuters",
+      3
+    ],
+    [
+      "exploited",
+      3
+    ],
+    [
+      "cisa",
       2
     ],
     [
-      "zoom",
+      "sharepoint",
+      2
+    ],
+    [
+      "oil",
       1
     ],
     [
-      "patches",
+      "rises",
       1
     ],
     [
-      "critical",
+      "intensifying",
       1
     ],
     [
-      "flaw",
+      "us-iran",
       1
     ],
     [
-      "that",
+      "hostilities",
       1
     ],
     [
-      "could",
+      "threat",
       1
     ],
     [
-      "enable",
+      "red",
       1
     ],
     [
-      "account",
+      "sea",
       1
     ],
     [
-      "takeover",
+      "closure",
       1
     ],
     [
-      "nightmare",
+      "wars",
       1
     ],
     [
-      "eclipse",
+      "shift",
       1
     ],
     [
-      "drops",
+      "focus",
       1
     ],
     [
-      "legacyhive",
+      "jets",
       1
     ],
     [
-      "zero-day",
+      "weapons",
       1
     ],
     [
-      "trend",
+      "farnborough",
       1
     ],
     [
-      "micro",
-      1
-    ],
-    [
-      "tanium",
-      1
-    ],
-    [
-      "eset",
-      1
-    ],
-    [
-      "tenable",
+      "airshow",
       1
     ]
   ],
   "rising": [
     [
-      "nightmare",
-      1,
-      2.0
-    ],
-    [
-      "legacyhive",
-      1,
-      2.0
-    ],
-    [
-      "micro",
-      1,
-      2.0
-    ],
-    [
-      "tanium",
-      1,
-      2.0
-    ],
-    [
-      "eset",
-      1,
-      2.0
-    ],
-    [
-      "tenable",
-      1,
-      2.0
-    ],
-    [
-      "zoom",
-      1,
-      1.88
-    ],
-    [
-      "eclipse",
-      1,
-      1.88
-    ],
-    [
-      "trend",
-      1,
-      1.88
-    ],
-    [
-      "windows",
+      "sharepoint",
       2,
-      1.82
+      2.86
+    ],
+    [
+      "intensifying",
+      1,
+      2.0
+    ],
+    [
+      "closure",
+      1,
+      2.0
+    ],
+    [
+      "wars",
+      1,
+      2.0
+    ],
+    [
+      "farnborough",
+      1,
+      2.0
+    ],
+    [
+      "airshow",
+      1,
+      2.0
+    ],
+    [
+      "jets",
+      1,
+      1.88
+    ],
+    [
+      "weapons",
+      1,
+      1.88
+    ],
+    [
+      "exploited",
+      3,
+      1.76
+    ],
+    [
+      "hostilities",
+      1,
+      1.76
     ]
   ]
 }
