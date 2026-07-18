@@ -1,137 +1,97 @@
 {
-  "date": "2026-07-17",
+  "date": "2026-07-18",
   "top_today": [
     [
+      "iran",
+      1
+    ],
+    [
+      "renews",
+      1
+    ],
+    [
+      "attacks",
+      1
+    ],
+    [
+      "gulf",
+      1
+    ],
+    [
+      "states",
+      1
+    ],
+    [
+      "after",
+      1
+    ],
+    [
+      "another",
+      1
+    ],
+    [
+      "night",
+      1
+    ],
+    [
+      "strikes",
+      1
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "exploited",
-      3
-    ],
-    [
-      "cisa",
-      2
-    ],
-    [
-      "sharepoint",
-      2
-    ],
-    [
-      "oil",
-      1
-    ],
-    [
-      "rises",
-      1
-    ],
-    [
-      "intensifying",
-      1
-    ],
-    [
-      "us-iran",
-      1
-    ],
-    [
-      "hostilities",
-      1
-    ],
-    [
-      "threat",
-      1
-    ],
-    [
-      "red",
-      1
-    ],
-    [
-      "sea",
-      1
-    ],
-    [
-      "closure",
-      1
-    ],
-    [
-      "wars",
-      1
-    ],
-    [
-      "shift",
-      1
-    ],
-    [
-      "focus",
-      1
-    ],
-    [
-      "jets",
-      1
-    ],
-    [
-      "weapons",
-      1
-    ],
-    [
-      "farnborough",
-      1
-    ],
-    [
-      "airshow",
       1
     ]
   ],
   "rising": [
     [
-      "sharepoint",
-      2,
-      2.86
-    ],
-    [
-      "intensifying",
+      "renews",
       1,
       2.0
     ],
     [
-      "closure",
+      "night",
       1,
       2.0
     ],
     [
-      "wars",
+      "gulf",
       1,
-      2.0
-    ],
-    [
-      "farnborough",
-      1,
-      2.0
-    ],
-    [
-      "airshow",
-      1,
-      2.0
-    ],
-    [
-      "jets",
-      1,
-      1.88
-    ],
-    [
-      "weapons",
-      1,
-      1.88
-    ],
-    [
-      "exploited",
-      3,
       1.76
     ],
     [
-      "hostilities",
+      "another",
       1,
-      1.76
+      1.67
+    ],
+    [
+      "strikes",
+      1,
+      1.67
+    ],
+    [
+      "states",
+      1,
+      1.36
+    ],
+    [
+      "iran",
+      1,
+      0.6
+    ],
+    [
+      "attacks",
+      1,
+      0.5
+    ],
+    [
+      "after",
+      1,
+      0.48
+    ],
+    [
+      "reuters",
+      1,
+      0.09
     ]
   ]
 }
