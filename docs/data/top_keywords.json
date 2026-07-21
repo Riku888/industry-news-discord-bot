@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-20",
+  "date": "2026-07-21",
   "top_today": [
     [
       "reuters",
-      4
-    ],
-    [
-      "japanese",
       2
     ],
     [
-      "oil",
+      "critical",
       2
     ],
     [
-      "mayor",
+      "flaw",
+      2
+    ],
+    [
+      "patches",
+      2
+    ],
+    [
+      "novartis",
       1
     ],
     [
-      "makes",
+      "beats",
       1
     ],
     [
-      "history",
+      "forecasts",
       1
     ],
     [
-      "maternity",
+      "billion",
       1
     ],
     [
-      "leave",
+      "profit",
       1
     ],
     [
-      "that",
+      "navigates",
       1
     ],
     [
-      "caused",
+      "expiring",
       1
     ],
     [
-      "stir",
+      "patents",
       1
     ],
     [
-      "drugmaker",
+      "more",
       1
     ],
     [
-      "takeda",
+      "than",
       1
     ],
     [
-      "qdenga",
+      "indian",
       1
     ],
     [
-      "becomes",
+      "workers",
       1
     ],
     [
-      "first",
+      "trapped",
       1
     ],
     [
-      "dengue",
+      "after",
       1
     ],
     [
-      "vaccine",
+      "hydroelectric",
       1
     ],
     [
-      "approved",
-      1
-    ],
-    [
-      "india",
+      "tunnel",
       1
     ]
   ],
   "rising": [
     [
-      "japanese",
-      2,
-      3.33
-    ],
-    [
-      "oil",
-      2,
-      2.5
-    ],
-    [
-      "maternity",
+      "novartis",
       1,
       2.0
     ],
     [
-      "leave",
+      "beats",
       1,
       2.0
     ],
     [
-      "caused",
+      "forecasts",
       1,
       2.0
     ],
     [
-      "stir",
+      "navigates",
       1,
       2.0
     ],
     [
-      "takeda",
+      "expiring",
       1,
       2.0
     ],
     [
-      "qdenga",
+      "patents",
       1,
       2.0
     ],
     [
-      "dengue",
+      "trapped",
       1,
       2.0
     ],
     [
-      "vaccine",
+      "hydroelectric",
       1,
       2.0
+    ],
+    [
+      "tunnel",
+      1,
+      2.0
+    ],
+    [
+      "profit",
+      1,
+      1.76
     ]
   ]
 }
