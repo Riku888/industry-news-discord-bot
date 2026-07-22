@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "top_today": [
     [
       "reuters",
       2
     ],
     [
-      "critical",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "patches",
-      2
-    ],
-    [
-      "novartis",
+      "rubio",
       1
     ],
     [
-      "beats",
+      "says",
       1
     ],
     [
-      "forecasts",
+      "still",
       1
     ],
     [
-      "billion",
+      "willing",
       1
     ],
     [
-      "profit",
+      "negotiate",
       1
     ],
     [
-      "navigates",
+      "over",
       1
     ],
     [
-      "expiring",
+      "iran",
       1
     ],
     [
-      "patents",
+      "crisis",
       1
     ],
     [
-      "more",
+      "world",
       1
     ],
     [
-      "than",
+      "cup",
       1
     ],
     [
-      "indian",
+      "final",
       1
     ],
     [
-      "workers",
+      "draws",
       1
     ],
     [
-      "trapped",
+      "record",
       1
     ],
     [
-      "after",
+      "million",
       1
     ],
     [
-      "hydroelectric",
+      "viewers",
       1
     ],
     [
-      "tunnel",
+      "across",
+      1
+    ],
+    [
+      "fox",
+      1
+    ],
+    [
+      "telemundo",
+      1
+    ],
+    [
+      "police",
       1
     ]
   ],
   "rising": [
     [
-      "novartis",
+      "rubio",
       1,
       2.0
     ],
     [
-      "beats",
+      "willing",
       1,
       2.0
     ],
     [
-      "forecasts",
+      "negotiate",
       1,
       2.0
     ],
     [
-      "navigates",
+      "crisis",
       1,
       2.0
     ],
     [
-      "expiring",
+      "viewers",
       1,
       2.0
     ],
     [
-      "patents",
+      "fox",
       1,
       2.0
     ],
     [
-      "trapped",
+      "telemundo",
       1,
       2.0
     ],
     [
-      "hydroelectric",
+      "final",
       1,
-      2.0
+      1.88
     ],
     [
-      "tunnel",
+      "still",
       1,
-      2.0
+      1.67
     ],
     [
-      "profit",
+      "draws",
       1,
-      1.76
+      1.67
     ]
   ]
 }
