@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "top_today": [
     [
       "reuters",
+      3
+    ],
+    [
+      "check",
       2
     ],
     [
-      "rubio",
+      "point",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "smartconsole",
+      2
+    ],
+    [
+      "warns",
+      2
+    ],
+    [
+      "greece",
       1
     ],
     [
-      "says",
+      "buy",
       1
     ],
     [
-      "still",
+      "billion",
       1
     ],
     [
-      "willing",
+      "air",
       1
     ],
     [
-      "negotiate",
+      "defence",
       1
     ],
     [
-      "over",
+      "system",
       1
     ],
     [
-      "iran",
+      "israel",
       1
     ],
     [
-      "crisis",
+      "sources",
       1
     ],
     [
-      "world",
+      "say",
       1
     ],
     [
-      "cup",
+      "more",
       1
     ],
     [
-      "final",
+      "than",
       1
     ],
     [
-      "draws",
+      "000",
       1
     ],
     [
-      "record",
+      "evacuated",
       1
     ],
     [
-      "million",
-      1
-    ],
-    [
-      "viewers",
-      1
-    ],
-    [
-      "across",
-      1
-    ],
-    [
-      "fox",
-      1
-    ],
-    [
-      "telemundo",
-      1
-    ],
-    [
-      "police",
+      "southwestern",
       1
     ]
   ],
   "rising": [
     [
-      "rubio",
+      "smartconsole",
+      2,
+      4.0
+    ],
+    [
+      "check",
+      2,
+      3.75
+    ],
+    [
+      "point",
+      2,
+      3.75
+    ],
+    [
+      "greece",
       1,
       2.0
     ],
     [
-      "willing",
+      "evacuated",
       1,
       2.0
     ],
     [
-      "negotiate",
+      "southwestern",
       1,
       2.0
     ],
     [
-      "crisis",
-      1,
-      2.0
-    ],
-    [
-      "viewers",
-      1,
-      2.0
-    ],
-    [
-      "fox",
-      1,
-      2.0
-    ],
-    [
-      "telemundo",
-      1,
-      2.0
-    ],
-    [
-      "final",
-      1,
-      1.88
-    ],
-    [
-      "still",
-      1,
+      "warns",
+      2,
       1.67
     ],
     [
-      "draws",
+      "air",
       1,
-      1.67
+      1.58
+    ],
+    [
+      "buy",
+      1,
+      1.5
+    ],
+    [
+      "system",
+      1,
+      1.5
     ]
   ]
 }
