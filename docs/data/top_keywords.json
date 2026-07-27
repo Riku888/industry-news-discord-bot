@@ -1,109 +1,137 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "top_today": [
     [
-      "southern",
-      1
-    ],
-    [
-      "china",
-      1
-    ],
-    [
-      "faces",
-      1
-    ],
-    [
-      "torrential",
-      1
-    ],
-    [
-      "rain",
-      1
-    ],
-    [
-      "flood",
-      1
-    ],
-    [
-      "risk",
-      1
-    ],
-    [
-      "after",
-      1
-    ],
-    [
-      "typhoon",
-      1
-    ],
-    [
-      "noul",
-      1
-    ],
-    [
-      "hits",
-      1
-    ],
-    [
-      "land",
-      1
-    ],
-    [
       "reuters",
+      5
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "morning",
+      1
+    ],
+    [
+      "bid",
+      1
+    ],
+    [
+      "markets",
+      1
+    ],
+    [
+      "dare",
+      1
+    ],
+    [
+      "hope",
+      1
+    ],
+    [
+      "put",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "hold",
+      1
+    ],
+    [
+      "rohingya",
+      1
+    ],
+    [
+      "schools",
+      1
+    ],
+    [
+      "malaysia",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "closures",
+      1
+    ],
+    [
+      "amid",
+      1
+    ],
+    [
+      "online",
+      1
+    ],
+    [
+      "surge",
+      1
+    ],
+    [
+      "hate",
+      1
+    ],
+    [
+      "speech",
       1
     ]
   ],
   "rising": [
     [
-      "torrential",
+      "dare",
       1,
       2.0
     ],
     [
-      "flood",
+      "hope",
       1,
       2.0
     ],
     [
-      "typhoon",
+      "put",
       1,
       2.0
     ],
     [
-      "noul",
+      "rohingya",
       1,
       2.0
     ],
     [
-      "southern",
+      "schools",
+      1,
+      2.0
+    ],
+    [
+      "closures",
+      1,
+      2.0
+    ],
+    [
+      "hate",
+      1,
+      2.0
+    ],
+    [
+      "speech",
+      1,
+      2.0
+    ],
+    [
+      "face",
       1,
       1.88
     ],
     [
-      "rain",
+      "surge",
       1,
       1.88
-    ],
-    [
-      "hits",
-      1,
-      1.76
-    ],
-    [
-      "land",
-      1,
-      1.76
-    ],
-    [
-      "faces",
-      1,
-      1.43
-    ],
-    [
-      "risk",
-      1,
-      1.25
     ]
   ]
 }
