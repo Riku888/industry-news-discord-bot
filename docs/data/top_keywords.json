@@ -1,137 +1,137 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "top_today": [
     [
       "reuters",
-      5
+      4
     ],
     [
-      "iran",
+      "arista",
       2
     ],
     [
-      "morning",
+      "velocloud",
+      2
+    ],
+    [
+      "orchestrator",
+      2
+    ],
+    [
+      "vulnerability",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "brazil",
       1
     ],
     [
-      "bid",
+      "requests",
       1
     ],
     [
-      "markets",
+      "wto",
       1
     ],
     [
-      "dare",
+      "consultations",
       1
     ],
     [
-      "hope",
+      "over",
       1
     ],
     [
-      "put",
+      "tariffs",
       1
     ],
     [
-      "war",
+      "iran",
       1
     ],
     [
-      "hold",
+      "foreign",
       1
     ],
     [
-      "rohingya",
+      "minister",
       1
     ],
     [
-      "schools",
+      "discusses",
       1
     ],
     [
-      "malaysia",
+      "security",
       1
     ],
     [
-      "face",
+      "strait",
       1
     ],
     [
-      "closures",
+      "hormuz",
       1
     ],
     [
-      "amid",
-      1
-    ],
-    [
-      "online",
-      1
-    ],
-    [
-      "surge",
-      1
-    ],
-    [
-      "hate",
-      1
-    ],
-    [
-      "speech",
+      "saudi",
       1
     ]
   ],
   "rising": [
     [
-      "dare",
+      "arista",
+      2,
+      3.75
+    ],
+    [
+      "velocloud",
+      2,
+      3.75
+    ],
+    [
+      "orchestrator",
+      2,
+      3.75
+    ],
+    [
+      "requests",
       1,
       2.0
     ],
     [
-      "hope",
+      "wto",
       1,
       2.0
     ],
     [
-      "put",
+      "consultations",
       1,
       2.0
     ],
     [
-      "rohingya",
+      "discusses",
       1,
       2.0
     ],
     [
-      "schools",
-      1,
-      2.0
-    ],
-    [
-      "closures",
-      1,
-      2.0
-    ],
-    [
-      "hate",
-      1,
-      2.0
-    ],
-    [
-      "speech",
-      1,
-      2.0
-    ],
-    [
-      "face",
+      "saudi",
       1,
       1.88
     ],
     [
-      "surge",
+      "tariffs",
       1,
-      1.88
+      1.76
+    ],
+    [
+      "foreign",
+      1,
+      1.76
     ]
   ]
 }
