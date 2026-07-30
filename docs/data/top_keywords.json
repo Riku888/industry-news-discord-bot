@@ -1,135 +1,135 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "top_today": [
     [
-      "rat",
-      2
-    ],
-    [
-      "face",
-      2
-    ],
-    [
-      "race",
-      1
-    ],
-    [
-      "redraws",
-      1
-    ],
-    [
-      "asian",
-      1
-    ],
-    [
-      "air",
-      1
-    ],
-    [
-      "cargo",
-      1
-    ],
-    [
-      "replacing",
-      1
-    ],
-    [
-      "e-commerce",
-      1
-    ],
-    [
-      "growth",
-      1
-    ],
-    [
-      "engine",
-      1
-    ],
-    [
       "reuters",
+      3
+    ],
+    [
+      "korea",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "china",
+      2
+    ],
+    [
+      "power",
+      2
+    ],
+    [
+      "cisco",
+      2
+    ],
+    [
+      "fmc",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "south",
       1
     ],
     [
-      "flying",
+      "fines",
       1
     ],
     [
-      "eagle",
+      "corp",
       1
     ],
     [
-      "android",
+      "million",
       1
     ],
     [
-      "traces",
+      "personal",
       1
     ],
     [
-      "found",
+      "leak",
       1
     ],
     [
-      "170",
+      "panel",
       1
     ],
     [
-      "servers",
+      "slump",
       1
     ],
     [
-      "source",
+      "hits",
+      1
+    ],
+    [
+      "bmw",
       1
     ]
   ],
   "rising": [
     [
-      "rat",
+      "fmc",
       2,
-      3.33
+      3.75
     ],
     [
-      "face",
+      "korea",
       2,
-      3.33
+      3.16
     ],
     [
-      "redraws",
+      "cisco",
+      2,
+      3.16
+    ],
+    [
+      "power",
+      2,
+      2.5
+    ],
+    [
+      "fines",
       1,
       2.0
     ],
     [
-      "replacing",
+      "corp",
       1,
       2.0
     ],
     [
-      "flying",
+      "personal",
       1,
       2.0
     ],
     [
-      "traces",
-      1,
-      2.0
-    ],
-    [
-      "170",
-      1,
-      2.0
-    ],
-    [
-      "cargo",
+      "panel",
       1,
       1.88
     ],
     [
-      "e-commerce",
+      "slump",
       1,
       1.88
     ],
     [
-      "growth",
+      "bmw",
       1,
       1.88
     ]
