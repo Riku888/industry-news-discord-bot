@@ -1,137 +1,88 @@
 {
-  "date": "2026-07-31",
+  "date": "2026-08-01",
   "top_today": [
     [
-      "reuters",
-      3
-    ],
-    [
-      "anthropic",
-      2
-    ],
-    [
-      "during",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "four",
+      "hijacked",
       1
     ],
     [
-      "bodies",
+      "hotel",
       1
     ],
     [
-      "located",
+      "wi-fi",
       1
     ],
     [
-      "after",
+      "pushes",
       1
     ],
     [
-      "climbers",
+      "fake",
       1
     ],
     [
-      "missing",
+      "updates",
       1
     ],
     [
-      "pakistani",
+      "deliver",
       1
     ],
     [
-      "mountain",
+      "surveillance",
       1
     ],
     [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
-      "puts",
-      1
-    ],
-    [
-      "north",
-      1
-    ],
-    [
-      "sea",
-      1
-    ],
-    [
-      "oil",
-      1
-    ],
-    [
-      "gas",
-      1
-    ],
-    [
-      "assets",
+      "malware",
       1
     ]
   ],
   "rising": [
     [
-      "during",
-      2,
-      2.73
-    ],
-    [
-      "anthropic",
-      2,
-      2.4
-    ],
-    [
-      "bodies",
+      "hotel",
       1,
       2.0
     ],
     [
-      "located",
+      "wi-fi",
       1,
       2.0
     ],
     [
-      "climbers",
+      "hijacked",
       1,
-      2.0
+      1.88
     ],
     [
-      "missing",
-      1,
-      2.0
-    ],
-    [
-      "mountain",
-      1,
-      2.0
-    ],
-    [
-      "assets",
-      1,
-      2.0
-    ],
-    [
-      "gas",
+      "surveillance",
       1,
       1.76
     ],
     [
-      "pakistani",
+      "pushes",
       1,
-      1.67
+      1.5
+    ],
+    [
+      "deliver",
+      1,
+      1.5
+    ],
+    [
+      "updates",
+      1,
+      1.43
+    ],
+    [
+      "fake",
+      1,
+      1.11
+    ],
+    [
+      "malware",
+      1,
+      0.41
     ]
   ]
 }
