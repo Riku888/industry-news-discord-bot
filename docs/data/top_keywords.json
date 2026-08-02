@@ -1,88 +1,101 @@
 {
-  "date": "2026-08-01",
+  "date": "2026-08-02",
   "top_today": [
     [
-      "hijacked",
+      "landslide",
       1
     ],
     [
-      "hotel",
+      "death",
       1
     ],
     [
-      "wi-fi",
+      "toll",
       1
     ],
     [
-      "pushes",
+      "rises",
       1
     ],
     [
-      "fake",
+      "china",
       1
     ],
     [
-      "updates",
+      "gansu",
       1
     ],
     [
-      "deliver",
+      "province",
       1
     ],
     [
-      "surveillance",
+      "heavy",
       1
     ],
     [
-      "malware",
+      "rains",
+      1
+    ],
+    [
+      "continue",
+      1
+    ],
+    [
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "hotel",
+      "landslide",
       1,
       2.0
     ],
     [
-      "wi-fi",
+      "gansu",
       1,
       2.0
     ],
     [
-      "hijacked",
+      "province",
+      1,
+      2.0
+    ],
+    [
+      "heavy",
+      1,
+      2.0
+    ],
+    [
+      "toll",
       1,
       1.88
     ],
     [
-      "surveillance",
+      "rains",
       1,
-      1.76
+      1.88
     ],
     [
-      "pushes",
+      "continue",
       1,
-      1.5
+      1.88
     ],
     [
-      "deliver",
+      "rises",
       1,
-      1.5
+      1.67
     ],
     [
-      "updates",
+      "death",
       1,
-      1.43
+      1.58
     ],
     [
-      "fake",
+      "china",
       1,
-      1.11
-    ],
-    [
-      "malware",
-      1,
-      0.41
+      0.79
     ]
   ]
 }
