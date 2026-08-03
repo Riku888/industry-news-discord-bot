@@ -1,101 +1,137 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "top_today": [
     [
-      "landslide",
-      1
-    ],
-    [
-      "death",
-      1
-    ],
-    [
-      "toll",
-      1
-    ],
-    [
-      "rises",
-      1
-    ],
-    [
-      "china",
-      1
-    ],
-    [
-      "gansu",
-      1
-    ],
-    [
-      "province",
-      1
-    ],
-    [
-      "heavy",
-      1
-    ],
-    [
-      "rains",
-      1
-    ],
-    [
-      "continue",
-      1
-    ],
-    [
       "reuters",
+      9
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "russia",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "fire",
+      2
+    ],
+    [
+      "000",
+      2
+    ],
+    [
+      "shows",
+      2
+    ],
+    [
+      "wildberries",
+      1
+    ],
+    [
+      "warehouse",
+      1
+    ],
+    [
+      "vladimir",
+      1
+    ],
+    [
+      "region",
+      1
+    ],
+    [
+      "ukrainian",
+      1
+    ],
+    [
+      "drone",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "about",
+      1
+    ],
+    [
+      "ordered",
+      1
+    ],
+    [
+      "evacuate",
+      1
+    ],
+    [
+      "fires",
+      1
+    ],
+    [
+      "spokane",
+      1
+    ],
+    [
+      "washington",
       1
     ]
   ],
   "rising": [
     [
-      "landslide",
+      "shows",
+      2,
+      3.33
+    ],
+    [
+      "fire",
+      2,
+      3.16
+    ],
+    [
+      "russia",
+      2,
+      2.86
+    ],
+    [
+      "000",
+      2,
+      2.61
+    ],
+    [
+      "vladimir",
       1,
       2.0
     ],
     [
-      "gansu",
+      "region",
       1,
       2.0
     ],
     [
-      "province",
+      "ordered",
       1,
       2.0
     ],
     [
-      "heavy",
+      "evacuate",
       1,
       2.0
     ],
     [
-      "toll",
+      "fires",
       1,
-      1.88
+      2.0
     ],
     [
-      "rains",
+      "spokane",
       1,
-      1.88
-    ],
-    [
-      "continue",
-      1,
-      1.88
-    ],
-    [
-      "rises",
-      1,
-      1.67
-    ],
-    [
-      "death",
-      1,
-      1.58
-    ],
-    [
-      "china",
-      1,
-      0.79
+      2.0
     ]
   ]
 }
