@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "top_today": [
     [
       "reuters",
-      9
-    ],
-    [
-      "after",
       3
     ],
     [
-      "russia",
-      2
-    ],
-    [
-      "says",
-      2
-    ],
-    [
-      "fire",
-      2
-    ],
-    [
-      "000",
-      2
-    ],
-    [
-      "shows",
-      2
-    ],
-    [
-      "wildberries",
+      "exclusive",
       1
     ],
     [
-      "warehouse",
+      "shein",
       1
     ],
     [
-      "vladimir",
+      "seeks",
       1
     ],
     [
-      "region",
+      "30-",
       1
     ],
     [
-      "ukrainian",
+      "billion",
       1
     ],
     [
-      "drone",
+      "valuation",
       1
     ],
     [
-      "attack",
+      "august",
       1
     ],
     [
-      "about",
+      "hong",
       1
     ],
     [
-      "ordered",
+      "kong",
       1
     ],
     [
-      "evacuate",
+      "ipo",
       1
     ],
     [
-      "fires",
+      "sources",
       1
     ],
     [
-      "spokane",
+      "say",
       1
     ],
     [
-      "washington",
+      "oil",
+      1
+    ],
+    [
+      "gains",
+      1
+    ],
+    [
+      "talks",
+      1
+    ],
+    [
+      "end",
+      1
+    ],
+    [
+      "us-iran",
+      1
+    ],
+    [
+      "war",
+      1
+    ],
+    [
+      "remain",
       1
     ]
   ],
   "rising": [
     [
-      "shows",
-      2,
-      3.33
-    ],
-    [
-      "fire",
-      2,
-      3.16
-    ],
-    [
-      "russia",
-      2,
-      2.86
-    ],
-    [
-      "000",
-      2,
-      2.61
-    ],
-    [
-      "vladimir",
+      "30-",
       1,
       2.0
     ],
     [
-      "region",
+      "august",
       1,
       2.0
     ],
     [
-      "ordered",
+      "gains",
       1,
       2.0
     ],
     [
-      "evacuate",
+      "remain",
       1,
       2.0
     ],
     [
-      "fires",
+      "shein",
       1,
-      2.0
+      1.88
     ],
     [
-      "spokane",
+      "hong",
       1,
-      2.0
+      1.88
+    ],
+    [
+      "kong",
+      1,
+      1.88
+    ],
+    [
+      "seeks",
+      1,
+      1.76
+    ],
+    [
+      "valuation",
+      1,
+      1.76
+    ],
+    [
+      "ipo",
+      1,
+      1.76
     ]
   ]
 }
