@@ -1,48 +1,40 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "top_today": [
     [
       "reuters",
-      3
+      2
     ],
     [
-      "exclusive",
+      "backdoor",
+      2
+    ],
+    [
+      "china",
       1
     ],
     [
-      "shein",
+      "eases",
       1
     ],
     [
-      "seeks",
+      "controls",
       1
     ],
     [
-      "30-",
+      "fuel",
       1
     ],
     [
-      "billion",
+      "exports",
       1
     ],
     [
-      "valuation",
+      "second",
       1
     ],
     [
-      "august",
-      1
-    ],
-    [
-      "hong",
-      1
-    ],
-    [
-      "kong",
-      1
-    ],
-    [
-      "ipo",
+      "month",
       1
     ],
     [
@@ -54,84 +46,92 @@
       1
     ],
     [
-      "oil",
+      "exclusive",
       1
     ],
     [
-      "gains",
+      "samsung",
       1
     ],
     [
-      "talks",
+      "hynix",
       1
     ],
     [
-      "end",
+      "test",
       1
     ],
     [
-      "us-iran",
+      "chinese",
       1
     ],
     [
-      "war",
+      "chip",
       1
     ],
     [
-      "remain",
+      "tools",
+      1
+    ],
+    [
+      "hedge",
+      1
+    ],
+    [
+      "against",
       1
     ]
   ],
   "rising": [
     [
-      "30-",
+      "backdoor",
+      2,
+      2.5
+    ],
+    [
+      "eases",
       1,
       2.0
     ],
     [
-      "august",
+      "samsung",
       1,
       2.0
     ],
     [
-      "gains",
+      "hedge",
       1,
       2.0
     ],
     [
-      "remain",
-      1,
-      2.0
-    ],
-    [
-      "shein",
+      "controls",
       1,
       1.88
     ],
     [
-      "hong",
+      "month",
       1,
       1.88
     ],
     [
-      "kong",
+      "hynix",
       1,
       1.88
     ],
     [
-      "seeks",
+      "chip",
+      1,
+      1.88
+    ],
+    [
+      "test",
       1,
       1.76
     ],
     [
-      "valuation",
+      "exports",
       1,
-      1.76
-    ],
-    [
-      "ipo",
-      1,
-      1.76
+      1.67
     ]
   ]
 }
