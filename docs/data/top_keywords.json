@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-06",
   "top_today": [
     [
-      "reuters",
+      "teamcity",
       2
+    ],
+    [
+      "infantino",
+      1
+    ],
+    [
+      "fifa",
+      1
+    ],
+    [
+      "present",
+      1
+    ],
+    [
+      "united",
+      1
+    ],
+    [
+      "front",
+      1
+    ],
+    [
+      "after",
+      1
+    ],
+    [
+      "crisis",
+      1
+    ],
+    [
+      "meeting",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "stake",
+      1
+    ],
+    [
+      "sale",
+      1
+    ],
+    [
+      "fallout",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "com",
+      1
+    ],
+    [
+      "chinese-made",
+      1
+    ],
+    [
+      "zbtlink",
+      1
+    ],
+    [
+      "routers",
+      1
+    ],
+    [
+      "ship",
+      1
     ],
     [
       "backdoor",
-      2
-    ],
-    [
-      "china",
-      1
-    ],
-    [
-      "eases",
-      1
-    ],
-    [
-      "controls",
-      1
-    ],
-    [
-      "fuel",
-      1
-    ],
-    [
-      "exports",
-      1
-    ],
-    [
-      "second",
-      1
-    ],
-    [
-      "month",
-      1
-    ],
-    [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
-      "exclusive",
-      1
-    ],
-    [
-      "samsung",
-      1
-    ],
-    [
-      "hynix",
-      1
-    ],
-    [
-      "test",
-      1
-    ],
-    [
-      "chinese",
-      1
-    ],
-    [
-      "chip",
-      1
-    ],
-    [
-      "tools",
-      1
-    ],
-    [
-      "hedge",
-      1
-    ],
-    [
-      "against",
       1
     ]
   ],
   "rising": [
     [
-      "backdoor",
+      "teamcity",
       2,
-      2.5
+      3.53
     ],
     [
-      "eases",
+      "infantino",
       1,
       2.0
     ],
     [
-      "samsung",
+      "present",
       1,
       2.0
     ],
     [
-      "hedge",
+      "united",
       1,
       2.0
     ],
     [
-      "controls",
+      "front",
+      1,
+      2.0
+    ],
+    [
+      "stake",
+      1,
+      2.0
+    ],
+    [
+      "fallout",
+      1,
+      2.0
+    ],
+    [
+      "ship",
+      1,
+      2.0
+    ],
+    [
+      "crisis",
       1,
       1.88
     ],
     [
-      "month",
+      "meeting",
       1,
       1.88
-    ],
-    [
-      "hynix",
-      1,
-      1.88
-    ],
-    [
-      "chip",
-      1,
-      1.88
-    ],
-    [
-      "test",
-      1,
-      1.76
-    ],
-    [
-      "exports",
-      1,
-      1.67
     ]
   ]
 }
