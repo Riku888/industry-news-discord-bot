@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-07-08",
     "2026-07-09",
     "2026-07-10",
     "2026-07-11",
@@ -33,7 +32,6 @@
     "2026-08-07"
   ],
   "total": [
-    34,
     42,
     38,
     13,
@@ -61,22 +59,11 @@
     3,
     43,
     36,
-    39,
-    32,
-    2
+    42,
+    35,
+    22
   ],
   "by_category": {
-    "2026-07-08": {
-      "APT・国家系": 1,
-      "ID・認証": 1,
-      "その他": 5,
-      "フィッシング": 2,
-      "マルウェア": 7,
-      "ランサムウェア": 1,
-      "脆弱性・CVE": 9,
-      "規制・ガバナンス": 1,
-      "防御・検知・対応": 7
-    },
     "2026-07-09": {
       "APT・国家系": 1,
       "ID・認証": 2,
@@ -318,37 +305,33 @@
     },
     "2026-08-05": {
       "ID・認証": 2,
-      "その他": 9,
+      "その他": 10,
       "フィッシング": 3,
       "マルウェア": 11,
       "ランサムウェア": 1,
-      "脆弱性・CVE": 10,
+      "脆弱性・CVE": 11,
       "規制・ガバナンス": 1,
-      "防御・検知・対応": 2
+      "防御・検知・対応": 3
     },
     "2026-08-06": {
-      "その他": 6,
+      "その他": 8,
       "クラウド・サプライチェーン": 1,
-      "マルウェア": 7,
+      "マルウェア": 8,
       "ランサムウェア": 1,
       "脆弱性・CVE": 11,
       "規制・ガバナンス": 1,
       "防御・検知・対応": 5
     },
     "2026-08-07": {
-      "マルウェア": 1,
-      "脆弱性・CVE": 1
+      "ID・認証": 1,
+      "その他": 1,
+      "フィッシング": 3,
+      "マルウェア": 7,
+      "脆弱性・CVE": 5,
+      "防御・検知・対応": 5
     }
   },
   "by_source": {
-    "2026-07-08": {
-      "BleepingComputer": 7,
-      "Dark Reading": 4,
-      "Reuters": 10,
-      "SecurityWeek": 4,
-      "The Hacker News": 6,
-      "The Record": 3
-    },
     "2026-07-09": {
       "BleepingComputer": 6,
       "CrowdStrike": 1,
@@ -572,7 +555,7 @@
     "2026-08-05": {
       "BleepingComputer": 6,
       "Dark Reading": 3,
-      "Reuters": 12,
+      "Reuters": 15,
       "SecurityWeek": 5,
       "The Hacker News": 11,
       "The Record": 2
@@ -580,16 +563,22 @@
     "2026-08-06": {
       "BleepingComputer": 2,
       "CrowdStrike": 1,
-      "Dark Reading": 2,
+      "Dark Reading": 3,
       "Palo Alto Unit 42": 2,
-      "Reuters": 12,
+      "Reuters": 14,
       "SecurityWeek": 3,
       "The Hacker News": 8,
       "The Record": 2
     },
     "2026-08-07": {
-      "Reuters": 1,
-      "SecurityWeek": 1
+      "BleepingComputer": 3,
+      "CrowdStrike": 1,
+      "Dark Reading": 1,
+      "Palo Alto Unit 42": 1,
+      "Reuters": 4,
+      "SecurityWeek": 2,
+      "The Hacker News": 7,
+      "The Record": 3
     }
   }
 }
