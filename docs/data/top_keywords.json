@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-10",
+  "date": "2026-08-11",
   "top_today": [
-    [
-      "reuters",
-      2
-    ],
-    [
-      "north",
-      1
-    ],
-    [
-      "korean",
-      1
-    ],
-    [
-      "hacking",
-      1
-    ],
-    [
-      "group",
-      1
-    ],
-    [
-      "builds",
-      1
-    ],
-    [
-      "tools",
-      1
-    ],
-    [
-      "cyberattacks",
-      1
-    ],
-    [
-      "report",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "rupee",
-      1
-    ],
-    [
-      "anchored",
-      1
-    ],
-    [
-      "central",
-      1
-    ],
-    [
-      "bank",
-      1
-    ],
-    [
-      "hand",
-      1
-    ],
-    [
-      "traders",
-      1
-    ],
-    [
-      "watchful",
-      1
-    ],
     [
       "oil",
       1
     ],
     [
-      "ructions",
+      "steadies",
       1
     ],
     [
-      "critical",
+      "near",
+      1
+    ],
+    [
+      "one-week",
+      1
+    ],
+    [
+      "highs",
+      1
+    ],
+    [
+      "us-iran",
+      1
+    ],
+    [
+      "peace",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "hopes",
+      1
+    ],
+    [
+      "dim",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "bdthemes",
+      1
+    ],
+    [
+      "supply",
+      1
+    ],
+    [
+      "chain",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "poisons",
+      1
+    ],
+    [
+      "json",
+      1
+    ],
+    [
+      "create",
+      1
+    ],
+    [
+      "rogue",
+      1
+    ],
+    [
+      "wordpress",
       1
     ]
   ],
   "rising": [
     [
-      "rupee",
+      "steadies",
       1,
       2.0
     ],
     [
-      "anchored",
+      "one-week",
       1,
       2.0
     ],
     [
-      "hand",
+      "highs",
       1,
       2.0
     ],
     [
-      "traders",
+      "dim",
       1,
       2.0
     ],
     [
-      "watchful",
+      "bdthemes",
       1,
       2.0
     ],
     [
-      "ructions",
+      "create",
       1,
       2.0
     ],
     [
-      "builds",
+      "peace",
       1,
       1.88
     ],
     [
-      "central",
+      "poisons",
       1,
-      1.67
+      1.88
     ],
     [
-      "korean",
+      "json",
       1,
-      1.5
+      1.88
     ],
     [
-      "tools",
+      "hopes",
       1,
-      1.5
+      1.76
     ]
   ]
 }
