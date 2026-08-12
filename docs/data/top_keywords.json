@@ -1,135 +1,135 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "top_today": [
     [
-      "oil",
-      1
-    ],
-    [
-      "steadies",
-      1
-    ],
-    [
-      "near",
-      1
-    ],
-    [
-      "one-week",
-      1
-    ],
-    [
-      "highs",
-      1
-    ],
-    [
-      "us-iran",
-      1
-    ],
-    [
-      "peace",
-      1
-    ],
-    [
-      "deal",
-      1
-    ],
-    [
-      "hopes",
-      1
-    ],
-    [
-      "dim",
-      1
+      "says",
+      2
     ],
     [
       "reuters",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "cisco",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "dos",
+      2
+    ],
+    [
+      "patches",
+      2
+    ],
+    [
+      "congo",
       1
     ],
     [
-      "bdthemes",
+      "number",
       1
     ],
     [
-      "supply",
+      "confirmed",
       1
     ],
     [
-      "chain",
+      "ebola",
       1
     ],
     [
-      "attack",
+      "cases",
       1
     ],
     [
-      "poisons",
+      "rises",
       1
     ],
     [
-      "json",
+      "449",
       1
     ],
     [
-      "create",
+      "bars",
       1
     ],
     [
-      "rogue",
+      "federal",
       1
     ],
     [
-      "wordpress",
+      "funding",
+      1
+    ],
+    [
+      "gender-affirming",
+      1
+    ],
+    [
+      "care",
       1
     ]
   ],
   "rising": [
     [
-      "steadies",
+      "dos",
+      2,
+      3.75
+    ],
+    [
+      "cisco",
+      2,
+      2.5
+    ],
+    [
+      "number",
       1,
       2.0
     ],
     [
-      "one-week",
+      "cases",
       1,
       2.0
     ],
     [
-      "highs",
+      "449",
       1,
       2.0
     ],
     [
-      "dim",
+      "gender-affirming",
       1,
       2.0
     ],
     [
-      "bdthemes",
-      1,
-      2.0
-    ],
-    [
-      "create",
-      1,
-      2.0
-    ],
-    [
-      "peace",
+      "care",
       1,
       1.88
     ],
     [
-      "poisons",
+      "congo",
       1,
-      1.88
+      1.76
     ],
     [
-      "json",
+      "ebola",
       1,
-      1.88
+      1.76
     ],
     [
-      "hopes",
+      "rises",
       1,
       1.76
     ]
