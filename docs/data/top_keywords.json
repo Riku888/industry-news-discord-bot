@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "top_today": [
     [
-      "says",
+      "public",
       2
+    ],
+    [
+      "authentication",
+      2
+    ],
+    [
+      "exclusive",
+      1
+    ],
+    [
+      "emails",
+      1
+    ],
+    [
+      "reveal",
+      1
+    ],
+    [
+      "indian",
+      1
+    ],
+    [
+      "carmakers",
+      1
+    ],
+    [
+      "fuel",
+      1
+    ],
+    [
+      "contamination",
+      1
+    ],
+    [
+      "worries",
+      1
+    ],
+    [
+      "before",
+      1
+    ],
+    [
+      "retreat",
+      1
     ],
     [
       "reuters",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
-    [
-      "cisco",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "dos",
-      2
-    ],
-    [
-      "patches",
-      2
-    ],
-    [
-      "congo",
       1
     ],
     [
-      "number",
+      "attackers",
       1
     ],
     [
-      "confirmed",
+      "exploit",
       1
     ],
     [
-      "ebola",
+      "sharepoint",
       1
     ],
     [
-      "cases",
+      "bypass",
       1
     ],
     [
-      "rises",
+      "after",
       1
     ],
     [
-      "449",
+      "poc",
       1
     ],
     [
-      "bars",
-      1
-    ],
-    [
-      "federal",
-      1
-    ],
-    [
-      "funding",
-      1
-    ],
-    [
-      "gender-affirming",
-      1
-    ],
-    [
-      "care",
+      "release",
       1
     ]
   ],
   "rising": [
     [
-      "dos",
+      "authentication",
       2,
-      3.75
+      2.73
     ],
     [
-      "cisco",
+      "public",
       2,
       2.5
     ],
     [
-      "number",
+      "reveal",
       1,
       2.0
     ],
     [
-      "cases",
+      "carmakers",
       1,
       2.0
     ],
     [
-      "449",
+      "contamination",
       1,
       2.0
     ],
     [
-      "gender-affirming",
+      "worries",
       1,
       2.0
     ],
     [
-      "care",
+      "retreat",
       1,
       1.88
     ],
     [
-      "congo",
+      "emails",
       1,
       1.76
     ],
     [
-      "ebola",
+      "release",
       1,
       1.76
     ],
     [
-      "rises",
+      "indian",
       1,
-      1.76
+      1.67
     ]
   ]
 }
