@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "top_today": [
     [
-      "public",
-      2
-    ],
-    [
-      "authentication",
-      2
-    ],
-    [
-      "exclusive",
-      1
-    ],
-    [
-      "emails",
-      1
-    ],
-    [
-      "reveal",
-      1
-    ],
-    [
-      "indian",
-      1
-    ],
-    [
-      "carmakers",
-      1
-    ],
-    [
-      "fuel",
-      1
-    ],
-    [
-      "contamination",
-      1
-    ],
-    [
-      "worries",
-      1
-    ],
-    [
-      "before",
-      1
-    ],
-    [
-      "retreat",
-      1
-    ],
-    [
       "reuters",
+      4
+    ],
+    [
+      "yen",
+      2
+    ],
+    [
+      "morning",
       1
     ],
     [
-      "attackers",
+      "bid",
       1
     ],
     [
-      "exploit",
+      "stuck",
       1
     ],
     [
-      "sharepoint",
+      "twilight",
       1
     ],
     [
-      "bypass",
+      "zone",
       1
     ],
     [
-      "after",
+      "withdraws",
       1
     ],
     [
-      "poc",
+      "support",
       1
     ],
     [
-      "release",
+      "infantino",
+      1
+    ],
+    [
+      "oceania",
+      1
+    ],
+    [
+      "backs",
+      1
+    ],
+    [
+      "review",
+      1
+    ],
+    [
+      "scrapped",
+      1
+    ],
+    [
+      "stake",
+      1
+    ],
+    [
+      "sale",
+      1
+    ],
+    [
+      "plan",
+      1
+    ],
+    [
+      "latvia",
+      1
+    ],
+    [
+      "shoots",
+      1
+    ],
+    [
+      "down",
       1
     ]
   ],
   "rising": [
     [
-      "authentication",
+      "yen",
       2,
-      2.73
+      3.53
     ],
     [
-      "public",
-      2,
-      2.5
-    ],
-    [
-      "reveal",
+      "stuck",
       1,
       2.0
     ],
     [
-      "carmakers",
+      "twilight",
       1,
       2.0
     ],
     [
-      "contamination",
+      "zone",
       1,
       2.0
     ],
     [
-      "worries",
+      "oceania",
       1,
       2.0
     ],
     [
-      "retreat",
+      "latvia",
+      1,
+      2.0
+    ],
+    [
+      "shoots",
+      1,
+      2.0
+    ],
+    [
+      "withdraws",
       1,
       1.88
     ],
     [
-      "emails",
+      "infantino",
       1,
-      1.76
+      1.88
     ],
     [
-      "release",
+      "backs",
       1,
-      1.76
-    ],
-    [
-      "indian",
-      1,
-      1.67
+      1.88
     ]
   ]
 }
