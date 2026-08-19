@@ -1,133 +1,61 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-19",
   "top_today": [
     [
-      "bond",
+      "china-linked",
       1
     ],
     [
-      "yields",
+      "hacker",
       1
     ],
     [
-      "jump",
+      "shows",
       1
     ],
     [
-      "oil",
+      "capabilities",
       1
     ],
     [
-      "extends",
+      "apac",
       1
     ],
     [
-      "gains",
-      1
-    ],
-    [
-      "us-iran",
-      1
-    ],
-    [
-      "ceasefire",
-      1
-    ],
-    [
-      "expires",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "dozens",
-      1
-    ],
-    [
-      "webkit",
-      1
-    ],
-    [
-      "vulnerabilities",
-      1
-    ],
-    [
-      "patched",
-      1
-    ],
-    [
-      "fresh",
-      1
-    ],
-    [
-      "macos",
-      1
-    ],
-    [
-      "ios",
-      1
-    ],
-    [
-      "security",
-      1
-    ],
-    [
-      "updates",
+      "attack",
       1
     ]
   ],
   "rising": [
     [
-      "jump",
+      "apac",
+      1,
+      2.0
+    ],
+    [
+      "china-linked",
       1,
       1.88
     ],
     [
-      "extends",
-      1,
-      1.88
-    ],
-    [
-      "gains",
-      1,
-      1.88
-    ],
-    [
-      "ceasefire",
-      1,
-      1.88
-    ],
-    [
-      "expires",
-      1,
-      1.88
-    ],
-    [
-      "dozens",
-      1,
-      1.88
-    ],
-    [
-      "webkit",
-      1,
-      1.88
-    ],
-    [
-      "bond",
+      "capabilities",
       1,
       1.76
     ],
     [
-      "yields",
+      "hacker",
       1,
-      1.76
+      1.67
     ],
     [
-      "us-iran",
+      "shows",
       1,
       1.58
+    ],
+    [
+      "attack",
+      1,
+      0.7
     ]
   ]
 }
