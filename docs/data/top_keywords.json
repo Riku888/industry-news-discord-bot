@@ -1,61 +1,133 @@
 {
-  "date": "2026-08-19",
+  "date": "2026-08-20",
   "top_today": [
     [
-      "china-linked",
+      "syria",
+      2
+    ],
+    [
+      "israeli",
       1
     ],
     [
-      "hacker",
+      "warns",
       1
     ],
     [
-      "shows",
+      "turkey",
       1
     ],
     [
-      "capabilities",
+      "against",
       1
     ],
     [
-      "apac",
+      "dangerous",
       1
     ],
     [
-      "attack",
+      "adventures",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "turkish",
+      1
+    ],
+    [
+      "build-up",
+      1
+    ],
+    [
+      "planned",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "openai",
+      1
+    ],
+    [
+      "confirms",
+      1
+    ],
+    [
+      "chatgpt",
+      1
+    ],
+    [
+      "down",
+      1
+    ],
+    [
+      "logins",
+      1
+    ],
+    [
+      "signups",
+      1
+    ],
+    [
+      "fail",
       1
     ]
   ],
   "rising": [
     [
-      "apac",
+      "syria",
+      2,
+      3.75
+    ],
+    [
+      "adventures",
       1,
       2.0
     ],
     [
-      "china-linked",
+      "turkish",
+      1,
+      2.0
+    ],
+    [
+      "planned",
+      1,
+      2.0
+    ],
+    [
+      "logins",
+      1,
+      2.0
+    ],
+    [
+      "signups",
+      1,
+      2.0
+    ],
+    [
+      "turkey",
       1,
       1.88
     ],
     [
-      "capabilities",
+      "dangerous",
+      1,
+      1.88
+    ],
+    [
+      "build-up",
+      1,
+      1.88
+    ],
+    [
+      "fail",
       1,
       1.76
-    ],
-    [
-      "hacker",
-      1,
-      1.67
-    ],
-    [
-      "shows",
-      1,
-      1.58
-    ],
-    [
-      "attack",
-      1,
-      0.7
     ]
   ]
 }
