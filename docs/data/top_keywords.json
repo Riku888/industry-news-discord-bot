@@ -1,131 +1,135 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "top_today": [
     [
-      "syria",
+      "reuters",
       2
     ],
     [
-      "israeli",
+      "trump",
       1
     ],
     [
-      "warns",
+      "former",
       1
     ],
     [
-      "turkey",
+      "fixer",
       1
     ],
     [
-      "against",
+      "michael",
       1
     ],
     [
-      "dangerous",
+      "cohen",
       1
     ],
     [
-      "adventures",
+      "have",
       1
     ],
     [
-      "says",
+      "warm",
       1
     ],
     [
-      "turkish",
+      "interview",
       1
     ],
     [
-      "build-up",
+      "political",
       1
     ],
     [
-      "planned",
+      "low",
       1
     ],
     [
-      "reuters",
+      "point",
       1
     ],
     [
-      "openai",
+      "president",
       1
     ],
     [
-      "confirms",
+      "oil",
       1
     ],
     [
-      "chatgpt",
+      "set",
       1
     ],
     [
-      "down",
+      "second",
       1
     ],
     [
-      "logins",
+      "weekly",
       1
     ],
     [
-      "signups",
+      "rise",
       1
     ],
     [
-      "fail",
+      "unsettled",
+      1
+    ],
+    [
+      "us-iran",
       1
     ]
   ],
   "rising": [
     [
-      "syria",
-      2,
-      3.75
-    ],
-    [
-      "adventures",
+      "fixer",
       1,
       2.0
     ],
     [
-      "turkish",
+      "michael",
       1,
       2.0
     ],
     [
-      "planned",
+      "cohen",
       1,
       2.0
     ],
     [
-      "logins",
+      "warm",
       1,
       2.0
     ],
     [
-      "signups",
+      "interview",
       1,
       2.0
     ],
     [
-      "turkey",
+      "political",
+      1,
+      2.0
+    ],
+    [
+      "unsettled",
+      1,
+      2.0
+    ],
+    [
+      "set",
       1,
       1.88
     ],
     [
-      "dangerous",
+      "rise",
       1,
       1.88
     ],
     [
-      "build-up",
-      1,
-      1.88
-    ],
-    [
-      "fail",
+      "low",
       1,
       1.76
     ]
