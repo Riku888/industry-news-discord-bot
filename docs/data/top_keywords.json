@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "top_today": [
     [
       "reuters",
+      3
+    ],
+    [
+      "judge",
       2
     ],
     [
-      "trump",
+      "texas",
       1
     ],
     [
-      "former",
+      "seeks",
       1
     ],
     [
-      "fixer",
+      "federal",
       1
     ],
     [
-      "michael",
+      "probe",
       1
     ],
     [
-      "cohen",
+      "airport",
       1
     ],
     [
-      "have",
+      "washing",
       1
     ],
     [
-      "warm",
+      "facilities",
       1
     ],
     [
-      "interview",
+      "muslim",
       1
     ],
     [
-      "political",
+      "group",
       1
     ],
     [
-      "low",
+      "denounces",
       1
     ],
     [
-      "point",
+      "move",
       1
     ],
     [
-      "president",
+      "strikes",
       1
     ],
     [
-      "oil",
+      "down",
       1
     ],
     [
-      "set",
+      "policy",
       1
     ],
     [
-      "second",
+      "suspending",
       1
     ],
     [
-      "weekly",
+      "immigrant",
       1
     ],
     [
-      "rise",
+      "visa",
       1
     ],
     [
-      "unsettled",
-      1
-    ],
-    [
-      "us-iran",
+      "processing",
       1
     ]
   ],
   "rising": [
     [
-      "fixer",
+      "judge",
+      2,
+      3.33
+    ],
+    [
+      "probe",
       1,
       2.0
     ],
     [
-      "michael",
+      "washing",
       1,
       2.0
     ],
     [
-      "cohen",
+      "facilities",
       1,
       2.0
     ],
     [
-      "warm",
+      "muslim",
       1,
       2.0
     ],
     [
-      "interview",
+      "denounces",
       1,
       2.0
     ],
     [
-      "political",
+      "suspending",
       1,
       2.0
     ],
     [
-      "unsettled",
+      "immigrant",
       1,
       2.0
     ],
     [
-      "set",
+      "processing",
+      1,
+      2.0
+    ],
+    [
+      "airport",
       1,
       1.88
-    ],
-    [
-      "rise",
-      1,
-      1.88
-    ],
-    [
-      "low",
-      1,
-      1.76
     ]
   ]
 }
