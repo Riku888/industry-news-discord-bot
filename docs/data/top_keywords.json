@@ -1,137 +1,97 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "top_today": [
     [
+      "australia",
+      1
+    ],
+    [
+      "confirms",
+      1
+    ],
+    [
+      "first",
+      1
+    ],
+    [
+      "h5n1",
+      1
+    ],
+    [
+      "bird",
+      1
+    ],
+    [
+      "flu",
+      1
+    ],
+    [
+      "case",
+      1
+    ],
+    [
+      "local",
+      1
+    ],
+    [
+      "mammal",
+      1
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "judge",
-      2
-    ],
-    [
-      "texas",
-      1
-    ],
-    [
-      "seeks",
-      1
-    ],
-    [
-      "federal",
-      1
-    ],
-    [
-      "probe",
-      1
-    ],
-    [
-      "airport",
-      1
-    ],
-    [
-      "washing",
-      1
-    ],
-    [
-      "facilities",
-      1
-    ],
-    [
-      "muslim",
-      1
-    ],
-    [
-      "group",
-      1
-    ],
-    [
-      "denounces",
-      1
-    ],
-    [
-      "move",
-      1
-    ],
-    [
-      "strikes",
-      1
-    ],
-    [
-      "down",
-      1
-    ],
-    [
-      "policy",
-      1
-    ],
-    [
-      "suspending",
-      1
-    ],
-    [
-      "immigrant",
-      1
-    ],
-    [
-      "visa",
-      1
-    ],
-    [
-      "processing",
       1
     ]
   ],
   "rising": [
     [
-      "judge",
-      2,
-      3.33
-    ],
-    [
-      "probe",
+      "h5n1",
       1,
       2.0
     ],
     [
-      "washing",
+      "bird",
       1,
       2.0
     ],
     [
-      "facilities",
+      "flu",
       1,
       2.0
     ],
     [
-      "muslim",
+      "mammal",
       1,
       2.0
     ],
     [
-      "denounces",
-      1,
-      2.0
-    ],
-    [
-      "suspending",
-      1,
-      2.0
-    ],
-    [
-      "immigrant",
-      1,
-      2.0
-    ],
-    [
-      "processing",
-      1,
-      2.0
-    ],
-    [
-      "airport",
+      "australia",
       1,
       1.88
+    ],
+    [
+      "local",
+      1,
+      1.76
+    ],
+    [
+      "first",
+      1,
+      1.58
+    ],
+    [
+      "case",
+      1,
+      1.58
+    ],
+    [
+      "confirms",
+      1,
+      1.03
+    ],
+    [
+      "reuters",
+      1,
+      0.1
     ]
   ]
 }
