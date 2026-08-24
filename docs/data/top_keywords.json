@@ -1,40 +1,48 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "top_today": [
     [
-      "australia",
+      "exxon",
       1
     ],
     [
-      "confirms",
+      "lyondell",
       1
     ],
     [
-      "first",
+      "among",
       1
     ],
     [
-      "h5n1",
+      "suitors",
       1
     ],
     [
-      "bird",
+      "shell",
       1
     ],
     [
-      "flu",
+      "chemical",
       1
     ],
     [
-      "case",
+      "assets",
       1
     ],
     [
-      "local",
+      "could",
       1
     ],
     [
-      "mammal",
+      "fetch",
+      1
+    ],
+    [
+      "billion",
+      1
+    ],
+    [
+      "reports",
       1
     ],
     [
@@ -44,54 +52,54 @@
   ],
   "rising": [
     [
-      "h5n1",
+      "exxon",
       1,
       2.0
     ],
     [
-      "bird",
+      "lyondell",
       1,
       2.0
     ],
     [
-      "flu",
+      "suitors",
       1,
       2.0
     ],
     [
-      "mammal",
+      "chemical",
       1,
       2.0
     ],
     [
-      "australia",
+      "fetch",
+      1,
+      2.0
+    ],
+    [
+      "among",
       1,
       1.88
     ],
     [
-      "local",
+      "assets",
       1,
-      1.76
+      1.88
     ],
     [
-      "first",
+      "reports",
       1,
-      1.58
+      1.67
     ],
     [
-      "case",
+      "shell",
       1,
-      1.58
+      1.5
     ],
     [
-      "confirms",
+      "could",
       1,
-      1.03
-    ],
-    [
-      "reuters",
-      1,
-      0.1
+      1.07
     ]
   ]
 }
