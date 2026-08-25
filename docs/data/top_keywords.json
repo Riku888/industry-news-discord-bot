@@ -1,105 +1,137 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "top_today": [
     [
-      "exxon",
-      1
-    ],
-    [
-      "lyondell",
-      1
-    ],
-    [
-      "among",
-      1
-    ],
-    [
-      "suitors",
-      1
-    ],
-    [
-      "shell",
-      1
-    ],
-    [
-      "chemical",
-      1
-    ],
-    [
-      "assets",
-      1
-    ],
-    [
-      "could",
-      1
-    ],
-    [
-      "fetch",
-      1
-    ],
-    [
-      "billion",
-      1
-    ],
-    [
-      "reports",
-      1
-    ],
-    [
       "reuters",
+      5
+    ],
+    [
+      "iran",
+      2
+    ],
+    [
+      "war",
+      2
+    ],
+    [
+      "dollar",
+      1
+    ],
+    [
+      "struggles",
+      1
+    ],
+    [
+      "traction",
+      1
+    ],
+    [
+      "markets",
+      1
+    ],
+    [
+      "weigh",
+      1
+    ],
+    [
+      "sanctions",
+      1
+    ],
+    [
+      "treasury",
+      1
+    ],
+    [
+      "buybacks",
+      1
+    ],
+    [
+      "china",
+      1
+    ],
+    [
+      "robot",
+      1
+    ],
+    [
+      "maker",
+      1
+    ],
+    [
+      "unitree",
+      1
+    ],
+    [
+      "post-listing",
+      1
+    ],
+    [
+      "slump",
+      1
+    ],
+    [
+      "sparks",
+      1
+    ],
+    [
+      "bubble",
+      1
+    ],
+    [
+      "fears",
       1
     ]
   ],
   "rising": [
     [
-      "exxon",
+      "war",
+      2,
+      2.86
+    ],
+    [
+      "traction",
       1,
       2.0
     ],
     [
-      "lyondell",
+      "buybacks",
       1,
       2.0
     ],
     [
-      "suitors",
+      "post-listing",
       1,
       2.0
     ],
     [
-      "chemical",
+      "bubble",
       1,
       2.0
     ],
     [
-      "fetch",
-      1,
-      2.0
-    ],
-    [
-      "among",
+      "dollar",
       1,
       1.88
     ],
     [
-      "assets",
+      "struggles",
       1,
       1.88
     ],
     [
-      "reports",
+      "sanctions",
       1,
-      1.67
+      1.88
     ],
     [
-      "shell",
+      "treasury",
       1,
-      1.5
+      1.88
     ],
     [
-      "could",
+      "unitree",
       1,
-      1.07
+      1.88
     ]
   ]
 }
