@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "top_today": [
     [
       "reuters",
-      5
+      6
     ],
     [
-      "iran",
+      "gain",
       2
     ],
     [
-      "war",
+      "oil",
       2
     ],
     [
-      "dollar",
+      "hormuz",
+      2
+    ],
+    [
+      "hopes",
+      2
+    ],
+    [
+      "asian",
       1
     ],
     [
-      "struggles",
+      "stocks",
       1
     ],
     [
-      "traction",
+      "before",
       1
     ],
     [
-      "markets",
+      "nvidia",
       1
     ],
     [
-      "weigh",
+      "slips",
       1
     ],
     [
-      "sanctions",
+      "six",
       1
     ],
     [
-      "treasury",
+      "chinese",
       1
     ],
     [
-      "buybacks",
+      "nationals",
       1
     ],
     [
-      "china",
+      "among",
       1
     ],
     [
-      "robot",
+      "seven",
       1
     ],
     [
-      "maker",
+      "killed",
       1
     ],
     [
-      "unitree",
+      "russian",
       1
     ],
     [
-      "post-listing",
+      "gas",
       1
     ],
     [
-      "slump",
+      "plant",
       1
     ],
     [
-      "sparks",
-      1
-    ],
-    [
-      "bubble",
-      1
-    ],
-    [
-      "fears",
+      "fire",
       1
     ]
   ],
   "rising": [
     [
-      "war",
+      "gain",
       2,
-      2.86
+      3.53
     ],
     [
-      "traction",
+      "hopes",
+      2,
+      3.53
+    ],
+    [
+      "hormuz",
+      2,
+      2.4
+    ],
+    [
+      "stocks",
       1,
       2.0
     ],
     [
-      "buybacks",
+      "slips",
       1,
       2.0
     ],
     [
-      "post-listing",
+      "nationals",
       1,
       2.0
     ],
     [
-      "bubble",
-      1,
-      2.0
+      "oil",
+      2,
+      1.94
     ],
     [
-      "dollar",
+      "six",
       1,
       1.88
     ],
     [
-      "struggles",
+      "seven",
       1,
       1.88
     ],
     [
-      "sanctions",
+      "nvidia",
       1,
-      1.88
-    ],
-    [
-      "treasury",
-      1,
-      1.88
-    ],
-    [
-      "unitree",
-      1,
-      1.88
+      1.76
     ]
   ]
 }
