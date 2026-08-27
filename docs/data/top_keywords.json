@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "top_today": [
     [
       "reuters",
-      6
+      7
     ],
     [
-      "gain",
+      "hackers",
+      5
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "data",
+      4
+    ],
+    [
+      "security",
+      4
+    ],
+    [
+      "attacks",
+      4
+    ],
+    [
+      "rce",
+      3
+    ],
+    [
+      "major",
+      3
+    ],
+    [
+      "exploited",
+      3
+    ],
+    [
+      "netscaler",
+      3
+    ],
+    [
+      "cyberattack",
+      3
+    ],
+    [
+      "backdoors",
       2
     ],
     [
-      "oil",
+      "used",
       2
     ],
     [
-      "hormuz",
+      "companies",
       2
     ],
     [
-      "hopes",
+      "after",
       2
     ],
     [
-      "asian",
-      1
+      "million",
+      2
     ],
     [
-      "stocks",
-      1
+      "100",
+      2
     ],
     [
-      "before",
-      1
+      "critical",
+      2
     ],
     [
-      "nvidia",
-      1
+      "flaws",
+      2
     ],
     [
-      "slips",
-      1
-    ],
-    [
-      "six",
-      1
-    ],
-    [
-      "chinese",
-      1
-    ],
-    [
-      "nationals",
-      1
-    ],
-    [
-      "among",
-      1
-    ],
-    [
-      "seven",
-      1
-    ],
-    [
-      "killed",
-      1
-    ],
-    [
-      "russian",
-      1
-    ],
-    [
-      "gas",
-      1
-    ],
-    [
-      "plant",
-      1
-    ],
-    [
-      "fire",
-      1
+      "chain",
+      2
     ]
   ],
   "rising": [
     [
-      "gain",
+      "netscaler",
+      3,
+      5.0
+    ],
+    [
+      "major",
+      3,
+      4.74
+    ],
+    [
+      "100",
       2,
       3.53
     ],
     [
-      "hopes",
+      "backdoors",
       2,
-      3.53
+      3.33
     ],
     [
-      "hormuz",
+      "companies",
       2,
-      2.4
+      3.0
     ],
     [
-      "stocks",
-      1,
-      2.0
-    ],
-    [
-      "slips",
-      1,
-      2.0
-    ],
-    [
-      "nationals",
-      1,
-      2.0
-    ],
-    [
-      "oil",
+      "used",
       2,
-      1.94
+      2.86
     ],
     [
-      "six",
-      1,
-      1.88
+      "security",
+      4,
+      2.5
     ],
     [
-      "seven",
-      1,
-      1.88
+      "rce",
+      3,
+      2.5
     ],
     [
-      "nvidia",
-      1,
-      1.76
+      "cyberattack",
+      3,
+      2.5
+    ],
+    [
+      "hackers",
+      5,
+      2.21
     ]
   ]
 }
