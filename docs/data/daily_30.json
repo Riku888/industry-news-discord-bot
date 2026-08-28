@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-07-28",
     "2026-07-29",
     "2026-07-30",
     "2026-07-31",
@@ -30,10 +29,10 @@
     "2026-08-24",
     "2026-08-25",
     "2026-08-26",
-    "2026-08-27"
+    "2026-08-27",
+    "2026-08-28"
   ],
   "total": [
-    43,
     32,
     40,
     36,
@@ -62,18 +61,11 @@
     7,
     34,
     35,
-    30,
-    31
+    31,
+    39,
+    19
   ],
   "by_category": {
-    "2026-07-28": {
-      "ID・認証": 3,
-      "その他": 10,
-      "マルウェア": 4,
-      "脆弱性・CVE": 13,
-      "規制・ガバナンス": 2,
-      "防御・検知・対応": 11
-    },
     "2026-07-29": {
       "ID・認証": 3,
       "その他": 6,
@@ -308,7 +300,7 @@
       "防御・検知・対応": 8
     },
     "2026-08-26": {
-      "APT・国家系": 1,
+      "APT・国家系": 2,
       "その他": 6,
       "フィッシング": 1,
       "マルウェア": 8,
@@ -319,23 +311,23 @@
     "2026-08-27": {
       "APT・国家系": 3,
       "ID・認証": 1,
-      "その他": 4,
+      "その他": 5,
       "クラウド・サプライチェーン": 1,
-      "マルウェア": 11,
-      "脆弱性・CVE": 6,
+      "マルウェア": 14,
+      "ランサムウェア": 2,
+      "脆弱性・CVE": 8,
       "防御・検知・対応": 5
+    },
+    "2026-08-28": {
+      "ID・認証": 2,
+      "その他": 5,
+      "マルウェア": 2,
+      "ランサムウェア": 1,
+      "脆弱性・CVE": 8,
+      "防御・検知・対応": 1
     }
   },
   "by_source": {
-    "2026-07-28": {
-      "AP News": 1,
-      "BleepingComputer": 6,
-      "Dark Reading": 5,
-      "Reuters": 18,
-      "SecurityWeek": 7,
-      "The Hacker News": 4,
-      "The Record": 2
-    },
     "2026-07-29": {
       "BleepingComputer": 4,
       "CrowdStrike": 2,
@@ -561,17 +553,24 @@
       "BleepingComputer": 4,
       "Dark Reading": 3,
       "Microsoft Security Blog": 1,
-      "Reuters": 13,
+      "Reuters": 14,
       "SecurityWeek": 1,
       "The Hacker News": 8
     },
     "2026-08-27": {
       "BleepingComputer": 5,
-      "Dark Reading": 1,
-      "Reuters": 7,
+      "Dark Reading": 3,
+      "Reuters": 11,
       "SecurityWeek": 6,
-      "The Hacker News": 9,
-      "The Record": 3
+      "The Hacker News": 10,
+      "The Record": 4
+    },
+    "2026-08-28": {
+      "BleepingComputer": 2,
+      "Dark Reading": 3,
+      "Reuters": 3,
+      "SecurityWeek": 4,
+      "The Hacker News": 7
     }
   }
 }

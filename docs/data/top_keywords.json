@@ -1,76 +1,20 @@
 {
-  "date": "2026-08-27",
+  "date": "2026-08-28",
   "top_today": [
     [
-      "reuters",
-      7
-    ],
-    [
-      "hackers",
-      5
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "data",
-      4
-    ],
-    [
-      "security",
-      4
-    ],
-    [
-      "attacks",
-      4
-    ],
-    [
-      "rce",
-      3
-    ],
-    [
-      "major",
-      3
-    ],
-    [
       "exploited",
+      4
+    ],
+    [
+      "reuters",
       3
     ],
     [
-      "netscaler",
+      "papercut",
       3
     ],
     [
-      "cyberattack",
-      3
-    ],
-    [
-      "backdoors",
-      2
-    ],
-    [
-      "used",
-      2
-    ],
-    [
-      "companies",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "million",
-      2
-    ],
-    [
-      "100",
-      2
-    ],
-    [
-      "critical",
+      "two",
       2
     ],
     [
@@ -78,60 +22,116 @@
       2
     ],
     [
-      "chain",
+      "flaw",
       2
+    ],
+    [
+      "rce",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "fda",
+      1
+    ],
+    [
+      "approves",
+      1
+    ],
+    [
+      "lilly",
+      1
+    ],
+    [
+      "mounjaro",
+      1
+    ],
+    [
+      "reduce",
+      1
+    ],
+    [
+      "cardiovascular",
+      1
+    ],
+    [
+      "risk",
+      1
+    ],
+    [
+      "refugee",
+      1
+    ],
+    [
+      "agency",
+      1
+    ],
+    [
+      "scales",
+      1
+    ],
+    [
+      "back",
+      1
     ]
   ],
   "rising": [
     [
-      "netscaler",
+      "papercut",
       3,
-      5.0
+      5.62
     ],
     [
-      "major",
-      3,
-      4.74
-    ],
-    [
-      "100",
+      "two",
       2,
-      3.53
+      2.31
     ],
     [
-      "backdoors",
-      2,
-      3.33
+      "lilly",
+      1,
+      2.0
     ],
     [
-      "companies",
-      2,
-      3.0
+      "mounjaro",
+      1,
+      2.0
     ],
     [
-      "used",
-      2,
-      2.86
+      "cardiovascular",
+      1,
+      2.0
     ],
     [
-      "security",
-      4,
-      2.5
+      "refugee",
+      1,
+      2.0
     ],
     [
-      "rce",
-      3,
-      2.5
+      "scales",
+      1,
+      2.0
     ],
     [
-      "cyberattack",
-      3,
-      2.5
+      "fda",
+      1,
+      1.88
     ],
     [
-      "hackers",
-      5,
-      2.21
+      "reduce",
+      1,
+      1.88
+    ],
+    [
+      "back",
+      1,
+      1.88
     ]
   ]
 }
