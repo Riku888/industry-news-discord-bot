@@ -1,137 +1,88 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "top_today": [
     [
-      "exploited",
-      4
+      "norway",
+      1
+    ],
+    [
+      "mourns",
+      1
+    ],
+    [
+      "king",
+      1
+    ],
+    [
+      "harald",
+      1
+    ],
+    [
+      "crowds",
+      1
+    ],
+    [
+      "gather",
+      1
+    ],
+    [
+      "royal",
+      1
+    ],
+    [
+      "palace",
+      1
     ],
     [
       "reuters",
-      3
-    ],
-    [
-      "papercut",
-      3
-    ],
-    [
-      "two",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "rce",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "fda",
-      1
-    ],
-    [
-      "approves",
-      1
-    ],
-    [
-      "lilly",
-      1
-    ],
-    [
-      "mounjaro",
-      1
-    ],
-    [
-      "reduce",
-      1
-    ],
-    [
-      "cardiovascular",
-      1
-    ],
-    [
-      "risk",
-      1
-    ],
-    [
-      "refugee",
-      1
-    ],
-    [
-      "agency",
-      1
-    ],
-    [
-      "scales",
-      1
-    ],
-    [
-      "back",
       1
     ]
   ],
   "rising": [
     [
-      "papercut",
-      3,
-      5.62
-    ],
-    [
-      "two",
-      2,
-      2.31
-    ],
-    [
-      "lilly",
+      "mourns",
       1,
       2.0
     ],
     [
-      "mounjaro",
+      "king",
       1,
       2.0
     ],
     [
-      "cardiovascular",
+      "harald",
       1,
       2.0
     ],
     [
-      "refugee",
+      "crowds",
       1,
       2.0
     ],
     [
-      "scales",
+      "gather",
       1,
       2.0
     ],
     [
-      "fda",
+      "royal",
+      1,
+      2.0
+    ],
+    [
+      "palace",
+      1,
+      2.0
+    ],
+    [
+      "norway",
       1,
       1.88
     ],
     [
-      "reduce",
+      "reuters",
       1,
-      1.88
-    ],
-    [
-      "back",
-      1,
-      1.88
+      0.1
     ]
   ]
 }
