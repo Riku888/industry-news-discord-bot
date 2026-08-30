@@ -1,88 +1,79 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "top_today": [
     [
-      "norway",
+      "terminalfix",
       1
     ],
     [
-      "mourns",
+      "uses",
       1
     ],
     [
-      "king",
+      "fake",
       1
     ],
     [
-      "harald",
+      "cloudflare",
       1
     ],
     [
-      "crowds",
+      "captchas",
       1
     ],
     [
-      "gather",
+      "deploy",
       1
     ],
     [
-      "royal",
+      "reverse-tunnel",
       1
     ],
     [
-      "palace",
-      1
-    ],
-    [
-      "reuters",
+      "backdoor",
       1
     ]
   ],
   "rising": [
     [
-      "mourns",
+      "terminalfix",
       1,
       2.0
     ],
     [
-      "king",
+      "captchas",
       1,
       2.0
     ],
     [
-      "harald",
+      "reverse-tunnel",
       1,
       2.0
     ],
     [
-      "crowds",
+      "cloudflare",
       1,
-      2.0
+      1.76
     ],
     [
-      "gather",
+      "deploy",
       1,
-      2.0
+      1.58
     ],
     [
-      "royal",
+      "fake",
       1,
-      2.0
+      1.25
     ],
     [
-      "palace",
+      "uses",
       1,
-      2.0
+      1.2
     ],
     [
-      "norway",
+      "backdoor",
       1,
-      1.88
-    ],
-    [
-      "reuters",
-      1,
-      0.1
+      0.97
     ]
   ]
 }
