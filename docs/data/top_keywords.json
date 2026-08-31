@@ -1,79 +1,137 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "top_today": [
     [
-      "terminalfix",
+      "reuters",
+      7
+    ],
+    [
+      "users",
+      3
+    ],
+    [
+      "cyberattack",
+      3
+    ],
+    [
+      "details",
+      2
+    ],
+    [
+      "antivirus",
+      2
+    ],
+    [
+      "claude",
+      2
+    ],
+    [
+      "microsoft",
+      2
+    ],
+    [
+      "mckesson",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "breach",
+      2
+    ],
+    [
+      "warns",
+      2
+    ],
+    [
+      "group",
+      2
+    ],
+    [
+      "greece",
       1
     ],
     [
-      "uses",
+      "sign",
       1
     ],
     [
-      "fake",
+      "billion",
       1
     ],
     [
-      "cloudflare",
+      "deal",
       1
     ],
     [
-      "captchas",
+      "israel",
       1
     ],
     [
-      "deploy",
+      "air",
       1
     ],
     [
-      "reverse-tunnel",
+      "defence",
       1
     ],
     [
-      "backdoor",
+      "system",
       1
     ]
   ],
   "rising": [
     [
-      "terminalfix",
+      "users",
+      3,
+      4.74
+    ],
+    [
+      "antivirus",
+      2,
+      4.0
+    ],
+    [
+      "details",
+      2,
+      3.75
+    ],
+    [
+      "mckesson",
+      2,
+      3.75
+    ],
+    [
+      "cyberattack",
+      3,
+      2.57
+    ],
+    [
+      "claude",
+      2,
+      2.31
+    ],
+    [
+      "group",
+      2,
+      2.22
+    ],
+    [
+      "greece",
       1,
       2.0
     ],
     [
-      "captchas",
+      "sign",
       1,
       2.0
     ],
     [
-      "reverse-tunnel",
-      1,
-      2.0
-    ],
-    [
-      "cloudflare",
-      1,
-      1.76
-    ],
-    [
-      "deploy",
-      1,
-      1.58
-    ],
-    [
-      "fake",
-      1,
-      1.25
-    ],
-    [
-      "uses",
-      1,
-      1.2
-    ],
-    [
-      "backdoor",
-      1,
-      0.97
+      "breach",
+      2,
+      1.88
     ]
   ]
 }
