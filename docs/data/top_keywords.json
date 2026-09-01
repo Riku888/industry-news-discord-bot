@@ -1,137 +1,137 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "top_today": [
     [
       "reuters",
-      7
-    ],
-    [
-      "users",
-      3
-    ],
-    [
-      "cyberattack",
-      3
-    ],
-    [
-      "details",
-      2
-    ],
-    [
-      "antivirus",
-      2
-    ],
-    [
-      "claude",
-      2
-    ],
-    [
-      "microsoft",
-      2
-    ],
-    [
-      "mckesson",
-      2
+      4
     ],
     [
       "data",
+      4
+    ],
+    [
+      "critical",
+      3
+    ],
+    [
+      "papercut",
       2
     ],
     [
-      "breach",
-      2
-    ],
-    [
-      "warns",
-      2
-    ],
-    [
-      "group",
-      2
-    ],
-    [
-      "greece",
+      "india",
       1
     ],
     [
-      "sign",
+      "busts",
       1
     ],
     [
-      "billion",
+      "firm",
       1
     ],
     [
-      "deal",
+      "faking",
       1
     ],
     [
-      "israel",
+      "expiry",
       1
     ],
     [
-      "air",
+      "dates",
       1
     ],
     [
-      "defence",
+      "nutrition",
       1
     ],
     [
-      "system",
+      "labels",
+      1
+    ],
+    [
+      "pepsico",
+      1
+    ],
+    [
+      "nestle",
+      1
+    ],
+    [
+      "food",
+      1
+    ],
+    [
+      "exports",
+      1
+    ],
+    [
+      "strait",
+      1
+    ],
+    [
+      "hormuz",
+      1
+    ],
+    [
+      "commodity",
+      1
+    ],
+    [
+      "vessel",
       1
     ]
   ],
   "rising": [
     [
-      "users",
-      3,
-      4.74
-    ],
-    [
-      "antivirus",
+      "papercut",
       2,
-      4.0
+      2.86
     ],
     [
-      "details",
-      2,
-      3.75
-    ],
-    [
-      "mckesson",
-      2,
-      3.75
-    ],
-    [
-      "cyberattack",
-      3,
-      2.57
-    ],
-    [
-      "claude",
-      2,
-      2.31
-    ],
-    [
-      "group",
-      2,
-      2.22
-    ],
-    [
-      "greece",
+      "busts",
       1,
       2.0
     ],
     [
-      "sign",
+      "faking",
       1,
       2.0
     ],
     [
-      "breach",
-      2,
-      1.88
+      "expiry",
+      1,
+      2.0
+    ],
+    [
+      "dates",
+      1,
+      2.0
+    ],
+    [
+      "nutrition",
+      1,
+      2.0
+    ],
+    [
+      "labels",
+      1,
+      2.0
+    ],
+    [
+      "pepsico",
+      1,
+      2.0
+    ],
+    [
+      "nestle",
+      1,
+      2.0
+    ],
+    [
+      "food",
+      1,
+      2.0
     ]
   ]
 }
