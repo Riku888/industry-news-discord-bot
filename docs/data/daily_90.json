@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-06-03",
     "2026-06-04",
     "2026-06-05",
     "2026-06-06",
@@ -91,11 +90,11 @@
     "2026-08-30",
     "2026-08-31",
     "2026-09-01",
+    "2026-09-02",
     "2026-10-08",
     "2026-11-12"
   ],
   "total": [
-    44,
     30,
     30,
     9,
@@ -184,21 +183,13 @@
     29,
     3,
     7,
-    37,
-    11,
+    38,
+    40,
+    17,
     1,
     1
   ],
   "by_category": {
-    "2026-06-03": {
-      "ID・認証": 3,
-      "その他": 10,
-      "マルウェア": 7,
-      "ランサムウェア": 1,
-      "脆弱性・CVE": 13,
-      "規制・ガバナンス": 2,
-      "防御・検知・対応": 8
-    },
     "2026-06-04": {
       "ID・認証": 1,
       "その他": 5,
@@ -972,14 +963,22 @@
       "ランサムウェア": 2,
       "脆弱性・CVE": 8,
       "規制・ガバナンス": 1,
-      "防御・検知・対応": 8
+      "防御・検知・対応": 9
     },
     "2026-09-01": {
-      "その他": 2,
-      "マルウェア": 1,
-      "ランサムウェア": 1,
-      "脆弱性・CVE": 5,
-      "規制・ガバナンス": 1,
+      "ID・認証": 1,
+      "その他": 6,
+      "マルウェア": 9,
+      "ランサムウェア": 2,
+      "脆弱性・CVE": 11,
+      "規制・ガバナンス": 3,
+      "防御・検知・対応": 8
+    },
+    "2026-09-02": {
+      "その他": 1,
+      "フィッシング": 1,
+      "マルウェア": 6,
+      "脆弱性・CVE": 8,
       "防御・検知・対応": 1
     },
     "2026-10-08": {
@@ -990,17 +989,6 @@
     }
   },
   "by_source": {
-    "2026-06-03": {
-      "AP News": 1,
-      "BleepingComputer": 7,
-      "CISA": 1,
-      "Dark Reading": 4,
-      "Microsoft Security Blog": 1,
-      "Reuters": 13,
-      "SecurityWeek": 5,
-      "The Hacker News": 10,
-      "The Record": 2
-    },
     "2026-06-04": {
       "BleepingComputer": 3,
       "CISA": 5,
@@ -1713,16 +1701,27 @@
       "BleepingComputer": 5,
       "Dark Reading": 1,
       "Palo Alto Unit 42": 1,
-      "Reuters": 13,
+      "Reuters": 14,
       "SecurityWeek": 8,
       "The Hacker News": 5,
       "The Record": 4
     },
     "2026-09-01": {
-      "BleepingComputer": 1,
-      "Reuters": 4,
+      "BleepingComputer": 3,
+      "CrowdStrike": 2,
+      "Dark Reading": 3,
+      "Microsoft Security Blog": 1,
+      "Reuters": 13,
+      "SecurityWeek": 8,
+      "The Hacker News": 6,
+      "The Record": 4
+    },
+    "2026-09-02": {
+      "BleepingComputer": 3,
+      "Dark Reading": 1,
+      "Reuters": 3,
       "SecurityWeek": 4,
-      "The Hacker News": 2
+      "The Hacker News": 6
     },
     "2026-10-08": {
       "Dark Reading": 1

@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "top_today": [
     [
       "reuters",
-      4
-    ],
-    [
-      "data",
-      4
-    ],
-    [
-      "critical",
       3
     ],
     [
-      "papercut",
+      "attackers",
+      3
+    ],
+    [
+      "exploit",
+      3
+    ],
+    [
+      "sonicwall",
+      3
+    ],
+    [
+      "malware",
+      3
+    ],
+    [
+      "sality",
+      3
+    ],
+    [
+      "000",
       2
     ],
     [
-      "india",
-      1
+      "two",
+      2
     ],
     [
-      "busts",
-      1
+      "zero-days",
+      2
     ],
     [
-      "firm",
-      1
+      "that",
+      2
     ],
     [
-      "faking",
-      1
+      "chain",
+      2
     ],
     [
-      "expiry",
-      1
+      "rce",
+      2
     ],
     [
-      "dates",
-      1
+      "russian",
+      2
     ],
     [
-      "nutrition",
-      1
+      "charges",
+      2
     ],
     [
-      "labels",
-      1
+      "model",
+      2
     ],
     [
-      "pepsico",
-      1
+      "critical",
+      2
     ],
     [
-      "nestle",
-      1
+      "p2p",
+      2
     ],
     [
-      "food",
-      1
+      "botnet",
+      2
     ],
     [
-      "exports",
-      1
+      "warns",
+      2
     ],
     [
-      "strait",
-      1
-    ],
-    [
-      "hormuz",
-      1
-    ],
-    [
-      "commodity",
-      1
-    ],
-    [
-      "vessel",
-      1
+      "exploited",
+      2
     ]
   ],
   "rising": [
     [
-      "papercut",
+      "sality",
+      3,
+      5.62
+    ],
+    [
+      "sonicwall",
+      3,
+      5.0
+    ],
+    [
+      "p2p",
       2,
-      2.86
+      4.0
     ],
     [
-      "busts",
-      1,
-      2.0
+      "zero-days",
+      2,
+      3.33
     ],
     [
-      "faking",
-      1,
-      2.0
+      "charges",
+      2,
+      3.0
     ],
     [
-      "expiry",
-      1,
-      2.0
+      "000",
+      2,
+      2.61
     ],
     [
-      "dates",
-      1,
-      2.0
+      "attackers",
+      3,
+      2.43
     ],
     [
-      "nutrition",
-      1,
-      2.0
+      "model",
+      2,
+      2.4
     ],
     [
-      "labels",
-      1,
-      2.0
+      "exploit",
+      3,
+      2.25
     ],
     [
-      "pepsico",
-      1,
-      2.0
-    ],
-    [
-      "nestle",
-      1,
-      2.0
-    ],
-    [
-      "food",
-      1,
-      2.0
+      "two",
+      2,
+      2.22
     ]
   ]
 }
