@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-02",
+  "date": "2026-09-03",
   "top_today": [
     [
-      "reuters",
-      3
+      "flaws",
+      2
     ],
     [
-      "attackers",
-      3
+      "bytedance",
+      1
+    ],
+    [
+      "gets",
+      1
+    ],
+    [
+      "billion",
+      1
+    ],
+    [
+      "loan",
+      1
+    ],
+    [
+      "bloomberg",
+      1
+    ],
+    [
+      "news",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "pegasus",
+      1
+    ],
+    [
+      "zero-click",
+      1
+    ],
+    [
+      "spyware",
+      1
     ],
     [
       "exploit",
-      3
+      1
     ],
     [
-      "sonicwall",
-      3
+      "infects",
+      1
     ],
     [
-      "malware",
-      3
+      "serbian",
+      1
     ],
     [
-      "sality",
-      3
+      "student",
+      1
     ],
     [
-      "000",
-      2
+      "movement",
+      1
     ],
     [
-      "two",
-      2
+      "member",
+      1
     ],
     [
-      "zero-days",
-      2
+      "iphone",
+      1
     ],
     [
-      "that",
-      2
-    ],
-    [
-      "chain",
-      2
-    ],
-    [
-      "rce",
-      2
-    ],
-    [
-      "russian",
-      2
-    ],
-    [
-      "charges",
-      2
-    ],
-    [
-      "model",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "p2p",
-      2
-    ],
-    [
-      "botnet",
-      2
-    ],
-    [
-      "warns",
-      2
-    ],
-    [
-      "exploited",
-      2
+      "researcher",
+      1
     ]
   ],
   "rising": [
     [
-      "sality",
-      3,
-      5.62
+      "loan",
+      1,
+      2.0
     ],
     [
-      "sonicwall",
-      3,
-      5.0
+      "bloomberg",
+      1,
+      2.0
     ],
     [
-      "p2p",
-      2,
-      4.0
+      "pegasus",
+      1,
+      2.0
     ],
     [
-      "zero-days",
-      2,
-      3.33
+      "serbian",
+      1,
+      2.0
     ],
     [
-      "charges",
-      2,
-      3.0
+      "student",
+      1,
+      2.0
     ],
     [
-      "000",
-      2,
-      2.61
+      "movement",
+      1,
+      2.0
     ],
     [
-      "attackers",
-      3,
-      2.43
+      "iphone",
+      1,
+      2.0
     ],
     [
-      "model",
-      2,
-      2.4
+      "researcher",
+      1,
+      2.0
     ],
     [
-      "exploit",
-      3,
-      2.25
+      "bytedance",
+      1,
+      1.88
     ],
     [
-      "two",
-      2,
-      2.22
+      "infects",
+      1,
+      1.88
     ]
   ]
 }
