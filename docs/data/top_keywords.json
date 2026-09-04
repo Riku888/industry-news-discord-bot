@@ -1,135 +1,135 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "top_today": [
+    [
+      "reuters",
+      3
+    ],
+    [
+      "exploit",
+      2
+    ],
     [
       "flaws",
       2
     ],
     [
-      "bytedance",
+      "volkswagen",
       1
     ],
     [
-      "gets",
+      "surprise",
       1
     ],
     [
-      "billion",
+      "turnaround",
       1
     ],
     [
-      "loan",
+      "deal",
       1
     ],
     [
-      "bloomberg",
+      "averts",
       1
     ],
     [
-      "news",
+      "showdown",
       1
     ],
     [
-      "reports",
+      "job",
       1
     ],
     [
-      "reuters",
+      "cuts",
       1
     ],
     [
-      "pegasus",
+      "loom",
       1
     ],
     [
-      "zero-click",
+      "two",
       1
     ],
     [
-      "spyware",
+      "people",
       1
     ],
     [
-      "exploit",
+      "rescued",
       1
     ],
     [
-      "infects",
+      "alive",
       1
     ],
     [
-      "serbian",
+      "nepal",
       1
     ],
     [
-      "student",
+      "hydropower",
       1
     ],
     [
-      "movement",
+      "tunnel",
       1
     ],
     [
-      "member",
-      1
-    ],
-    [
-      "iphone",
-      1
-    ],
-    [
-      "researcher",
+      "lululemon",
       1
     ]
   ],
   "rising": [
     [
-      "loan",
+      "volkswagen",
       1,
       2.0
     ],
     [
-      "bloomberg",
+      "turnaround",
       1,
       2.0
     ],
     [
-      "pegasus",
+      "averts",
       1,
       2.0
     ],
     [
-      "serbian",
+      "showdown",
       1,
       2.0
     ],
     [
-      "student",
+      "rescued",
       1,
       2.0
     ],
     [
-      "movement",
+      "alive",
       1,
       2.0
     ],
     [
-      "iphone",
+      "hydropower",
       1,
       2.0
     ],
     [
-      "researcher",
+      "tunnel",
       1,
       2.0
     ],
     [
-      "bytedance",
+      "lululemon",
       1,
-      1.88
+      2.0
     ],
     [
-      "infects",
+      "surprise",
       1,
       1.88
     ]

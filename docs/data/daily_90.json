@@ -1,6 +1,5 @@
 {
   "dates": [
-    "2026-06-05",
     "2026-06-06",
     "2026-06-07",
     "2026-06-08",
@@ -91,11 +90,11 @@
     "2026-09-01",
     "2026-09-02",
     "2026-09-03",
+    "2026-09-04",
     "2026-10-08",
     "2026-11-12"
   ],
   "total": [
-    30,
     9,
     7,
     37,
@@ -183,23 +182,14 @@
     3,
     7,
     42,
+    45,
     44,
-    42,
-    6,
+    29,
+    7,
     1,
     1
   ],
   "by_category": {
-    "2026-06-05": {
-      "APT・国家系": 1,
-      "ID・認証": 1,
-      "その他": 6,
-      "クラウド・サプライチェーン": 2,
-      "マルウェア": 4,
-      "脆弱性・CVE": 9,
-      "規制・ガバナンス": 2,
-      "防御・検知・対応": 5
-    },
     "2026-06-06": {
       "ID・認証": 1,
       "その他": 2,
@@ -958,7 +948,7 @@
     },
     "2026-09-01": {
       "ID・認証": 1,
-      "その他": 8,
+      "その他": 9,
       "マルウェア": 9,
       "ランサムウェア": 2,
       "脆弱性・CVE": 11,
@@ -973,11 +963,18 @@
       "マルウェア": 9,
       "ランサムウェア": 2,
       "脆弱性・CVE": 16,
-      "防御・検知・対応": 7
+      "防御・検知・対応": 9
     },
     "2026-09-03": {
-      "その他": 1,
-      "脆弱性・CVE": 5
+      "その他": 7,
+      "フィッシング": 3,
+      "マルウェア": 5,
+      "脆弱性・CVE": 8,
+      "防御・検知・対応": 6
+    },
+    "2026-09-04": {
+      "その他": 3,
+      "脆弱性・CVE": 4
     },
     "2026-10-08": {
       "マルウェア": 1
@@ -987,17 +984,6 @@
     }
   },
   "by_source": {
-    "2026-06-05": {
-      "AP News": 1,
-      "BleepingComputer": 4,
-      "CISA": 1,
-      "Dark Reading": 3,
-      "Microsoft Security Blog": 1,
-      "Palo Alto Unit 42": 1,
-      "Reuters": 10,
-      "SecurityWeek": 4,
-      "The Hacker News": 5
-    },
     "2026-06-06": {
       "BleepingComputer": 1,
       "Reuters": 2,
@@ -1700,7 +1686,7 @@
       "CrowdStrike": 2,
       "Dark Reading": 3,
       "Microsoft Security Blog": 1,
-      "Reuters": 17,
+      "Reuters": 18,
       "SecurityWeek": 8,
       "The Hacker News": 6,
       "The Record": 4
@@ -1709,15 +1695,23 @@
       "BleepingComputer": 6,
       "CrowdStrike": 3,
       "Dark Reading": 4,
-      "Reuters": 9,
+      "Reuters": 11,
       "SecurityWeek": 7,
       "The Hacker News": 8,
       "The Record": 5
     },
     "2026-09-03": {
-      "Reuters": 1,
-      "SecurityWeek": 2,
-      "The Hacker News": 3
+      "BleepingComputer": 6,
+      "Dark Reading": 3,
+      "Microsoft Security Blog": 1,
+      "Reuters": 5,
+      "SecurityWeek": 5,
+      "The Hacker News": 7,
+      "The Record": 2
+    },
+    "2026-09-04": {
+      "Reuters": 3,
+      "The Hacker News": 4
     },
     "2026-10-08": {
       "Dark Reading": 1
