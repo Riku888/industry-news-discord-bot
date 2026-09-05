@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "top_today": [
     [
+      "iranian",
+      1
+    ],
+    [
+      "tanker",
+      1
+    ],
+    [
+      "hit",
+      1
+    ],
+    [
+      "attack",
+      1
+    ],
+    [
+      "near",
+      1
+    ],
+    [
+      "iran",
+      1
+    ],
+    [
+      "kharg",
+      1
+    ],
+    [
+      "island",
+      1
+    ],
+    [
+      "tasnim",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "exploit",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "volkswagen",
       1
     ],
     [
-      "surprise",
+      "thousands",
       1
     ],
     [
-      "turnaround",
+      "openai",
       1
     ],
     [
-      "deal",
+      "agents",
       1
     ],
     [
-      "averts",
+      "quietly",
       1
     ],
     [
-      "showdown",
+      "turned",
       1
     ],
     [
-      "job",
+      "abandoned",
       1
     ],
     [
-      "cuts",
+      "wiki",
       1
     ],
     [
-      "loom",
+      "into",
       1
     ],
     [
-      "two",
-      1
-    ],
-    [
-      "people",
-      1
-    ],
-    [
-      "rescued",
-      1
-    ],
-    [
-      "alive",
-      1
-    ],
-    [
-      "nepal",
-      1
-    ],
-    [
-      "hydropower",
-      1
-    ],
-    [
-      "tunnel",
-      1
-    ],
-    [
-      "lululemon",
+      "their",
       1
     ]
   ],
   "rising": [
     [
-      "volkswagen",
+      "island",
       1,
       2.0
     ],
     [
-      "turnaround",
+      "tasnim",
       1,
       2.0
     ],
     [
-      "averts",
+      "quietly",
       1,
       2.0
     ],
     [
-      "showdown",
+      "abandoned",
       1,
       2.0
     ],
     [
-      "rescued",
+      "wiki",
       1,
       2.0
     ],
     [
-      "alive",
-      1,
-      2.0
-    ],
-    [
-      "hydropower",
-      1,
-      2.0
-    ],
-    [
-      "tunnel",
-      1,
-      2.0
-    ],
-    [
-      "lululemon",
-      1,
-      2.0
-    ],
-    [
-      "surprise",
+      "tanker",
       1,
       1.88
+    ],
+    [
+      "kharg",
+      1,
+      1.88
+    ],
+    [
+      "thousands",
+      1,
+      1.88
+    ],
+    [
+      "turned",
+      1,
+      1.88
+    ],
+    [
+      "their",
+      1,
+      1.67
     ]
   ]
 }
