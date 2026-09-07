@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-06",
+  "date": "2026-09-07",
   "top_today": [
     [
-      "opec",
-      1
-    ],
-    [
-      "set",
-      1
-    ],
-    [
-      "keep",
-      1
-    ],
-    [
-      "oil",
-      1
-    ],
-    [
-      "output",
-      1
-    ],
-    [
-      "policy",
-      1
-    ],
-    [
-      "unchanged",
-      1
-    ],
-    [
-      "sunday",
-      1
-    ],
-    [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
       "reuters",
+      4
+    ],
+    [
+      "flaw",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "exploit",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "bank",
+      2
+    ],
+    [
+      "after",
+      2
+    ],
+    [
+      "n-able",
+      2
+    ],
+    [
+      "n-central",
+      2
+    ],
+    [
+      "stolen",
+      2
+    ],
+    [
+      "hackers",
+      2
+    ],
+    [
+      "philippines",
       1
     ],
     [
-      "attackers",
+      "teodoro",
       1
     ],
     [
-      "hijack",
+      "says",
       1
     ],
     [
-      "mikrotik",
+      "china",
       1
     ],
     [
-      "routers",
+      "could",
       1
     ],
     [
-      "through",
+      "cuts",
       1
     ],
     [
-      "internet-exposed",
+      "us-south",
       1
     ],
     [
-      "ssh",
+      "korean",
       1
     ],
     [
-      "without",
-      1
-    ],
-    [
-      "authentication",
+      "exercises",
       1
     ]
   ],
   "rising": [
     [
-      "opec",
+      "n-able",
+      2,
+      4.0
+    ],
+    [
+      "n-central",
+      2,
+      3.75
+    ],
+    [
+      "bank",
+      2,
+      3.16
+    ],
+    [
+      "stolen",
+      2,
+      3.0
+    ],
+    [
+      "teodoro",
       1,
       2.0
     ],
     [
-      "sunday",
+      "exercises",
       1,
       2.0
     ],
     [
-      "mikrotik",
-      1,
-      2.0
-    ],
-    [
-      "keep",
+      "philippines",
       1,
       1.88
     ],
     [
-      "output",
+      "us-south",
       1,
       1.88
     ],
     [
-      "unchanged",
-      1,
-      1.88
+      "new",
+      3,
+      1.53
     ],
     [
-      "internet-exposed",
+      "korean",
       1,
-      1.88
-    ],
-    [
-      "set",
-      1,
-      1.76
-    ],
-    [
-      "ssh",
-      1,
-      1.76
-    ],
-    [
-      "policy",
-      1,
-      1.67
+      1.5
     ]
   ]
 }
