@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "top_today": [
     [
       "reuters",
       4
     ],
     [
-      "flaw",
-      3
-    ],
-    [
-      "new",
-      3
-    ],
-    [
-      "exploit",
+      "hits",
       2
     ],
     [
-      "attacks",
+      "data",
       2
     ],
     [
-      "bank",
+      "patches",
       2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "russia",
+      1
+    ],
+    [
+      "kyiv",
+      1
     ],
     [
       "after",
-      2
-    ],
-    [
-      "n-able",
-      2
-    ],
-    [
-      "n-central",
-      2
-    ],
-    [
-      "stolen",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "philippines",
       1
     ],
     [
-      "teodoro",
+      "brief",
       1
     ],
     [
-      "says",
+      "pause",
       1
     ],
     [
-      "china",
+      "envoys",
       1
     ],
     [
-      "could",
+      "visit",
       1
     ],
     [
-      "cuts",
+      "killing",
       1
     ],
     [
-      "us-south",
+      "three",
       1
     ],
     [
-      "korean",
+      "french",
       1
     ],
     [
-      "exercises",
+      "company",
+      1
+    ],
+    [
+      "mistral",
+      1
+    ],
+    [
+      "billion",
+      1
+    ],
+    [
+      "valuation",
+      1
+    ],
+    [
+      "funding",
       1
     ]
   ],
   "rising": [
     [
-      "n-able",
-      2,
-      4.0
-    ],
-    [
-      "n-central",
-      2,
-      3.75
-    ],
-    [
-      "bank",
-      2,
-      3.16
-    ],
-    [
-      "stolen",
+      "hits",
       2,
       3.0
     ],
     [
-      "teodoro",
+      "brief",
       1,
       2.0
     ],
     [
-      "exercises",
+      "envoys",
       1,
       2.0
     ],
     [
-      "philippines",
+      "visit",
+      1,
+      2.0
+    ],
+    [
+      "killing",
+      1,
+      2.0
+    ],
+    [
+      "pause",
       1,
       1.88
     ],
     [
-      "us-south",
+      "mistral",
       1,
       1.88
     ],
     [
-      "new",
-      3,
-      1.53
+      "valuation",
+      1,
+      1.88
     ],
     [
-      "korean",
+      "kyiv",
       1,
-      1.5
+      1.76
+    ],
+    [
+      "company",
+      1,
+      1.67
     ]
   ]
 }
