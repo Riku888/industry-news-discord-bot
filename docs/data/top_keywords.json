@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "top_today": [
     [
       "reuters",
-      4
-    ],
-    [
-      "hits",
-      2
-    ],
-    [
-      "data",
-      2
-    ],
-    [
-      "patches",
-      2
+      5
     ],
     [
       "zero-day",
+      4
+    ],
+    [
+      "exploited",
+      4
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "patches",
+      4
+    ],
+    [
+      "flaws",
+      4
+    ],
+    [
+      "chrome",
+      3
+    ],
+    [
+      "microsoft",
+      3
+    ],
+    [
+      "says",
       2
     ],
     [
-      "russia",
-      1
+      "oil",
+      2
     ],
     [
-      "kyiv",
-      1
+      "supply",
+      2
     ],
     [
-      "after",
-      1
+      "over",
+      2
     ],
     [
-      "brief",
-      1
+      "raise",
+      2
     ],
     [
-      "pause",
-      1
+      "wild",
+      2
     ],
     [
-      "envoys",
-      1
+      "code",
+      2
     ],
     [
-      "visit",
-      1
+      "execution",
+      2
     ],
     [
-      "killing",
-      1
+      "inside",
+      2
     ],
     [
-      "three",
-      1
+      "defender",
+      2
     ],
     [
-      "french",
-      1
+      "patch",
+      2
     ],
     [
-      "company",
-      1
-    ],
-    [
-      "mistral",
-      1
-    ],
-    [
-      "billion",
-      1
-    ],
-    [
-      "valuation",
-      1
-    ],
-    [
-      "funding",
-      1
+      "flaw",
+      2
     ]
   ],
   "rising": [
     [
-      "hits",
+      "raise",
+      2,
+      3.75
+    ],
+    [
+      "chrome",
+      3,
+      3.6
+    ],
+    [
+      "defender",
+      2,
+      3.16
+    ],
+    [
+      "wild",
       2,
       3.0
     ],
     [
-      "brief",
-      1,
-      2.0
+      "inside",
+      2,
+      3.0
     ],
     [
-      "envoys",
-      1,
-      2.0
+      "execution",
+      2,
+      2.73
     ],
     [
-      "visit",
-      1,
-      2.0
+      "zero-day",
+      4,
+      2.61
     ],
     [
-      "killing",
-      1,
-      2.0
+      "patches",
+      4,
+      2.61
     ],
     [
-      "pause",
-      1,
-      1.88
+      "flaws",
+      4,
+      2.31
     ],
     [
-      "mistral",
-      1,
-      1.88
-    ],
-    [
-      "valuation",
-      1,
-      1.88
-    ],
-    [
-      "kyiv",
-      1,
-      1.76
-    ],
-    [
-      "company",
-      1,
-      1.67
+      "supply",
+      2,
+      2.31
     ]
   ]
 }
