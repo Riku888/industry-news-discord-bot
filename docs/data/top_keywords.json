@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "top_today": [
     [
       "reuters",
-      5
+      6
     ],
     [
-      "zero-day",
-      4
-    ],
-    [
-      "exploited",
-      4
-    ],
-    [
-      "new",
-      4
-    ],
-    [
-      "patches",
-      4
-    ],
-    [
-      "flaws",
-      4
-    ],
-    [
-      "chrome",
+      "attacks",
       3
     ],
     [
-      "microsoft",
-      3
-    ],
-    [
-      "says",
+      "faces",
       2
     ],
     [
-      "oil",
-      2
-    ],
-    [
-      "supply",
-      2
-    ],
-    [
-      "over",
-      2
-    ],
-    [
-      "raise",
-      2
-    ],
-    [
-      "wild",
-      2
-    ],
-    [
-      "code",
-      2
-    ],
-    [
-      "execution",
-      2
-    ],
-    [
-      "inside",
-      2
-    ],
-    [
-      "defender",
-      2
-    ],
-    [
-      "patch",
+      "china",
       2
     ],
     [
       "flaw",
       2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "openai",
+      1
+    ],
+    [
+      "senate",
+      1
+    ],
+    [
+      "probe",
+      1
+    ],
+    [
+      "into",
+      1
+    ],
+    [
+      "hugging",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "hack",
+      1
+    ],
+    [
+      "rogue",
+      1
+    ],
+    [
+      "agents",
+      1
+    ],
+    [
+      "yemen",
+      1
+    ],
+    [
+      "houthis",
+      1
+    ],
+    [
+      "close",
+      1
+    ],
+    [
+      "stranglehold",
+      1
     ]
   ],
   "rising": [
     [
-      "raise",
+      "faces",
       2,
-      3.75
+      3.0
     ],
     [
-      "chrome",
+      "yemen",
+      1,
+      2.0
+    ],
+    [
+      "houthis",
+      1,
+      2.0
+    ],
+    [
+      "stranglehold",
+      1,
+      2.0
+    ],
+    [
+      "senate",
+      1,
+      1.76
+    ],
+    [
+      "probe",
+      1,
+      1.76
+    ],
+    [
+      "close",
+      1,
+      1.76
+    ],
+    [
+      "china",
+      2,
+      1.67
+    ],
+    [
+      "attacks",
       3,
-      3.6
+      1.58
     ],
     [
-      "defender",
-      2,
-      3.16
-    ],
-    [
-      "wild",
-      2,
-      3.0
-    ],
-    [
-      "inside",
-      2,
-      3.0
-    ],
-    [
-      "execution",
-      2,
-      2.73
-    ],
-    [
-      "zero-day",
-      4,
-      2.61
-    ],
-    [
-      "patches",
-      4,
-      2.61
-    ],
-    [
-      "flaws",
-      4,
-      2.31
-    ],
-    [
-      "supply",
-      2,
-      2.31
+      "rogue",
+      1,
+      1.5
     ]
   ]
 }
