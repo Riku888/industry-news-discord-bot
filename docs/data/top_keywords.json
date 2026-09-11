@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "top_today": [
     [
       "reuters",
-      6
+      8
+    ],
+    [
+      "two",
+      4
+    ],
+    [
+      "flaws",
+      4
+    ],
+    [
+      "exploited",
+      4
+    ],
+    [
+      "says",
+      3
+    ],
+    [
+      "russian",
+      3
     ],
     [
       "attacks",
       3
     ],
     [
-      "faces",
+      "iranian",
       2
     ],
     [
-      "china",
+      "data",
       2
     ],
     [
-      "flaw",
+      "after",
       2
     ],
     [
-      "exploited",
+      "years",
       2
     ],
     [
-      "new",
+      "deploy",
       2
     ],
     [
-      "openai",
+      "papercut",
+      2
+    ],
+    [
+      "ransomware",
+      2
+    ],
+    [
+      "kim",
       1
     ],
     [
-      "senate",
+      "jong",
       1
     ],
     [
-      "probe",
+      "wants",
       1
     ],
     [
-      "into",
+      "north",
       1
     ],
     [
-      "hugging",
+      "koreans",
       1
     ],
     [
-      "face",
-      1
-    ],
-    [
-      "hack",
-      1
-    ],
-    [
-      "rogue",
-      1
-    ],
-    [
-      "agents",
-      1
-    ],
-    [
-      "yemen",
-      1
-    ],
-    [
-      "houthis",
-      1
-    ],
-    [
-      "close",
-      1
-    ],
-    [
-      "stranglehold",
+      "have",
       1
     ]
   ],
   "rising": [
     [
-      "faces",
+      "two",
+      4,
+      3.43
+    ],
+    [
+      "years",
       2,
-      3.0
+      3.16
     ],
     [
-      "yemen",
-      1,
-      2.0
-    ],
-    [
-      "houthis",
-      1,
-      2.0
-    ],
-    [
-      "stranglehold",
-      1,
-      2.0
-    ],
-    [
-      "senate",
-      1,
-      1.76
-    ],
-    [
-      "probe",
-      1,
-      1.76
-    ],
-    [
-      "close",
-      1,
-      1.76
-    ],
-    [
-      "china",
+      "iranian",
       2,
-      1.67
+      2.61
     ],
     [
-      "attacks",
+      "russian",
       3,
-      1.58
+      2.5
     ],
     [
-      "rogue",
+      "deploy",
+      2,
+      2.31
+    ],
+    [
+      "papercut",
+      2,
+      2.31
+    ],
+    [
+      "flaws",
+      4,
+      2.26
+    ],
+    [
+      "kim",
       1,
-      1.5
+      2.0
+    ],
+    [
+      "jong",
+      1,
+      2.0
+    ],
+    [
+      "koreans",
+      1,
+      2.0
     ]
   ]
 }
