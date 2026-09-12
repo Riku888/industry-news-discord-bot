@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "top_today": [
     [
       "reuters",
-      8
-    ],
-    [
-      "two",
-      4
-    ],
-    [
-      "flaws",
-      4
-    ],
-    [
-      "exploited",
-      4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "russian",
-      3
-    ],
-    [
-      "attacks",
-      3
-    ],
-    [
-      "iranian",
       2
     ],
     [
-      "data",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "years",
-      2
-    ],
-    [
-      "deploy",
-      2
-    ],
-    [
-      "papercut",
-      2
-    ],
-    [
-      "ransomware",
-      2
-    ],
-    [
-      "kim",
+      "judge",
       1
     ],
     [
-      "jong",
+      "blocks",
       1
     ],
     [
-      "wants",
+      "trump",
       1
     ],
     [
-      "north",
+      "administration",
       1
     ],
     [
-      "koreans",
+      "loyalty",
       1
     ],
     [
-      "have",
+      "question",
+      1
+    ],
+    [
+      "job",
+      1
+    ],
+    [
+      "applicants",
+      1
+    ],
+    [
+      "brics",
+      1
+    ],
+    [
+      "agrees",
+      1
+    ],
+    [
+      "joint",
+      1
+    ],
+    [
+      "declaration",
+      1
+    ],
+    [
+      "before",
+      1
+    ],
+    [
+      "new",
+      1
+    ],
+    [
+      "delhi",
+      1
+    ],
+    [
+      "summit",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "openai",
       1
     ]
   ],
   "rising": [
     [
-      "two",
-      4,
-      3.43
-    ],
-    [
-      "years",
-      2,
-      3.16
-    ],
-    [
-      "iranian",
-      2,
-      2.61
-    ],
-    [
-      "russian",
-      3,
-      2.5
-    ],
-    [
-      "deploy",
-      2,
-      2.31
-    ],
-    [
-      "papercut",
-      2,
-      2.31
-    ],
-    [
-      "flaws",
-      4,
-      2.26
-    ],
-    [
-      "kim",
+      "loyalty",
       1,
       2.0
     ],
     [
-      "jong",
+      "question",
       1,
       2.0
     ],
     [
-      "koreans",
+      "applicants",
       1,
       2.0
+    ],
+    [
+      "declaration",
+      1,
+      2.0
+    ],
+    [
+      "delhi",
+      1,
+      2.0
+    ],
+    [
+      "summit",
+      1,
+      2.0
+    ],
+    [
+      "brics",
+      1,
+      1.88
+    ],
+    [
+      "blocks",
+      1,
+      1.76
+    ],
+    [
+      "administration",
+      1,
+      1.67
+    ],
+    [
+      "job",
+      1,
+      1.67
     ]
   ]
 }
