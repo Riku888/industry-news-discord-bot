@@ -1,137 +1,97 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "top_today": [
     [
-      "reuters",
-      2
-    ],
-    [
-      "judge",
+      "attackers",
       1
     ],
     [
-      "blocks",
+      "use",
       1
     ],
     [
-      "trump",
+      "passkey",
       1
     ],
     [
-      "administration",
+      "phishing",
       1
     ],
     [
-      "loyalty",
+      "hijack",
       1
     ],
     [
-      "question",
+      "microsoft",
       1
     ],
     [
-      "job",
+      "cloud",
       1
     ],
     [
-      "applicants",
+      "accounts",
       1
     ],
     [
-      "brics",
+      "exfiltrate",
       1
     ],
     [
-      "agrees",
-      1
-    ],
-    [
-      "joint",
-      1
-    ],
-    [
-      "declaration",
-      1
-    ],
-    [
-      "before",
-      1
-    ],
-    [
-      "new",
-      1
-    ],
-    [
-      "delhi",
-      1
-    ],
-    [
-      "summit",
-      1
-    ],
-    [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
-      "openai",
+      "data",
       1
     ]
   ],
   "rising": [
     [
-      "loyalty",
-      1,
-      2.0
-    ],
-    [
-      "question",
-      1,
-      2.0
-    ],
-    [
-      "applicants",
-      1,
-      2.0
-    ],
-    [
-      "declaration",
-      1,
-      2.0
-    ],
-    [
-      "delhi",
-      1,
-      2.0
-    ],
-    [
-      "summit",
-      1,
-      2.0
-    ],
-    [
-      "brics",
+      "passkey",
       1,
       1.88
     ],
     [
-      "blocks",
-      1,
-      1.76
-    ],
-    [
-      "administration",
+      "exfiltrate",
       1,
       1.67
     ],
     [
-      "job",
+      "use",
       1,
-      1.67
+      1.58
+    ],
+    [
+      "hijack",
+      1,
+      1.58
+    ],
+    [
+      "accounts",
+      1,
+      1.36
+    ],
+    [
+      "cloud",
+      1,
+      1.15
+    ],
+    [
+      "phishing",
+      1,
+      0.81
+    ],
+    [
+      "attackers",
+      1,
+      0.75
+    ],
+    [
+      "microsoft",
+      1,
+      0.68
+    ],
+    [
+      "data",
+      1,
+      0.41
     ]
   ]
 }
