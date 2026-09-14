@@ -1,97 +1,137 @@
 {
-  "date": "2026-09-13",
+  "date": "2026-09-14",
   "top_today": [
     [
-      "attackers",
+      "reuters",
+      3
+    ],
+    [
+      "malicious",
+      2
+    ],
+    [
+      "oauth",
+      2
+    ],
+    [
+      "hackers",
+      2
+    ],
+    [
+      "exploit",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "turkish",
       1
     ],
     [
-      "use",
+      "court",
       1
     ],
     [
-      "passkey",
+      "jails",
       1
     ],
     [
-      "phishing",
+      "izmir",
       1
     ],
     [
-      "hijack",
+      "after",
       1
     ],
     [
-      "microsoft",
+      "raids",
       1
     ],
     [
-      "cloud",
+      "lgbtq",
       1
     ],
     [
-      "accounts",
+      "groups",
       1
     ],
     [
-      "exfiltrate",
+      "hugo",
       1
     ],
     [
-      "data",
+      "boss",
+      1
+    ],
+    [
+      "chairman",
+      1
+    ],
+    [
+      "step",
       1
     ]
   ],
   "rising": [
     [
-      "passkey",
+      "oauth",
+      2,
+      3.53
+    ],
+    [
+      "malicious",
+      2,
+      2.61
+    ],
+    [
+      "izmir",
+      1,
+      2.0
+    ],
+    [
+      "lgbtq",
+      1,
+      2.0
+    ],
+    [
+      "hugo",
+      1,
+      2.0
+    ],
+    [
+      "boss",
+      1,
+      2.0
+    ],
+    [
+      "turkish",
       1,
       1.88
     ],
     [
-      "exfiltrate",
+      "jails",
       1,
-      1.67
+      1.88
     ],
     [
-      "use",
+      "step",
       1,
-      1.58
+      1.88
     ],
     [
-      "hijack",
+      "raids",
       1,
-      1.58
-    ],
-    [
-      "accounts",
-      1,
-      1.36
-    ],
-    [
-      "cloud",
-      1,
-      1.15
-    ],
-    [
-      "phishing",
-      1,
-      0.81
-    ],
-    [
-      "attackers",
-      1,
-      0.75
-    ],
-    [
-      "microsoft",
-      1,
-      0.68
-    ],
-    [
-      "data",
-      1,
-      0.41
+      1.76
     ]
   ]
 }
