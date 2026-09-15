@@ -1,32 +1,32 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "top_today": [
     [
       "reuters",
+      5
+    ],
+    [
+      "cisco",
       3
     ],
     [
-      "malicious",
-      2
+      "secure",
+      3
     ],
     [
-      "oauth",
-      2
+      "email",
+      3
     ],
     [
-      "hackers",
-      2
+      "gateway",
+      3
     ],
     [
-      "exploit",
-      2
+      "zero-day",
+      3
     ],
     [
-      "flaw",
-      2
-    ],
-    [
-      "attacks",
+      "new",
       2
     ],
     [
@@ -34,104 +34,104 @@
       2
     ],
     [
-      "turkish",
+      "root",
+      2
+    ],
+    [
+      "command",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "microsoft",
+      2
+    ],
+    [
+      "patches",
+      2
+    ],
+    [
+      "south",
       1
     ],
     [
-      "court",
+      "korea",
       1
     ],
     [
-      "jails",
+      "develop",
       1
     ],
     [
-      "izmir",
+      "security",
       1
     ],
     [
-      "after",
+      "guidelines",
       1
     ],
     [
-      "raids",
+      "autonomous",
       1
     ],
     [
-      "lgbtq",
-      1
-    ],
-    [
-      "groups",
-      1
-    ],
-    [
-      "hugo",
-      1
-    ],
-    [
-      "boss",
-      1
-    ],
-    [
-      "chairman",
-      1
-    ],
-    [
-      "step",
+      "agents",
       1
     ]
   ],
   "rising": [
     [
-      "oauth",
+      "gateway",
+      3,
+      5.62
+    ],
+    [
+      "email",
+      3,
+      4.74
+    ],
+    [
+      "secure",
+      3,
+      3.6
+    ],
+    [
+      "command",
       2,
       3.53
     ],
     [
-      "malicious",
+      "cisco",
+      3,
+      3.33
+    ],
+    [
+      "root",
       2,
-      2.61
+      3.33
     ],
     [
-      "izmir",
+      "zero-day",
+      3,
+      2.37
+    ],
+    [
+      "chain",
+      2,
+      2.07
+    ],
+    [
+      "develop",
       1,
       2.0
     ],
     [
-      "lgbtq",
+      "guidelines",
       1,
       2.0
-    ],
-    [
-      "hugo",
-      1,
-      2.0
-    ],
-    [
-      "boss",
-      1,
-      2.0
-    ],
-    [
-      "turkish",
-      1,
-      1.88
-    ],
-    [
-      "jails",
-      1,
-      1.88
-    ],
-    [
-      "step",
-      1,
-      1.88
-    ],
-    [
-      "raids",
-      1,
-      1.76
     ]
   ]
 }
