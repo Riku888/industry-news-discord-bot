@@ -1,52 +1,40 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "top_today": [
     [
       "reuters",
-      5
-    ],
-    [
-      "cisco",
-      3
-    ],
-    [
-      "secure",
-      3
-    ],
-    [
-      "email",
-      3
-    ],
-    [
-      "gateway",
-      3
-    ],
-    [
-      "zero-day",
-      3
-    ],
-    [
-      "new",
-      2
+      4
     ],
     [
       "exploited",
+      3
+    ],
+    [
+      "vulnerability",
+      3
+    ],
+    [
+      "trade",
       2
     ],
     [
-      "root",
+      "flaw",
       2
     ],
     [
-      "command",
+      "wso2",
       2
     ],
     [
-      "chain",
+      "actively",
       2
     ],
     [
-      "microsoft",
+      "attacks",
+      2
+    ],
+    [
+      "vulnerabilities",
       2
     ],
     [
@@ -54,84 +42,96 @@
       2
     ],
     [
-      "south",
+      "exclusive",
       1
     ],
     [
-      "korea",
+      "openai",
       1
     ],
     [
-      "develop",
-      1
-    ],
-    [
-      "security",
-      1
-    ],
-    [
-      "guidelines",
-      1
-    ],
-    [
-      "autonomous",
+      "rogue",
       1
     ],
     [
       "agents",
       1
+    ],
+    [
+      "probed",
+      1
+    ],
+    [
+      "hugging",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "weaknesses",
+      1
+    ],
+    [
+      "two",
+      1
+    ],
+    [
+      "months",
+      1
     ]
   ],
   "rising": [
     [
-      "gateway",
-      3,
-      5.62
-    ],
-    [
-      "email",
-      3,
-      4.74
-    ],
-    [
-      "secure",
-      3,
-      3.6
-    ],
-    [
-      "command",
+      "wso2",
       2,
-      3.53
+      4.0
     ],
     [
-      "cisco",
-      3,
-      3.33
-    ],
-    [
-      "root",
+      "trade",
       2,
       3.33
     ],
     [
-      "zero-day",
-      3,
-      2.37
-    ],
-    [
-      "chain",
+      "actively",
       2,
-      2.07
+      2.22
     ],
     [
-      "develop",
+      "vulnerability",
+      3,
+      2.14
+    ],
+    [
+      "probed",
       1,
       2.0
     ],
     [
-      "guidelines",
+      "weaknesses",
       1,
       2.0
+    ],
+    [
+      "months",
+      1,
+      1.76
+    ],
+    [
+      "vulnerabilities",
+      2,
+      1.54
+    ],
+    [
+      "rogue",
+      1,
+      1.43
+    ],
+    [
+      "patches",
+      2,
+      1.33
     ]
   ]
 }
