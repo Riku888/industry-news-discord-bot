@@ -1,32 +1,8 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "top_today": [
     [
       "reuters",
-      4
-    ],
-    [
-      "exploited",
-      3
-    ],
-    [
-      "vulnerability",
-      3
-    ],
-    [
-      "trade",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "wso2",
-      2
-    ],
-    [
-      "actively",
       2
     ],
     [
@@ -34,104 +10,128 @@
       2
     ],
     [
-      "vulnerabilities",
+      "cisco",
       2
     ],
     [
-      "patches",
+      "ise",
       2
     ],
     [
-      "exclusive",
+      "zero-day",
+      2
+    ],
+    [
+      "australia",
       1
     ],
     [
-      "openai",
+      "cracks",
       1
     ],
     [
-      "rogue",
+      "down",
       1
     ],
     [
-      "agents",
+      "student",
       1
     ],
     [
-      "probed",
+      "backpacker",
       1
     ],
     [
-      "hugging",
+      "visas",
       1
     ],
     [
-      "face",
+      "curb",
       1
     ],
     [
-      "weaknesses",
+      "migration",
       1
     ],
     [
-      "two",
+      "asian",
       1
     ],
     [
-      "months",
+      "lng",
+      1
+    ],
+    [
+      "demand",
+      1
+    ],
+    [
+      "set",
+      1
+    ],
+    [
+      "fall",
+      1
+    ],
+    [
+      "second",
+      1
+    ],
+    [
+      "year",
       1
     ]
   ],
   "rising": [
     [
-      "wso2",
+      "ise",
       2,
       4.0
     ],
     [
-      "trade",
+      "cisco",
       2,
-      3.33
+      2.0
     ],
     [
-      "actively",
-      2,
-      2.22
-    ],
-    [
-      "vulnerability",
-      3,
-      2.14
-    ],
-    [
-      "probed",
+      "cracks",
       1,
       2.0
     ],
     [
-      "weaknesses",
+      "backpacker",
       1,
       2.0
     ],
     [
-      "months",
+      "student",
+      1,
+      1.88
+    ],
+    [
+      "visas",
+      1,
+      1.88
+    ],
+    [
+      "migration",
+      1,
+      1.88
+    ],
+    [
+      "lng",
+      1,
+      1.88
+    ],
+    [
+      "australia",
       1,
       1.76
     ],
     [
-      "vulnerabilities",
-      2,
-      1.54
-    ],
-    [
-      "rogue",
+      "curb",
       1,
-      1.43
-    ],
-    [
-      "patches",
-      2,
-      1.33
+      1.76
     ]
   ]
 }
