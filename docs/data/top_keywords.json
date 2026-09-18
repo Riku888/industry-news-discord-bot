@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "top_today": [
     [
       "reuters",
       2
     ],
     [
-      "attacks",
+      "stealer",
       2
     ],
     [
-      "cisco",
+      "npm",
       2
     ],
     [
-      "ise",
+      "malware",
       2
     ],
     [
-      "zero-day",
+      "vulnerabilities",
       2
     ],
     [
-      "australia",
+      "morning",
       1
     ],
     [
-      "cracks",
+      "bid",
       1
     ],
     [
-      "down",
+      "boj",
       1
     ],
     [
-      "student",
+      "struggling",
       1
     ],
     [
-      "backpacker",
+      "keep",
       1
     ],
     [
-      "visas",
+      "pace",
       1
     ],
     [
-      "curb",
+      "hiking",
       1
     ],
     [
-      "migration",
+      "partners",
       1
     ],
     [
-      "asian",
+      "byd",
       1
     ],
     [
-      "lng",
+      "catl",
       1
     ],
     [
-      "demand",
+      "xiaomi",
       1
     ],
     [
-      "set",
+      "executives",
       1
     ],
     [
-      "fall",
+      "may",
       1
     ],
     [
-      "second",
+      "join",
       1
     ],
     [
-      "year",
+      "visit",
       1
     ]
   ],
   "rising": [
     [
-      "ise",
+      "stealer",
       2,
-      4.0
+      3.33
     ],
     [
-      "cisco",
+      "npm",
       2,
-      2.0
+      3.33
     ],
     [
-      "cracks",
+      "boj",
       1,
       2.0
     ],
     [
-      "backpacker",
+      "struggling",
       1,
       2.0
     ],
     [
-      "student",
+      "hiking",
+      1,
+      2.0
+    ],
+    [
+      "catl",
+      1,
+      2.0
+    ],
+    [
+      "xiaomi",
+      1,
+      2.0
+    ],
+    [
+      "executives",
+      1,
+      2.0
+    ],
+    [
+      "join",
+      1,
+      2.0
+    ],
+    [
+      "morning",
       1,
       1.88
-    ],
-    [
-      "visas",
-      1,
-      1.88
-    ],
-    [
-      "migration",
-      1,
-      1.88
-    ],
-    [
-      "lng",
-      1,
-      1.88
-    ],
-    [
-      "australia",
-      1,
-      1.76
-    ],
-    [
-      "curb",
-      1,
-      1.76
     ]
   ]
 }
