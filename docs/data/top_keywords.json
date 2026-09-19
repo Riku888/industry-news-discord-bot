@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "top_today": [
     [
+      "exploited",
+      2
+    ],
+    [
+      "wild",
+      2
+    ],
+    [
+      "exclusive",
+      1
+    ],
+    [
+      "anthropic",
+      1
+    ],
+    [
+      "considers",
+      1
+    ],
+    [
+      "releasing",
+      1
+    ],
+    [
+      "new",
+      1
+    ],
+    [
+      "model",
+      1
+    ],
+    [
+      "ahead",
+      1
+    ],
+    [
+      "ipo",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
       "reuters",
-      2
-    ],
-    [
-      "stealer",
-      2
-    ],
-    [
-      "npm",
-      2
-    ],
-    [
-      "malware",
-      2
-    ],
-    [
-      "vulnerabilities",
-      2
-    ],
-    [
-      "morning",
       1
     ],
     [
-      "bid",
+      "critical",
       1
     ],
     [
-      "boj",
+      "pre-auth",
       1
     ],
     [
-      "struggling",
+      "rce",
       1
     ],
     [
-      "keep",
+      "orkes",
       1
     ],
     [
-      "pace",
+      "conductor",
       1
     ],
     [
-      "hiking",
+      "workflow",
       1
     ],
     [
-      "partners",
-      1
-    ],
-    [
-      "byd",
-      1
-    ],
-    [
-      "catl",
-      1
-    ],
-    [
-      "xiaomi",
-      1
-    ],
-    [
-      "executives",
-      1
-    ],
-    [
-      "may",
-      1
-    ],
-    [
-      "join",
-      1
-    ],
-    [
-      "visit",
+      "platform",
       1
     ]
   ],
   "rising": [
     [
-      "stealer",
+      "wild",
       2,
-      3.33
+      2.73
     ],
     [
-      "npm",
-      2,
-      3.33
-    ],
-    [
-      "boj",
+      "considers",
       1,
       2.0
     ],
     [
-      "struggling",
+      "releasing",
       1,
       2.0
     ],
     [
-      "hiking",
+      "workflow",
       1,
       2.0
     ],
     [
-      "catl",
-      1,
-      2.0
-    ],
-    [
-      "xiaomi",
-      1,
-      2.0
-    ],
-    [
-      "executives",
-      1,
-      2.0
-    ],
-    [
-      "join",
-      1,
-      2.0
-    ],
-    [
-      "morning",
+      "orkes",
       1,
       1.88
+    ],
+    [
+      "conductor",
+      1,
+      1.88
+    ],
+    [
+      "pre-auth",
+      1,
+      1.76
+    ],
+    [
+      "ahead",
+      1,
+      1.67
+    ],
+    [
+      "ipo",
+      1,
+      1.58
+    ],
+    [
+      "model",
+      1,
+      1.36
     ]
   ]
 }
