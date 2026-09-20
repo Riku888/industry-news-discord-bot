@@ -1,137 +1,125 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "top_today": [
     [
-      "exploited",
-      2
-    ],
-    [
-      "wild",
-      2
-    ],
-    [
-      "exclusive",
-      1
-    ],
-    [
-      "anthropic",
-      1
-    ],
-    [
-      "considers",
-      1
-    ],
-    [
-      "releasing",
-      1
-    ],
-    [
-      "new",
-      1
-    ],
-    [
-      "model",
-      1
-    ],
-    [
-      "ahead",
-      1
-    ],
-    [
-      "ipo",
-      1
-    ],
-    [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
       "reuters",
+      2
+    ],
+    [
+      "ukraine",
       1
     ],
     [
-      "critical",
+      "launches",
       1
     ],
     [
-      "pre-auth",
+      "biggest",
       1
     ],
     [
-      "rce",
+      "moscow",
       1
     ],
     [
-      "orkes",
+      "drone",
       1
     ],
     [
-      "conductor",
+      "attack",
       1
     ],
     [
-      "workflow",
+      "russia",
       1
     ],
     [
-      "platform",
+      "votes",
+      1
+    ],
+    [
+      "dressing",
+      1
+    ],
+    [
+      "man",
+      1
+    ],
+    [
+      "competing",
+      1
+    ],
+    [
+      "elite",
+      1
+    ],
+    [
+      "backpedalling",
+      1
+    ],
+    [
+      "afghan",
+      1
+    ],
+    [
+      "cyclist",
+      1
+    ],
+    [
+      "hashimi",
       1
     ]
   ],
   "rising": [
     [
-      "wild",
-      2,
-      2.73
-    ],
-    [
-      "considers",
+      "moscow",
       1,
       2.0
     ],
     [
-      "releasing",
+      "votes",
       1,
       2.0
     ],
     [
-      "workflow",
+      "dressing",
       1,
       2.0
     ],
     [
-      "orkes",
+      "elite",
+      1,
+      2.0
+    ],
+    [
+      "backpedalling",
+      1,
+      2.0
+    ],
+    [
+      "afghan",
+      1,
+      2.0
+    ],
+    [
+      "cyclist",
+      1,
+      2.0
+    ],
+    [
+      "hashimi",
+      1,
+      2.0
+    ],
+    [
+      "competing",
       1,
       1.88
     ],
     [
-      "conductor",
-      1,
-      1.88
-    ],
-    [
-      "pre-auth",
+      "biggest",
       1,
       1.76
-    ],
-    [
-      "ahead",
-      1,
-      1.67
-    ],
-    [
-      "ipo",
-      1,
-      1.58
-    ],
-    [
-      "model",
-      1,
-      1.36
     ]
   ]
 }
