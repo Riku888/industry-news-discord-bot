@@ -1,125 +1,137 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "top_today": [
     [
       "reuters",
+      5
+    ],
+    [
+      "south",
       2
     ],
     [
-      "ukraine",
+      "korea",
+      2
+    ],
+    [
+      "three",
+      2
+    ],
+    [
+      "supply",
+      2
+    ],
+    [
+      "confirms",
+      2
+    ],
+    [
+      "new",
       1
     ],
     [
-      "launches",
+      "zealand",
       1
     ],
     [
-      "biggest",
+      "naval",
       1
     ],
     [
-      "moscow",
+      "ships",
       1
     ],
     [
-      "drone",
+      "transit",
       1
     ],
     [
-      "attack",
+      "contested",
       1
     ],
     [
-      "russia",
+      "taiwan",
       1
     ],
     [
-      "votes",
+      "strait",
       1
     ],
     [
-      "dressing",
+      "says",
       1
     ],
     [
-      "man",
+      "soldiers",
       1
     ],
     [
-      "competing",
+      "injured",
       1
     ],
     [
-      "elite",
+      "landmine",
       1
     ],
     [
-      "backpedalling",
+      "dmz",
       1
     ],
     [
-      "afghan",
-      1
-    ],
-    [
-      "cyclist",
-      1
-    ],
-    [
-      "hashimi",
+      "europe",
       1
     ]
   ],
   "rising": [
     [
-      "moscow",
+      "korea",
+      2,
+      3.16
+    ],
+    [
+      "three",
+      2,
+      2.61
+    ],
+    [
+      "supply",
+      2,
+      2.5
+    ],
+    [
+      "south",
+      2,
+      2.31
+    ],
+    [
+      "naval",
       1,
       2.0
     ],
     [
-      "votes",
+      "ships",
       1,
       2.0
     ],
     [
-      "dressing",
+      "transit",
       1,
       2.0
     ],
     [
-      "elite",
+      "contested",
       1,
       2.0
     ],
     [
-      "backpedalling",
+      "soldiers",
       1,
       2.0
     ],
     [
-      "afghan",
+      "injured",
       1,
       2.0
-    ],
-    [
-      "cyclist",
-      1,
-      2.0
-    ],
-    [
-      "hashimi",
-      1,
-      2.0
-    ],
-    [
-      "competing",
-      1,
-      1.88
-    ],
-    [
-      "biggest",
-      1,
-      1.76
     ]
   ]
 }
