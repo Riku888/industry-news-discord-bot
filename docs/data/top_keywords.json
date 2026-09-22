@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-21",
+  "date": "2026-09-22",
   "top_today": [
     [
+      "under",
+      2
+    ],
+    [
+      "turn",
+      2
+    ],
+    [
+      "into",
+      2
+    ],
+    [
+      "wordpress",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "zyxel",
+      2
+    ],
+    [
+      "binance",
+      1
+    ],
+    [
+      "scrutiny",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "possible",
+      1
+    ],
+    [
+      "iran",
+      1
+    ],
+    [
+      "sanctions",
+      1
+    ],
+    [
+      "violations",
+      1
+    ],
+    [
+      "bloomberg",
+      1
+    ],
+    [
+      "news",
+      1
+    ],
+    [
+      "reports",
+      1
+    ],
+    [
       "reuters",
-      5
-    ],
-    [
-      "south",
-      2
-    ],
-    [
-      "korea",
-      2
-    ],
-    [
-      "three",
-      2
-    ],
-    [
-      "supply",
-      2
-    ],
-    [
-      "confirms",
-      2
-    ],
-    [
-      "new",
       1
     ],
     [
-      "zealand",
+      "malicious",
       1
     ],
     [
-      "naval",
+      "npm",
       1
     ],
     [
-      "ships",
-      1
-    ],
-    [
-      "transit",
-      1
-    ],
-    [
-      "contested",
-      1
-    ],
-    [
-      "taiwan",
-      1
-    ],
-    [
-      "strait",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "soldiers",
-      1
-    ],
-    [
-      "injured",
-      1
-    ],
-    [
-      "landmine",
-      1
-    ],
-    [
-      "dmz",
-      1
-    ],
-    [
-      "europe",
+      "package",
       1
     ]
   ],
   "rising": [
     [
-      "korea",
+      "zyxel",
+      2,
+      4.0
+    ],
+    [
+      "turn",
       2,
       3.16
     ],
     [
-      "three",
+      "under",
       2,
-      2.61
+      2.86
     ],
     [
-      "supply",
+      "wordpress",
       2,
-      2.5
+      2.4
     ],
     [
-      "south",
+      "into",
       2,
-      2.31
+      2.0
     ],
     [
-      "naval",
+      "binance",
       1,
       2.0
     ],
     [
-      "ships",
+      "possible",
       1,
       2.0
     ],
     [
-      "transit",
+      "package",
       1,
       2.0
     ],
     [
-      "contested",
+      "violations",
       1,
-      2.0
+      1.88
     ],
     [
-      "soldiers",
+      "scrutiny",
       1,
-      2.0
-    ],
-    [
-      "injured",
-      1,
-      2.0
+      1.76
     ]
   ]
 }
