@@ -1,68 +1,68 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "top_today": [
     [
-      "under",
+      "zero-day",
+      6
+    ],
+    [
+      "exploited",
+      5
+    ],
+    [
+      "patches",
+      4
+    ],
+    [
+      "big-ip",
+      3
+    ],
+    [
+      "critical",
       2
     ],
     [
-      "turn",
+      "apm",
       2
     ],
     [
-      "into",
+      "rce",
       2
     ],
     [
-      "wordpress",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "zyxel",
-      2
-    ],
-    [
-      "binance",
+      "cambodia",
       1
     ],
     [
-      "scrutiny",
+      "safe",
       1
     ],
     [
-      "over",
+      "haven",
       1
     ],
     [
-      "possible",
+      "scams",
       1
     ],
     [
-      "iran",
+      "prime",
       1
     ],
     [
-      "sanctions",
+      "minister",
       1
     ],
     [
-      "violations",
+      "tells",
       1
     ],
     [
-      "bloomberg",
+      "anti-fraud",
       1
     ],
     [
-      "news",
-      1
-    ],
-    [
-      "reports",
+      "summit",
       1
     ],
     [
@@ -70,68 +70,68 @@
       1
     ],
     [
-      "malicious",
+      "look",
       1
     ],
     [
-      "npm",
+      "doomsday",
       1
     ],
     [
-      "package",
+      "scenarios",
       1
     ]
   ],
   "rising": [
     [
-      "zyxel",
-      2,
-      4.0
+      "big-ip",
+      3,
+      5.29
     ],
     [
-      "turn",
+      "apm",
       2,
-      3.16
+      3.53
     ],
     [
-      "under",
-      2,
-      2.86
+      "zero-day",
+      6,
+      3.4
     ],
     [
-      "wordpress",
-      2,
-      2.4
+      "patches",
+      4,
+      2.55
     ],
     [
-      "into",
-      2,
-      2.0
-    ],
-    [
-      "binance",
+      "haven",
       1,
       2.0
     ],
     [
-      "possible",
+      "anti-fraud",
       1,
       2.0
     ],
     [
-      "package",
+      "doomsday",
       1,
       2.0
     ],
     [
-      "violations",
+      "scenarios",
+      1,
+      2.0
+    ],
+    [
+      "cambodia",
       1,
       1.88
     ],
     [
-      "scrutiny",
+      "prime",
       1,
-      1.76
+      1.88
     ]
   ]
 }
