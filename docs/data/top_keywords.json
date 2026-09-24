@@ -1,135 +1,135 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "top_today": [
     [
-      "zero-day",
-      6
-    ],
-    [
-      "exploited",
-      5
-    ],
-    [
-      "patches",
-      4
-    ],
-    [
-      "big-ip",
+      "reuters",
       3
     ],
     [
       "critical",
+      3
+    ],
+    [
+      "how",
       2
     ],
     [
-      "apm",
+      "wordpress",
       2
     ],
     [
-      "rce",
+      "disclosure",
       2
     ],
     [
-      "cambodia",
+      "cisa",
+      2
+    ],
+    [
+      "ransomware",
+      2
+    ],
+    [
+      "meta",
       1
     ],
     [
-      "safe",
+      "charm",
       1
     ],
     [
-      "haven",
+      "gadget",
       1
     ],
     [
-      "scams",
+      "carries",
       1
     ],
     [
-      "prime",
+      "ceo",
       1
     ],
     [
-      "minister",
+      "zuckerberg",
       1
     ],
     [
-      "tells",
+      "big",
       1
     ],
     [
-      "anti-fraud",
+      "ambitions",
       1
     ],
     [
-      "summit",
+      "indian",
       1
     ],
     [
-      "reuters",
+      "top",
       1
     ],
     [
-      "look",
+      "diplomats",
       1
     ],
     [
-      "doomsday",
+      "discuss",
       1
     ],
     [
-      "scenarios",
+      "russia",
       1
     ]
   ],
   "rising": [
     [
-      "big-ip",
-      3,
-      5.29
-    ],
-    [
-      "apm",
+      "disclosure",
       2,
-      3.53
+      3.16
     ],
     [
-      "zero-day",
-      6,
-      3.4
+      "how",
+      2,
+      2.14
     ],
     [
-      "patches",
-      4,
-      2.55
+      "wordpress",
+      2,
+      2.0
     ],
     [
-      "haven",
+      "charm",
       1,
       2.0
     ],
     [
-      "anti-fraud",
+      "gadget",
       1,
       2.0
     ],
     [
-      "doomsday",
+      "carries",
       1,
       2.0
     ],
     [
-      "scenarios",
+      "zuckerberg",
       1,
       2.0
     ],
     [
-      "cambodia",
+      "ambitions",
+      1,
+      2.0
+    ],
+    [
+      "big",
       1,
       1.88
     ],
     [
-      "prime",
+      "diplomats",
       1,
       1.88
     ]
