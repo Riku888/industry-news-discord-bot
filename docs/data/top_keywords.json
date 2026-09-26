@@ -1,137 +1,79 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "top_today": [
     [
-      "roundcube",
-      2
+      "sharepoint",
+      1
     ],
     [
-      "exploited",
-      2
+      "rce",
+      1
+    ],
+    [
+      "mikrotik",
+      1
+    ],
+    [
+      "routeros",
+      1
     ],
     [
       "flaws",
-      2
-    ],
-    [
-      "cambodia",
       1
     ],
     [
-      "target",
+      "actively",
       1
     ],
     [
-      "scam",
+      "exploited",
       1
     ],
     [
-      "masterminds",
-      1
-    ],
-    [
-      "critics",
-      1
-    ],
-    [
-      "question",
-      1
-    ],
-    [
-      "crackdown",
-      1
-    ],
-    [
-      "effectiveness",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "bitget",
-      1
-    ],
-    [
-      "says",
-      1
-    ],
-    [
-      "suspected",
-      1
-    ],
-    [
-      "north",
-      1
-    ],
-    [
-      "korean",
-      1
-    ],
-    [
-      "hackers",
-      1
-    ],
-    [
-      "stole",
-      1
-    ],
-    [
-      "351",
+      "wild",
       1
     ]
   ],
   "rising": [
     [
-      "roundcube",
-      2,
-      3.75
-    ],
-    [
-      "masterminds",
-      1,
-      2.0
-    ],
-    [
-      "critics",
-      1,
-      2.0
-    ],
-    [
-      "effectiveness",
-      1,
-      2.0
-    ],
-    [
-      "bitget",
-      1,
-      2.0
-    ],
-    [
-      "351",
-      1,
-      2.0
-    ],
-    [
-      "scam",
-      1,
-      1.88
-    ],
-    [
-      "crackdown",
-      1,
-      1.88
-    ],
-    [
-      "suspected",
-      1,
-      1.88
-    ],
-    [
-      "cambodia",
+      "mikrotik",
       1,
       1.76
+    ],
+    [
+      "routeros",
+      1,
+      1.76
+    ],
+    [
+      "sharepoint",
+      1,
+      1.67
+    ],
+    [
+      "wild",
+      1,
+      1.25
+    ],
+    [
+      "actively",
+      1,
+      1.2
+    ],
+    [
+      "rce",
+      1,
+      0.64
+    ],
+    [
+      "flaws",
+      1,
+      0.48
+    ],
+    [
+      "exploited",
+      1,
+      0.33
     ]
   ]
 }
