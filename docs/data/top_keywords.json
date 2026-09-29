@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "top_today": [
     [
       "reuters",
-      5
+      6
     ],
     [
-      "citrix",
+      "security",
       3
     ],
     [
-      "attackers",
-      2
-    ],
-    [
-      "cisa",
-      2
-    ],
-    [
-      "netscaler",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "airbus",
-      1
-    ],
-    [
-      "probes",
-      1
-    ],
-    [
-      "a321neo",
-      1
-    ],
-    [
       "flaw",
+      3
+    ],
+    [
+      "patches",
+      3
+    ],
+    [
+      "over",
+      2
+    ],
+    [
+      "forces",
+      2
+    ],
+    [
+      "aid",
+      2
+    ],
+    [
+      "systems",
+      2
+    ],
+    [
+      "apple",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "exclusive",
       1
     ],
     [
-      "repair",
+      "anthropic",
       1
     ],
     [
-      "plan",
+      "leaders",
       1
     ],
     [
-      "eases",
+      "control",
       1
     ],
     [
-      "disruption",
+      "lab",
       1
     ],
     [
-      "volcanic",
+      "via",
       1
     ],
     [
-      "ash",
+      "founder",
       1
     ],
     [
-      "halts",
+      "llc",
       1
     ],
     [
-      "italy",
+      "promote",
       1
     ],
     [
-      "catania",
-      1
-    ],
-    [
-      "airport",
+      "public",
       1
     ]
   ],
   "rising": [
     [
-      "citrix",
-      3,
-      5.0
-    ],
-    [
-      "netscaler",
+      "aid",
       2,
-      3.53
+      4.0
     ],
     [
-      "airbus",
+      "forces",
+      2,
+      3.16
+    ],
+    [
+      "apple",
+      2,
+      3.0
+    ],
+    [
+      "systems",
+      2,
+      2.14
+    ],
+    [
+      "lab",
       1,
       2.0
     ],
     [
-      "a321neo",
+      "founder",
       1,
       2.0
     ],
     [
-      "eases",
+      "llc",
       1,
       2.0
     ],
     [
-      "volcanic",
+      "promote",
       1,
       2.0
     ],
     [
-      "ash",
-      1,
-      2.0
+      "security",
+      3,
+      1.91
     ],
     [
-      "halts",
-      1,
-      2.0
-    ],
-    [
-      "italy",
-      1,
-      2.0
-    ],
-    [
-      "catania",
-      1,
-      2.0
+      "patches",
+      3,
+      1.7
     ]
   ]
 }
