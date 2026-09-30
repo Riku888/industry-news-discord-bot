@@ -1,137 +1,137 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "top_today": [
     [
+      "trump",
+      2
+    ],
+    [
       "reuters",
-      6
-    ],
-    [
-      "security",
-      3
-    ],
-    [
-      "flaw",
-      3
-    ],
-    [
-      "patches",
-      3
-    ],
-    [
-      "over",
       2
     ],
     [
-      "forces",
+      "phishing",
       2
     ],
     [
-      "aid",
+      "access",
       2
     ],
     [
-      "systems",
+      "exploit",
       2
     ],
     [
-      "apple",
+      "netscaler",
       2
     ],
     [
-      "zero-day",
+      "vulnerabilities",
       2
     ],
     [
-      "exclusive",
+      "russian",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "oil",
       1
     ],
     [
-      "anthropic",
+      "gains",
       1
     ],
     [
-      "leaders",
+      "stalled",
       1
     ],
     [
-      "control",
+      "us-iran",
       1
     ],
     [
-      "lab",
+      "talks",
       1
     ],
     [
-      "via",
+      "supply",
       1
     ],
     [
-      "founder",
+      "recovery",
       1
     ],
     [
-      "llc",
+      "defence",
       1
     ],
     [
-      "promote",
+      "offers",
       1
     ],
     [
-      "public",
+      "new",
+      1
+    ],
+    [
+      "front",
       1
     ]
   ],
   "rising": [
     [
-      "aid",
+      "netscaler",
       2,
-      4.0
+      2.61
     ],
     [
-      "forces",
+      "access",
       2,
-      3.16
+      2.22
     ],
     [
-      "apple",
-      2,
-      3.0
-    ],
-    [
-      "systems",
-      2,
-      2.14
-    ],
-    [
-      "lab",
+      "stalled",
       1,
       2.0
     ],
     [
-      "founder",
+      "front",
       1,
       2.0
     ],
     [
-      "llc",
+      "gains",
       1,
-      2.0
+      1.88
     ],
     [
-      "promote",
+      "us-iran",
       1,
-      2.0
+      1.88
     ],
     [
-      "security",
-      3,
-      1.91
+      "recovery",
+      1,
+      1.76
     ],
     [
-      "patches",
-      3,
-      1.7
+      "defence",
+      1,
+      1.58
+    ],
+    [
+      "offers",
+      1,
+      1.58
+    ],
+    [
+      "trump",
+      2,
+      1.54
     ]
   ]
 }
