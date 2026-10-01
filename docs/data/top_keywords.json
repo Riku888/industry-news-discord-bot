@@ -1,8 +1,12 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "top_today": [
     [
-      "trump",
+      "exploited",
+      4
+    ],
+    [
+      "hackers",
       2
     ],
     [
@@ -10,128 +14,124 @@
       2
     ],
     [
-      "phishing",
+      "hack",
       2
     ],
     [
-      "access",
+      "cisco",
       2
     ],
     [
-      "exploit",
+      "catalyst",
       2
     ],
     [
-      "netscaler",
+      "sd-wan",
       2
     ],
     [
-      "vulnerabilities",
+      "zero-day",
       2
     ],
     [
-      "russian",
+      "million",
       2
     ],
     [
-      "attacks",
+      "vulnerability",
       2
     ],
     [
-      "oil",
+      "chinese",
       1
     ],
     [
-      "gains",
+      "impersonated",
       1
     ],
     [
-      "stalled",
+      "ex-us",
       1
     ],
     [
-      "us-iran",
+      "official",
       1
     ],
     [
-      "talks",
+      "steal",
       1
     ],
     [
-      "supply",
+      "emails",
       1
     ],
     [
-      "recovery",
+      "experts",
       1
     ],
     [
-      "defence",
+      "agents",
       1
     ],
     [
-      "offers",
+      "tried",
       1
     ],
     [
-      "new",
-      1
-    ],
-    [
-      "front",
+      "canadian",
       1
     ]
   ],
   "rising": [
     [
-      "netscaler",
+      "catalyst",
       2,
-      2.61
+      4.0
     ],
     [
-      "access",
+      "sd-wan",
       2,
-      2.22
+      3.53
     ],
     [
-      "stalled",
+      "impersonated",
       1,
       2.0
     ],
     [
-      "front",
+      "ex-us",
       1,
       2.0
     ],
     [
-      "gains",
+      "experts",
       1,
-      1.88
+      2.0
     ],
     [
-      "us-iran",
+      "tried",
       1,
-      1.88
+      2.0
     ],
     [
-      "recovery",
-      1,
-      1.76
-    ],
-    [
-      "defence",
-      1,
-      1.58
-    ],
-    [
-      "offers",
-      1,
-      1.58
-    ],
-    [
-      "trump",
+      "hack",
       2,
-      1.54
+      1.94
+    ],
+    [
+      "cisco",
+      2,
+      1.82
+    ],
+    [
+      "emails",
+      1,
+      1.67
+    ],
+    [
+      "official",
+      1,
+      1.58
     ]
   ]
 }
