@@ -1,32 +1,16 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "top_today": [
     [
-      "exploited",
-      4
-    ],
-    [
-      "hackers",
+      "accessibility",
       2
     ],
     [
-      "reuters",
+      "critical",
       2
     ],
     [
-      "hack",
-      2
-    ],
-    [
-      "cisco",
-      2
-    ],
-    [
-      "catalyst",
-      2
-    ],
-    [
-      "sd-wan",
+      "fortimail",
       2
     ],
     [
@@ -34,104 +18,120 @@
       2
     ],
     [
-      "million",
+      "exploited",
       2
     ],
     [
-      "vulnerability",
+      "attacks",
       2
     ],
     [
-      "chinese",
+      "android",
       1
     ],
     [
-      "impersonated",
+      "advanced",
       1
     ],
     [
-      "ex-us",
+      "protection",
       1
     ],
     [
-      "official",
+      "locks",
       1
     ],
     [
-      "steal",
+      "services",
       1
     ],
     [
-      "emails",
+      "verified",
       1
     ],
     [
-      "experts",
+      "tools",
       1
     ],
     [
-      "agents",
+      "flaw",
       1
     ],
     [
-      "tried",
+      "allows",
       1
     ],
     [
-      "canadian",
+      "unauthenticated",
+      1
+    ],
+    [
+      "arbitrary",
+      1
+    ],
+    [
+      "file",
+      1
+    ],
+    [
+      "writes",
+      1
+    ],
+    [
+      "microsoft",
       1
     ]
   ],
   "rising": [
     [
-      "catalyst",
+      "accessibility",
       2,
       4.0
     ],
     [
-      "sd-wan",
+      "fortimail",
       2,
-      3.53
+      3.75
     ],
     [
-      "impersonated",
+      "locks",
       1,
       2.0
     ],
     [
-      "ex-us",
+      "verified",
       1,
       2.0
     ],
     [
-      "experts",
+      "allows",
       1,
       2.0
     ],
     [
-      "tried",
+      "arbitrary",
       1,
       2.0
     ],
     [
-      "hack",
-      2,
-      1.94
-    ],
-    [
-      "cisco",
-      2,
-      1.82
-    ],
-    [
-      "emails",
+      "writes",
       1,
-      1.67
+      2.0
     ],
     [
-      "official",
+      "advanced",
       1,
-      1.58
+      1.88
+    ],
+    [
+      "protection",
+      1,
+      1.88
+    ],
+    [
+      "services",
+      1,
+      1.76
     ]
   ]
 }
