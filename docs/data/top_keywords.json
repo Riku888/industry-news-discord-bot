@@ -1,5 +1,79 @@
 {
-  "date": "2026-10-03",
-  "top_today": [],
-  "rising": []
+  "date": "2026-10-04",
+  "top_today": [
+    [
+      "china-aligned",
+      1
+    ],
+    [
+      "ta419",
+      1
+    ],
+    [
+      "targets",
+      1
+    ],
+    [
+      "policy",
+      1
+    ],
+    [
+      "experts",
+      1
+    ],
+    [
+      "microsoft",
+      1
+    ],
+    [
+      "aitm",
+      1
+    ],
+    [
+      "phishing",
+      1
+    ]
+  ],
+  "rising": [
+    [
+      "ta419",
+      1,
+      2.0
+    ],
+    [
+      "aitm",
+      1,
+      2.0
+    ],
+    [
+      "china-aligned",
+      1,
+      1.88
+    ],
+    [
+      "experts",
+      1,
+      1.76
+    ],
+    [
+      "policy",
+      1,
+      1.67
+    ],
+    [
+      "targets",
+      1,
+      1.2
+    ],
+    [
+      "phishing",
+      1,
+      0.77
+    ],
+    [
+      "microsoft",
+      1,
+      0.58
+    ]
+  ]
 }
