@@ -1,79 +1,137 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "top_today": [
     [
-      "china-aligned",
+      "reuters",
+      6
+    ],
+    [
+      "new",
+      4
+    ],
+    [
+      "dozens",
+      2
+    ],
+    [
+      "rejetto",
+      2
+    ],
+    [
+      "hfs",
+      2
+    ],
+    [
+      "netscaler",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "exploitation",
+      2
+    ],
+    [
+      "hits",
+      2
+    ],
+    [
+      "trump",
       1
     ],
     [
-      "ta419",
+      "deportation",
       1
     ],
     [
-      "targets",
+      "push",
       1
     ],
     [
-      "policy",
+      "forces",
       1
     ],
     [
-      "experts",
+      "lgbt",
       1
     ],
     [
-      "microsoft",
+      "migrants",
       1
     ],
     [
-      "aitm",
+      "onto",
       1
     ],
     [
-      "phishing",
+      "hostile",
+      1
+    ],
+    [
+      "terrain",
       1
     ]
   ],
   "rising": [
     [
-      "ta419",
+      "dozens",
+      2,
+      4.0
+    ],
+    [
+      "rejetto",
+      2,
+      4.0
+    ],
+    [
+      "hfs",
+      2,
+      4.0
+    ],
+    [
+      "hits",
+      2,
+      2.4
+    ],
+    [
+      "netscaler",
+      2,
+      2.22
+    ],
+    [
+      "exploitation",
+      2,
+      2.14
+    ],
+    [
+      "lgbt",
       1,
       2.0
     ],
     [
-      "aitm",
+      "onto",
       1,
       2.0
     ],
     [
-      "china-aligned",
+      "terrain",
+      1,
+      2.0
+    ],
+    [
+      "migrants",
       1,
       1.88
-    ],
-    [
-      "experts",
-      1,
-      1.76
-    ],
-    [
-      "policy",
-      1,
-      1.67
-    ],
-    [
-      "targets",
-      1,
-      1.2
-    ],
-    [
-      "phishing",
-      1,
-      0.77
-    ],
-    [
-      "microsoft",
-      1,
-      0.58
     ]
   ]
 }
