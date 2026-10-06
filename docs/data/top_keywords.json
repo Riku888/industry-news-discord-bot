@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "top_today": [
     [
       "reuters",
-      6
-    ],
-    [
-      "new",
       4
     ],
     [
-      "dozens",
+      "fbi",
+      3
+    ],
+    [
+      "accenture",
       2
     ],
     [
-      "rejetto",
+      "contractor",
       2
     ],
     [
-      "hfs",
+      "breach",
       2
     ],
     [
-      "netscaler",
+      "through",
       2
     ],
     [
-      "zero-day",
+      "malware",
       2
     ],
     [
-      "attacks",
+      "campaign",
       2
+    ],
+    [
+      "france",
+      1
+    ],
+    [
+      "mistral",
+      1
+    ],
+    [
+      "announces",
+      1
+    ],
+    [
+      "new",
+      1
+    ],
+    [
+      "model",
+      1
+    ],
+    [
+      "exclusive",
+      1
+    ],
+    [
+      "removed",
+      1
+    ],
+    [
+      "following",
+      1
+    ],
+    [
+      "damaging",
+      1
     ],
     [
       "data",
-      2
-    ],
-    [
-      "exploitation",
-      2
-    ],
-    [
-      "hits",
-      2
-    ],
-    [
-      "trump",
       1
     ],
     [
-      "deportation",
+      "sources",
       1
     ],
     [
-      "push",
-      1
-    ],
-    [
-      "forces",
-      1
-    ],
-    [
-      "lgbt",
-      1
-    ],
-    [
-      "migrants",
-      1
-    ],
-    [
-      "onto",
-      1
-    ],
-    [
-      "hostile",
-      1
-    ],
-    [
-      "terrain",
+      "say",
       1
     ]
   ],
   "rising": [
     [
-      "dozens",
+      "accenture",
       2,
       4.0
     ],
     [
-      "rejetto",
-      2,
-      4.0
+      "fbi",
+      3,
+      3.91
     ],
     [
-      "hfs",
+      "contractor",
       2,
-      4.0
+      3.75
     ],
     [
-      "hits",
+      "through",
+      2,
+      3.33
+    ],
+    [
+      "campaign",
       2,
       2.4
     ],
     [
-      "netscaler",
-      2,
-      2.22
-    ],
-    [
-      "exploitation",
-      2,
-      2.14
-    ],
-    [
-      "lgbt",
+      "damaging",
       1,
       2.0
     ],
     [
-      "onto",
-      1,
-      2.0
-    ],
-    [
-      "terrain",
-      1,
-      2.0
-    ],
-    [
-      "migrants",
+      "mistral",
       1,
       1.88
+    ],
+    [
+      "announces",
+      1,
+      1.88
+    ],
+    [
+      "removed",
+      1,
+      1.88
+    ],
+    [
+      "following",
+      1,
+      1.76
     ]
   ]
 }
