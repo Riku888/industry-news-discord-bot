@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "top_today": [
     [
-      "data",
-      4
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "atlassian",
-      3
-    ],
-    [
-      "flaw",
-      3
-    ],
-    [
-      "reuters",
+      "recovery",
       2
     ],
     [
-      "has",
+      "tools",
       2
     ],
     [
-      "warns",
+      "malware",
       2
     ],
     [
-      "public",
-      2
+      "virtual",
+      1
     ],
     [
-      "critical",
-      2
+      "event",
+      1
     ],
     [
-      "advantest",
-      2
+      "building",
+      1
     ],
     [
-      "confirms",
-      2
+      "secure",
+      1
     ],
     [
-      "personal",
-      2
+      "strategy",
+      1
     ],
     [
-      "information",
-      2
+      "enterprise",
+      1
     ],
     [
-      "stolen",
-      2
+      "malicious",
+      1
     ],
     [
-      "ransomware",
-      2
+      "firefox",
+      1
     ],
     [
-      "attack",
-      2
+      "extensions",
+      1
     ],
     [
-      "breach",
-      2
+      "pose",
+      1
     ],
     [
-      "patches",
-      2
+      "rabby",
+      1
     ],
     [
-      "vulnerabilities",
-      2
+      "okx",
+      1
     ],
     [
-      "cyberattack",
-      2
+      "wallets",
+      1
+    ],
+    [
+      "steal",
+      1
+    ],
+    [
+      "phrases",
+      1
+    ],
+    [
+      "offers",
+      1
+    ],
+    [
+      "million",
+      1
     ]
   ],
   "rising": [
     [
-      "atlassian",
-      3,
-      5.62
-    ],
-    [
-      "advantest",
-      2,
-      4.0
-    ],
-    [
-      "has",
-      2,
-      3.53
-    ],
-    [
-      "personal",
+      "recovery",
       2,
       3.33
     ],
     [
-      "information",
-      2,
-      3.16
-    ],
-    [
-      "public",
-      2,
-      2.73
-    ],
-    [
-      "stolen",
+      "tools",
       2,
       2.5
     ],
     [
-      "cyberattack",
-      2,
-      2.14
+      "building",
+      1,
+      2.0
     ],
     [
-      "confirms",
-      2,
+      "strategy",
+      1,
+      2.0
+    ],
+    [
+      "pose",
+      1,
+      2.0
+    ],
+    [
+      "rabby",
+      1,
+      2.0
+    ],
+    [
+      "phrases",
+      1,
+      2.0
+    ],
+    [
+      "extensions",
+      1,
       1.88
     ],
     [
-      "vulnerabilities",
-      2,
-      1.82
+      "okx",
+      1,
+      1.88
+    ],
+    [
+      "wallets",
+      1,
+      1.88
     ]
   ]
 }
