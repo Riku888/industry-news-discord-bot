@@ -1,76 +1,48 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "top_today": [
     [
-      "pwn2own",
-      3
-    ],
-    [
-      "citrix",
-      3
-    ],
-    [
-      "netscaler",
-      3
-    ],
-    [
-      "flaw",
-      3
-    ],
-    [
-      "chinese",
+      "you",
       2
     ],
     [
-      "korean",
-      2
-    ],
-    [
-      "bank",
-      2
-    ],
-    [
-      "exploits",
-      2
-    ],
-    [
-      "google",
-      2
-    ],
-    [
-      "pixel",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "rce",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "000",
-      2
-    ],
-    [
-      "developer",
+      "co-creator",
       1
     ],
     [
-      "makes",
+      "empire",
       1
     ],
     [
-      "artex",
+      "market",
+      1
+    ],
+    [
+      "dark",
+      1
+    ],
+    [
+      "web",
+      1
+    ],
+    [
+      "marketplace",
+      1
+    ],
+    [
+      "given",
+      1
+    ],
+    [
+      "40-year",
+      1
+    ],
+    [
+      "sentence",
+      1
+    ],
+    [
+      "third-party",
       1
     ],
     [
@@ -78,60 +50,88 @@
       1
     ],
     [
-      "closed-source",
+      "problem",
+      1
+    ],
+    [
+      "why",
+      1
+    ],
+    [
+      "security",
+      1
+    ],
+    [
+      "built",
+      1
+    ],
+    [
+      "chose",
+      1
+    ],
+    [
+      "misses",
+      1
+    ],
+    [
+      "agents",
+      1
+    ],
+    [
+      "didn",
       1
     ]
   ],
   "rising": [
     [
-      "pwn2own",
-      3,
-      5.29
-    ],
-    [
-      "bank",
+      "you",
       2,
-      4.0
+      3.0
     ],
     [
-      "pixel",
-      2,
-      3.33
-    ],
-    [
-      "citrix",
-      3,
-      2.9
-    ],
-    [
-      "netscaler",
-      3,
-      2.9
-    ],
-    [
-      "korean",
-      2,
-      2.61
-    ],
-    [
-      "exploits",
-      2,
-      2.61
-    ],
-    [
-      "chinese",
-      2,
-      2.0
-    ],
-    [
-      "closed-source",
+      "co-creator",
       1,
       2.0
     ],
     [
-      "000",
-      2,
-      1.94
+      "dark",
+      1,
+      2.0
+    ],
+    [
+      "40-year",
+      1,
+      2.0
+    ],
+    [
+      "chose",
+      1,
+      2.0
+    ],
+    [
+      "misses",
+      1,
+      2.0
+    ],
+    [
+      "didn",
+      1,
+      2.0
+    ],
+    [
+      "marketplace",
+      1,
+      1.88
+    ],
+    [
+      "given",
+      1,
+      1.88
+    ],
+    [
+      "sentence",
+      1,
+      1.88
     ]
   ]
 }
