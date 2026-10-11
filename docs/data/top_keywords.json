@@ -1,60 +1,44 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "top_today": [
     [
-      "you",
-      2
+      "reuters",
+      3
     ],
     [
-      "co-creator",
+      "canadian",
       1
     ],
     [
-      "empire",
+      "ransomware",
       1
     ],
     [
-      "market",
+      "negotiator",
       1
     ],
     [
-      "dark",
+      "arrested",
       1
     ],
     [
-      "web",
+      "amid",
       1
     ],
     [
-      "marketplace",
+      "fbi",
       1
     ],
     [
-      "given",
+      "hacker",
       1
     ],
     [
-      "40-year",
+      "crackdown",
       1
     ],
     [
-      "sentence",
-      1
-    ],
-    [
-      "third-party",
-      1
-    ],
-    [
-      "agent",
-      1
-    ],
-    [
-      "problem",
-      1
-    ],
-    [
-      "why",
+      "polish",
       1
     ],
     [
@@ -62,76 +46,92 @@
       1
     ],
     [
-      "built",
+      "services",
       1
     ],
     [
-      "chose",
+      "meet",
       1
     ],
     [
-      "misses",
+      "after",
       1
     ],
     [
-      "agents",
+      "serious",
       1
     ],
     [
-      "didn",
+      "threat",
+      1
+    ],
+    [
+      "defence",
+      1
+    ],
+    [
+      "minister",
+      1
+    ],
+    [
+      "world",
+      1
+    ],
+    [
+      "bank",
       1
     ]
   ],
   "rising": [
     [
-      "you",
-      2,
-      3.0
-    ],
-    [
-      "co-creator",
+      "negotiator",
       1,
       2.0
     ],
     [
-      "dark",
+      "serious",
       1,
       2.0
     ],
     [
-      "40-year",
-      1,
-      2.0
-    ],
-    [
-      "chose",
-      1,
-      2.0
-    ],
-    [
-      "misses",
-      1,
-      2.0
-    ],
-    [
-      "didn",
-      1,
-      2.0
-    ],
-    [
-      "marketplace",
+      "meet",
       1,
       1.88
     ],
     [
-      "given",
+      "world",
       1,
       1.88
     ],
     [
-      "sentence",
+      "crackdown",
       1,
-      1.88
+      1.76
+    ],
+    [
+      "polish",
+      1,
+      1.76
+    ],
+    [
+      "defence",
+      1,
+      1.76
+    ],
+    [
+      "bank",
+      1,
+      1.76
+    ],
+    [
+      "canadian",
+      1,
+      1.67
+    ],
+    [
+      "arrested",
+      1,
+      1.67
     ]
   ]
 }
