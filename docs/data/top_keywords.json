@@ -1,36 +1,20 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "top_today": [
     [
+      "into",
+      3
+    ],
+    [
+      "cyberattack",
+      3
+    ],
+    [
       "reuters",
-      8
+      2
     ],
     [
       "after",
-      4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "vulnerability",
-      3
-    ],
-    [
-      "000",
-      2
-    ],
-    [
-      "boom",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "sonicwall",
       2
     ],
     [
@@ -38,100 +22,116 @@
       2
     ],
     [
-      "bricksforge",
+      "that",
       2
     ],
     [
-      "wordpress",
+      "turns",
       2
     ],
     [
-      "exploited",
+      "grocery",
       2
     ],
     [
-      "data",
-      2
-    ],
-    [
-      "poland",
+      "exclusive",
       1
     ],
     [
-      "deploys",
+      "banking",
       1
     ],
     [
-      "over",
+      "watchdogs",
       1
     ],
     [
-      "police",
+      "ramp",
       1
     ],
     [
-      "schools",
+      "scrutiny",
       1
     ],
     [
-      "spate",
+      "stability",
       1
     ],
     [
-      "stabbing",
+      "fears",
+      1
+    ],
+    [
+      "mount",
+      1
+    ],
+    [
+      "sources",
+      1
+    ],
+    [
+      "say",
+      1
+    ],
+    [
+      "500",
+      1
+    ],
+    [
+      "set",
       1
     ]
   ],
   "rising": [
     [
-      "bricksforge",
-      2,
-      4.0
+      "into",
+      3,
+      3.91
     ],
     [
-      "boom",
+      "turns",
       2,
       3.75
     ],
     [
-      "sonicwall",
+      "grocery",
       2,
-      3.16
+      3.75
     ],
     [
-      "wordpress",
-      2,
-      2.14
-    ],
-    [
-      "vulnerability",
+      "cyberattack",
       3,
+      3.0
+    ],
+    [
+      "watchdogs",
+      1,
       2.0
     ],
     [
-      "000",
+      "ramp",
+      1,
+      2.0
+    ],
+    [
+      "stability",
+      1,
+      2.0
+    ],
+    [
+      "mount",
+      1,
+      2.0
+    ],
+    [
+      "that",
       2,
-      2.0
+      1.82
     ],
     [
-      "poland",
+      "banking",
       1,
-      2.0
-    ],
-    [
-      "schools",
-      1,
-      2.0
-    ],
-    [
-      "spate",
-      1,
-      2.0
-    ],
-    [
-      "stabbing",
-      1,
-      2.0
+      1.67
     ]
   ]
 }
