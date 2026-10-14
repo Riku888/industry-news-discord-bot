@@ -1,12 +1,12 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "top_today": [
     [
-      "into",
+      "patches",
       3
     ],
     [
-      "cyberattack",
+      "vulnerabilities",
       3
     ],
     [
@@ -14,124 +14,124 @@
       2
     ],
     [
-      "after",
+      "chrome",
       2
     ],
     [
-      "flaw",
+      "their",
       2
     ],
     [
-      "that",
+      "microsoft",
       2
     ],
     [
-      "turns",
+      "record",
       2
     ],
     [
-      "grocery",
+      "413",
       2
     ],
     [
-      "exclusive",
+      "flaws",
+      2
+    ],
+    [
+      "including",
+      2
+    ],
+    [
+      "exploited",
+      2
+    ],
+    [
+      "windows",
+      2
+    ],
+    [
+      "firefox",
+      2
+    ],
+    [
+      "patch",
+      2
+    ],
+    [
+      "kamala",
       1
     ],
     [
-      "banking",
+      "harris",
       1
     ],
     [
-      "watchdogs",
+      "warns",
       1
     ],
     [
-      "ramp",
+      "window",
       1
     ],
     [
-      "scrutiny",
+      "closing",
       1
     ],
     [
-      "stability",
-      1
-    ],
-    [
-      "fears",
-      1
-    ],
-    [
-      "mount",
-      1
-    ],
-    [
-      "sources",
-      1
-    ],
-    [
-      "say",
-      1
-    ],
-    [
-      "500",
-      1
-    ],
-    [
-      "set",
+      "safeguards",
       1
     ]
   ],
   "rising": [
     [
-      "into",
-      3,
-      3.91
+      "including",
+      2,
+      4.0
     ],
     [
-      "turns",
+      "413",
       2,
       3.75
     ],
     [
-      "grocery",
+      "firefox",
       2,
-      3.75
+      3.33
     ],
     [
-      "cyberattack",
-      3,
+      "record",
+      2,
+      3.16
+    ],
+    [
+      "their",
+      2,
       3.0
     ],
     [
-      "watchdogs",
-      1,
-      2.0
+      "vulnerabilities",
+      3,
+      2.65
     ],
     [
-      "ramp",
-      1,
-      2.0
-    ],
-    [
-      "stability",
-      1,
-      2.0
-    ],
-    [
-      "mount",
-      1,
-      2.0
-    ],
-    [
-      "that",
+      "chrome",
       2,
-      1.82
+      2.61
     ],
     [
-      "banking",
+      "windows",
+      2,
+      2.22
+    ],
+    [
+      "window",
       1,
-      1.67
+      2.0
+    ],
+    [
+      "closing",
+      1,
+      2.0
     ]
   ]
 }
