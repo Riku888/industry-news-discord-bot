@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-14",
+  "date": "2026-10-15",
   "top_today": [
+    [
+      "exploited",
+      3
+    ],
     [
       "patches",
       3
     ],
     [
-      "vulnerabilities",
-      3
-    ],
-    [
-      "reuters",
+      "authenticated",
       2
     ],
     [
-      "chrome",
+      "rce",
       2
     ],
     [
-      "their",
+      "flaw",
       2
     ],
     [
-      "microsoft",
+      "palo",
       2
     ],
     [
-      "record",
+      "alto",
       2
     ],
     [
-      "413",
+      "networks",
       2
+    ],
+    [
+      "pan-os",
+      2
+    ],
+    [
+      "langflow",
+      1
+    ],
+    [
+      "critical",
+      1
+    ],
+    [
+      "targeted",
+      1
+    ],
+    [
+      "423",
+      1
+    ],
+    [
+      "honeypot",
+      1
+    ],
+    [
+      "exploit",
+      1
+    ],
+    [
+      "attempts",
+      1
+    ],
+    [
+      "ahsaycbs",
+      1
     ],
     [
       "flaws",
-      2
-    ],
-    [
-      "including",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "windows",
-      2
-    ],
-    [
-      "firefox",
-      2
-    ],
-    [
-      "patch",
-      2
-    ],
-    [
-      "kamala",
       1
     ],
     [
-      "harris",
+      "deploy",
       1
     ],
     [
-      "warns",
-      1
-    ],
-    [
-      "window",
-      1
-    ],
-    [
-      "closing",
-      1
-    ],
-    [
-      "safeguards",
+      "web",
       1
     ]
   ],
   "rising": [
     [
-      "including",
-      2,
-      4.0
-    ],
-    [
-      "413",
+      "authenticated",
       2,
       3.75
     ],
     [
-      "firefox",
+      "pan-os",
       2,
-      3.33
+      3.75
     ],
     [
-      "record",
+      "palo",
       2,
-      3.16
+      3.53
     ],
     [
-      "their",
+      "alto",
       2,
-      3.0
+      3.53
     ],
     [
-      "vulnerabilities",
+      "networks",
+      2,
+      3.53
+    ],
+    [
+      "langflow",
+      1,
+      2.0
+    ],
+    [
+      "423",
+      1,
+      2.0
+    ],
+    [
+      "honeypot",
+      1,
+      2.0
+    ],
+    [
+      "patches",
       3,
-      2.65
+      1.7
     ],
     [
-      "chrome",
-      2,
-      2.61
-    ],
-    [
-      "windows",
-      2,
-      2.22
-    ],
-    [
-      "window",
+      "ahsaycbs",
       1,
-      2.0
-    ],
-    [
-      "closing",
-      1,
-      2.0
+      1.67
     ]
   ]
 }
