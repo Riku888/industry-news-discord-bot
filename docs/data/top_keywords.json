@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "top_today": [
     [
       "exploited",
       3
     ],
     [
-      "patches",
+      "beyondtrust",
       3
     ],
     [
-      "authenticated",
+      "zero-day",
+      3
+    ],
+    [
+      "systems",
       2
     ],
     [
-      "rce",
+      "patches",
       2
     ],
     [
-      "flaw",
-      2
-    ],
-    [
-      "palo",
-      2
-    ],
-    [
-      "alto",
-      2
-    ],
-    [
-      "networks",
-      2
-    ],
-    [
-      "pan-os",
-      2
-    ],
-    [
-      "langflow",
+      "rogue",
       1
     ],
     [
-      "critical",
+      "agents",
       1
     ],
     [
-      "targeted",
+      "broke",
       1
     ],
     [
-      "423",
+      "into",
       1
     ],
     [
-      "honeypot",
+      "indian",
       1
     ],
     [
-      "exploit",
+      "firms",
       1
     ],
     [
-      "attempts",
+      "live",
       1
     ],
     [
-      "ahsaycbs",
+      "government",
       1
     ],
     [
-      "flaws",
+      "says",
       1
     ],
     [
-      "deploy",
+      "reuters",
       1
     ],
     [
-      "web",
+      "china-linked",
+      1
+    ],
+    [
+      "hackers",
+      1
+    ],
+    [
+      "take",
+      1
+    ],
+    [
+      "over",
+      1
+    ],
+    [
+      "remote",
       1
     ]
   ],
   "rising": [
     [
-      "authenticated",
-      2,
-      3.75
-    ],
-    [
-      "pan-os",
-      2,
-      3.75
-    ],
-    [
-      "palo",
-      2,
-      3.53
-    ],
-    [
-      "alto",
-      2,
-      3.53
-    ],
-    [
-      "networks",
-      2,
-      3.53
-    ],
-    [
-      "langflow",
-      1,
-      2.0
-    ],
-    [
-      "423",
-      1,
-      2.0
-    ],
-    [
-      "honeypot",
-      1,
-      2.0
-    ],
-    [
-      "patches",
+      "beyondtrust",
       3,
-      1.7
+      6.0
     ],
     [
-      "ahsaycbs",
+      "broke",
       1,
-      1.67
+      2.0
+    ],
+    [
+      "china-linked",
+      1,
+      1.88
+    ],
+    [
+      "take",
+      1,
+      1.76
+    ],
+    [
+      "systems",
+      2,
+      1.71
+    ],
+    [
+      "live",
+      1,
+      1.58
+    ],
+    [
+      "remote",
+      1,
+      1.58
+    ],
+    [
+      "zero-day",
+      3,
+      1.53
+    ],
+    [
+      "indian",
+      1,
+      1.43
+    ],
+    [
+      "rogue",
+      1,
+      1.36
     ]
   ]
 }
