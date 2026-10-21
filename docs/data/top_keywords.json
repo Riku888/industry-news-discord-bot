@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-20",
+  "date": "2026-10-21",
   "top_today": [
     [
       "reuters",
+      6
+    ],
+    [
+      "php",
+      4
+    ],
+    [
+      "critical",
+      4
+    ],
+    [
+      "php2shell",
+      3
+    ],
+    [
+      "flaws",
+      3
+    ],
+    [
+      "dark",
       2
     ],
     [
-      "hackers",
+      "state",
       2
     ],
     [
-      "malware",
+      "bank",
       2
     ],
     [
-      "clickfix",
+      "india",
       2
     ],
     [
-      "morning",
-      1
+      "customer",
+      2
     ],
     [
-      "bid",
-      1
+      "records",
+      2
     ],
     [
-      "korean",
-      1
+      "what",
+      2
     ],
     [
-      "canary",
-      1
+      "rce",
+      2
     ],
     [
-      "coalmine",
-      1
+      "patch",
+      2
     ],
     [
-      "fake",
-      1
+      "attackers",
+      2
     ],
     [
-      "commute",
-      1
+      "hijacked",
+      2
     ],
     [
-      "how",
-      1
+      "over",
+      2
     ],
     [
-      "china",
-      1
+      "updraftcentral",
+      2
     ],
     [
-      "unemployed",
-      1
+      "keys",
+      2
     ],
     [
-      "save",
-      1
-    ],
-    [
-      "face",
-      1
-    ],
-    [
-      "hijack",
-      1
-    ],
-    [
-      "five",
-      1
-    ],
-    [
-      "ovhcloud",
-      1
-    ],
-    [
-      "cli",
-      1
+      "plant",
+      2
     ]
   ],
   "rising": [
     [
-      "clickfix",
+      "php",
+      4,
+      7.5
+    ],
+    [
+      "php2shell",
+      3,
+      6.0
+    ],
+    [
+      "updraftcentral",
       2,
-      2.14
+      4.0
     ],
     [
-      "morning",
-      1,
-      2.0
+      "dark",
+      2,
+      3.75
     ],
     [
-      "canary",
-      1,
-      2.0
+      "hijacked",
+      2,
+      3.75
     ],
     [
-      "coalmine",
-      1,
-      2.0
+      "plant",
+      2,
+      3.75
     ],
     [
-      "commute",
-      1,
-      2.0
+      "state",
+      2,
+      3.53
     ],
     [
-      "unemployed",
-      1,
-      2.0
+      "keys",
+      2,
+      3.53
     ],
     [
-      "save",
-      1,
-      2.0
+      "india",
+      2,
+      3.33
     ],
     [
-      "ovhcloud",
-      1,
-      2.0
-    ],
-    [
-      "cli",
-      1,
-      2.0
-    ],
-    [
-      "five",
-      1,
-      1.76
+      "customer",
+      2,
+      3.33
     ]
   ]
 }
