@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "top_today": [
     [
-      "reuters",
-      6
+      "vulnerabilities",
+      3
     ],
     [
-      "php",
-      4
+      "patches",
+      3
     ],
     [
-      "critical",
-      4
+      "hackers",
+      2
     ],
     [
       "php2shell",
-      3
-    ],
-    [
-      "flaws",
-      3
-    ],
-    [
-      "dark",
       2
     ],
     [
-      "state",
+      "days",
       2
     ],
     [
-      "bank",
+      "before",
       2
     ],
     [
-      "india",
-      2
+      "russia-linked",
+      1
     ],
     [
-      "customer",
-      2
+      "used",
+      1
     ],
     [
-      "records",
-      2
+      "decentralised",
+      1
     ],
     [
-      "what",
-      2
+      "network",
+      1
     ],
     [
-      "rce",
-      2
+      "ukraine",
+      1
     ],
     [
-      "patch",
-      2
+      "cyberattack",
+      1
     ],
     [
-      "attackers",
-      2
+      "eset",
+      1
     ],
     [
-      "hijacked",
-      2
+      "says",
+      1
     ],
     [
-      "over",
-      2
+      "reuters",
+      1
     ],
     [
-      "updraftcentral",
-      2
+      "litellm",
+      1
     ],
     [
-      "keys",
-      2
+      "suspects",
+      1
     ],
     [
-      "plant",
-      2
+      "github",
+      1
+    ],
+    [
+      "token",
+      1
+    ],
+    [
+      "leak",
+      1
     ]
   ],
   "rising": [
     [
-      "php",
-      4,
-      7.5
+      "vulnerabilities",
+      3,
+      2.81
     ],
     [
       "php2shell",
-      3,
-      6.0
+      2,
+      2.73
     ],
     [
-      "updraftcentral",
+      "days",
       2,
-      4.0
+      2.73
     ],
     [
-      "dark",
+      "before",
       2,
-      3.75
+      2.61
     ],
     [
-      "hijacked",
-      2,
-      3.75
+      "russia-linked",
+      1,
+      2.0
     ],
     [
-      "plant",
-      2,
-      3.75
+      "decentralised",
+      1,
+      2.0
     ],
     [
-      "state",
-      2,
-      3.53
+      "eset",
+      1,
+      2.0
     ],
     [
-      "keys",
-      2,
-      3.53
+      "suspects",
+      1,
+      2.0
     ],
     [
-      "india",
-      2,
-      3.33
+      "token",
+      1,
+      2.0
     ],
     [
-      "customer",
-      2,
-      3.33
+      "litellm",
+      1,
+      1.88
     ]
   ]
 }
