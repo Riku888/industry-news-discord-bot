@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "top_today": [
     [
-      "vulnerabilities",
+      "exploit",
       3
     ],
     [
-      "patches",
+      "data",
       3
     ],
     [
-      "hackers",
+      "critical",
       2
     ],
     [
-      "php2shell",
+      "flaw",
       2
     ],
     [
-      "days",
+      "image",
       2
     ],
     [
-      "before",
+      "crafted",
       2
     ],
     [
-      "russia-linked",
+      "attackers",
+      2
+    ],
+    [
+      "apt",
+      2
+    ],
+    [
+      "python",
       1
     ],
     [
-      "used",
+      "popular",
       1
     ],
     [
-      "decentralised",
+      "pillow",
       1
     ],
     [
-      "network",
+      "library",
       1
     ],
     [
-      "ukraine",
+      "allows",
       1
     ],
     [
-      "cyberattack",
+      "code",
       1
     ],
     [
-      "eset",
+      "execution",
       1
     ],
     [
-      "says",
+      "via",
       1
     ],
     [
-      "reuters",
+      "researchers",
       1
     ],
     [
-      "litellm",
+      "demonstrate",
       1
     ],
     [
-      "suspects",
+      "node2shell",
       1
     ],
     [
-      "github",
-      1
-    ],
-    [
-      "token",
-      1
-    ],
-    [
-      "leak",
+      "rce",
       1
     ]
   ],
   "rising": [
     [
-      "vulnerabilities",
+      "image",
+      2,
+      4.0
+    ],
+    [
+      "crafted",
+      2,
+      4.0
+    ],
+    [
+      "apt",
+      2,
+      3.53
+    ],
+    [
+      "pillow",
+      1,
+      2.0
+    ],
+    [
+      "library",
+      1,
+      2.0
+    ],
+    [
+      "node2shell",
+      1,
+      2.0
+    ],
+    [
+      "exploit",
       3,
-      2.81
+      1.91
     ],
     [
-      "php2shell",
-      2,
-      2.73
-    ],
-    [
-      "days",
-      2,
-      2.73
-    ],
-    [
-      "before",
-      2,
-      2.61
-    ],
-    [
-      "russia-linked",
-      1,
-      2.0
-    ],
-    [
-      "decentralised",
-      1,
-      2.0
-    ],
-    [
-      "eset",
-      1,
-      2.0
-    ],
-    [
-      "suspects",
-      1,
-      2.0
-    ],
-    [
-      "token",
-      1,
-      2.0
-    ],
-    [
-      "litellm",
+      "popular",
       1,
       1.88
+    ],
+    [
+      "allows",
+      1,
+      1.88
+    ],
+    [
+      "python",
+      1,
+      1.76
     ]
   ]
 }
