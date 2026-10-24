@@ -1,80 +1,80 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "top_today": [
-    [
-      "exploit",
-      3
-    ],
-    [
-      "data",
-      3
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "image",
-      2
-    ],
-    [
-      "crafted",
-      2
-    ],
-    [
-      "attackers",
-      2
-    ],
-    [
-      "apt",
-      2
-    ],
-    [
-      "python",
-      1
-    ],
-    [
-      "popular",
-      1
-    ],
-    [
-      "pillow",
-      1
-    ],
-    [
-      "library",
-      1
-    ],
-    [
-      "allows",
-      1
-    ],
-    [
-      "code",
-      1
-    ],
-    [
-      "execution",
-      1
-    ],
-    [
-      "via",
-      1
-    ],
     [
       "researchers",
       1
     ],
     [
-      "demonstrate",
+      "push",
       1
     ],
     [
-      "node2shell",
+      "over",
+      1
+    ],
+    [
+      "million",
+      1
+    ],
+    [
+      "updates",
+      1
+    ],
+    [
+      "remotely",
+      1
+    ],
+    [
+      "disable",
+      1
+    ],
+    [
+      "popcorn",
+      1
+    ],
+    [
+      "time",
+      1
+    ],
+    [
+      "updater",
+      1
+    ],
+    [
+      "that",
+      1
+    ],
+    [
+      "could",
+      1
+    ],
+    [
+      "fuel",
+      1
+    ],
+    [
+      "botnet",
+      1
+    ],
+    [
+      "brotli",
+      1
+    ],
+    [
+      "decoder",
+      1
+    ],
+    [
+      "flaw",
+      1
+    ],
+    [
+      "behind",
+      1
+    ],
+    [
+      "node",
       1
     ],
     [
@@ -84,54 +84,54 @@
   ],
   "rising": [
     [
-      "image",
-      2,
-      4.0
-    ],
-    [
-      "crafted",
-      2,
-      4.0
-    ],
-    [
-      "apt",
-      2,
-      3.53
-    ],
-    [
-      "pillow",
+      "updater",
       1,
       2.0
     ],
     [
-      "library",
-      1,
-      2.0
-    ],
-    [
-      "node2shell",
-      1,
-      2.0
-    ],
-    [
-      "exploit",
-      3,
-      1.91
-    ],
-    [
-      "popular",
+      "remotely",
       1,
       1.88
     ],
     [
-      "allows",
+      "popcorn",
       1,
       1.88
     ],
     [
-      "python",
+      "fuel",
+      1,
+      1.88
+    ],
+    [
+      "decoder",
+      1,
+      1.88
+    ],
+    [
+      "disable",
       1,
       1.76
+    ],
+    [
+      "brotli",
+      1,
+      1.76
+    ],
+    [
+      "node",
+      1,
+      1.76
+    ],
+    [
+      "updates",
+      1,
+      1.58
+    ],
+    [
+      "time",
+      1,
+      1.58
     ]
   ]
 }
