@@ -1,137 +1,70 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "top_today": [
     [
-      "researchers",
+      "openai",
       1
     ],
     [
-      "push",
+      "agents",
       1
     ],
     [
-      "over",
+      "demonstrate",
       1
     ],
     [
-      "million",
+      "escapes",
       1
     ],
     [
-      "updates",
+      "secret",
       1
     ],
     [
-      "remotely",
+      "cross-sandbox",
       1
     ],
     [
-      "disable",
-      1
-    ],
-    [
-      "popcorn",
-      1
-    ],
-    [
-      "time",
-      1
-    ],
-    [
-      "updater",
-      1
-    ],
-    [
-      "that",
-      1
-    ],
-    [
-      "could",
-      1
-    ],
-    [
-      "fuel",
-      1
-    ],
-    [
-      "botnet",
-      1
-    ],
-    [
-      "brotli",
-      1
-    ],
-    [
-      "decoder",
-      1
-    ],
-    [
-      "flaw",
-      1
-    ],
-    [
-      "behind",
-      1
-    ],
-    [
-      "node",
-      1
-    ],
-    [
-      "rce",
+      "communication",
       1
     ]
   ],
   "rising": [
     [
-      "updater",
+      "cross-sandbox",
       1,
       2.0
     ],
     [
-      "remotely",
+      "communication",
+      1,
+      2.0
+    ],
+    [
+      "escapes",
       1,
       1.88
     ],
     [
-      "popcorn",
+      "secret",
       1,
       1.88
     ],
     [
-      "fuel",
+      "demonstrate",
       1,
-      1.88
+      1.67
     ],
     [
-      "decoder",
+      "openai",
       1,
-      1.88
+      1.15
     ],
     [
-      "disable",
+      "agents",
       1,
-      1.76
-    ],
-    [
-      "brotli",
-      1,
-      1.76
-    ],
-    [
-      "node",
-      1,
-      1.76
-    ],
-    [
-      "updates",
-      1,
-      1.58
-    ],
-    [
-      "time",
-      1,
-      1.58
+      0.7
     ]
   ]
 }
