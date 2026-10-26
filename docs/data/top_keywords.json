@@ -1,70 +1,137 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "top_today": [
     [
-      "openai",
+      "users",
+      2
+    ],
+    [
+      "steal",
+      2
+    ],
+    [
+      "accounts",
+      2
+    ],
+    [
+      "microsoft",
+      2
+    ],
+    [
+      "japanese",
       1
     ],
     [
-      "agents",
+      "companies",
       1
     ],
     [
-      "demonstrate",
+      "compensate",
       1
     ],
     [
-      "escapes",
+      "cyberattacks",
       1
     ],
     [
-      "secret",
+      "buffet",
       1
     ],
     [
-      "cross-sandbox",
+      "economy",
       1
     ],
     [
-      "communication",
+      "reuters",
+      1
+    ],
+    [
+      "ucreator",
+      1
+    ],
+    [
+      "android",
+      1
+    ],
+    [
+      "spyware",
+      1
+    ],
+    [
+      "can",
+      1
+    ],
+    [
+      "telegram",
+      1
+    ],
+    [
+      "2fa",
+      1
+    ],
+    [
+      "passwords",
+      1
+    ],
+    [
+      "clone",
+      1
+    ],
+    [
+      "wechat",
       1
     ]
   ],
   "rising": [
     [
-      "cross-sandbox",
+      "accounts",
+      2,
+      3.16
+    ],
+    [
+      "users",
+      2,
+      2.61
+    ],
+    [
+      "steal",
+      2,
+      2.5
+    ],
+    [
+      "compensate",
       1,
       2.0
     ],
     [
-      "communication",
+      "buffet",
       1,
       2.0
     ],
     [
-      "escapes",
+      "economy",
       1,
-      1.88
+      2.0
     ],
     [
-      "secret",
+      "ucreator",
       1,
-      1.88
+      2.0
     ],
     [
-      "demonstrate",
+      "telegram",
       1,
-      1.67
+      2.0
     ],
     [
-      "openai",
+      "2fa",
       1,
-      1.15
+      2.0
     ],
     [
-      "agents",
+      "clone",
       1,
-      0.7
+      2.0
     ]
   ]
 }
