@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "top_today": [
     [
-      "users",
+      "new",
+      3
+    ],
+    [
+      "cybersecurity",
       2
     ],
     [
-      "steal",
+      "issue",
       2
     ],
     [
-      "accounts",
+      "forces",
       2
     ],
     [
-      "microsoft",
+      "major",
       2
     ],
     [
-      "japanese",
+      "mexico",
+      2
+    ],
+    [
+      "hospital",
+      2
+    ],
+    [
+      "divert",
+      2
+    ],
+    [
+      "patients",
+      2
+    ],
+    [
+      "close",
+      2
+    ],
+    [
+      "clinics",
+      2
+    ],
+    [
+      "cisa",
+      2
+    ],
+    [
+      "confirms",
+      2
+    ],
+    [
+      "php2shell",
+      2
+    ],
+    [
+      "exclusive",
       1
     ],
     [
-      "companies",
+      "alleged",
       1
     ],
     [
-      "compensate",
+      "israeli",
       1
     ],
     [
-      "cyberattacks",
+      "spy",
       1
     ],
     [
-      "buffet",
+      "company",
       1
     ],
     [
-      "economy",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "ucreator",
-      1
-    ],
-    [
-      "android",
-      1
-    ],
-    [
-      "spyware",
-      1
-    ],
-    [
-      "can",
-      1
-    ],
-    [
-      "telegram",
-      1
-    ],
-    [
-      "2fa",
-      1
-    ],
-    [
-      "passwords",
-      1
-    ],
-    [
-      "clone",
-      1
-    ],
-    [
-      "wechat",
+      "heavily",
       1
     ]
   ],
   "rising": [
     [
-      "accounts",
+      "issue",
+      2,
+      4.0
+    ],
+    [
+      "mexico",
+      2,
+      4.0
+    ],
+    [
+      "hospital",
+      2,
+      4.0
+    ],
+    [
+      "clinics",
+      2,
+      4.0
+    ],
+    [
+      "divert",
+      2,
+      3.75
+    ],
+    [
+      "patients",
+      2,
+      3.75
+    ],
+    [
+      "close",
+      2,
+      3.75
+    ],
+    [
+      "major",
       2,
       3.16
     ],
     [
-      "users",
+      "forces",
       2,
       2.61
     ],
     [
-      "steal",
+      "cisa",
       2,
-      2.5
-    ],
-    [
-      "compensate",
-      1,
-      2.0
-    ],
-    [
-      "buffet",
-      1,
-      2.0
-    ],
-    [
-      "economy",
-      1,
-      2.0
-    ],
-    [
-      "ucreator",
-      1,
-      2.0
-    ],
-    [
-      "telegram",
-      1,
-      2.0
-    ],
-    [
-      "2fa",
-      1,
-      2.0
-    ],
-    [
-      "clone",
-      1,
-      2.0
+      2.31
     ]
   ]
 }
