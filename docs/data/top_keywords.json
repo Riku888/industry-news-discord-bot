@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "top_today": [
     [
-      "new",
+      "reuters",
+      8
+    ],
+    [
+      "says",
+      4
+    ],
+    [
+      "flaws",
+      4
+    ],
+    [
+      "hackers",
+      4
+    ],
+    [
+      "million",
       3
     ],
     [
-      "cybersecurity",
+      "oracle",
+      3
+    ],
+    [
+      "three",
       2
     ],
     [
-      "issue",
+      "nobody",
       2
     ],
     [
-      "forces",
+      "after",
       2
     ],
     [
-      "major",
+      "attack",
       2
     ],
     [
-      "mexico",
+      "fbi",
       2
     ],
     [
-      "hospital",
+      "seizes",
       2
     ],
     [
-      "divert",
+      "hosting",
       2
     ],
     [
-      "patients",
+      "money",
       2
     ],
     [
-      "close",
+      "laundering",
       2
     ],
     [
-      "clinics",
+      "root",
+      2
+    ],
+    [
+      "exploit",
+      2
+    ],
+    [
+      "now",
+      2
+    ],
+    [
+      "flaw",
       2
     ],
     [
       "cisa",
       2
-    ],
-    [
-      "confirms",
-      2
-    ],
-    [
-      "php2shell",
-      2
-    ],
-    [
-      "exclusive",
-      1
-    ],
-    [
-      "alleged",
-      1
-    ],
-    [
-      "israeli",
-      1
-    ],
-    [
-      "spy",
-      1
-    ],
-    [
-      "company",
-      1
-    ],
-    [
-      "heavily",
-      1
     ]
   ],
   "rising": [
     [
-      "issue",
+      "oracle",
+      3,
+      5.29
+    ],
+    [
+      "nobody",
       2,
       4.0
     ],
     [
-      "mexico",
+      "laundering",
       2,
       4.0
     ],
     [
-      "hospital",
-      2,
-      4.0
-    ],
-    [
-      "clinics",
-      2,
-      4.0
-    ],
-    [
-      "divert",
+      "hosting",
       2,
       3.75
     ],
     [
-      "patients",
+      "money",
       2,
       3.75
     ],
     [
-      "close",
+      "seizes",
       2,
-      3.75
+      3.53
     ],
     [
-      "major",
+      "now",
       2,
-      3.16
+      3.0
     ],
     [
-      "forces",
+      "three",
       2,
-      2.61
+      2.73
     ],
     [
-      "cisa",
+      "root",
       2,
-      2.31
+      2.4
+    ],
+    [
+      "million",
+      3,
+      2.37
     ]
   ]
 }
