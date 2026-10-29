@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "top_today": [
     [
+      "flaw",
+      5
+    ],
+    [
+      "cisco",
+      5
+    ],
+    [
+      "zero-day",
+      5
+    ],
+    [
+      "exploited",
+      4
+    ],
+    [
       "reuters",
-      8
-    ],
-    [
-      "says",
-      4
-    ],
-    [
-      "flaws",
-      4
-    ],
-    [
-      "hackers",
-      4
-    ],
-    [
-      "million",
       3
     ],
     [
-      "oracle",
+      "attackers",
       3
     ],
     [
-      "three",
-      2
+      "vpn",
+      3
     ],
     [
-      "nobody",
-      2
-    ],
-    [
-      "after",
-      2
-    ],
-    [
-      "attack",
-      2
-    ],
-    [
-      "fbi",
-      2
-    ],
-    [
-      "seizes",
-      2
-    ],
-    [
-      "hosting",
-      2
-    ],
-    [
-      "money",
-      2
-    ],
-    [
-      "laundering",
-      2
-    ],
-    [
-      "root",
-      2
+      "firewall",
+      3
     ],
     [
       "exploit",
+      3
+    ],
+    [
+      "hackers",
+      3
+    ],
+    [
+      "chinese",
       2
     ],
     [
-      "now",
+      "say",
       2
     ],
     [
-      "flaw",
+      "crash",
       2
     ],
     [
-      "cisa",
+      "sd-wan",
       2
+    ],
+    [
+      "model",
+      1
+    ],
+    [
+      "carries",
+      1
+    ],
+    [
+      "out",
+      1
+    ],
+    [
+      "complex",
+      1
+    ],
+    [
+      "cyberattacks",
+      1
+    ],
+    [
+      "controlled",
+      1
     ]
   ],
   "rising": [
     [
-      "oracle",
+      "cisco",
+      5,
+      6.0
+    ],
+    [
+      "firewall",
+      3,
+      6.0
+    ],
+    [
+      "vpn",
       3,
       5.29
     ],
     [
-      "nobody",
+      "crash",
       2,
       4.0
     ],
     [
-      "laundering",
+      "sd-wan",
       2,
-      4.0
+      3.16
     ],
     [
-      "hosting",
-      2,
-      3.75
-    ],
-    [
-      "money",
-      2,
-      3.75
-    ],
-    [
-      "seizes",
-      2,
-      3.53
-    ],
-    [
-      "now",
-      2,
+      "zero-day",
+      5,
       3.0
     ],
     [
-      "three",
-      2,
-      2.73
-    ],
-    [
-      "root",
-      2,
-      2.4
-    ],
-    [
-      "million",
+      "attackers",
       3,
       2.37
+    ],
+    [
+      "exploited",
+      4,
+      2.14
+    ],
+    [
+      "chinese",
+      2,
+      2.14
+    ],
+    [
+      "carries",
+      1,
+      2.0
     ]
   ]
 }
