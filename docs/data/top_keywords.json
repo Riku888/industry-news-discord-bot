@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "top_today": [
-    [
-      "flaw",
-      5
-    ],
-    [
-      "cisco",
-      5
-    ],
-    [
-      "zero-day",
-      5
-    ],
     [
       "exploited",
       4
     ],
     [
+      "drupal",
+      3
+    ],
+    [
+      "commerce",
+      3
+    ],
+    [
+      "core",
+      3
+    ],
+    [
+      "vulnerability",
+      3
+    ],
+    [
       "reuters",
-      3
-    ],
-    [
-      "attackers",
-      3
-    ],
-    [
-      "vpn",
-      3
-    ],
-    [
-      "firewall",
-      3
-    ],
-    [
-      "exploit",
-      3
-    ],
-    [
-      "hackers",
-      3
-    ],
-    [
-      "chinese",
       2
     ],
     [
-      "say",
+      "binance",
       2
     ],
     [
-      "crash",
+      "crypto",
       2
     ],
     [
-      "sd-wan",
+      "theft",
       2
     ],
     [
-      "model",
+      "actively",
+      2
+    ],
+    [
+      "critical",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "gitlab",
+      2
+    ],
+    [
+      "against",
+      2
+    ],
+    [
+      "polymarket",
+      2
+    ],
+    [
+      "chain",
+      2
+    ],
+    [
+      "cyberattack",
+      2
+    ],
+    [
+      "india",
       1
     ],
     [
-      "carries",
+      "small",
       1
     ],
     [
-      "out",
-      1
-    ],
-    [
-      "complex",
-      1
-    ],
-    [
-      "cyberattacks",
-      1
-    ],
-    [
-      "controlled",
+      "finance",
       1
     ]
   ],
   "rising": [
     [
-      "cisco",
-      5,
-      6.0
-    ],
-    [
-      "firewall",
+      "commerce",
       3,
-      6.0
+      5.62
     ],
     [
-      "vpn",
+      "core",
       3,
       5.29
     ],
     [
-      "crash",
+      "drupal",
+      3,
+      5.0
+    ],
+    [
+      "polymarket",
       2,
       4.0
     ],
     [
-      "sd-wan",
+      "binance",
       2,
-      3.16
+      3.75
     ],
     [
-      "zero-day",
-      5,
-      3.0
-    ],
-    [
-      "attackers",
-      3,
-      2.37
-    ],
-    [
-      "exploited",
-      4,
-      2.14
-    ],
-    [
-      "chinese",
+      "actively",
       2,
-      2.14
+      3.33
     ],
     [
-      "carries",
-      1,
-      2.0
+      "gitlab",
+      2,
+      2.61
+    ],
+    [
+      "crypto",
+      2,
+      2.5
+    ],
+    [
+      "theft",
+      2,
+      2.31
+    ],
+    [
+      "against",
+      2,
+      2.31
     ]
   ]
 }
