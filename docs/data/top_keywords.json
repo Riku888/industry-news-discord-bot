@@ -1,137 +1,137 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "top_today": [
     [
-      "exploited",
-      4
-    ],
-    [
-      "drupal",
-      3
-    ],
-    [
-      "commerce",
-      3
-    ],
-    [
-      "core",
-      3
-    ],
-    [
-      "vulnerability",
-      3
-    ],
-    [
-      "reuters",
-      2
-    ],
-    [
-      "binance",
-      2
-    ],
-    [
-      "crypto",
-      2
-    ],
-    [
-      "theft",
-      2
-    ],
-    [
-      "actively",
-      2
-    ],
-    [
-      "critical",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "gitlab",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "polymarket",
-      2
-    ],
-    [
-      "chain",
-      2
-    ],
-    [
-      "cyberattack",
-      2
-    ],
-    [
-      "india",
+      "carney",
       1
     ],
     [
-      "small",
+      "eyes",
       1
     ],
     [
-      "finance",
+      "june",
+      1
+    ],
+    [
+      "deal",
+      1
+    ],
+    [
+      "canada",
+      1
+    ],
+    [
+      "become",
+      1
+    ],
+    [
+      "associate",
+      1
+    ],
+    [
+      "member",
+      1
+    ],
+    [
+      "trump",
+      1
+    ],
+    [
+      "reshapes",
+      1
+    ],
+    [
+      "alliances",
+      1
+    ],
+    [
+      "news",
+      1
+    ],
+    [
+      "inside",
+      1
+    ],
+    [
+      "malicious",
+      1
+    ],
+    [
+      "claude",
+      1
+    ],
+    [
+      "code-branded",
+      1
+    ],
+    [
+      "extension",
+      1
+    ],
+    [
+      "its",
+      1
+    ],
+    [
+      "persistent",
+      1
+    ],
+    [
+      "ssh",
       1
     ]
   ],
   "rising": [
     [
-      "commerce",
-      3,
-      5.62
+      "eyes",
+      1,
+      2.0
     ],
     [
-      "core",
-      3,
-      5.29
+      "june",
+      1,
+      2.0
     ],
     [
-      "drupal",
-      3,
-      5.0
+      "canada",
+      1,
+      2.0
     ],
     [
-      "polymarket",
-      2,
-      4.0
+      "become",
+      1,
+      2.0
     ],
     [
-      "binance",
-      2,
-      3.75
+      "associate",
+      1,
+      2.0
     ],
     [
-      "actively",
-      2,
-      3.33
+      "reshapes",
+      1,
+      2.0
     ],
     [
-      "gitlab",
-      2,
-      2.61
+      "alliances",
+      1,
+      2.0
     ],
     [
-      "crypto",
-      2,
-      2.5
+      "code-branded",
+      1,
+      2.0
     ],
     [
-      "theft",
-      2,
-      2.31
+      "carney",
+      1,
+      1.88
     ],
     [
-      "against",
-      2,
-      2.31
+      "persistent",
+      1,
+      1.88
     ]
   ]
 }
