@@ -1,137 +1,97 @@
 {
-  "date": "2026-10-31",
+  "date": "2026-11-01",
   "top_today": [
     [
-      "carney",
+      "netamloader",
       1
     ],
     [
-      "eyes",
+      "malware",
       1
     ],
     [
-      "june",
+      "targets",
       1
     ],
     [
-      "deal",
+      "government",
       1
     ],
     [
-      "canada",
+      "windows",
       1
     ],
     [
-      "become",
+      "systems",
       1
     ],
     [
-      "associate",
+      "asia",
       1
     ],
     [
-      "member",
+      "via",
       1
     ],
     [
-      "trump",
+      "net",
       1
     ],
     [
-      "reshapes",
-      1
-    ],
-    [
-      "alliances",
-      1
-    ],
-    [
-      "news",
-      1
-    ],
-    [
-      "inside",
-      1
-    ],
-    [
-      "malicious",
-      1
-    ],
-    [
-      "claude",
-      1
-    ],
-    [
-      "code-branded",
-      1
-    ],
-    [
-      "extension",
-      1
-    ],
-    [
-      "its",
-      1
-    ],
-    [
-      "persistent",
-      1
-    ],
-    [
-      "ssh",
+      "injection",
       1
     ]
   ],
   "rising": [
     [
-      "eyes",
+      "netamloader",
       1,
       2.0
     ],
     [
-      "june",
-      1,
-      2.0
-    ],
-    [
-      "canada",
-      1,
-      2.0
-    ],
-    [
-      "become",
-      1,
-      2.0
-    ],
-    [
-      "associate",
-      1,
-      2.0
-    ],
-    [
-      "reshapes",
-      1,
-      2.0
-    ],
-    [
-      "alliances",
-      1,
-      2.0
-    ],
-    [
-      "code-branded",
-      1,
-      2.0
-    ],
-    [
-      "carney",
+      "net",
       1,
       1.88
     ],
     [
-      "persistent",
+      "asia",
       1,
-      1.88
+      1.76
+    ],
+    [
+      "injection",
+      1,
+      1.67
+    ],
+    [
+      "via",
+      1,
+      1.43
+    ],
+    [
+      "targets",
+      1,
+      1.3
+    ],
+    [
+      "windows",
+      1,
+      1.3
+    ],
+    [
+      "government",
+      1,
+      1.2
+    ],
+    [
+      "systems",
+      1,
+      1.03
+    ],
+    [
+      "malware",
+      1,
+      0.57
     ]
   ]
 }
