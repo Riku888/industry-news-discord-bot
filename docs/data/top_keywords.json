@@ -1,97 +1,137 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "top_today": [
     [
-      "netamloader",
-      1
+      "reuters",
+      7
     ],
     [
-      "malware",
-      1
+      "cyberattack",
+      3
     ],
     [
-      "targets",
-      1
+      "two",
+      3
+    ],
+    [
+      "attacks",
+      3
+    ],
+    [
+      "hits",
+      2
+    ],
+    [
+      "supermarkets",
+      2
+    ],
+    [
+      "across",
+      2
+    ],
+    [
+      "europe",
+      2
+    ],
+    [
+      "financial",
+      2
+    ],
+    [
+      "reports",
+      2
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "new",
+      2
     ],
     [
       "government",
-      1
+      2
     ],
     [
-      "windows",
-      1
+      "servers",
+      2
     ],
     [
-      "systems",
-      1
+      "suspected",
+      2
     ],
     [
-      "asia",
-      1
+      "claude",
+      2
     ],
     [
-      "via",
-      1
+      "warns",
+      2
     ],
     [
-      "net",
-      1
+      "ivanti",
+      2
     ],
     [
-      "injection",
-      1
+      "patches",
+      2
+    ],
+    [
+      "more",
+      2
     ]
   ],
   "rising": [
     [
-      "netamloader",
-      1,
-      2.0
+      "supermarkets",
+      2,
+      3.33
     ],
     [
-      "net",
-      1,
-      1.88
+      "europe",
+      2,
+      3.33
     ],
     [
-      "asia",
-      1,
-      1.76
+      "financial",
+      2,
+      3.0
     ],
     [
-      "injection",
-      1,
-      1.67
+      "hits",
+      2,
+      2.86
     ],
     [
-      "via",
-      1,
-      1.43
+      "two",
+      3,
+      2.73
     ],
     [
-      "targets",
-      1,
-      1.3
+      "ivanti",
+      2,
+      2.73
     ],
     [
-      "windows",
-      1,
-      1.3
+      "suspected",
+      2,
+      2.61
     ],
     [
       "government",
-      1,
-      1.2
+      2,
+      2.5
     ],
     [
-      "systems",
-      1,
-      1.03
+      "claude",
+      2,
+      2.4
     ],
     [
-      "malware",
-      1,
-      0.57
+      "across",
+      2,
+      2.22
     ]
   ]
 }
