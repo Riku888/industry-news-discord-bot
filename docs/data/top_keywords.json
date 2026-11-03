@@ -1,137 +1,137 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "top_today": [
     [
-      "reuters",
+      "flaw",
       7
     ],
     [
-      "cyberattack",
-      3
+      "cyber",
+      4
     ],
     [
-      "two",
-      3
+      "cyberattacks",
+      4
     ],
     [
-      "attacks",
-      3
-    ],
-    [
-      "hits",
-      2
-    ],
-    [
-      "supermarkets",
-      2
-    ],
-    [
-      "across",
-      2
-    ],
-    [
-      "europe",
-      2
-    ],
-    [
-      "financial",
-      2
-    ],
-    [
-      "reports",
-      2
+      "critical",
+      4
     ],
     [
       "says",
+      3
+    ],
+    [
+      "chief",
+      3
+    ],
+    [
+      "exploit",
+      3
+    ],
+    [
+      "security",
       2
     ],
     [
-      "new",
+      "reuters",
       2
     ],
     [
-      "government",
+      "indian",
       2
     ],
     [
-      "servers",
+      "will",
       2
     ],
     [
-      "suspected",
+      "face",
       2
     ],
     [
-      "claude",
+      "infrastructure",
       2
     ],
     [
-      "warns",
+      "2028",
       2
     ],
     [
-      "ivanti",
+      "testing",
       2
     ],
     [
-      "patches",
+      "hackers",
       2
     ],
     [
-      "more",
+      "devices",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "attackers",
+      2
+    ],
+    [
+      "android",
       2
     ]
   ],
   "rising": [
     [
-      "supermarkets",
-      2,
-      3.33
+      "chief",
+      3,
+      5.29
     ],
     [
-      "europe",
-      2,
-      3.33
+      "cyberattacks",
+      4,
+      4.14
     ],
     [
-      "financial",
+      "2028",
+      2,
+      3.75
+    ],
+    [
+      "testing",
+      2,
+      3.75
+    ],
+    [
+      "cyber",
+      4,
+      3.43
+    ],
+    [
+      "indian",
+      2,
+      3.16
+    ],
+    [
+      "will",
       2,
       3.0
     ],
     [
-      "hits",
+      "face",
       2,
-      2.86
+      3.0
     ],
     [
-      "two",
-      3,
-      2.73
+      "flaw",
+      7,
+      2.56
     ],
     [
-      "ivanti",
-      2,
-      2.73
-    ],
-    [
-      "suspected",
-      2,
-      2.61
-    ],
-    [
-      "government",
+      "infrastructure",
       2,
       2.5
-    ],
-    [
-      "claude",
-      2,
-      2.4
-    ],
-    [
-      "across",
-      2,
-      2.22
     ]
   ]
 }
