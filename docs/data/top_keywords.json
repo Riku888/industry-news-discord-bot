@@ -1,72 +1,40 @@
 {
-  "date": "2026-11-03",
+  "date": "2026-11-04",
   "top_today": [
     [
+      "hackers",
+      3
+    ],
+    [
       "flaw",
-      7
+      3
     ],
     [
-      "cyber",
-      4
+      "cloud",
+      3
     ],
     [
-      "cyberattacks",
-      4
+      "breach",
+      2
     ],
     [
       "critical",
-      4
-    ],
-    [
-      "says",
-      3
-    ],
-    [
-      "chief",
-      3
-    ],
-    [
-      "exploit",
-      3
-    ],
-    [
-      "security",
       2
     ],
     [
-      "reuters",
+      "android",
       2
     ],
     [
-      "indian",
+      "rce",
       2
     ],
     [
-      "will",
+      "cisa",
       2
     ],
     [
-      "face",
-      2
-    ],
-    [
-      "infrastructure",
-      2
-    ],
-    [
-      "2028",
-      2
-    ],
-    [
-      "testing",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "devices",
+      "wordpress",
       2
     ],
     [
@@ -74,64 +42,96 @@
       2
     ],
     [
-      "attackers",
+      "security",
       2
     ],
     [
-      "android",
+      "data",
       2
+    ],
+    [
+      "singapore",
+      1
+    ],
+    [
+      "airlines",
+      1
+    ],
+    [
+      "says",
+      1
+    ],
+    [
+      "000",
+      1
+    ],
+    [
+      "booking",
+      1
+    ],
+    [
+      "records",
+      1
+    ],
+    [
+      "affected",
+      1
+    ],
+    [
+      "amadeus",
+      1
     ]
   ],
   "rising": [
     [
-      "chief",
+      "cloud",
       3,
-      5.29
-    ],
-    [
-      "cyberattacks",
-      4,
-      4.14
-    ],
-    [
-      "2028",
-      2,
-      3.75
-    ],
-    [
-      "testing",
-      2,
-      3.75
-    ],
-    [
-      "cyber",
-      4,
-      3.43
-    ],
-    [
-      "indian",
-      2,
-      3.16
-    ],
-    [
-      "will",
-      2,
       3.0
     ],
     [
-      "face",
+      "wordpress",
       2,
-      3.0
+      2.31
     ],
     [
-      "flaw",
-      7,
-      2.56
+      "cisa",
+      2,
+      2.07
     ],
     [
-      "infrastructure",
+      "booking",
+      1,
+      2.0
+    ],
+    [
+      "affected",
+      1,
+      2.0
+    ],
+    [
+      "amadeus",
+      1,
+      2.0
+    ],
+    [
+      "singapore",
+      1,
+      1.88
+    ],
+    [
+      "android",
       2,
-      2.5
+      1.71
+    ],
+    [
+      "airlines",
+      1,
+      1.67
+    ],
+    [
+      "breach",
+      2,
+      1.4
     ]
   ]
 }
