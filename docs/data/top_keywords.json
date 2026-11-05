@@ -1,8 +1,12 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "top_today": [
     [
-      "hackers",
+      "exploit",
+      4
+    ],
+    [
+      "root",
       3
     ],
     [
@@ -10,15 +14,39 @@
       3
     ],
     [
-      "cloud",
-      3
-    ],
-    [
-      "breach",
+      "hacking",
       2
     ],
     [
-      "critical",
+      "reuters",
+      2
+    ],
+    [
+      "flags",
+      2
+    ],
+    [
+      "against",
+      2
+    ],
+    [
+      "openai",
+      2
+    ],
+    [
+      "zyxel",
+      2
+    ],
+    [
+      "zero-day",
+      2
+    ],
+    [
+      "hackers",
+      2
+    ],
+    [
+      "patched",
       2
     ],
     [
@@ -26,112 +54,84 @@
       2
     ],
     [
-      "rce",
+      "bank",
       2
     ],
     [
-      "cisa",
+      "blood",
       2
     ],
     [
-      "wordpress",
+      "hit",
       2
     ],
     [
-      "attacks",
-      2
-    ],
-    [
-      "security",
-      2
-    ],
-    [
-      "data",
-      2
-    ],
-    [
-      "singapore",
+      "sharpens",
       1
     ],
     [
-      "airlines",
+      "cat-and-mouse",
       1
     ],
     [
-      "says",
+      "battle",
       1
     ],
     [
-      "000",
-      1
-    ],
-    [
-      "booking",
-      1
-    ],
-    [
-      "records",
-      1
-    ],
-    [
-      "affected",
-      1
-    ],
-    [
-      "amadeus",
+      "companies",
       1
     ]
   ],
   "rising": [
     [
-      "cloud",
+      "zyxel",
+      2,
+      3.75
+    ],
+    [
+      "flags",
+      2,
+      3.53
+    ],
+    [
+      "blood",
+      2,
+      3.33
+    ],
+    [
+      "root",
       3,
-      3.0
+      2.9
     ],
     [
-      "wordpress",
+      "hacking",
       2,
-      2.31
+      2.73
     ],
     [
-      "cisa",
+      "patched",
       2,
-      2.07
+      2.73
     ],
     [
-      "booking",
-      1,
-      2.0
-    ],
-    [
-      "affected",
-      1,
-      2.0
-    ],
-    [
-      "amadeus",
-      1,
-      2.0
-    ],
-    [
-      "singapore",
-      1,
-      1.88
-    ],
-    [
-      "android",
+      "openai",
       2,
-      1.71
+      2.4
     ],
     [
-      "airlines",
-      1,
-      1.67
+      "exploit",
+      4,
+      2.35
     ],
     [
-      "breach",
+      "against",
       2,
-      1.4
+      2.14
+    ],
+    [
+      "bank",
+      2,
+      2.14
     ]
   ]
 }
