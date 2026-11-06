@@ -1,137 +1,137 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "top_today": [
-    [
-      "exploit",
-      4
-    ],
-    [
-      "root",
-      3
-    ],
-    [
-      "flaw",
-      3
-    ],
-    [
-      "hacking",
-      2
-    ],
-    [
-      "reuters",
-      2
-    ],
-    [
-      "flags",
-      2
-    ],
-    [
-      "against",
-      2
-    ],
-    [
-      "openai",
-      2
-    ],
-    [
-      "zyxel",
-      2
-    ],
-    [
-      "zero-day",
-      2
-    ],
     [
       "hackers",
       2
     ],
     [
-      "patched",
+      "users",
       2
     ],
     [
-      "android",
+      "without",
       2
     ],
     [
-      "bank",
+      "warns",
       2
     ],
     [
-      "blood",
+      "refrigeration",
       2
     ],
     [
-      "hit",
-      2
-    ],
-    [
-      "sharpens",
+      "north",
       1
     ],
     [
-      "cat-and-mouse",
+      "korea",
       1
     ],
     [
-      "battle",
+      "army",
       1
     ],
     [
-      "companies",
+      "world-class",
+      1
+    ],
+    [
+      "secret",
+      1
+    ],
+    [
+      "weapon",
+      1
+    ],
+    [
+      "that",
+      1
+    ],
+    [
+      "took",
+      1
+    ],
+    [
+      "down",
+      1
+    ],
+    [
+      "binance",
+      1
+    ],
+    [
+      "reuters",
+      1
+    ],
+    [
+      "microsoft",
+      1
+    ],
+    [
+      "paint",
+      1
+    ],
+    [
+      "rce",
+      1
+    ],
+    [
+      "fix",
       1
     ]
   ],
   "rising": [
     [
-      "zyxel",
-      2,
-      3.75
-    ],
-    [
-      "flags",
+      "without",
       2,
       3.53
     ],
     [
-      "blood",
+      "refrigeration",
       2,
-      3.33
+      2.5
     ],
     [
-      "root",
-      3,
-      2.9
-    ],
-    [
-      "hacking",
-      2,
-      2.73
-    ],
-    [
-      "patched",
-      2,
-      2.73
-    ],
-    [
-      "openai",
-      2,
-      2.4
-    ],
-    [
-      "exploit",
-      4,
-      2.35
-    ],
-    [
-      "against",
+      "users",
       2,
       2.14
     ],
     [
-      "bank",
-      2,
-      2.14
+      "world-class",
+      1,
+      2.0
+    ],
+    [
+      "weapon",
+      1,
+      2.0
+    ],
+    [
+      "took",
+      1,
+      2.0
+    ],
+    [
+      "paint",
+      1,
+      2.0
+    ],
+    [
+      "army",
+      1,
+      1.76
+    ],
+    [
+      "secret",
+      1,
+      1.67
+    ],
+    [
+      "fix",
+      1,
+      1.58
     ]
   ]
 }
