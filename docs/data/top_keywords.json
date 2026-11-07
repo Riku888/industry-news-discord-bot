@@ -1,48 +1,52 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "top_today": [
     [
-      "hackers",
+      "sonicwall",
       2
     ],
     [
-      "users",
-      2
-    ],
-    [
-      "without",
+      "exploited",
       2
     ],
     [
       "warns",
-      2
-    ],
-    [
-      "refrigeration",
-      2
-    ],
-    [
-      "north",
       1
     ],
     [
-      "korea",
+      "new",
       1
     ],
     [
-      "army",
+      "ssl-vpn",
       1
     ],
     [
-      "world-class",
+      "mfa",
       1
     ],
     [
-      "secret",
+      "bypass",
       1
     ],
     [
-      "weapon",
+      "flaw",
+      1
+    ],
+    [
+      "attacks",
+      1
+    ],
+    [
+      "patches",
+      1
+    ],
+    [
+      "sonicos",
+      1
+    ],
+    [
+      "vulnerability",
       1
     ],
     [
@@ -50,88 +54,68 @@
       1
     ],
     [
-      "took",
+      "weakens",
       1
     ],
     [
-      "down",
+      "vpn",
       1
     ],
     [
-      "binance",
-      1
-    ],
-    [
-      "reuters",
-      1
-    ],
-    [
-      "microsoft",
-      1
-    ],
-    [
-      "paint",
-      1
-    ],
-    [
-      "rce",
-      1
-    ],
-    [
-      "fix",
+      "logins",
       1
     ]
   ],
   "rising": [
     [
-      "without",
+      "sonicwall",
       2,
-      3.53
+      2.61
     ],
     [
-      "refrigeration",
-      2,
-      2.5
-    ],
-    [
-      "users",
-      2,
-      2.14
-    ],
-    [
-      "world-class",
+      "ssl-vpn",
       1,
       2.0
     ],
     [
-      "weapon",
+      "sonicos",
       1,
       2.0
     ],
     [
-      "took",
+      "weakens",
       1,
       2.0
     ],
     [
-      "paint",
+      "logins",
       1,
-      2.0
+      1.88
     ],
     [
-      "army",
-      1,
-      1.76
-    ],
-    [
-      "secret",
-      1,
-      1.67
-    ],
-    [
-      "fix",
+      "mfa",
       1,
       1.58
+    ],
+    [
+      "vpn",
+      1,
+      1.5
+    ],
+    [
+      "bypass",
+      1,
+      1.07
+    ],
+    [
+      "exploited",
+      2,
+      1.0
+    ],
+    [
+      "that",
+      1,
+      0.97
     ]
   ]
 }
