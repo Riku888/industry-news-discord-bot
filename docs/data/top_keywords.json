@@ -1,121 +1,97 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "top_today": [
     [
-      "sonicwall",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "warns",
+      "astellas",
       1
     ],
     [
-      "new",
+      "employee",
       1
     ],
     [
-      "ssl-vpn",
+      "imprisoned",
       1
     ],
     [
-      "mfa",
+      "china",
       1
     ],
     [
-      "bypass",
+      "released",
       1
     ],
     [
-      "flaw",
+      "december",
       1
     ],
     [
-      "attacks",
+      "japanese",
       1
     ],
     [
-      "patches",
+      "media",
       1
     ],
     [
-      "sonicos",
+      "report",
       1
     ],
     [
-      "vulnerability",
-      1
-    ],
-    [
-      "that",
-      1
-    ],
-    [
-      "weakens",
-      1
-    ],
-    [
-      "vpn",
-      1
-    ],
-    [
-      "logins",
+      "reuters",
       1
     ]
   ],
   "rising": [
     [
-      "sonicwall",
-      2,
-      2.61
-    ],
-    [
-      "ssl-vpn",
+      "astellas",
       1,
       2.0
     ],
     [
-      "sonicos",
+      "imprisoned",
       1,
       2.0
     ],
     [
-      "weakens",
+      "released",
       1,
       2.0
     ],
     [
-      "logins",
+      "december",
+      1,
+      2.0
+    ],
+    [
+      "employee",
       1,
       1.88
     ],
     [
-      "mfa",
+      "japanese",
       1,
-      1.58
+      1.76
     ],
     [
-      "vpn",
+      "media",
+      1,
+      1.76
+    ],
+    [
+      "report",
       1,
       1.5
     ],
     [
-      "bypass",
+      "china",
       1,
-      1.07
+      1.11
     ],
     [
-      "exploited",
-      2,
-      1.0
-    ],
-    [
-      "that",
+      "reuters",
       1,
-      0.97
+      0.13
     ]
   ]
 }
