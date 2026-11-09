@@ -1,97 +1,137 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "top_today": [
     [
-      "astellas",
-      1
-    ],
-    [
-      "employee",
-      1
-    ],
-    [
-      "imprisoned",
-      1
-    ],
-    [
-      "china",
-      1
-    ],
-    [
-      "released",
-      1
-    ],
-    [
-      "december",
-      1
-    ],
-    [
-      "japanese",
-      1
-    ],
-    [
-      "media",
-      1
-    ],
-    [
-      "report",
-      1
-    ],
-    [
       "reuters",
+      4
+    ],
+    [
+      "hackers",
+      4
+    ],
+    [
+      "exploited",
+      3
+    ],
+    [
+      "sshole",
+      2
+    ],
+    [
+      "flaw",
+      2
+    ],
+    [
+      "steal",
+      2
+    ],
+    [
+      "amid",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "bypass",
+      2
+    ],
+    [
+      "breach",
+      2
+    ],
+    [
+      "data",
+      2
+    ],
+    [
+      "pro-russian",
+      2
+    ],
+    [
+      "web",
+      2
+    ],
+    [
+      "allies",
+      1
+    ],
+    [
+      "assess",
+      1
+    ],
+    [
+      "impact",
+      1
+    ],
+    [
+      "trump",
+      1
+    ],
+    [
+      "midterm",
+      1
+    ],
+    [
+      "setback",
+      1
+    ],
+    [
+      "paris",
       1
     ]
   ],
   "rising": [
     [
-      "astellas",
+      "pro-russian",
+      2,
+      3.75
+    ],
+    [
+      "sshole",
+      2,
+      3.53
+    ],
+    [
+      "web",
+      2,
+      2.61
+    ],
+    [
+      "amid",
+      2,
+      2.5
+    ],
+    [
+      "steal",
+      2,
+      2.22
+    ],
+    [
+      "bypass",
+      2,
+      2.07
+    ],
+    [
+      "allies",
       1,
       2.0
     ],
     [
-      "imprisoned",
+      "assess",
       1,
       2.0
     ],
     [
-      "released",
+      "setback",
       1,
       2.0
     ],
     [
-      "december",
-      1,
-      2.0
-    ],
-    [
-      "employee",
+      "impact",
       1,
       1.88
-    ],
-    [
-      "japanese",
-      1,
-      1.76
-    ],
-    [
-      "media",
-      1,
-      1.76
-    ],
-    [
-      "report",
-      1,
-      1.5
-    ],
-    [
-      "china",
-      1,
-      1.11
-    ],
-    [
-      "reuters",
-      1,
-      0.13
     ]
   ]
 }
