@@ -1,9 +1,13 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "top_today": [
     [
-      "reuters",
-      4
+      "patches",
+      5
+    ],
+    [
+      "flaws",
+      5
     ],
     [
       "hackers",
@@ -11,127 +15,123 @@
     ],
     [
       "exploited",
+      4
+    ],
+    [
+      "france",
       3
     ],
     [
-      "sshole",
+      "iran",
+      3
+    ],
+    [
+      "over",
+      3
+    ],
+    [
+      "warns",
+      3
+    ],
+    [
+      "new",
+      3
+    ],
+    [
+      "malware",
+      3
+    ],
+    [
+      "servers",
+      3
+    ],
+    [
+      "chrome",
+      3
+    ],
+    [
+      "eighth",
+      3
+    ],
+    [
+      "zero-day",
+      3
+    ],
+    [
+      "supermarket",
       2
     ],
     [
-      "flaw",
+      "hack",
       2
     ],
     [
-      "steal",
+      "sandbox",
       2
     ],
     [
-      "amid",
+      "that",
       2
     ],
     [
-      "attacks",
+      "vulnerabilities",
       2
     ],
     [
-      "bypass",
+      "russian",
       2
-    ],
-    [
-      "breach",
-      2
-    ],
-    [
-      "data",
-      2
-    ],
-    [
-      "pro-russian",
-      2
-    ],
-    [
-      "web",
-      2
-    ],
-    [
-      "allies",
-      1
-    ],
-    [
-      "assess",
-      1
-    ],
-    [
-      "impact",
-      1
-    ],
-    [
-      "trump",
-      1
-    ],
-    [
-      "midterm",
-      1
-    ],
-    [
-      "setback",
-      1
-    ],
-    [
-      "paris",
-      1
     ]
   ],
   "rising": [
     [
-      "pro-russian",
+      "eighth",
+      3,
+      6.0
+    ],
+    [
+      "iran",
+      3,
+      4.29
+    ],
+    [
+      "chrome",
+      3,
+      4.29
+    ],
+    [
+      "france",
+      3,
+      4.09
+    ],
+    [
+      "sandbox",
       2,
       3.75
     ],
     [
-      "sshole",
-      2,
-      3.53
+      "servers",
+      3,
+      3.0
     ],
     [
-      "web",
+      "hack",
+      2,
+      2.73
+    ],
+    [
+      "patches",
+      5,
+      2.68
+    ],
+    [
+      "supermarket",
       2,
       2.61
     ],
     [
-      "amid",
-      2,
-      2.5
-    ],
-    [
-      "steal",
-      2,
-      2.22
-    ],
-    [
-      "bypass",
-      2,
-      2.07
-    ],
-    [
-      "allies",
-      1,
-      2.0
-    ],
-    [
-      "assess",
-      1,
-      2.0
-    ],
-    [
-      "setback",
-      1,
-      2.0
-    ],
-    [
-      "impact",
-      1,
-      1.88
+      "flaws",
+      5,
+      2.34
     ]
   ]
 }
