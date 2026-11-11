@@ -1,16 +1,12 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "top_today": [
     [
-      "patches",
-      5
+      "vulnerabilities",
+      7
     ],
     [
-      "flaws",
-      5
-    ],
-    [
-      "hackers",
+      "reuters",
       4
     ],
     [
@@ -18,120 +14,124 @@
       4
     ],
     [
-      "france",
+      "exclusive",
       3
     ],
     [
-      "iran",
+      "patches",
       3
     ],
     [
-      "over",
+      "flaws",
       3
     ],
     [
-      "warns",
+      "cisco",
       3
     ],
     [
-      "new",
+      "broadworks",
       3
     ],
     [
-      "malware",
+      "patch",
       3
     ],
     [
-      "servers",
-      3
-    ],
-    [
-      "chrome",
-      3
-    ],
-    [
-      "eighth",
-      3
-    ],
-    [
-      "zero-day",
-      3
-    ],
-    [
-      "supermarket",
+      "government",
       2
     ],
     [
-      "hack",
+      "researchers",
       2
     ],
     [
-      "sandbox",
+      "say",
       2
     ],
     [
-      "that",
+      "despite",
       2
     ],
     [
-      "vulnerabilities",
+      "microsoft",
       2
     ],
     [
-      "russian",
+      "openwave",
+      2
+    ],
+    [
+      "actively",
+      2
+    ],
+    [
+      "flags",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "high-severity",
+      2
+    ],
+    [
+      "tuesday",
       2
     ]
   ],
   "rising": [
     [
-      "eighth",
+      "vulnerabilities",
+      7,
+      6.0
+    ],
+    [
+      "broadworks",
       3,
       6.0
     ],
     [
-      "iran",
+      "exclusive",
       3,
-      4.29
+      4.5
     ],
     [
-      "chrome",
-      3,
-      4.29
+      "despite",
+      2,
+      4.0
     ],
     [
-      "france",
-      3,
-      4.09
+      "openwave",
+      2,
+      4.0
     ],
     [
-      "sandbox",
+      "high-severity",
       2,
       3.75
     ],
     [
-      "servers",
+      "cisco",
       3,
+      3.21
+    ],
+    [
+      "flags",
+      2,
       3.0
     ],
     [
-      "hack",
+      "actively",
       2,
-      2.73
+      2.86
     ],
     [
-      "patches",
-      5,
-      2.68
-    ],
-    [
-      "supermarket",
+      "tuesday",
       2,
       2.61
-    ],
-    [
-      "flaws",
-      5,
-      2.34
     ]
   ]
 }
