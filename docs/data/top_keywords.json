@@ -1,137 +1,137 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "top_today": [
     [
-      "vulnerabilities",
+      "reuters",
       7
     ],
     [
-      "reuters",
+      "says",
       4
     ],
     [
-      "exploited",
-      4
-    ],
-    [
-      "exclusive",
+      "data",
       3
     ],
     [
-      "patches",
+      "servers",
       3
     ],
     [
-      "flaws",
+      "campaign",
       3
     ],
     [
-      "cisco",
+      "critical",
       3
     ],
     [
-      "broadworks",
+      "security",
       3
     ],
     [
-      "patch",
+      "hackers",
       3
-    ],
-    [
-      "government",
-      2
-    ],
-    [
-      "researchers",
-      2
     ],
     [
       "say",
       2
     ],
     [
-      "despite",
+      "business",
       2
     ],
     [
-      "microsoft",
+      "over",
       2
     ],
     [
-      "openwave",
+      "how",
       2
     ],
     [
-      "actively",
+      "identity",
       2
     ],
     [
-      "flags",
+      "n-central",
       2
     ],
     [
-      "attacks",
+      "against",
       2
     ],
     [
-      "high-severity",
+      "enable",
       2
     ],
     [
-      "tuesday",
+      "windows",
+      2
+    ],
+    [
+      "access",
+      2
+    ],
+    [
+      "inside",
+      2
+    ],
+    [
+      "patches",
       2
     ]
   ],
   "rising": [
     [
-      "vulnerabilities",
-      7,
-      6.0
-    ],
-    [
-      "broadworks",
-      3,
-      6.0
-    ],
-    [
-      "exclusive",
-      3,
-      4.5
-    ],
-    [
-      "despite",
+      "enable",
       2,
       4.0
     ],
     [
-      "openwave",
-      2,
-      4.0
-    ],
-    [
-      "high-severity",
+      "business",
       2,
       3.75
     ],
     [
-      "cisco",
-      3,
-      3.21
-    ],
-    [
-      "flags",
+      "n-central",
       2,
-      3.0
+      3.53
     ],
     [
-      "actively",
+      "campaign",
+      3,
+      3.46
+    ],
+    [
+      "identity",
       2,
       2.86
     ],
     [
-      "tuesday",
+      "inside",
       2,
-      2.61
+      2.86
+    ],
+    [
+      "servers",
+      3,
+      2.57
+    ],
+    [
+      "windows",
+      2,
+      2.5
+    ],
+    [
+      "against",
+      2,
+      2.0
+    ],
+    [
+      "how",
+      2,
+      1.94
     ]
   ]
 }
