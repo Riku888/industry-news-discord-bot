@@ -1,56 +1,72 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "top_today": [
     [
       "reuters",
-      7
-    ],
-    [
-      "says",
       4
     ],
     [
-      "data",
+      "hackers",
+      4
+    ],
+    [
+      "exploit",
+      4
+    ],
+    [
+      "check",
       3
+    ],
+    [
+      "point",
+      3
+    ],
+    [
+      "zero-day",
+      3
+    ],
+    [
+      "says",
+      2
+    ],
+    [
+      "silentair",
+      2
+    ],
+    [
+      "networks",
+      2
+    ],
+    [
+      "intercept",
+      2
+    ],
+    [
+      "sms",
+      2
+    ],
+    [
+      "gootloader",
+      2
+    ],
+    [
+      "castlerat",
+      2
+    ],
+    [
+      "stealc",
+      2
     ],
     [
       "servers",
-      3
-    ],
-    [
-      "campaign",
-      3
-    ],
-    [
-      "critical",
-      3
-    ],
-    [
-      "security",
-      3
-    ],
-    [
-      "hackers",
-      3
-    ],
-    [
-      "say",
       2
     ],
     [
-      "business",
+      "php2shell",
       2
     ],
     [
-      "over",
-      2
-    ],
-    [
-      "how",
-      2
-    ],
-    [
-      "identity",
+      "flaws",
       2
     ],
     [
@@ -58,80 +74,64 @@
       2
     ],
     [
-      "against",
+      "exploited",
       2
     ],
     [
-      "enable",
-      2
-    ],
-    [
-      "windows",
-      2
-    ],
-    [
-      "access",
-      2
-    ],
-    [
-      "inside",
-      2
-    ],
-    [
-      "patches",
+      "confirms",
       2
     ]
   ],
   "rising": [
     [
-      "enable",
+      "check",
+      3,
+      5.62
+    ],
+    [
+      "point",
+      3,
+      5.62
+    ],
+    [
+      "silentair",
       2,
       4.0
     ],
     [
-      "business",
+      "intercept",
+      2,
+      3.75
+    ],
+    [
+      "sms",
+      2,
+      3.75
+    ],
+    [
+      "gootloader",
+      2,
+      3.75
+    ],
+    [
+      "castlerat",
+      2,
+      3.75
+    ],
+    [
+      "stealc",
       2,
       3.75
     ],
     [
       "n-central",
       2,
-      3.53
+      3.16
     ],
     [
-      "campaign",
-      3,
-      3.46
-    ],
-    [
-      "identity",
+      "networks",
       2,
-      2.86
-    ],
-    [
-      "inside",
-      2,
-      2.86
-    ],
-    [
-      "servers",
-      3,
-      2.57
-    ],
-    [
-      "windows",
-      2,
-      2.5
-    ],
-    [
-      "against",
-      2,
-      2.0
-    ],
-    [
-      "how",
-      2,
-      1.94
+      2.73
     ]
   ]
 }
