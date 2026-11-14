@@ -1,137 +1,88 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "top_today": [
     [
-      "reuters",
-      4
-    ],
-    [
-      "hackers",
-      4
+      "attackers",
+      1
     ],
     [
       "exploit",
-      4
+      1
     ],
     [
-      "check",
-      3
+      "unrealircd",
+      1
     ],
     [
-      "point",
-      3
+      "flaw",
+      1
     ],
     [
-      "zero-day",
-      3
+      "that",
+      1
     ],
     [
-      "says",
-      2
+      "enables",
+      1
     ],
     [
-      "silentair",
-      2
+      "server-level",
+      1
     ],
     [
-      "networks",
-      2
+      "command",
+      1
     ],
     [
-      "intercept",
-      2
-    ],
-    [
-      "sms",
-      2
-    ],
-    [
-      "gootloader",
-      2
-    ],
-    [
-      "castlerat",
-      2
-    ],
-    [
-      "stealc",
-      2
-    ],
-    [
-      "servers",
-      2
-    ],
-    [
-      "php2shell",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "n-central",
-      2
-    ],
-    [
-      "exploited",
-      2
-    ],
-    [
-      "confirms",
-      2
+      "injection",
+      1
     ]
   ],
   "rising": [
     [
-      "check",
-      3,
-      5.62
+      "unrealircd",
+      1,
+      2.0
     ],
     [
-      "point",
-      3,
-      5.62
+      "server-level",
+      1,
+      2.0
     ],
     [
-      "silentair",
-      2,
-      4.0
+      "enables",
+      1,
+      1.88
     ],
     [
-      "intercept",
-      2,
-      3.75
+      "command",
+      1,
+      1.76
     ],
     [
-      "sms",
-      2,
-      3.75
+      "injection",
+      1,
+      1.76
     ],
     [
-      "gootloader",
-      2,
-      3.75
+      "that",
+      1,
+      0.86
     ],
     [
-      "castlerat",
-      2,
-      3.75
+      "attackers",
+      1,
+      0.81
     ],
     [
-      "stealc",
-      2,
-      3.75
+      "exploit",
+      1,
+      0.5
     ],
     [
-      "n-central",
-      2,
-      3.16
-    ],
-    [
-      "networks",
-      2,
-      2.73
+      "flaw",
+      1,
+      0.35
     ]
   ]
 }
