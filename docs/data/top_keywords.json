@@ -1,88 +1,137 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "top_today": [
     [
-      "attackers",
+      "reuters",
+      2
+    ],
+    [
+      "pope",
       1
     ],
     [
-      "exploit",
+      "leo",
       1
     ],
     [
-      "unrealircd",
+      "cross",
       1
     ],
     [
-      "flaw",
+      "peru",
       1
     ],
     [
-      "that",
+      "visits",
       1
     ],
     [
-      "enables",
+      "inca",
       1
     ],
     [
-      "server-level",
+      "city",
       1
     ],
     [
-      "command",
+      "amazon",
       1
     ],
     [
-      "injection",
+      "gateway",
+      1
+    ],
+    [
+      "guatemala",
+      1
+    ],
+    [
+      "decrees",
+      1
+    ],
+    [
+      "state",
+      1
+    ],
+    [
+      "emergency",
+      1
+    ],
+    [
+      "two",
+      1
+    ],
+    [
+      "departments",
+      1
+    ],
+    [
+      "after",
+      1
+    ],
+    [
+      "lawmaker",
+      1
+    ],
+    [
+      "killed",
+      1
+    ],
+    [
+      "attack",
       1
     ]
   ],
   "rising": [
     [
-      "unrealircd",
+      "cross",
       1,
       2.0
     ],
     [
-      "server-level",
+      "peru",
       1,
       2.0
     ],
     [
-      "enables",
+      "visits",
+      1,
+      2.0
+    ],
+    [
+      "inca",
+      1,
+      2.0
+    ],
+    [
+      "guatemala",
+      1,
+      2.0
+    ],
+    [
+      "decrees",
+      1,
+      2.0
+    ],
+    [
+      "departments",
+      1,
+      2.0
+    ],
+    [
+      "lawmaker",
+      1,
+      2.0
+    ],
+    [
+      "pope",
       1,
       1.88
     ],
     [
-      "command",
+      "leo",
       1,
-      1.76
-    ],
-    [
-      "injection",
-      1,
-      1.76
-    ],
-    [
-      "that",
-      1,
-      0.86
-    ],
-    [
-      "attackers",
-      1,
-      0.81
-    ],
-    [
-      "exploit",
-      1,
-      0.5
-    ],
-    [
-      "flaw",
-      1,
-      0.35
+      1.88
     ]
   ]
 }
