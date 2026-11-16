@@ -1,137 +1,137 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "top_today": [
     [
       "reuters",
-      2
+      8
     ],
     [
-      "pope",
-      1
+      "china",
+      3
     ],
     [
-      "leo",
-      1
-    ],
-    [
-      "cross",
-      1
-    ],
-    [
-      "peru",
-      1
-    ],
-    [
-      "visits",
-      1
-    ],
-    [
-      "inca",
-      1
-    ],
-    [
-      "city",
-      1
-    ],
-    [
-      "amazon",
-      1
-    ],
-    [
-      "gateway",
-      1
-    ],
-    [
-      "guatemala",
-      1
-    ],
-    [
-      "decrees",
-      1
-    ],
-    [
-      "state",
-      1
-    ],
-    [
-      "emergency",
-      1
-    ],
-    [
-      "two",
-      1
-    ],
-    [
-      "departments",
-      1
+      "cyberattack",
+      3
     ],
     [
       "after",
+      3
+    ],
+    [
+      "malware",
+      3
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "chips",
+      2
+    ],
+    [
+      "amid",
+      2
+    ],
+    [
+      "refrigeration",
+      2
+    ],
+    [
+      "flaws",
+      2
+    ],
+    [
+      "linux",
+      2
+    ],
+    [
+      "vulnerability",
+      2
+    ],
+    [
+      "attacks",
+      2
+    ],
+    [
+      "india",
       1
     ],
     [
-      "lawmaker",
+      "mphasis",
       1
     ],
     [
-      "killed",
+      "says",
       1
     ],
     [
-      "attack",
+      "clients",
+      1
+    ],
+    [
+      "boost",
+      1
+    ],
+    [
+      "cybersecurity",
+      1
+    ],
+    [
+      "spending",
       1
     ]
   ],
   "rising": [
     [
-      "cross",
+      "china",
+      3,
+      3.75
+    ],
+    [
+      "chips",
+      2,
+      3.33
+    ],
+    [
+      "amid",
+      2,
+      2.4
+    ],
+    [
+      "refrigeration",
+      2,
+      2.31
+    ],
+    [
+      "mphasis",
       1,
       2.0
     ],
     [
-      "peru",
+      "boost",
       1,
       2.0
     ],
     [
-      "visits",
-      1,
-      2.0
+      "malware",
+      3,
+      1.96
     ],
     [
-      "inca",
-      1,
-      2.0
-    ],
-    [
-      "guatemala",
-      1,
-      2.0
-    ],
-    [
-      "decrees",
-      1,
-      2.0
-    ],
-    [
-      "departments",
-      1,
-      2.0
-    ],
-    [
-      "lawmaker",
-      1,
-      2.0
-    ],
-    [
-      "pope",
+      "clients",
       1,
       1.88
     ],
     [
-      "leo",
-      1,
-      1.88
+      "cyberattack",
+      3,
+      1.84
+    ],
+    [
+      "vulnerability",
+      2,
+      1.71
     ]
   ]
 }
