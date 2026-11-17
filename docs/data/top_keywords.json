@@ -1,52 +1,44 @@
 {
-  "date": "2026-11-16",
+  "date": "2026-11-17",
   "top_today": [
     [
       "reuters",
-      8
+      9
+    ],
+    [
+      "optimizely",
+      3
+    ],
+    [
+      "websites",
+      2
+    ],
+    [
+      "steal",
+      2
+    ],
+    [
+      "crypto",
+      2
+    ],
+    [
+      "target",
+      2
     ],
     [
       "china",
-      3
-    ],
-    [
-      "cyberattack",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "malware",
-      3
-    ],
-    [
-      "new",
       2
     ],
     [
-      "chips",
+      "second",
       2
     ],
     [
-      "amid",
+      "attack",
       2
     ],
     [
-      "refrigeration",
-      2
-    ],
-    [
-      "flaws",
-      2
-    ],
-    [
-      "linux",
-      2
-    ],
-    [
-      "vulnerability",
+      "says",
       2
     ],
     [
@@ -54,84 +46,92 @@
       2
     ],
     [
-      "india",
-      1
+      "system",
+      2
     ],
     [
-      "mphasis",
-      1
+      "curbs",
+      2
     ],
     [
-      "says",
-      1
+      "data",
+      2
     ],
     [
-      "clients",
-      1
+      "exploit",
+      2
     ],
     [
-      "boost",
-      1
+      "kits",
+      2
     ],
     [
-      "cybersecurity",
-      1
+      "cnn",
+      2
     ],
     [
-      "spending",
-      1
+      "bbc",
+      2
+    ],
+    [
+      "n-able",
+      2
+    ],
+    [
+      "patches",
+      2
     ]
   ],
   "rising": [
     [
-      "china",
+      "optimizely",
       3,
+      6.0
+    ],
+    [
+      "kits",
+      2,
+      4.0
+    ],
+    [
+      "bbc",
+      2,
+      4.0
+    ],
+    [
+      "curbs",
+      2,
       3.75
     ],
     [
-      "chips",
+      "cnn",
+      2,
+      3.75
+    ],
+    [
+      "websites",
       2,
       3.33
     ],
     [
-      "amid",
+      "second",
       2,
-      2.4
+      3.16
     ],
     [
-      "refrigeration",
+      "system",
       2,
-      2.31
+      3.0
     ],
     [
-      "mphasis",
-      1,
-      2.0
-    ],
-    [
-      "boost",
-      1,
-      2.0
-    ],
-    [
-      "malware",
-      3,
-      1.96
-    ],
-    [
-      "clients",
-      1,
-      1.88
-    ],
-    [
-      "cyberattack",
-      3,
-      1.84
-    ],
-    [
-      "vulnerability",
+      "n-able",
       2,
-      1.71
+      2.86
+    ],
+    [
+      "crypto",
+      2,
+      2.14
     ]
   ]
 }
