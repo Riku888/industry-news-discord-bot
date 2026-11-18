@@ -1,137 +1,137 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "top_today": [
     [
-      "reuters",
-      9
+      "rce",
+      5
     ],
     [
-      "optimizely",
+      "flaw",
+      4
+    ],
+    [
+      "java4shell",
+      4
+    ],
+    [
+      "security",
       3
     ],
     [
-      "websites",
-      2
+      "attacks",
+      3
     ],
     [
-      "steal",
-      2
-    ],
-    [
-      "crypto",
-      2
-    ],
-    [
-      "target",
-      2
-    ],
-    [
-      "china",
-      2
-    ],
-    [
-      "second",
-      2
-    ],
-    [
-      "attack",
-      2
+      "microsoft",
+      3
     ],
     [
       "says",
       2
     ],
     [
-      "attacks",
+      "breach",
       2
     ],
     [
-      "system",
+      "java",
       2
     ],
     [
-      "curbs",
+      "hackers",
       2
     ],
     [
-      "data",
+      "reuters",
       2
     ],
     [
-      "exploit",
+      "goes",
       2
     ],
     [
-      "kits",
+      "critical",
       2
     ],
     [
-      "cnn",
+      "puppet",
       2
     ],
     [
-      "bbc",
+      "enterprise",
       2
     ],
     [
-      "n-able",
+      "cisa",
       2
     ],
     [
-      "patches",
+      "agent",
+      2
+    ],
+    [
+      "framework",
+      2
+    ],
+    [
+      "warns",
+      2
+    ],
+    [
+      "vulnerability",
       2
     ]
   ],
   "rising": [
     [
-      "optimizely",
-      3,
-      6.0
+      "java4shell",
+      4,
+      7.5
     ],
     [
-      "kits",
+      "puppet",
       2,
       4.0
     ],
     [
-      "bbc",
-      2,
-      4.0
-    ],
-    [
-      "curbs",
+      "goes",
       2,
       3.75
     ],
     [
-      "cnn",
+      "framework",
       2,
       3.75
     ],
     [
-      "websites",
+      "enterprise",
+      2,
+      3.53
+    ],
+    [
+      "java",
       2,
       3.33
     ],
     [
-      "second",
-      2,
-      3.16
+      "rce",
+      5,
+      3.12
     ],
     [
-      "system",
+      "agent",
       2,
-      3.0
+      2.4
     ],
     [
-      "n-able",
-      2,
-      2.86
-    ],
-    [
-      "crypto",
-      2,
+      "microsoft",
+      3,
       2.14
+    ],
+    [
+      "flaw",
+      4,
+      1.5
     ]
   ]
 }
