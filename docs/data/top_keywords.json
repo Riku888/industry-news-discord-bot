@@ -1,44 +1,68 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "top_today": [
     [
-      "rce",
+      "critical",
+      8
+    ],
+    [
+      "flaws",
+      6
+    ],
+    [
+      "ransomware",
       5
+    ],
+    [
+      "breach",
+      4
     ],
     [
       "flaw",
       4
     ],
     [
-      "java4shell",
+      "patches",
       4
     ],
     [
       "security",
+      4
+    ],
+    [
+      "warns",
+      4
+    ],
+    [
+      "rce",
+      4
+    ],
+    [
+      "affecting",
       3
     ],
     [
-      "attacks",
+      "confirms",
       3
     ],
     [
-      "microsoft",
+      "php",
       3
     ],
     [
-      "says",
-      2
-    ],
-    [
-      "breach",
-      2
-    ],
-    [
-      "java",
-      2
+      "fixes",
+      3
     ],
     [
       "hackers",
+      3
+    ],
+    [
+      "exploits",
+      3
+    ],
+    [
+      "data",
       2
     ],
     [
@@ -46,92 +70,68 @@
       2
     ],
     [
-      "goes",
+      "commission",
       2
     ],
     [
-      "critical",
+      "cyberattack",
       2
     ],
     [
-      "puppet",
-      2
-    ],
-    [
-      "enterprise",
-      2
-    ],
-    [
-      "cisa",
-      2
-    ],
-    [
-      "agent",
-      2
-    ],
-    [
-      "framework",
-      2
-    ],
-    [
-      "warns",
-      2
-    ],
-    [
-      "vulnerability",
+      "network",
       2
     ]
   ],
   "rising": [
     [
-      "java4shell",
-      4,
-      7.5
+      "affecting",
+      3,
+      4.74
     ],
     [
-      "puppet",
+      "commission",
       2,
       4.0
     ],
     [
-      "goes",
-      2,
-      3.75
-    ],
-    [
-      "framework",
-      2,
-      3.75
-    ],
-    [
-      "enterprise",
-      2,
-      3.53
-    ],
-    [
-      "java",
-      2,
-      3.33
-    ],
-    [
-      "rce",
+      "ransomware",
       5,
-      3.12
+      3.95
     ],
     [
-      "agent",
-      2,
+      "fixes",
+      3,
+      3.75
+    ],
+    [
+      "critical",
+      8,
+      3.38
+    ],
+    [
+      "php",
+      3,
+      2.9
+    ],
+    [
+      "exploits",
+      3,
+      2.9
+    ],
+    [
+      "flaws",
+      6,
       2.4
     ],
     [
-      "microsoft",
+      "confirms",
       3,
-      2.14
+      2.37
     ],
     [
-      "flaw",
+      "warns",
       4,
-      1.5
+      2.26
     ]
   ]
 }
