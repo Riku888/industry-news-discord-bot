@@ -1,76 +1,76 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "top_today": [
-    [
-      "critical",
-      8
-    ],
-    [
-      "flaws",
-      6
-    ],
-    [
-      "ransomware",
-      5
-    ],
-    [
-      "breach",
-      4
-    ],
-    [
-      "flaw",
-      4
-    ],
     [
       "patches",
       4
     ],
     [
-      "security",
+      "critical",
       4
     ],
     [
-      "warns",
-      4
-    ],
-    [
-      "rce",
-      4
-    ],
-    [
-      "affecting",
+      "exploit",
       3
     ],
     [
-      "confirms",
-      3
+      "vulnerability",
+      2
     ],
     [
-      "php",
-      3
+      "european",
+      2
     ],
     [
-      "fixes",
-      3
+      "flaw",
+      2
+    ],
+    [
+      "lets",
+      2
+    ],
+    [
+      "access",
+      2
+    ],
+    [
+      "flaws",
+      2
     ],
     [
       "hackers",
-      3
+      2
     ],
     [
-      "exploits",
-      3
+      "vmware",
+      2
+    ],
+    [
+      "vcenter",
+      2
+    ],
+    [
+      "zero-day",
+      2
     ],
     [
       "data",
       2
     ],
     [
-      "reuters",
+      "attacks",
       2
     ],
     [
-      "commission",
+      "that",
+      2
+    ],
+    [
+      "new",
+      2
+    ],
+    [
+      "rce",
       2
     ],
     [
@@ -78,60 +78,60 @@
       2
     ],
     [
-      "network",
+      "cyber",
       2
     ]
   ],
   "rising": [
     [
-      "affecting",
-      3,
-      4.74
-    ],
-    [
-      "commission",
+      "vcenter",
       2,
-      4.0
+      3.33
     ],
     [
-      "ransomware",
-      5,
-      3.95
+      "vmware",
+      2,
+      3.0
     ],
     [
-      "fixes",
+      "european",
+      2,
+      2.73
+    ],
+    [
+      "lets",
+      2,
+      2.73
+    ],
+    [
+      "patches",
+      4,
+      1.82
+    ],
+    [
+      "exploit",
       3,
-      3.75
+      1.7
     ],
     [
       "critical",
-      8,
-      3.38
-    ],
-    [
-      "php",
-      3,
-      2.9
-    ],
-    [
-      "exploits",
-      3,
-      2.9
-    ],
-    [
-      "flaws",
-      6,
-      2.4
-    ],
-    [
-      "confirms",
-      3,
-      2.37
-    ],
-    [
-      "warns",
       4,
-      2.26
+      1.52
+    ],
+    [
+      "that",
+      2,
+      1.46
+    ],
+    [
+      "access",
+      2,
+      1.43
+    ],
+    [
+      "vulnerability",
+      2,
+      1.4
     ]
   ]
 }
