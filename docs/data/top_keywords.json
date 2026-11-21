@@ -1,40 +1,16 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "top_today": [
     [
-      "patches",
-      4
-    ],
-    [
-      "critical",
-      4
-    ],
-    [
-      "exploit",
+      "agents",
       3
     ],
     [
-      "vulnerability",
+      "zero-day",
       2
     ],
     [
-      "european",
-      2
-    ],
-    [
-      "flaw",
-      2
-    ],
-    [
-      "lets",
-      2
-    ],
-    [
-      "access",
-      2
-    ],
-    [
-      "flaws",
+      "software",
       2
     ],
     [
@@ -42,96 +18,120 @@
       2
     ],
     [
-      "vmware",
-      2
+      "attackers",
+      1
     ],
     [
-      "vcenter",
-      2
+      "found",
+      1
     ],
     [
-      "zero-day",
-      2
+      "medical-imaging",
+      1
     ],
     [
-      "data",
-      2
+      "gained",
+      1
     ],
     [
-      "attacks",
-      2
+      "root",
+      1
     ],
     [
-      "that",
-      2
+      "access",
+      1
     ],
     [
-      "new",
-      2
+      "signal",
+      1
     ],
     [
-      "rce",
-      2
+      "blocks",
+      1
     ],
     [
-      "cyberattack",
-      2
+      "reading",
+      1
     ],
     [
-      "cyber",
-      2
+      "private",
+      1
+    ],
+    [
+      "chats",
+      1
+    ],
+    [
+      "via",
+      1
+    ],
+    [
+      "screenshots",
+      1
+    ],
+    [
+      "android",
+      1
+    ],
+    [
+      "ios",
+      1
+    ],
+    [
+      "exploit",
+      1
     ]
   ],
   "rising": [
     [
-      "vcenter",
-      2,
-      3.33
-    ],
-    [
-      "vmware",
-      2,
-      3.0
-    ],
-    [
-      "european",
-      2,
-      2.73
-    ],
-    [
-      "lets",
-      2,
-      2.73
-    ],
-    [
-      "patches",
-      4,
-      1.82
-    ],
-    [
-      "exploit",
+      "agents",
       3,
-      1.7
+      2.57
     ],
     [
-      "critical",
-      4,
-      1.52
-    ],
-    [
-      "that",
+      "software",
       2,
-      1.46
+      2.0
     ],
     [
-      "access",
-      2,
-      1.43
+      "medical-imaging",
+      1,
+      2.0
     ],
     [
-      "vulnerability",
-      2,
-      1.4
+      "gained",
+      1,
+      2.0
+    ],
+    [
+      "blocks",
+      1,
+      2.0
+    ],
+    [
+      "reading",
+      1,
+      2.0
+    ],
+    [
+      "screenshots",
+      1,
+      2.0
+    ],
+    [
+      "signal",
+      1,
+      1.76
+    ],
+    [
+      "found",
+      1,
+      1.67
+    ],
+    [
+      "chats",
+      1,
+      1.67
     ]
   ]
 }

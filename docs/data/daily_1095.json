@@ -391,6 +391,7 @@
     "2026-11-18",
     "2026-11-19",
     "2026-11-20",
+    "2026-11-21",
     "2026-12-03"
   ],
   "total": [
@@ -781,10 +782,11 @@
     9,
     6,
     39,
-    57,
+    58,
     40,
-    46,
-    17,
+    50,
+    37,
+    4,
     1
   ],
   "by_category": {
@@ -3764,7 +3766,7 @@
       "フィッシング": 3,
       "マルウェア": 9,
       "ランサムウェア": 2,
-      "脆弱性・CVE": 11,
+      "脆弱性・CVE": 12,
       "規制・ガバナンス": 2,
       "防御・検知・対応": 15
     },
@@ -3782,18 +3784,25 @@
     },
     "2026-11-19": {
       "ID・認証": 1,
-      "その他": 8,
-      "マルウェア": 5,
+      "その他": 10,
+      "マルウェア": 7,
       "ランサムウェア": 6,
       "脆弱性・CVE": 18,
       "規制・ガバナンス": 3,
       "防御・検知・対応": 5
     },
     "2026-11-20": {
-      "マルウェア": 3,
+      "その他": 3,
+      "フィッシング": 2,
+      "マルウェア": 7,
       "ランサムウェア": 1,
-      "脆弱性・CVE": 11,
-      "防御・検知・対応": 2
+      "脆弱性・CVE": 18,
+      "規制・ガバナンス": 1,
+      "防御・検知・対応": 5
+    },
+    "2026-11-21": {
+      "脆弱性・CVE": 3,
+      "防御・検知・対応": 1
     },
     "2026-12-03": {
       "防御・検知・対応": 1
@@ -6706,7 +6715,7 @@
       "The Record": 2
     },
     "2026-11-17": {
-      "AP News": 1,
+      "AP News": 2,
       "BleepingComputer": 6,
       "CISA": 13,
       "Dark Reading": 4,
@@ -6728,22 +6737,31 @@
       "The Record": 6
     },
     "2026-11-19": {
-      "AP News": 2,
+      "AP News": 5,
       "BleepingComputer": 5,
       "CISA": 3,
       "CrowdStrike": 2,
       "Dark Reading": 3,
-      "Reuters": 7,
+      "Reuters": 8,
       "SecurityWeek": 10,
       "The Hacker News": 10,
       "The Record": 4
     },
     "2026-11-20": {
-      "BleepingComputer": 2,
-      "Reuters": 1,
-      "SecurityWeek": 6,
-      "The Hacker News": 7,
-      "The Record": 1
+      "AP News": 1,
+      "BleepingComputer": 3,
+      "CISA": 1,
+      "Dark Reading": 2,
+      "Microsoft Security Blog": 1,
+      "Palo Alto Unit 42": 1,
+      "Reuters": 6,
+      "SecurityWeek": 7,
+      "The Hacker News": 9,
+      "The Record": 6
+    },
+    "2026-11-21": {
+      "SecurityWeek": 1,
+      "The Hacker News": 3
     },
     "2026-12-03": {
       "Dark Reading": 1
