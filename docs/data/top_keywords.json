@@ -1,64 +1,64 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "top_today": [
     [
-      "agents",
-      3
-    ],
-    [
-      "zero-day",
+      "researchers",
       2
     ],
     [
-      "software",
-      2
-    ],
-    [
-      "hackers",
-      2
-    ],
-    [
-      "attackers",
+      "openrouter",
       1
     ],
     [
-      "found",
+      "drops",
       1
     ],
     [
-      "medical-imaging",
+      "providers",
       1
     ],
     [
-      "gained",
+      "after",
       1
     ],
     [
-      "root",
+      "catch",
       1
     ],
     [
-      "access",
+      "months",
       1
     ],
     [
-      "signal",
+      "prompt",
       1
     ],
     [
-      "blocks",
+      "theft",
       1
     ],
     [
-      "reading",
+      "hosting",
       1
     ],
     [
-      "private",
+      "firms",
       1
     ],
     [
-      "chats",
+      "demonstrate",
+      1
+    ],
+    [
+      "ghostscript",
+      1
+    ],
+    [
+      "sandbox-escape",
+      1
+    ],
+    [
+      "rce",
       1
     ],
     [
@@ -66,72 +66,72 @@
       1
     ],
     [
-      "screenshots",
+      "crafted",
       1
     ],
     [
-      "android",
+      "file",
       1
     ],
     [
-      "ios",
+      "uploads",
       1
     ],
     [
-      "exploit",
+      "popular",
       1
     ]
   ],
   "rising": [
     [
-      "agents",
-      3,
-      2.57
-    ],
-    [
-      "software",
+      "researchers",
       2,
-      2.0
+      2.5
     ],
     [
-      "medical-imaging",
+      "openrouter",
       1,
       2.0
     ],
     [
-      "gained",
+      "prompt",
       1,
       2.0
     ],
     [
-      "blocks",
+      "ghostscript",
       1,
       2.0
     ],
     [
-      "reading",
+      "sandbox-escape",
       1,
       2.0
     ],
     [
-      "screenshots",
+      "uploads",
       1,
       2.0
     ],
     [
-      "signal",
+      "providers",
+      1,
+      1.88
+    ],
+    [
+      "file",
+      1,
+      1.88
+    ],
+    [
+      "catch",
       1,
       1.76
     ],
     [
-      "found",
+      "crafted",
       1,
-      1.67
-    ],
-    [
-      "chats",
-      1,
-      1.67
+      1.76
     ]
   ]
 }
