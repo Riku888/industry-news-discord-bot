@@ -1,80 +1,80 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "top_today": [
     [
-      "flaw",
-      8
+      "reuters",
+      6
     ],
     [
-      "critical",
+      "data",
+      6
+    ],
+    [
+      "breach",
       5
     ],
     [
-      "exploited",
-      5
+      "new",
+      3
+    ],
+    [
+      "after",
+      3
+    ],
+    [
+      "security",
+      3
+    ],
+    [
+      "linux",
+      3
+    ],
+    [
+      "tool",
+      3
     ],
     [
       "hackers",
-      4
-    ],
-    [
-      "billion",
-      3
-    ],
-    [
-      "attacks",
-      3
-    ],
-    [
-      "firms",
-      3
-    ],
-    [
-      "says",
       2
     ],
     [
-      "reuters",
+      "say",
       2
     ],
     [
-      "crowdstrike",
+      "hamas",
       2
     ],
     [
-      "acquire",
+      "could",
       2
     ],
     [
-      "zscaler",
+      "under",
       2
     ],
     [
-      "deal",
+      "kurds",
       2
     ],
     [
-      "exploit",
+      "vmware",
       2
     ],
     [
-      "n-able",
+      "vcenter",
       2
     ],
     [
-      "mail",
+      "critical",
       2
     ],
     [
-      "assure",
+      "flaw",
       2
     ],
     [
-      "vulnerability",
-      2
-    ],
-    [
-      "rce",
+      "zero-day",
       2
     ],
     [
@@ -84,54 +84,54 @@
   ],
   "rising": [
     [
-      "mail",
+      "hamas",
       2,
       4.0
     ],
     [
-      "assure",
+      "kurds",
       2,
       4.0
     ],
     [
-      "zscaler",
-      2,
-      3.75
-    ],
-    [
-      "acquire",
-      2,
-      3.33
-    ],
-    [
-      "billion",
+      "tool",
       3,
-      3.21
+      3.91
     ],
     [
-      "firms",
-      3,
-      3.21
-    ],
-    [
-      "deal",
+      "under",
       2,
       3.16
     ],
     [
-      "flaw",
-      8,
+      "vcenter",
+      2,
       2.86
     ],
     [
-      "crowdstrike",
+      "vmware",
       2,
-      2.4
+      2.61
     ],
     [
-      "n-able",
+      "data",
+      6,
+      2.57
+    ],
+    [
+      "linux",
+      3,
+      2.43
+    ],
+    [
+      "breach",
+      5,
+      2.34
+    ],
+    [
+      "could",
       2,
-      2.4
+      1.76
     ]
   ]
 }
