@@ -1,137 +1,137 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "top_today": [
     [
+      "flaw",
+      7
+    ],
+    [
       "reuters",
-      6
-    ],
-    [
-      "data",
-      6
-    ],
-    [
-      "breach",
       5
     ],
     [
-      "new",
-      3
-    ],
-    [
-      "after",
-      3
-    ],
-    [
-      "security",
-      3
-    ],
-    [
-      "linux",
-      3
-    ],
-    [
-      "tool",
-      3
-    ],
-    [
       "hackers",
-      2
+      5
     ],
     [
-      "say",
-      2
+      "exploit",
+      4
     ],
     [
-      "hamas",
-      2
+      "rce",
+      4
     ],
     [
-      "could",
-      2
-    ],
-    [
-      "under",
-      2
-    ],
-    [
-      "kurds",
-      2
-    ],
-    [
-      "vmware",
-      2
-    ],
-    [
-      "vcenter",
-      2
+      "drupal",
+      3
     ],
     [
       "critical",
+      3
+    ],
+    [
+      "exploited",
+      3
+    ],
+    [
+      "cyberattack",
       2
     ],
     [
-      "flaw",
+      "after",
       2
     ],
     [
-      "zero-day",
+      "new",
       2
     ],
     [
-      "cyber",
+      "flaws",
       2
+    ],
+    [
+      "hijack",
+      2
+    ],
+    [
+      "warns",
+      2
+    ],
+    [
+      "unpatched",
+      2
+    ],
+    [
+      "amp",
+      2
+    ],
+    [
+      "retailers",
+      1
+    ],
+    [
+      "face",
+      1
+    ],
+    [
+      "rising",
+      1
+    ],
+    [
+      "threat",
+      1
     ]
   ],
   "rising": [
     [
-      "hamas",
-      2,
-      4.0
-    ],
-    [
-      "kurds",
-      2,
-      4.0
-    ],
-    [
-      "tool",
+      "drupal",
       3,
-      3.91
+      4.5
     ],
     [
-      "under",
+      "hijack",
       2,
-      3.16
+      2.73
     ],
     [
-      "vcenter",
-      2,
-      2.86
-    ],
-    [
-      "vmware",
+      "unpatched",
       2,
       2.61
     ],
     [
-      "data",
-      6,
-      2.57
-    ],
-    [
-      "linux",
-      3,
-      2.43
-    ],
-    [
-      "breach",
-      5,
-      2.34
-    ],
-    [
-      "could",
+      "amp",
       2,
-      1.76
+      2.61
+    ],
+    [
+      "flaw",
+      7,
+      2.26
+    ],
+    [
+      "rce",
+      4,
+      2.26
+    ],
+    [
+      "exploit",
+      4,
+      2.14
+    ],
+    [
+      "retailers",
+      1,
+      2.0
+    ],
+    [
+      "rising",
+      1,
+      2.0
+    ],
+    [
+      "face",
+      1,
+      1.5
     ]
   ]
 }
